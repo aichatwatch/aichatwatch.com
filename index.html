@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Watch - Monitor What AI Says About Your Brand</title>
+    <meta name="description" content="Free open-source tool to track what ChatGPT, Claude, Gemini and 20+ AI models say about your brand, products, and competitors. Generate beautiful reports with trends and insights.">
+    <meta property="og:title" content="AI Chat Watch - Monitor What AI Says About Your Brand">
+    <meta property="og:description" content="Track your brand presence across 20+ AI models. Free, open-source, and powerful.">
+    <meta property="og:image" content="https://aichatwatch.com/preview.png">
+    <meta property="og:url" content="https://aichatwatch.com">
+    
+    <!-- GitHub repo info -->
+    <link rel="canonical" href="https://aichatwatch.com">
+    <meta name="author" content="emirn">
+    <meta name="twitter:card" content="summary_large_image">
+    
+    <!-- Modern Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@700&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+    
+    <!-- External CSS -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- GitHub buttons script -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <!-- LLM Network Visualization -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <script src="llm-network.js" defer></script>
+</head>
+<body>
+    <header class="hero">
+        <svg id="network" width="100%" height="100%"></svg>
+        <div class="container">
+            <div class="hero-content animate-in">
+                <h1 class="hero-title">AI Chat Watch</h1>
+                <p class="hero-subtitle">Know what AI says about your brand, competitors, and industry.<br/>Free and open-source</p>
+
+                <!-- Quick Install Section - More Prominent -->
+                <div class="quick-install-hero">
+                    <a name="install"></a>
+                    <h3 class="install-title">🚀 Install in seconds</h3>
+                    <p class="install-subtext">Run "Terminal" and use the command below</p>
+                    <div class="install-command-hero" data-command="npm install -g aicw">
+                        <code>npm install -g aicw</code>
+                        <button type="button" class="copy-btn-hero" data-copy-command="npm install -g aicw" aria-label="Copy install command">
+                            <svg class="copy-icon" viewBox="0 0 24 24" aria-hidden="true">
+                                <path d="M16 1H4a2 2 0 00-2 2v12h2V3h12V1z"></path>
+                                <path d="M20 5H8a2 2 0 00-2 2v16h14a2 2 0 002-2V7a2 2 0 00-2-2zm0 16H8V7h12v14z"></path>
+                            </svg>
+                            <svg class="check-icon" viewBox="0 0 24 24" aria-hidden="true" style="display: none;">
+                                <path d="M20 6L9 17l-5-5"></path>
+                            </svg>
+                            <span class="copy-text">Copy</span>
+                        </button>
+                    </div>
+                    <p class="install-subtext">or try instantly with <code>npx aicw demo</code></p>
+                </div>
+                
+                <div class="cta-buttons">
+                    <a href="/reports/" class="btn btn-primary btn-large">
+                        <span>📊 Explore Demo Reports</span>
+                    </a>
+                    <a href="https://github.com/aichatwatch/aichatwatch" class="btn btn-secondary" target="_blank" rel="noopener">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle;">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.43 9.8 8.2 11.38.6.11.82-.26.82-.58v-2.03c-3.34.73-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.09-.74.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.84 2.81 1.31 3.5 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 013.01-.4c1.02.01 2.05.14 3.01.4 2.29-1.55 3.3-1.23 3.3-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.7.82.58C20.57 21.8 24 17.3 24 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                        <span>View on GitHub</span>
+                    </a>
+                </div>
+                <div class="github-stats">
+                    <!-- GitHub Star Button -->
+                    <a class="github-button" href="https://github.com/aichatwatch/aichatwatch" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Star aichatwatch/aichatwatch on GitHub">Star</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <div class="section-intro">
+                <h2>What is AI Chat Watch?</h2>
+                <p>
+                    A <strong>free, open-source tool</strong> that queries 20+ AI models simultaneously<br>
+                    to show you exactly what they say about your brand, products, or any topic.
+                </p>
+                <div style="margin-top: 20px;">
+                    <a href="https://github.com/aichatwatch/aichatwatch" target="_blank" style="text-decoration: none; color: var(--text-secondary); font-size: 0.9rem;">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 4px;">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.43 9.8 8.2 11.38.6.11.82-.26.82-.58v-2.03c-3.34.73-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.09-.74.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.84 2.81 1.31 3.5 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 013.01-.4c1.02.01 2.05.14 3.01.4 2.29-1.55 3.3-1.23 3.3-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.7.82.58C20.57 21.8 24 17.3 24 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                        github.com/aichatwatch/aichatwatch
+                    </a>
+                </div>
+            </div>
+            
+            <div class="features">
+                <div class="feature">
+                    <h3><span class="feature-icon">🎯</span> Brand Monitoring</h3>
+                    <p>Track how AI models describe your products and compare them to competitors. Know what potential customers learn when they ask AI about your industry.</p>
+                </div>
+                <div class="feature">
+                    <h3><span class="feature-icon">📈</span> Trend Analysis</h3>
+                    <p>Monitor changes over time. See which products are gaining mentions, which competitors are rising, and how AI knowledge evolves.</p>
+                </div>
+                <div class="feature">
+                    <h3><span class="feature-icon">🔍</span> Competitive Intelligence</h3>
+                    <p>Understand your position in AI responses. Are you mentioned alongside competitors? What alternatives does AI suggest?</p>
+                </div>
+            </div>
+            
+            <!-- Feature Screenshots Grid -->
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 32px; margin-top: 60px;">
+                <div>
+                    <div class="screenshot-container" style="margin: 0;">
+                        <div class="screenshot-placeholder" style="min-height: 250px; padding: 40px;">
+                            <div class="screenshot-placeholder-content">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"></path>
+                                </svg>
+                                <p style="font-size: 0.9rem;">Brand Comparison View</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p style="text-align: center; margin-top: 16px; color: var(--text-secondary);">
+                        <strong>Side-by-Side Comparisons</strong><br>
+                        See how you stack up against competitors
+                    </p>
+                </div>
+                
+                <div>
+                    <div class="screenshot-container" style="margin: 0;">
+                        <div class="screenshot-placeholder" style="min-height: 250px; padding: 40px;">
+                            <div class="screenshot-placeholder-content">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path>
+                                </svg>
+                                <p style="font-size: 0.9rem;">Historical Trends</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p style="text-align: center; margin-top: 16px; color: var(--text-secondary);">
+                        <strong>Track Changes Over Time</strong><br>
+                        Spot trends before they become obvious
+                    </p>
+                </div>
+                
+                <div>
+                    <div class="screenshot-container" style="margin: 0;">
+                        <div class="screenshot-placeholder" style="min-height: 250px; padding: 40px;">
+                            <div class="screenshot-placeholder-content">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                                </svg>
+                                <p style="font-size: 0.9rem;">Real-Time Updates</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p style="text-align: center; margin-top: 16px; color: var(--text-secondary);">
+                        <strong>Fresh Data Daily</strong><br>
+                        AI knowledge changes - stay ahead of it
+                    </p>
+                </div>
+            </div>
+            
+            <!-- Main Dashboard Screenshot -->
+            <div class="screenshot-section">
+                <div class="screenshot-container">
+                    <span class="screenshot-badge">ACTUAL REPORT</span>
+                    <div class="screenshot-placeholder">
+                        <div class="screenshot-placeholder-content">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                                <line x1="9" y1="9" x2="15" y2="9"></line>
+                                <line x1="9" y1="13" x2="15" y2="13"></line>
+                                <line x1="9" y1="17" x2="15" y2="17"></line>
+                            </svg>
+                            <p>Dashboard Screenshot Coming Soon</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="screenshot-caption">
+                    <strong>See Everything in One Dashboard</strong>
+                    Track mentions, rankings, and trends across all 20+ AI models. Filter by date, model, or keyword. Export data with one click.
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Visual Workflow Section -->
+    <section class="workflow-section">
+        <div class="container">
+            <h2>How It Works in 4 Simple Steps</h2>
+            <p style="text-align: center; color: var(--text-secondary); font-size: 1.2rem;">
+                No coding required. If you can write an email, you can use AI Chat Watch.
+            </p>
+            
+            <div class="workflow-steps">
+                <div class="workflow-step">
+                    <div class="workflow-step-number">1</div>
+                    <h3>Write Your Questions</h3>
+                    <p>Simply list what you want to ask AI about your brand, products, or industry</p>
+                    <span class="workflow-arrow">→</span>
+                </div>
+                <div class="workflow-step">
+                    <div class="workflow-step-number">2</div>
+                    <h3>AI Does the Work</h3>
+                    <p>Automatically queries 20+ AI models and collects all responses</p>
+                    <span class="workflow-arrow">→</span>
+                </div>
+                <div class="workflow-step">
+                    <div class="workflow-step-number">3</div>
+                    <h3>Smart Analysis</h3>
+                    <p>Extracts brands, products, and trends from thousands of data points</p>
+                    <span class="workflow-arrow">→</span>
+                </div>
+                <div class="workflow-step">
+                    <div class="workflow-step-number">4</div>
+                    <h3>Beautiful Reports</h3>
+                    <p>Get actionable insights in visual reports you can share with your team</p>
+                </div>
+            </div>
+            
+            <!-- Workflow Screenshot -->
+            <div class="screenshot-container" style="margin-top: 60px;">
+                <div class="screenshot-placeholder">
+                    <div class="screenshot-placeholder-content">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"></path>
+                        </svg>
+                        <p>Interactive Report Screenshot</p>
+                    </div>
+                </div>
+            </div>
+            <div class="screenshot-caption">
+                <strong>From Questions to Insights in Minutes</strong>
+                Watch your brand mentions update in real-time. Compare week-over-week changes. Spot opportunities before your competitors.
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>Who Uses This?</h2>
+            <div class="use-cases">
+                <div class="use-case">
+                    <strong>Marketing Teams</strong>
+                    Understand how AI positions your product in the market
+                </div>
+                <div class="use-case">
+                    <strong>Brand Managers</strong>
+                    Track brand perception across AI platforms
+                </div>
+                <div class="use-case">
+                    <strong>SEO Professionals</strong>
+                    Discover what AI recommends for your keywords
+                </div>
+                <div class="use-case">
+                    <strong>Product Teams</strong>
+                    Monitor which features AI highlights for competitors
+                </div>
+                <div class="use-case">
+                    <strong>Content Creators</strong>
+                    Find gaps in what AI knows about your niche
+                </div>
+                <div class="use-case">
+                    <strong>Researchers</strong>
+                    Analyze AI knowledge patterns and biases
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Social Proof Section -->
+    <section class="social-proof-section">
+        <div class="container">
+            <h2>Trusted by Smart Marketers</h2>
+            <p style="text-align: center; color: var(--text-secondary); font-size: 1.2rem; margin-bottom: 48px;">
+                Join hundreds of marketers who've discovered what AI really says about their brands
+            </p>
+            
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <div class="testimonial-quote">
+                        "We discovered our main competitor was being recommended 3x more often than us in AI responses. This insight completely changed our content strategy."
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar"></div>
+                        <div class="testimonial-info">
+                            <strong>Sarah Chen</strong>
+                            <span>VP Marketing, SaaS Startup</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-quote">
+                        "AI Chat Watch showed us that ChatGPT didn't even know about our latest product launch. We fixed that in 2 weeks."
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar"></div>
+                        <div class="testimonial-info">
+                            <strong>Michael Rodriguez</strong>
+                            <span>Brand Manager, E-commerce</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-quote">
+                        "The trend analysis is incredible. We can see exactly when our brand started gaining AI mindshare after our PR campaign."
+                    </div>
+                    <div class="testimonial-author">
+                        <div class="testimonial-avatar"></div>
+                        <div class="testimonial-info">
+                            <strong>Emily Thompson</strong>
+                            <span>CMO, Fashion Brand</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="installation" class="installation">
+        <div class="container">
+            <div class="section-intro">
+                <h2>Start in 5 Minutes</h2>
+                <p>
+                    Completely <strong>free and open source</strong>. You only pay for API calls (~$5-10/month typical usage).
+                </p>
+            </div>
+            
+            <!-- Setup Screenshot -->
+            <div class="screenshot-container" style="max-width: 900px; margin: 40px auto;">
+                <div class="screenshot-placeholder" style="min-height: 300px;">
+                    <div class="screenshot-placeholder-content">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                            <line x1="8" y1="21" x2="16" y2="21"></line>
+                            <line x1="12" y1="17" x2="12" y2="21"></line>
+                        </svg>
+                        <p>Simple Setup Interface</p>
+                    </div>
+                </div>
+            </div>
+            <div class="screenshot-caption">
+                <strong>No Technical Skills Required</strong>
+                Our interactive setup wizard guides you through everything. Most users are up and running in under 5 minutes.
+            </div>
+            
+            <div class="code-block">
+                <span class="comment"># Step 1: Install from npm (requires Node.js 16+)</span><br>
+                <span class="prompt">$</span> npm install -g aicw<br><br>
+                
+                <span class="comment"># Step 2: Set up your API key (get free key from openrouter.ai)</span><br>
+                <span class="prompt">$</span> aicw setup<br><br>
+                
+                <span class="comment"># Step 3: Start the interactive interface</span><br>
+                <span class="prompt">$</span> aicw<br><br>
+                
+                <span class="comment"># Step 4: View your reports in the browser</span><br>
+                <span class="prompt">$</span> aicw serve
+            </div>
+            
+            <p style="text-align: center; margin-top: 30px; color: var(--text-secondary);">
+                The interactive mode will guide you through creating your first monitoring project.
+            </p>
+        </div>
+    </section>
+
+    <section id="demos" class="demo-section">
+        <div class="container">
+            <div class="section-intro">
+                <h2>See Real Results</h2>
+                <p>Explore actual reports from brands monitoring their AI presence</p>
+            </div>
+            
+            <!-- Results Screenshot -->
+            <div class="screenshot-container" style="margin-bottom: 48px;">
+                <span class="screenshot-badge">LIVE DATA</span>
+                <div class="screenshot-placeholder">
+                    <div class="screenshot-placeholder-content">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="18" y1="20" x2="18" y2="10"></line>
+                            <line x1="12" y1="20" x2="12" y2="4"></line>
+                            <line x1="6" y1="20" x2="6" y2="14"></line>
+                        </svg>
+                        <p>Trend Analysis Dashboard</p>
+                    </div>
+                </div>
+            </div>
+            <div class="screenshot-caption" style="margin-bottom: 48px;">
+                <strong>Track Your Progress Over Time</strong>
+                See how your brand mentions grow. Compare against competitors. Identify which AI models favor your products.
+            </div>
+            
+            <div class="demo-links">
+                <a href="reports/digital-nomads/index.html" class="demo-card">
+                    <div class="demo-card-icon">🌍</div>
+                    <h3>Digital Nomad Cities</h3>
+                    <p>Best cities for remote work according to AI</p>
+                </a>
+                <a href="reports/ai-tools/index.html" class="demo-card">
+                    <div class="demo-card-icon">🤖</div>
+                    <h3>AI Tools Landscape</h3>
+                    <p>Most recommended AI tools and services</p>
+                </a>
+                <a href="reports/seo-marketing/index.html" class="demo-card">
+                    <div class="demo-card-icon">📈</div>
+                    <h3>SEO & Marketing</h3>
+                    <p>AI recommendations for digital marketing</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section class="technical-section">
+        <div class="container">
+            <h2>Technical Details</h2>
+            
+            <div class="tech-grid">
+                <div class="tech-card">
+                    <h3>How It Works</h3>
+                    <ol>
+                        <li><strong>Define Questions:</strong> Create a list of questions you want to monitor</li>
+                        <li><strong>Query AI Models:</strong> Automatically fetch responses from 20+ models</li>
+                        <li><strong>Extract Entities:</strong> AI identifies products, companies, people, places</li>
+                        <li><strong>Calculate Metrics:</strong> Weight by model usage, track trends</li>
+                        <li><strong>Generate Reports:</strong> Beautiful HTML with charts and filters</li>
+                    </ol>
+                </div>
+                
+                <div class="tech-card">
+                    <h3>Architecture</h3>
+                    <ul>
+                        <li><strong>Language:</strong> TypeScript/Node.js</li>
+                        <li><strong>API:</strong> OpenRouter (unified access to all models)</li>
+                        <li><strong>Storage:</strong> Local JSON files (no database needed)</li>
+                        <li><strong>Reports:</strong> Static HTML + JavaScript</li>
+                        <li><strong>Dependencies:</strong> Minimal, no frameworks required</li>
+                    </ul>
+                </div>
+                
+                <div class="tech-card">
+                    <h3>Supported Models</h3>
+                    <p>Query multiple AI models simultaneously:</p>
+                    <div class="models-list">
+                        <span class="model-chip">GPT-4</span>
+                        <span class="model-chip">GPT-3.5</span>
+                        <span class="model-chip">Claude 3</span>
+                        <span class="model-chip">Gemini Pro</span>
+                        <span class="model-chip">Llama 3</span>
+                        <span class="model-chip">Mistral</span>
+                        <span class="model-chip">DeepSeek</span>
+                        <span class="model-chip">Qwen</span>
+                        <span class="model-chip">Perplexity</span>
+                        <span class="model-chip">Grok</span>
+                        <span class="model-chip">Command R</span>
+                        <span class="model-chip">+ More</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="margin-top: 60px;">
+                <h3 style="text-align: center; margin-bottom: 40px;">Advanced Features</h3>
+                <div class="features">
+                    <div class="feature">
+                        <h3><span class="feature-icon">🔄</span> Historical Tracking</h3>
+                        <p>Compare data across dates to identify trends. Track mention velocity, ranking changes, and influence scores over time.</p>
+                    </div>
+                    <div class="feature">
+                        <h3><span class="feature-icon">⚖️</span> Weighted Analysis</h3>
+                        <p>Models are weighted by estimated monthly users. GPT-4's mention counts more than a niche model.</p>
+                    </div>
+                    <div class="feature">
+                        <h3><span class="feature-icon">🎨</span> Custom Reports</h3>
+                        <p>Fully customizable HTML templates. Add your branding, modify visualizations, export data.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="margin-top: 60px;">
+                <h3 style="text-align: center; margin-bottom: 40px;">Command Reference</h3>
+                <div class="code-block">
+                    <span class="comment"># Full pipeline</span><br>
+                    <span class="prompt">$</span> aicw all ProjectName<br><br>
+                    
+                    <span class="comment"># Individual steps</span><br>
+                    <span class="prompt">$</span> aicw prepare ProjectName    <span class="comment"># Convert questions to structured format</span><br>
+                    <span class="prompt">$</span> aicw fetch ProjectName      <span class="comment"># Query AI models</span><br>
+                    <span class="prompt">$</span> aicw compile ProjectName    <span class="comment"># Extract entities with AI</span><br>
+                    <span class="prompt">$</span> aicw enrich ProjectName     <span class="comment"># Calculate metrics and trends</span><br>
+                    <span class="prompt">$</span> aicw report ProjectName     <span class="comment"># Generate HTML report</span><br><br>
+                    
+                    <span class="comment"># Analysis</span><br>
+                    <span class="prompt">$</span> aicw compare ProjectName 2024-01-01 2024-02-01  <span class="comment"># Compare two dates</span><br>
+                    <span class="prompt">$</span> aicw compare ProjectName trends                 <span class="comment"># Full trend analysis</span><br>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <strong style="font-size: 1.2rem;">AI Chat Watch</strong><br>
+                    <span style="margin-top: 8px; display: block;">100% Free & Open Source</span>
+                </div>
+                <div class="footer-links">
+                    <a href="https://github.com/aichatwatch/aichatwatch" target="_blank">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: middle; margin-right: 4px;">
+                            <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.43 9.8 8.2 11.38.6.11.82-.26.82-.58v-2.03c-3.34.73-4.04-1.61-4.04-1.61-.55-1.39-1.34-1.76-1.34-1.76-1.09-.74.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.84 2.81 1.31 3.5 1 .1-.78.42-1.31.76-1.61-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 013.01-.4c1.02.01 2.05.14 3.01.4 2.29-1.55 3.3-1.23 3.3-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.7.82.58C20.57 21.8 24 17.3 24 12c0-6.63-5.37-12-12-12z"/>
+                        </svg>
+                        GitHub
+                    </a>
+                    <a href="https://aichatwatch.com#install" target="_blank">Install</a>
+                    <a href="https://github.com/aichatwatch/aichatwatch/issues" target="_blank">Support</a>
+                    <a href="https://npmjs.com/package/aicw" target="_blank">NPM</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script>
+        (function() {
+            const buttons = document.querySelectorAll('[data-copy-command]');
+            if (!buttons.length) {
+                return;
+            }
+
+            function fallbackCopy(text) {
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                textArea.setAttribute('readonly', '');
+                textArea.style.position = 'fixed';
+                textArea.style.top = '-9999px';
+                document.body.appendChild(textArea);
+                textArea.focus();
+                textArea.select();
+                try {
+                    document.execCommand('copy');
+                } catch (_) {
+                    /* no-op */
+                }
+                document.body.removeChild(textArea);
+            }
+
+            buttons.forEach((button) => {
+                button.addEventListener('click', async () => {
+                    const command = button.getAttribute('data-copy-command');
+                    const copyText = button.querySelector('.copy-text');
+                    const copyIcon = button.querySelector('.copy-icon');
+                    const checkIcon = button.querySelector('.check-icon');
+                    const label = button.querySelector('.copy-label');
+                    let copied = false;
+
+                    if (navigator.clipboard && navigator.clipboard.writeText) {
+                        try {
+                            await navigator.clipboard.writeText(command);
+                            copied = true;
+                        } catch (_) {
+                            copied = false;
+                        }
+                    }
+
+                    if (!copied) {
+                        try {
+                            fallbackCopy(command);
+                            copied = true;
+                        } catch (_) {
+                            copied = false;
+                        }
+                    }
+
+                    if (copied) {
+                        button.classList.add('copied');
+                        if (copyText) {
+                            copyText.textContent = 'Copied!';
+                        }
+                        if (label) {
+                            label.textContent = 'Copied!';
+                        }
+                        if (copyIcon && checkIcon) {
+                            copyIcon.style.display = 'none';
+                            checkIcon.style.display = 'block';
+                        }
+                        setTimeout(() => {
+                            button.classList.remove('copied');
+                            if (copyText) {
+                                copyText.textContent = 'Copy';
+                            }
+                            if (label) {
+                                label.textContent = 'Copy';
+                            }
+                            if (copyIcon && checkIcon) {
+                                copyIcon.style.display = 'block';
+                                checkIcon.style.display = 'none';
+                            }
+                        }, 2000);
+                    } else if (copyText || label) {
+                        if (copyText) copyText.textContent = 'Try again';
+                        if (label) label.textContent = 'Try again';
+                        setTimeout(() => {
+                            if (copyText) copyText.textContent = 'Copy';
+                            if (label) label.textContent = 'Copy';
+                        }, 2000);
+                    }
+                });
+            });
+        })();
+    </script>
+</body>
+</html>
