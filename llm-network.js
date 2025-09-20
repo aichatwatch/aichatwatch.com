@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Gentle glow animation
     function animateGlow() {
         gsap.to('.node.bot', {
-            stroke: 'rgba(147, 197, 253, 0.3)',  // Soft blue glow
+            stroke: 'rgba(147, 197, 253, 0.5)',  // Soft blue glow
             strokeWidth: 2,
             duration: 4 / SPEED_FACTOR,
             repeat: -1,
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ease: "sine.inOut"
         });
         gsap.to('.node.source', {
-            stroke: 'rgba(255, 255, 255, 0.2)',
+            stroke: 'rgba(255, 255, 255, 0.3)',
             strokeWidth: 1.5,
             duration: 5 / SPEED_FACTOR,
             repeat: -1,
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         // Animate link opacity for subtle pulse effect
         gsap.to('.link', {
-            opacity: 0.08,
+            opacity: 0.2,
             duration: 3 / SPEED_FACTOR,
             repeat: -1,
             yoyo: true,
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const particle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
         particle.setAttribute('r', 2);
         particle.setAttribute('class', 'data-particle');
-        particle.setAttribute('opacity', '0.3');
+        particle.setAttribute('opacity', '0.5');
         svg.appendChild(particle);
 
         const duration = (Math.random() * 3 + 5) / SPEED_FACTOR;
