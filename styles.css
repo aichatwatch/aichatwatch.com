@@ -754,6 +754,82 @@ section:nth-child(even) {
     margin-bottom: 16px;
 }
 
+/* Demo Screenshot Styles */
+.demo-reports {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 32px;
+    margin-top: 48px;
+}
+
+.demo-screenshot {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    position: relative;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    background: var(--bg-card);
+}
+
+.demo-screenshot:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.15);
+}
+
+.demo-screenshot img {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.demo-screenshot:hover img {
+    transform: scale(1.05);
+}
+
+.demo-screenshot-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.8) 0%,
+        rgba(0, 0, 0, 0.6) 70%,
+        transparent 100%
+    );
+    color: white;
+    padding: 24px;
+    transform: translateY(0);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.demo-screenshot:hover .demo-screenshot-overlay {
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.9) 0%,
+        rgba(0, 0, 0, 0.7) 70%,
+        transparent 100%
+    );
+}
+
+.demo-screenshot-overlay h3 {
+    font-size: 1.4rem;
+    margin-bottom: 8px;
+    font-weight: 700;
+    color: white;
+}
+
+.demo-screenshot-overlay p {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.9);
+    margin: 0;
+    line-height: 1.4;
+}
+
 /* Technical Section */
 .technical-section {
     background: var(--bg-secondary);
@@ -1345,6 +1421,24 @@ footer {
 
     .demo-card p {
         font-size: 0.95rem;
+    }
+
+    .demo-reports {
+        grid-template-columns: 1fr;
+        gap: 24px;
+    }
+
+    .demo-screenshot-overlay {
+        padding: 20px;
+    }
+
+    .demo-screenshot-overlay h3 {
+        font-size: 1.2rem;
+        margin-bottom: 6px;
+    }
+
+    .demo-screenshot-overlay p {
+        font-size: 0.9rem;
     }
     
     .screenshot-placeholder {
