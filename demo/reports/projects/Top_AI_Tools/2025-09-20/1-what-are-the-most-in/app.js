@@ -658,7 +658,7 @@ const baseProps = {
             return this.obj?.id || 'ERROR';
         },
         feedbackLink() {
-            return `https://github.com/aichatwatch/aichatwatch/issues`;
+            return `https://github.com/aichatwatch/aicw/issues`;
         }
     },
     methods: {

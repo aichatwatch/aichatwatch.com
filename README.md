@@ -2,7 +2,7 @@ This repo contains the code for the https://AIChatWatch.com website.
 
 Looking for the AIChatWatch (AICW)? 
 
-* visit the AIChatWatch repository at https://github.com/aichatwatch/aichatwatch 
+* visit the AIChatWatch repository at https://github.com/aichatwatch/aicw 
 
 or 
 
@@ -14,7 +14,7 @@ npm install -g aicw
 
 Then type `aicw` and press Enter to start AI Chat Watch.
 
-If you have any questions, please visit the AIChatWatch repository at https://github.com/aichatwatch/aichatwatch 
+If you have any questions, please visit the AIChatWatch repository at https://github.com/aichatwatch/aicw 
 
 
 
