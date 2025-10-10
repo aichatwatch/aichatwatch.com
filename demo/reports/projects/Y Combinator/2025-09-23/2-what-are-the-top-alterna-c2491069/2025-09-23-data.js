@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "What are the top alternatives to Y Combinator?",
   "report_date": "2025-09-23",
   "report_question_id": "2-what-are-the-top-alterna-c2491069",
-  "report_created_at": "Oct 9, 2025, 3:17:55 PM",
+  "report_created_at": "Oct 10, 2025, 7:22:41 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -18781,12 +18781,3765 @@ window.AppData20250923 = {
       "volatility": 0
     }
   ],
+  "linkDomains": [
+    {
+      "type": "linkDomain",
+      "code": "ycombinator.com",
+      "value": "ycombinator.com",
+      "link": "https://ycombinator.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 41
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 41,
+            "excerpt": "Here are some of the top alternatives to [Y Combinator](https://www.ycombinator.com/), along with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Websit",
+            "line": 1,
+            "column": 42,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 1,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "techstars.com",
+      "value": "techstars.com",
+      "link": "https://techstars.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 317,
+        "or_deepseek_chat_v3": 189
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 189,
+            "excerpt": "ong with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Website**: [Techstars](https://www.techstars.com/)  \n   - **Key Features**: Global accelerator network, mentorship-driven, offers $120K for 6-10% equ",
+            "line": 4,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 317,
+            "excerpt": "parison sites, and review platforms where available.\n\n**Accelerator Programs:**\n\n*   **Techstars:** [Techstars](https://www.techstars.com) is a well-known global accelerator program with a broad network and various specialized programs.",
+            "line": 5,
+            "column": 20,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 2,
+        "or_google_gemini_2_0_flash_exp": 1
+      },
+      "appearanceOrder": 1.5,
+      "influence": 0.74449,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.47321
+      },
+      "weightedInfluence": 0.74449,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.74449
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.47321
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "500.co",
+      "value": "500.co",
+      "link": "https://500.co",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 771,
+        "or_deepseek_chat_v3": 452
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 452,
+            "excerpt": "oad industries, but strong in SaaS, fintech, and AI.  \n\n### 2. **500 Startups**  \n   - **Website**: [500 Startups](https://500.co/)  \n   - **Key Features**: Invests $150K for 6% equity, strong global presence with micro-funds in m",
+            "line": 9,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 771,
+            "excerpt": "like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international venture capital firm and accelerator. It focuses on early-stage startups and o",
+            "line": 7,
+            "column": 45,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 3,
+        "or_google_gemini_2_0_flash_exp": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.50002,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.75004
+      },
+      "weightedInfluence": 0.50002,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.50002
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.75004
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "plugandplaytechcenter.com",
+      "value": "plugandplaytechcenter.com",
+      "link": "https://plugandplaytechcenter.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1533,
+        "or_deepseek_chat_v3": 734
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 734,
+            "excerpt": "s, including underrepresented founders.  \n\n### 3. **Plug and Play Tech Center**  \n   - **Website**: [Plug and Play](https://www.plugandplaytechcenter.com/)  \n   - **Key Features**: Corporate partnerships with Fortune 500 companies, sector-specific progra",
+            "line": 14,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1533,
+            "excerpt": "ng companies. They offer mentorship, resources, and connections.\n*   **Plug and Play Tech Center:** [Plug and Play Tech Center](https://www.plugandplaytechcenter.com/) is an early-stage investor, accelerator and corporate innovation platform. It connects startups wi",
+            "line": 10,
+            "column": 36,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 4,
+        "or_google_gemini_2_0_flash_exp": 6
+      },
+      "appearanceOrder": 5,
+      "influence": 0.40776,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.90671
+      },
+      "weightedInfluence": 0.40776,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.40776
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.90671
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "skydeck.berkeley.edu",
+      "value": "skydeck.berkeley.edu",
+      "link": "https://skydeck.berkeley.edu",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1044
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1044,
+            "excerpt": "ry-focused acceleration (IoT, mobility, retail).  \n\n### 4. **Berkeley SkyDeck**  \n   - **Website**: [SkyDeck](https://skydeck.berkeley.edu/)  \n   - **Key Features**: Affiliated with UC Berkeley, $200K-$1M+ funding, deep ties to research an",
+            "line": 19,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.38685,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.38685,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.38685
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "alchemistaccelerator.com",
+      "value": "alchemistaccelerator.com",
+      "link": "https://alchemistaccelerator.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1056,
+        "or_deepseek_chat_v3": 1306
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1306,
+            "excerpt": "cus**: Deep-tech, biotech, and AI startups.  \n\n### 5. **Alchemist Accelerator**  \n   - **Website**: [Alchemist](https://alchemistaccelerator.com/)  \n   - **Key Features**: B2B and enterprise-focused, $50K+ funding, strong corporate network.",
+            "line": 24,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1056,
+            "excerpt": "own for its global reach and investments in a wide array of sectors.\n*   **Alchemist Accelerator:** [Alchemist Accelerator](https://www.alchemistaccelerator.com/) is specifically geared towards startups focused on enterprise (B2B) ventures. If your startup is s",
+            "line": 8,
+            "column": 32,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 6,
+        "or_google_gemini_2_0_flash_exp": 4
+      },
+      "appearanceOrder": 5,
+      "influence": 0.37911,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.62031
+      },
+      "weightedInfluence": 0.37911,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.37911
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.62031
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "startupbootcamp.org",
+      "value": "startupbootcamp.org",
+      "link": "https://startupbootcamp.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1569
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1569,
+            "excerpt": "rprise software, SaaS, and supply chain startups.  \n\n### 6. **Startupbootcamp**  \n   - **Website**: [Startupbootcamp](https://www.startupbootcamp.org/)  \n   - **Key Features**: Industry-specific programs (fintech, energy, healthtech), global location",
+            "line": 29,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          },
+          {
+            "appearanceOrder": 1776,
+            "excerpt": "ntech, energy, healthtech), global locations.  \n   - **Focus**: Sector-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **",
+            "line": 31,
+            "column": 53,
+            "captureDate": "2025-09-23"
+          },
+          {
+            "appearanceOrder": 1843,
+            "excerpt": "tor-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)",
+            "line": 31,
+            "column": 120,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 3,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09677,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.17647
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 1,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "masschallenge.org",
+      "value": "masschallenge.org",
+      "link": "https://masschallenge.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1295,
+        "or_deepseek_chat_v3": 1976
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1976,
+            "excerpt": "pbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)  \n   - **Key Features**: Non-profit, no equity taken, global cohorts in Boston, Houston, and Europ",
+            "line": 34,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1295,
+            "excerpt": ". If your startup is selling to businesses, Alchemist is a strong contender.\n*   **MassChallenge:** [MassChallenge](https://masschallenge.org/) is a global network of zero-equity startup accelerators. They don't take equity in participating c",
+            "line": 9,
+            "column": 24,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 8,
+        "or_google_gemini_2_0_flash_exp": 5
+      },
+      "appearanceOrder": 6.5,
+      "influence": 0.33744,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.6116
+      },
+      "weightedInfluence": 0.33744,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.33744
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.6116
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "indiebio.co",
+      "value": "indiebio.co",
+      "link": "https://indiebio.co",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2234
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2234,
+            "excerpt": "s**: Social impact, healthtech, and cleantech.  \n\n### 8. **IndieBio (by SOSV)**  \n   - **Website**: [IndieBio](https://indiebio.co/)  \n   - **Key Features**: $525K+ for biotech/synthetic biology startups, wet lab access.  \n   - **F",
+            "line": 39,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.30102,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.30102,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30102
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "dreamit.com",
+      "value": "dreamit.com",
+      "link": "https://dreamit.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2465
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2465,
+            "excerpt": "ocus**: Biotech, food science, and climate tech.  \n\n### 9. **Dreamit Ventures**  \n   - **Website**: [Dreamit](https://dreamit.com/)  \n   - **Key Features**: Focus on scaling post-revenue startups, strong B2B and healthcare focus.",
+            "line": 44,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.28905,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.28905,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.28905
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "seedcamp.com",
+      "value": "seedcamp.com",
+      "link": "https://seedcamp.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2710
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2710,
+            "excerpt": "g Model**: $100K–$500K+ via convertible notes.  \n\n### 10. **Seedcamp** (Europe)  \n   - **Website**: [Seedcamp](https://seedcamp.com/)  \n   - **Key Features**: Focus on European startups, early-stage investment (€300K for 7-10%).",
+            "line": 49,
+            "column": 19,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.27894,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.27894,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27894
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "antler.co",
+      "value": "antler.co",
+      "link": "https://antler.co",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2721,
+        "or_deepseek_chat_v3": 2936
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2936,
+            "excerpt": ").  \n   - **Focus**: SaaS, fintech, and marketplaces.  \n\n### **Honorable Mentions**  \n- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, fou",
+            "line": 54,
+            "column": 15,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2721,
+            "excerpt": "ficant resources and connections.\n\n**Other Notable Startup Resources & Programs:**\n\n*   **Antler:** [Antler](https://www.antler.co/) is a global early-stage VC that builds and invests in startups. They focus on finding exceptional",
+            "line": 20,
+            "column": 17,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 12,
+        "or_google_gemini_2_0_flash_exp": 10
+      },
+      "appearanceOrder": 11,
+      "influence": 0.27603,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.70113
+      },
+      "weightedInfluence": 0.27603,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27603
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.70113
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "pear.vc",
+      "value": "pear.vc",
+      "link": "https://pear.vc",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3019
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3019,
+            "excerpt": "- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and",
+            "line": 55,
+            "column": 16,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.26265,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.26265,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.26265
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 13
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "hax.co",
+      "value": "hax.co",
+      "link": "https://hax.co",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3107
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3107,
+            "excerpt": "*Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and robotics  \n\n### **Key Differences from Y Combinator**  \n- **Equity**: Some (like M",
+            "line": 56,
+            "column": 22,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.25596,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.25596,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25596
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "crunchbase.com",
+      "value": "crunchbase.com",
+      "link": "https://crunchbase.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4113,
+        "or_deepseek_chat_v3": 3453
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3453,
+            "excerpt": "Funding**: Amounts range from $50K (Alchemist) to $525K+ (IndieBio).  \n\nFor comparisons, check:  \n- [Crunchbase Accelerator List](https://www.crunchbase.com/lists/top-startup-accelerators/906ff07a-198c-46a8-a61f-179f6e0d4144)  \n- [AngelList Accelerators](https://angel.co/accelerators)  \n\nWould you like recommendations base",
+            "line": 64,
+            "column": 3,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4113,
+            "excerpt": "he best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](http",
+            "line": 32,
+            "column": 168,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 2,
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06452,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 15,
+        "or_google_gemini_2_0_flash_exp": 13
+      },
+      "appearanceOrder": 14,
+      "influence": 0.25389,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0.71394
+      },
+      "weightedInfluence": 0.25389,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25389
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.71394
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 13
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "gust.com",
+      "value": "gust.com",
+      "link": "https://gust.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 676,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 676,
+            "excerpt": "stries or regions.\n    *   *Comparison:* You can find comparisons of Techstars and YC on sites like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international ven",
+            "line": 6,
+            "column": 82,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.63094,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.63094,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.63094
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "firstround.com",
+      "value": "firstround.com",
+      "link": "https://firstround.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1850,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1850,
+            "excerpt": "ation programs.\n\n**Venture Capital Firms with Strong Seed Programs:**\n\n*   **First Round Capital:** [First Round Capital](https://firstround.com/) is a seed-stage venture capital firm that provides a strong network and resources to its portfolio",
+            "line": 14,
+            "column": 30,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.33333,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.33333,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.33333
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "a16z.com",
+      "value": "a16z.com",
+      "link": "https://a16z.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2101,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2101,
+            "excerpt": "nies. They are known for their focus on the founder experience.\n*   **Andreessen Horowitz (a16z):** [Andreessen Horowitz](https://a16z.com/) is a venture capital firm that invests in seed to late-stage technology companies. While not stric",
+            "line": 15,
+            "column": 37,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.31545,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.31545,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.31545
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "sequoiacap.com",
+      "value": "sequoiacap.com",
+      "link": "https://sequoiacap.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2379,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2379,
+            "excerpt": "program for supporting early-stage startups with mentorship and resources.\n*   **Sequoia Capital:** [Sequoia Capital](https://www.sequoiacap.com/) is a venture capital firm that invests in startups across various stages. They have a strong reput",
+            "line": 16,
+            "column": 26,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.30102,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.30102,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30102
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "joinef.com",
+      "value": "joinef.com",
+      "link": "https://joinef.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2972,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2972,
+            "excerpt": "ing them form teams and build businesses. They have a pre-seed program.\n*   **Entrepreneur First:** [Entrepreneur First](https://www.joinef.com/) is a talent investor that helps individuals build startups from scratch. They focus on deep tech a",
+            "line": 21,
+            "column": 29,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.27894,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.27894,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27894
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "g2.com",
+      "value": "g2.com",
+      "link": "https://g2.com",
+      "linkType": "rvw",
+      "linkTypeName": "Reviews",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4083,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4083,
+            "excerpt": "e different programs to find the best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research ranki",
+            "line": 32,
+            "column": 138,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.27024,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.27024,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27024
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "seedtable.com",
+      "value": "seedtable.com",
+      "link": "https://seedtable.com",
+      "linkType": "ait",
+      "linkTypeName": "AI Tools",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4237,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4237,
+            "excerpt": ".crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](https://www.seedtable.com/accelerators).",
+            "line": 32,
+            "column": 292,
+            "captureDate": "2025-09-23"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentions": 1,
+      "bots": "or_google_gemini_2_0_flash_exp",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0
+      },
+      "appearanceOrderByModel": {
+        "or_google_gemini_2_0_flash_exp": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.25596,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 0
+      },
+      "weightedInfluence": 0.25596,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25596
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0
+    }
+  ],
   "totalDates": [
     "2025-09-23",
     "2025-09-20"
   ],
-  "totalDataPoints": 101,
-  "totalTimeSaved": "9",
+  "totalDataPoints": 123,
+  "totalTimeSaved": "11",
   "totalCounts": {
     "bots": 3,
     "linkTypes": 9,
@@ -18970,24 +22723,16 @@ window.AppData20250923 = {
     "events": [],
     "linkTypes": [
       {
-        "id": "999",
-        "count": 5
+        "id": "-9999",
+        "count": 8
       },
       {
         "id": "-1",
-        "count": 2
-      },
-      {
-        "id": "1",
-        "count": 1
-      },
-      {
-        "id": "10",
         "count": 1
       }
     ]
   },
-  "summary": "# Executive Summary: AI Chatbot Responses on Alternatives to Y Combinator\n\n## Comprehensive AI Response\nFrom the analysis of multiple AI chatbot responses, the following quote stands out as the most comprehensive and positive regarding alternatives to Y Combinator:\n> \"Here are some of the top alternatives to Y Combinator..., along with their official websites and notable differences.\" (Source: or_deepseek_chat_v3)\n\n## Key Mentions\n### Positive Mentions\n- **Techstars**\n- **500 Startups** (500 Global)\n- **Plug and Play Tech Center**\n- **Berkeley SkyDeck**\n- **Alchemist Accelerator**\n- **Startupbootcamp**\n- **MassChallenge**\n- **IndieBio (by SOSV)**\n- **Dreamit Ventures**\n- **Seedcamp**\n- **Antler**\n- **Entrepreneur First**\n\n### Negative Mentions\n- No specific negative mentions of organizations or individuals were identified in the chatbot responses.\n\n## Trends and Patterns\n1. **Diversity of Programs**: All responses highlight a variety of accelerators catering to different sectors including biotech, fintech, healthtech, and SaaS, reflecting an emphasis on industry-specific expertise.\n2. **Funding Models**: There is a notable range in funding amounts offered by these alternatives, from seed funding with low equity stakes to more substantial financial support.\n3. **Non-Equity Options**: Respondents mentioned programs like MassChallenge, which do not require equity from the startups, indicating a growing trend towards founder-friendly accelerators.\n4. **Global Presence**: Many alternatives are highlighted as having a global reach, offering startups access to international networks and resources.\n5. **Mentorship Focus**: Responses emphasized the importance of mentorship and networking within these programs, showcasing this as a critical attribute for successful startups.\n\n## Conclusion\nOverall, the AI chatbots provided a robust analysis of the alternatives to Y Combinator, highlighting several reputable programs across different sectors. The insights reflect an evolving landscape of startup accelerators, focusing on specialization, mentorship, and flexible funding options.\n\n**Key Takeaways:**\n- Diverse alternatives to Y Combinator exist, catering to specific industries and startup stages.\n- Programs like MassChallenge demonstrate a shift towards non-equity-based accelerators, promoting founder-friendly environments.\n- The importance of mentorship and global networks is consistently emphasized as vital for startup success.",
-  "summaryHtml": "<h1>Executive Summary: AI Chatbot Responses on Alternatives to Y Combinator</h1>\n<h2>Comprehensive AI Response</h2>\n<p>From the analysis of multiple AI chatbot responses, the following quote stands out as the most comprehensive and positive regarding alternatives to Y Combinator:</p>\n<blockquote>\n<p>&quot;Here are some of the top alternatives to Y Combinator..., along with their official websites and notable differences.&quot; (Source: or_deepseek_chat_v3)</p>\n</blockquote>\n<h2>Key Mentions</h2>\n<h3>Positive Mentions</h3>\n<ul>\n<li><strong>Techstars</strong></li>\n<li><strong>500 Startups</strong> (500 Global)</li>\n<li><strong>Plug and Play Tech Center</strong></li>\n<li><strong>Berkeley SkyDeck</strong></li>\n<li><strong>Alchemist Accelerator</strong></li>\n<li><strong>Startupbootcamp</strong></li>\n<li><strong>MassChallenge</strong></li>\n<li><strong>IndieBio (by SOSV)</strong></li>\n<li><strong>Dreamit Ventures</strong></li>\n<li><strong>Seedcamp</strong></li>\n<li><strong>Antler</strong></li>\n<li><strong>Entrepreneur First</strong></li>\n</ul>\n<h3>Negative Mentions</h3>\n<ul>\n<li>No specific negative mentions of organizations or individuals were identified in the chatbot responses.</li>\n</ul>\n<h2>Trends and Patterns</h2>\n<ol>\n<li><strong>Diversity of Programs</strong>: All responses highlight a variety of accelerators catering to different sectors including biotech, fintech, healthtech, and SaaS, reflecting an emphasis on industry-specific expertise.</li>\n<li><strong>Funding Models</strong>: There is a notable range in funding amounts offered by these alternatives, from seed funding with low equity stakes to more substantial financial support.</li>\n<li><strong>Non-Equity Options</strong>: Respondents mentioned programs like MassChallenge, which do not require equity from the startups, indicating a growing trend towards founder-friendly accelerators.</li>\n<li><strong>Global Presence</strong>: Many alternatives are highlighted as having a global reach, offering startups access to international networks and resources.</li>\n<li><strong>Mentorship Focus</strong>: Responses emphasized the importance of mentorship and networking within these programs, showcasing this as a critical attribute for successful startups.</li>\n</ol>\n<h2>Conclusion</h2>\n<p>Overall, the AI chatbots provided a robust analysis of the alternatives to Y Combinator, highlighting several reputable programs across different sectors. The insights reflect an evolving landscape of startup accelerators, focusing on specialization, mentorship, and flexible funding options.</p>\n<p><strong>Key Takeaways:</strong></p>\n<ul>\n<li>Diverse alternatives to Y Combinator exist, catering to specific industries and startup stages.</li>\n<li>Programs like MassChallenge demonstrate a shift towards non-equity-based accelerators, promoting founder-friendly environments.</li>\n<li>The importance of mentorship and global networks is consistently emphasized as vital for startup success.</li>\n</ul>\n"
+  "summary": "# Executive Summary: AI Chatbot Responses on Alternatives to Y Combinator\n\n## Comprehensive AI Response\nFrom the analysis of multiple AI chatbot responses, the following quote stands out as the most comprehensive and positive regarding alternatives to Y Combinator:\n \"Here are some of the top alternatives to Y Combinator..., along with their official websites and notable differences.\" (Source: or_deepseek_chat_v3)\n\n## Key Mentions\n### Positive Mentions\n- **Techstars**\n- **500 Startups** (500 Global)\n- **Plug and Play Tech Center**\n- **Berkeley SkyDeck**\n- **Alchemist Accelerator**\n- **Startupbootcamp**\n- **MassChallenge**\n- **IndieBio (by SOSV)**\n- **Dreamit Ventures**\n- **Seedcamp**\n- **Antler**\n- **Entrepreneur First**\n\n### Negative Mentions\n- No specific negative mentions of organizations or individuals were identified in the chatbot responses.\n\n## Trends and Patterns\n1. **Diversity of Programs**: All responses highlight a variety of accelerators catering to different sectors including biotech, fintech, healthtech, and SaaS, reflecting an emphasis on industry-specific expertise.\n2. **Funding Models**: There is a notable range in funding amounts offered by these alternatives, from seed funding with low equity stakes to more substantial financial support.\n3. **Non-Equity Options**: Respondents mentioned programs like MassChallenge, which do not require equity from the startups, indicating a growing trend towards founder-friendly accelerators.\n4. **Global Presence**: Many alternatives are highlighted as having a global reach, offering startups access to international networks and resources.\n5. **Mentorship Focus**: Responses emphasized the importance of mentorship and networking within these programs, showcasing this as a critical attribute for successful startups.\n\n## Conclusion\nOverall, the AI chatbots provided a robust analysis of the alternatives to Y Combinator, highlighting several reputable programs across different sectors. The insights reflect an evolving landscape of startup accelerators, focusing on specialization, mentorship, and flexible funding options.\n\n**Key Takeaways:**\n- Diverse alternatives to Y Combinator exist, catering to specific industries and startup stages.\n- Programs like MassChallenge demonstrate a shift towards non-equity-based accelerators, promoting founder-friendly environments.\n- The importance of mentorship and global networks is consistently emphasized as vital for startup success.",
+  "summaryHtml": "<h1>Executive Summary: AI Chatbot Responses on Alternatives to Y Combinator</h1>\n<h2>Comprehensive AI Response</h2>\n<p>From the analysis of multiple AI chatbot responses, the following quote stands out as the most comprehensive and positive regarding alternatives to Y Combinator:<br> &quot;Here are some of the top alternatives to Y Combinator..., along with their official websites and notable differences.&quot; (Source: or_deepseek_chat_v3)</p>\n<h2>Key Mentions</h2>\n<h3>Positive Mentions</h3>\n<ul>\n<li><strong>Techstars</strong></li>\n<li><strong>500 Startups</strong> (500 Global)</li>\n<li><strong>Plug and Play Tech Center</strong></li>\n<li><strong>Berkeley SkyDeck</strong></li>\n<li><strong>Alchemist Accelerator</strong></li>\n<li><strong>Startupbootcamp</strong></li>\n<li><strong>MassChallenge</strong></li>\n<li><strong>IndieBio (by SOSV)</strong></li>\n<li><strong>Dreamit Ventures</strong></li>\n<li><strong>Seedcamp</strong></li>\n<li><strong>Antler</strong></li>\n<li><strong>Entrepreneur First</strong></li>\n</ul>\n<h3>Negative Mentions</h3>\n<ul>\n<li>No specific negative mentions of organizations or individuals were identified in the chatbot responses.</li>\n</ul>\n<h2>Trends and Patterns</h2>\n<ol>\n<li><strong>Diversity of Programs</strong>: All responses highlight a variety of accelerators catering to different sectors including biotech, fintech, healthtech, and SaaS, reflecting an emphasis on industry-specific expertise.</li>\n<li><strong>Funding Models</strong>: There is a notable range in funding amounts offered by these alternatives, from seed funding with low equity stakes to more substantial financial support.</li>\n<li><strong>Non-Equity Options</strong>: Respondents mentioned programs like MassChallenge, which do not require equity from the startups, indicating a growing trend towards founder-friendly accelerators.</li>\n<li><strong>Global Presence</strong>: Many alternatives are highlighted as having a global reach, offering startups access to international networks and resources.</li>\n<li><strong>Mentorship Focus</strong>: Responses emphasized the importance of mentorship and networking within these programs, showcasing this as a critical attribute for successful startups.</li>\n</ol>\n<h2>Conclusion</h2>\n<p>Overall, the AI chatbots provided a robust analysis of the alternatives to Y Combinator, highlighting several reputable programs across different sectors. The insights reflect an evolving landscape of startup accelerators, focusing on specialization, mentorship, and flexible funding options.</p>\n<p><strong>Key Takeaways:</strong></p>\n<ul>\n<li>Diverse alternatives to Y Combinator exist, catering to specific industries and startup stages.</li>\n<li>Programs like MassChallenge demonstrate a shift towards non-equity-based accelerators, promoting founder-friendly environments.</li>\n<li>The importance of mentorship and global networks is consistently emphasized as vital for startup success.</li>\n</ul>\n"
 };
 window.AppData = window.AppData20250923;

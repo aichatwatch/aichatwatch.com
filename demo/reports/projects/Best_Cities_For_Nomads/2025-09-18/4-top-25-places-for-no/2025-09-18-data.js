@@ -2,7 +2,7 @@ window.AppData20250918 = {
   "report_question": "Top 25 locations for nomads to live and work in 2025",
   "report_date": "2025-09-18",
   "report_question_id": "4-top-25-places-for-no",
-  "report_created_at": "Oct 9, 2025, 7:18:46 PM",
+  "report_created_at": "Oct 10, 2025, 7:18:54 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -34452,12 +34452,12614 @@ window.AppData20250918 = {
       "volatility": 0
     }
   ],
+  "linkDomains": [
+    {
+      "type": "linkDomain",
+      "code": "sef.pt",
+      "value": "sef.pt",
+      "link": "https://sef.pt",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 2,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 458,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 458,
+            "excerpt": "rdable cost of living, great weather, and strong digital nomad community.  \n- **Remote Work Visa:** [Portugal Digital Nomad Visa](https://www.sef.pt/en/pages/visas-and-residence/residence-visas/digital-nomads/)  \n- **Nomad Info:** [Nomad List (Lisbon)](https://nomadlist.com/lisbon)  \n\n#### **2. Bali, Indones",
+            "line": 7,
+            "column": 25,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 5075,
+            "excerpt": "**Nomad Program:** [Digital Nomads Madeira](https://digitalnomads.startupmadeira.eu/)  \n- **Visa:** [Portugal D7/Digital Nomad Visa](https://www.sef.pt/)  \n\n#### **20. São Paulo, Brazil**  \n- **Why?** Lively, strong startup culture, great food.  \n- **D",
+            "line": 98,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.04545,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.28018,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.28018,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.28018
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "imigrasi.go.id",
+      "value": "imigrasi.go.id",
+      "link": "https://imigrasi.go.id",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 2,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 775,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 775,
+            "excerpt": "**Why?** Tropical paradise, thriving coworking spaces, and low living costs.  \n- **Visa Options:** [Indonesia B211A Visa (Digital Nomad)](https://www.imigrasi.go.id/en/)  \n- **Nomad Hub:** [Dojo Bali (Coworking)](https://dojobali.org/)  \n\n#### **3. Chiang Mai, Thailan",
+            "line": 12,
+            "column": 21,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 2373,
+            "excerpt": "u, Bali, Indonesia**  \n- **Why?** Surf, coworking spaces, and strong nomad ecosystem.  \n- **Visa:** [B211A Visa](https://www.imigrasi.go.id/)  \n- **Coworking:** [Tribal Bali](https://tribalbalika.com/)  \n\n#### **9. Barcelona, Spain**  \n- **",
+            "line": 42,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.04545,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.14007,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.14007,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.14007
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 3
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "thaiembassy.com",
+      "value": "thaiembassy.com",
+      "link": "https://thaiembassy.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1041,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1041,
+            "excerpt": "land**  \n- **Why?** Ultra-low cost of living, strong expat community, excellent food.  \n- **Visa:** [Thailand Long-Term Visa Options](https://thaiembassy.com/thailand-visa/)  \n- **Coworking:** [Punspace](https://www.punspace.com/)  \n\n#### **4. Medellín, Colombia**  \n- **W",
+            "line": 17,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.06033,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.06033,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.06033
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 4
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "cancilleria.gov.co",
+      "value": "cancilleria.gov.co",
+      "link": "https://cancilleria.gov.co",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1293,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1293,
+            "excerpt": ", Colombia**  \n- **Why?** Year-round spring weather, affordable, growing nomad scene.  \n- **Visa:** [Colombia Digital Nomad Visa](https://www.cancilleria.gov.co/)  \n- **Guide:** [Medellín Digital Nomads (FB Group)](https://www.facebook.com/groups/MedellinDigita",
+            "line": 22,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.05421,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.05421,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.05421
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 5
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "geoconsul.gov.ge",
+      "value": "geoconsul.gov.ge",
+      "link": "https://geoconsul.gov.ge",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1605,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1605,
+            "excerpt": "?** Cheap, 365-day visa-free stay for many nationalities, strong internet.  \n- **Visa-Free Entry:** [Georgia Travel Info](https://www.geoconsul.gov.ge/en)  \n- **Nomad Info:** [Tbilisi Digital Nomads](https://tbilisidigitalnomads.com/)  \n\n#### **6. Mexic",
+            "line": 27,
+            "column": 24,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.04668,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04668,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04668
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 7
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "gob.mx",
+      "value": "gob.mx",
+      "link": "https://gob.mx",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 2,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1874,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1874,
+            "excerpt": "- **Why?** Cosmopolitan, affordable, LATAM’s digital nomad hub.  \n- **Temporary Resident Visa:** [Mexico Visa Info](https://www.gob.mx/inm)  \n- **Coworking:** [WeWork Mexico](https://www.wework.com/l/mexico-city--mx)  \n\n#### **7. Budapest",
+            "line": 32,
+            "column": 32,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 4371,
+            "excerpt": "wn vibe, strong nomad community.  \n- **Resident Visa:** [Mexico Temp Resident Visa](https://www.inm.gob.mx/)  \n- **Coworking:** [Bunker](https://www.thebunker.mx/)  \n\n#### **17. Split, Croatia**  \n- **Why?*",
+            "line": 82,
+            "column": 66,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.04545,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.08433,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.08433,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.08433
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 9
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "enterhungary.gov.hu",
+      "value": "enterhungary.gov.hu",
+      "link": "https://enterhungary.gov.hu",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2132,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2132,
+            "excerpt": "*Why?** European charm, great public transport, affordable for EU.  \n- **White Card (Nomad Visa):** [Hungary White Card](https://enterhungary.gov.hu/)  \n- **Nomad Guide:** [Digital Nomad Budapest](https://digitalnomad.hu/)  \n\n#### **8. Canggu, Bali,",
+            "line": 37,
+            "column": 32,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.03907,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03907,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03907
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 11
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "exteriores.gob.es",
+      "value": "exteriores.gob.es",
+      "link": "https://exteriores.gob.es",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 3,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2595,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2595,
+            "excerpt": "na, Spain**  \n- **Why?** Mediterranean lifestyle, great infrastructure.  \n- **Digital Nomad Visa:** [Spain Remote Work Visa](https://www.exteriores.gob.es/)  \n- **Coworking:** [OneCowork](https://onecowork.com/)  \n\n#### **10. Cape Town, South Africa**  \n-",
+            "line": 47,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 5679,
+            "excerpt": "*22. Gran Canaria, Spain**  \n- **Why?** Year-round warmth, buzzing nomad scene.  \n- **Nomad Visa:** [Spain’s Digital Nomad Visa](https://www.exteriores.gob.es/)  \n- **Coworking:** [The Pub](https://thepub-grancanaria.com/)  \n\n#### **23. Kuala Lumpur, Malaysia",
+            "line": 112,
+            "column": 19,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 6370,
+            "excerpt": "**25. Las Palmas, Gran Canaria**  \n- **Why?** Perfect weather, strong nomad network.  \n- **Visa:** [Spain Nomad Visa](https://www.exteriores.gob.es/)  \n- **Coworking:** [Kooper Coworking](https://www.kooper.es/)  \n\n### **Final Considerations**  \n-",
+            "line": 127,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 3,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03093,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.06818,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.10755,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.10755,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.10755
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 3
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 14
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "gov.za",
+      "value": "gov.za",
+      "link": "https://gov.za",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2829,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2829,
+            "excerpt": "n, South Africa**  \n- **Why?** Stunning landscapes, affordable, emerging nomad scene.  \n- **Visa:** [South Africa Remote Work Visa](https://www.gov.za/)  \n- **Nomad Community:** [Work Wanderers Cape Town](https://workthere.io/cape-town-digital-nomads)",
+            "line": 52,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.03503,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03503,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03503
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 15
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "argentina.gob.ar",
+      "value": "argentina.gob.ar",
+      "link": "https://argentina.gob.ar",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3096,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3096,
+            "excerpt": "uenos Aires, Argentina**  \n- **Why?** Cultural hub, affordable, great internet.  \n- **Nomad Visa:** [Argentina Digital Nomad Visa](https://www.argentina.gob.ar/interior/migraciones)  \n- **Coworking:** [La Maquinita](https://lamaquinita.co/)  \n\n#### **12. Dubai, UAE**  \n- **Why?**",
+            "line": 57,
+            "column": 19,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.03358,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03358,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03358
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 17
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "dubaided.ae",
+      "value": "dubaided.ae",
+      "link": "https://dubaided.ae",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3358,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3358,
+            "excerpt": "UAE**  \n- **Why?** Luxury, tax-free income, excellent internet.  \n- **Virtual Work Visa (1-year):** [Dubai Virtual Working Program](https://www.dubaided.ae/)  \n- **Coworking:** [Nest Dubai](https://www.nestdubai.ae/)  \n\n#### **13. Prague, Czech Republic**",
+            "line": 62,
+            "column": 35,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.03299,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03299,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03299
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 18
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "mvcr.cz",
+      "value": "mvcr.cz",
+      "link": "https://mvcr.cz",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3612,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3612,
+            "excerpt": "*  \n- **Why?** Fairly affordable EU city with excellent transport.  \n- **Freelancer Visa (Živno):** [Czech Long-Term Visa](https://www.mvcr.cz/mvcren/)  \n- **Digital Nomad Hub:** [Locus Workspace](https://locusworkspace.cz/)  \n\n#### **14. Ho Chi Minh",
+            "line": 67,
+            "column": 32,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.0324,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.0324,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.0324
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 19
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "evisa.xuatnhapcanh.gov.vn",
+      "value": "evisa.xuatnhapcanh.gov.vn",
+      "link": "https://evisa.xuatnhapcanh.gov.vn",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3855,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3855,
+            "excerpt": "hi Minh City, Vietnam**  \n- **Why?** Very low cost of living, strong expat community.  \n- **Visa:** [Vietnam E-Visa](https://evisa.xuatnhapcanh.gov.vn/)  \n- **Coworking:** [Dreamplex](https://dreamplex.com/)  \n\n#### **15. Tallinn, Estonia**  \n- **Why?",
+            "line": 72,
+            "column": 13,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.03142,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03142,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03142
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 21
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "workinestonia.com",
+      "value": "workinestonia.com",
+      "link": "https://workinestonia.com",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 4089,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 4089,
+            "excerpt": "onia**  \n- **Why?** Digital society, e-Residency, great infrastructure.  \n- **Digital Nomad Visa:** [Estonia Nomad Visa](https://www.workinestonia.com/digital-nomad-visa/)  \n- **Coworking:** [Lift99](https://lift99.co/)  \n\n#### **16. Playa del Carmen, Mexico**  \n- **Why",
+            "line": 77,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 23
+      },
+      "appearanceOrder": 23,
+      "influence": 0.03056,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03056,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03056
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 23
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "inm.gob.mx",
+      "value": "inm.gob.mx",
+      "link": "https://inm.gob.mx",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 4327,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 4327,
+            "excerpt": "a del Carmen, Mexico**  \n- **Why?** Beach-town vibe, strong nomad community.  \n- **Resident Visa:** [Mexico Temp Resident Visa](https://www.inm.gob.mx/)  \n- **Coworking:** [Bunker](https://www.thebunker.mx/)  \n\n#### **17. Split, Croatia**  \n- **Why?**",
+            "line": 82,
+            "column": 22,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 24
+      },
+      "appearanceOrder": 24,
+      "influence": 0.03016,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03016,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03016
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 24
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 24
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "mup.gov.hr",
+      "value": "mup.gov.hr",
+      "link": "https://mup.gov.hr",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 4548,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 4548,
+            "excerpt": "Split, Croatia**  \n- **Why?** Coastal beauty, EU benefits, affordable.  \n- **Digital Nomad Visa:** [Croatia Nomad Visa](https://mup.gov.hr/)  \n- **Coworking:** [Saltwater Nomads](https://saltwaternomads.com/)  \n\n#### **18. Da Nang, Vietnam",
+            "line": 87,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 25
+      },
+      "appearanceOrder": 25,
+      "influence": 0.02981,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02981,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02981
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 25
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 25
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "xuatnhapcanh.gov.vn",
+      "value": "xuatnhapcanh.gov.vn",
+      "link": "https://xuatnhapcanh.gov.vn",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 2,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3886,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3886,
+            "excerpt": "hy?** Very low cost of living, strong expat community.  \n- **Visa:** [Vietnam E-Visa](https://evisa.xuatnhapcanh.gov.vn/)  \n- **Coworking:** [Dreamplex](https://dreamplex.com/)  \n\n#### **15. Tallinn, Estonia**  \n- **Why",
+            "line": 72,
+            "column": 44,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 4766,
+            "excerpt": "**18. Da Nang, Vietnam**  \n- **Why?** Beach city, fastest internet in Vietnam.  \n- **E-Visa Info:** [Vietnam Immigration](https://xuatnhapcanh.gov.vn/)  \n- **Coworking:** [Enouvo Space](https://enouvo.com/)  \n\n#### **19. Madeira, Portugal**  \n- **Why",
+            "line": 92,
+            "column": 20,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.04545,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 22
+      },
+      "appearanceOrder": 22,
+      "influence": 0.06194,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.06194,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.06194
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 22
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "digitalnomads.startupmadeira.eu",
+      "value": "digitalnomads.startupmadeira.eu",
+      "link": "https://digitalnomads.startupmadeira.eu",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 4994,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 4994,
+            "excerpt": ", Portugal**  \n- **Why?** Stunning nature, Portugal’s Digital Nomad Village.  \n- **Nomad Program:** [Digital Nomads Madeira](https://digitalnomads.startupmadeira.eu/)  \n- **Visa:** [Portugal D7/Digital Nomad Visa](https://www.sef.pt/)  \n\n#### **20. São Paulo, Brazi",
+            "line": 97,
+            "column": 22,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 27
+      },
+      "appearanceOrder": 27,
+      "influence": 0.02914,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02914,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02914
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 27
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 27
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "gov.br",
+      "value": "gov.br",
+      "link": "https://gov.br",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2707,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 5248,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 5248,
+            "excerpt": "aulo, Brazil**  \n- **Why?** Lively, strong startup culture, great food.  \n- **Digital Nomad Visa:** [Brazil Nomad Visa](https://www.gov.br/mre/)  \n- **Coworking:** [Cubo Itaú](https://cubo.network/)  \n\n#### **21. Taipei, Taiwan**  \n- **Why?**",
+            "line": 102,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2707,
+            "excerpt": ", Carnival celebrations, and a growing expat community. [Rio de Janeiro Tourism](https://www.rio.rj.gov.br/rio-en)\n16. **Seville, Spain**: A charming city with a rich cultural heritage, beautiful architectu",
+            "line": 17,
+            "column": 169,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 28,
+        "or_meta_llama_3_3_70b": 16
+      },
+      "appearanceOrder": 22,
+      "influence": 0.03012,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.9179,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03012,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03012
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0.9179
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 16
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 28
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "goldcard.nat.gov.tw",
+      "value": "goldcard.nat.gov.tw",
+      "link": "https://goldcard.nat.gov.tw",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 5462,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 5462,
+            "excerpt": "aipei, Taiwan**  \n- **Why?** Safe, excellent infrastructure, tech-friendly.  \n- **Gold Card Visa:** [Taiwan Golden Visa](https://goldcard.nat.gov.tw/)  \n- **Coworking:** [FutureWard](https://futureward.com/)  \n\n#### **22. Gran Canaria, Spain**  \n- *",
+            "line": 107,
+            "column": 23,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 29
+      },
+      "appearanceOrder": 29,
+      "influence": 0.02856,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02856,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02856
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 29
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 29
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "mdec.my",
+      "value": "mdec.my",
+      "link": "https://mdec.my",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 5935,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 5935,
+            "excerpt": "sia**  \n- **Why?** High quality of life, cheap eats, DE Rantau program.  \n- **Digital Nomad Pass:** [Malaysia DE Rantau](https://www.mdec.my/)  \n- **Coworking:** [Common Ground](https://www.commonground.work/)  \n\n#### **24. Athens, Greece**",
+            "line": 117,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 31
+      },
+      "appearanceOrder": 31,
+      "influence": 0.02801,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02801,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02801
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 31
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 31
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "mfa.gr",
+      "value": "mfa.gr",
+      "link": "https://mfa.gr",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6154,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6154,
+            "excerpt": "*24. Athens, Greece**  \n- **Why?** Affordable EU location with history.  \n- **Digital Nomad Visa:** [Greece Remote Work Visa](https://www.mfa.gr/)  \n- **Coworking:** [Stone Soup Athens](https://stonesoup.gr/)  \n\n#### **25. Las Palmas, Gran Canar",
+            "line": 122,
+            "column": 27,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 33
+      },
+      "appearanceOrder": 33,
+      "influence": 0.02754,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02754,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02754
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 33
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "nomadgate.com",
+      "value": "nomadgate.com",
+      "link": "https://nomadgate.com",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6552,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6552,
+            "excerpt": "rking](https://www.kooper.es/)  \n\n### **Final Considerations**  \n- **For Full Visa Details:** Check [Nomad Visa](https://nomadgate.com/remote-work-visas/)  \n- **Cost of Living Comparison:** [Numbeo](https://www.numbeo.com/)  \n- **Best Coworking Spaces:*",
+            "line": 131,
+            "column": 36,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 36
+      },
+      "appearanceOrder": 36,
+      "influence": 0.02691,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02691,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02691
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 36
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 36
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "coworker.com",
+      "value": "coworker.com",
+      "link": "https://coworker.com",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6707,
+        "or_google_gemini_2_0_flash_exp": 5678
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6707,
+            "excerpt": "- **Cost of Living Comparison:** [Numbeo](https://www.numbeo.com/)  \n- **Best Coworking Spaces:** [Coworker](https://www.coworker.com/)  \n\nThis list was updated for **2025**, prioritizing **internet speed, affordability, community, an",
+            "line": 133,
+            "column": 30,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 5678,
+            "excerpt": "isa Information\" on Google to find the right page.\n*   **Coworking Spaces:** Websites like Coworker [https://www.coworker.com/](https://www.coworker.com/) can help you find coworking spaces in different cities.\n*   **Digital Nomad Forums & Facebook Grou",
+            "line": 59,
+            "column": 50,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0.03704
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 38,
+        "or_google_gemini_2_0_flash_exp": 2
+      },
+      "appearanceOrder": 20,
+      "influence": 0.04554,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0.17102
+      },
+      "weightedInfluence": 0.04554,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04554
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0.17102
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 38
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "nomadlist.com",
+      "value": "nomadlist.com",
+      "link": "https://nomadlist.com",
+      "linkType": "rvw",
+      "linkTypeName": "Reviews",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 26
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 274,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 589,
+        "or_google_gemini_2_0_flash_exp": 793
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 589,
+            "excerpt": "ttps://www.sef.pt/en/pages/visas-and-residence/residence-visas/digital-nomads/)  \n- **Nomad Info:** [Nomad List (Lisbon)](https://nomadlist.com/lisbon)  \n\n#### **2. Bali, Indonesia**  \n- **Why?** Tropical paradise, thriving coworking spaces, and low",
+            "line": 8,
+            "column": 19,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 793,
+            "excerpt": "Thailand:** A vibrant city with affordable living, great food, and a large digital nomad community. [Nomad List: Bangkok](https://nomadlist.com/bangkok)\n2.  **Chiang Mai, Thailand:** Popular for its low cost of living, relaxed atmosphere, and coworkin",
+            "line": 9,
+            "column": 116,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 954,
+            "excerpt": "iang Mai, Thailand:** Popular for its low cost of living, relaxed atmosphere, and coworking spaces. [Nomad List: Chiang Mai](https://nomadlist.com/chiang-mai)\n3.  **Hoi An, Vietnam:** A charming ancient town with a growing nomad scene and beautiful beaches",
+            "line": 10,
+            "column": 109,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 1119,
+            "excerpt": "Hoi An, Vietnam:** A charming ancient town with a growing nomad scene and beautiful beaches nearby. [Nomad List: Hoi An](https://nomadlist.com/hoi-an)\n4.  **Bali, Indonesia:** (Specifically, Canggu or Ubud) Known for its beautiful landscapes, surfin",
+            "line": 11,
+            "column": 107,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 1297,
+            "excerpt": "pecifically, Canggu or Ubud) Known for its beautiful landscapes, surfing, and spiritual atmosphere. [Nomad List: Bali](https://nomadlist.com/bali)\n5.  **Kuala Lumpur, Malaysia:** A modern city with affordable living, excellent infrastructure, an",
+            "line": 12,
+            "column": 128,
+            "captureDate": "2025-09-18"
+          },
+          {
+            "appearanceOrder": 1461,
+            "excerpt": "r, Malaysia:** A modern city with affordable living, excellent infrastructure, and diverse culture. [Nomad List: Kuala Lumpur](https://nomadlist.com/kuala-lumpur)\n\n**Europe:**\n\n6.  **Lisbon, Portugal:** A popular choice due to its mild climate, rich history, an",
+            "line": 13,
+            "column": 118,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 274,
+            "excerpt": "iang Mai, Thailand**: A popular hub for digital nomads, with a low cost of living and rich culture. [Nomad List](https://nomadlist.com/chiang-mai-thailand)\n2. **Bali, Indonesia**: Known for its beautiful beaches, yoga and wellness retreats, and vibrant e",
+            "line": 3,
+            "column": 108,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 28,
+      "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.28866,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0.96296
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 2,
+        "or_meta_llama_3_3_70b": 1,
+        "or_google_gemini_2_0_flash_exp": 1
+      },
+      "appearanceOrder": 1.33,
+      "influence": 1,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0.68747,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.47319,
+        "or_google_gemini_2_0_flash_exp": 1
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 28
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1.33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 26
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0.68747
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0.47319
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 28,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 28
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "balitourismboard.org",
+      "value": "balitourismboard.org",
+      "link": "https://balitourismboard.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 444,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 444,
+            "excerpt": "onesia**: Known for its beautiful beaches, yoga and wellness retreats, and vibrant expat community. [Bali Tourism Board](https://www.balitourismboard.org/)\n3. **Medellín, Colombia**: A city transformed, with great weather, cultural attractions, and a gro",
+            "line": 4,
+            "column": 115,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.08837,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.08837,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.08837
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 2
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "medellin.travel",
+      "value": "medellin.travel",
+      "link": "https://medellin.travel",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 620,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 620,
+            "excerpt": "bia**: A city transformed, with great weather, cultural attractions, and a growing expat community. [Medellín Tourism](https://www.medellin.travel/en/)\n4. **Lisbon, Portugal**: A charming European city with a mild climate, rich history, and a growing",
+            "line": 5,
+            "column": 121,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.07006,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.07006,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.07006
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 3
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitlisboa.com",
+      "value": "visitlisboa.com",
+      "link": "https://visitlisboa.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 786,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 786,
+            "excerpt": "ortugal**: A charming European city with a mild climate, rich history, and a growing startup scene. [Visit Lisbon](https://www.visitlisboa.com/)\n5. **Barcelona, Spain**: A vibrant city with a rich cultural heritage, beautiful beaches, and a th",
+            "line": 6,
+            "column": 115,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.06033,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.06033,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.06033
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 4
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "barcelonaturisme.com",
+      "value": "barcelonaturisme.com",
+      "link": "https://barcelonaturisme.com",
+      "linkType": "edu",
+      "linkTypeName": "Education Platforms",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 953,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 953,
+            "excerpt": "*: A vibrant city with a rich cultural heritage, beautiful beaches, and a thriving expat community. [Barcelona Tourism](https://www.barcelonaturisme.com/wv3/en/)\n6. **Canggu, Indonesia**: A coastal town in Bali, popular with digital nomads and surfers alike. [",
+            "line": 7,
+            "column": 123,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.05421,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.05421,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.05421
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 5
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "cangguclub.com",
+      "value": "cangguclub.com",
+      "link": "https://cangguclub.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1112,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1112,
+            "excerpt": "/)\n6. **Canggu, Indonesia**: A coastal town in Bali, popular with digital nomads and surfers alike. [Canggu Club](https://www.cangguclub.com/)\n7. **Tallinn, Estonia**: A digital nomad hotspot with a low cost of living, e-residency program, a",
+            "line": 8,
+            "column": 98,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.04989,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04989,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04989
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 6
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visittallinn.ee",
+      "value": "visittallinn.ee",
+      "link": "https://visittallinn.ee",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1282,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1282,
+            "excerpt": "digital nomad hotspot with a low cost of living, e-residency program, and a thriving startup scene. [Visit Tallinn](https://www.visittallinn.ee/eng)\n8. **Hanoi, Vietnam**: A cultural and historical hub with a low cost of living, delicious food, an",
+            "line": 9,
+            "column": 128,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.04668,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04668,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04668
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 7
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "hanoi.gov.vn",
+      "value": "hanoi.gov.vn",
+      "link": "https://hanoi.gov.vn",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1458,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1458,
+            "excerpt": "ltural and historical hub with a low cost of living, delicious food, and a growing expat community. [Hanoi Tourism](https://www.hanoi.gov.vn/en-GB/home)\n9. **Porto, Portugal**: A charming city with a rich history, vibrant cultural scene, and a growing",
+            "line": 10,
+            "column": 128,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.04421,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04421,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04421
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 8
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitporto.travel",
+      "value": "visitporto.travel",
+      "link": "https://visitporto.travel",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1627,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1627,
+            "excerpt": "ugal**: A charming city with a rich history, vibrant cultural scene, and a growing expat community. [Visit Porto](https://www.visitporto.travel/en)\n10. **Kuala Lumpur, Malaysia**: A bustling metropolis with a mix of cultures, delicious food, and",
+            "line": 11,
+            "column": 117,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.04217,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04217,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04217
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 9
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitkl.gov.my",
+      "value": "visitkl.gov.my",
+      "link": "https://visitkl.gov.my",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1795,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1795,
+            "excerpt": "Malaysia**: A bustling metropolis with a mix of cultures, delicious food, and a low cost of living. [Visit KL](https://www.visitkl.gov.my/)\n11. **Gran Canaria, Spain**: A tropical island in the Atlantic, popular with digital nomads and re",
+            "line": 12,
+            "column": 121,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.04048,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04048,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04048
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 10
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "grancanaria.com",
+      "value": "grancanaria.com",
+      "link": "https://grancanaria.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1947,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 5784,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 5784,
+            "excerpt": "n’s Digital Nomad Visa](https://www.exteriores.gob.es/)  \n- **Coworking:** [The Pub](https://thepub-grancanaria.com/)  \n\n#### **23. Kuala Lumpur, Malaysia**  \n- **Why?** High quality of life, cheap eats, DE Rantau p",
+            "line": 113,
+            "column": 43,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1947,
+            "excerpt": "anaria, Spain**: A tropical island in the Atlantic, popular with digital nomads and remote workers. [Gran Canaria Tourism](https://www.grancanaria.com/en/)\n12. **Budapest, Hungary**: A beautiful and affordable city with a rich history, thermal baths, and",
+            "line": 13,
+            "column": 113,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 2,
+      "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02062,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 30,
+        "or_meta_llama_3_3_70b": 11
+      },
+      "appearanceOrder": 20.5,
+      "influence": 0.03079,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.78951,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03079,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03079
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 20.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0.78951
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 11
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 30
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitbudapest.com",
+      "value": "visitbudapest.com",
+      "link": "https://visitbudapest.com",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2129,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2129,
+            "excerpt": "A beautiful and affordable city with a rich history, thermal baths, and a growing expat community. [Visit Budapest](https://www.visitbudapest.com/)\n13. **Copenhagen, Denmark**: A bike-friendly city with a high standard of living, great food, and",
+            "line": 14,
+            "column": 127,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.03785,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03785,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 12
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitcopenhagen.com",
+      "value": "visitcopenhagen.com",
+      "link": "https://visitcopenhagen.com",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2302,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2302,
+            "excerpt": "k**: A bike-friendly city with a high standard of living, great food, and a thriving startup scene. [Visit Copenhagen](https://www.visitcopenhagen.com/)\n14. **Prague, Czech Republic**: A stunningly beautiful city with a rich history, affordable cost o",
+            "line": 15,
+            "column": 125,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.03679,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03679,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03679
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 13
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitprague.com",
+      "value": "visitprague.com",
+      "link": "https://visitprague.com",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2494,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2494,
+            "excerpt": "ingly beautiful city with a rich history, affordable cost of living, and a growing expat community. [Visit Prague](https://www.visitprague.com/)\n15. **Rio de Janeiro, Brazil**: A vibrant city with stunning beaches, Carnival celebrations, and a",
+            "line": 16,
+            "column": 140,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.03585,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03585,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03585
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 14
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "rio.rj.gov.br",
+      "value": "rio.rj.gov.br",
+      "link": "https://rio.rj.gov.br",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2663,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2663,
+            "excerpt": "azil**: A vibrant city with stunning beaches, Carnival celebrations, and a growing expat community. [Rio de Janeiro Tourism](https://www.rio.rj.gov.br/rio-en)\n16. **Seville, Spain**: A charming city with a rich cultural heritage, beautiful architecture, and",
+            "line": 17,
+            "column": 125,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.03503,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03503,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03503
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 15
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitasevilla.es",
+      "value": "visitasevilla.es",
+      "link": "https://visitasevilla.es",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2848,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2848,
+            "excerpt": "charming city with a rich cultural heritage, beautiful architecture, and a growing expat community. [Visit Seville](https://www.visitasevilla.es/en/)\n17. **Bangkok, Thailand**: A bustling metropolis with a mix of cultures, delicious food, and a low",
+            "line": 18,
+            "column": 127,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.03358,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03358,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03358
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 17
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "bangkoktourist.com",
+      "value": "bangkoktourist.com",
+      "link": "https://bangkoktourist.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3013,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3013,
+            "excerpt": "Thailand**: A bustling metropolis with a mix of cultures, delicious food, and a low cost of living. [Bangkok Tourism Division](https://www.bangkoktourist.com/)\n18. **Berlin, Germany**: A vibrant city with a thriving startup scene, rich history, and a growing",
+            "line": 19,
+            "column": 116,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.03299,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03299,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03299
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 18
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitberlin.de",
+      "value": "visitberlin.de",
+      "link": "https://visitberlin.de",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3189,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3189,
+            "excerpt": "rmany**: A vibrant city with a thriving startup scene, rich history, and a growing expat community. [Visit Berlin](https://www.visitberlin.de/en)\n19. **Ho Chi Minh City, Vietnam**: A bustling metropolis with a mix of cultures, delicious food, a",
+            "line": 20,
+            "column": 117,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.0324,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.0324,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.0324
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 19
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visithcmc.vn",
+      "value": "visithcmc.vn",
+      "link": "https://visithcmc.vn",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3363,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3363,
+            "excerpt": "nam**: A bustling metropolis with a mix of cultures, delicious food, and a growing expat community. [Ho Chi Minh City Tourism](https://www.visithcmc.vn/en)\n20. **Valencia, Spain**: A beautiful city with a rich cultural heritage, stunning beaches, and a g",
+            "line": 21,
+            "column": 129,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.03189,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03189,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03189
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 20
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitvalencia.com",
+      "value": "visitvalencia.com",
+      "link": "https://visitvalencia.com",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3541,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3541,
+            "excerpt": "*: A beautiful city with a rich cultural heritage, stunning beaches, and a growing expat community. [Visit Valencia](https://www.visitvalencia.com/en)\n21. **Krakow, Poland**: A stunningly beautiful city with a rich history, affordable cost of living",
+            "line": 22,
+            "column": 123,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.03142,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03142,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03142
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 21
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "krakow.pl",
+      "value": "krakow.pl",
+      "link": "https://krakow.pl",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3723,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3723,
+            "excerpt": "ingly beautiful city with a rich history, affordable cost of living, and a growing expat community. [Visit Krakow](https://www.krakow.pl/en)\n22. **Siem Reap, Cambodia**: A cultural and historical hub with a low cost of living, delicious fo",
+            "line": 23,
+            "column": 132,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 22
+      },
+      "appearanceOrder": 22,
+      "influence": 0.03099,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03099,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03099
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 22
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "siemreaptourism.org",
+      "value": "siemreaptourism.org",
+      "link": "https://siemreaptourism.org",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 3897,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 3897,
+            "excerpt": "ltural and historical hub with a low cost of living, delicious food, and a growing expat community. [Siem Reap Tourism](https://www.siemreaptourism.org/)\n23. **Warsaw, Poland**: A vibrant city with a rich history, growing startup scene, and a growing e",
+            "line": 24,
+            "column": 134,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 23
+      },
+      "appearanceOrder": 23,
+      "influence": 0.03056,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03056,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03056
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 23
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "warsawtour.pl",
+      "value": "warsawtour.pl",
+      "link": "https://warsawtour.pl",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 4065,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 4065,
+            "excerpt": "Poland**: A vibrant city with a rich history, growing startup scene, and a growing expat community. [Visit Warsaw](https://www.warsawtour.pl/en)\n24. **Tel Aviv, Israel**: A vibrant city with a thriving startup scene, beautiful beaches, and a g",
+            "line": 25,
+            "column": 115,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 24
+      },
+      "appearanceOrder": 24,
+      "influence": 0.03016,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03016,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03016
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 24
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 24
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "tel-aviv.gov.il",
+      "value": "tel-aviv.gov.il",
+      "link": "https://tel-aviv.gov.il",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 4232,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 4232,
+            "excerpt": "**: A vibrant city with a thriving startup scene, beautiful beaches, and a growing expat community. [Visit Tel Aviv](https://www.tel-aviv.gov.il/en)\n25. **Sofia, Bulgaria**: A beautiful city with a rich history, affordable cost of living, and a gr",
+            "line": 26,
+            "column": 123,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 25
+      },
+      "appearanceOrder": 25,
+      "influence": 0.02981,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02981,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02981
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 25
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 25
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "visitsofia.bg",
+      "value": "visitsofia.bg",
+      "link": "https://visitsofia.bg",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 4402,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 4402,
+            "excerpt": "**: A beautiful city with a rich history, affordable cost of living, and a growing expat community. [Visit Sofia](https://www.visitsofia.bg/en)\n\nPlease note that this is not an exhaustive or definitive list, and the ranking may vary depending",
+            "line": 27,
+            "column": 122,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.03846,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 26
+      },
+      "appearanceOrder": 26,
+      "influence": 0.02946,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02946,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02946
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 26
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 26
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "digitalnomad.hu",
+      "value": "digitalnomad.hu",
+      "link": "https://digitalnomad.hu",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2204,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2204,
+            "excerpt": "*White Card (Nomad Visa):** [Hungary White Card](https://enterhungary.gov.hu/)  \n- **Nomad Guide:** [Digital Nomad Budapest](https://digitalnomad.hu/)  \n\n#### **8. Canggu, Bali, Indonesia**  \n- **Why?** Surf, coworking spaces, and strong nomad ecosy",
+            "line": 38,
+            "column": 20,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.03785,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03785,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 12
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "workthere.io",
+      "value": "workthere.io",
+      "link": "https://workthere.io",
+      "linkType": "edu",
+      "linkTypeName": "Education Platforms",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2907,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2907,
+            "excerpt": "scene.  \n- **Visa:** [South Africa Remote Work Visa](https://www.gov.za/)  \n- **Nomad Community:** [Work Wanderers Cape Town](https://workthere.io/cape-town-digital-nomads)  \n\n#### **11. Buenos Aires, Argentina**  \n- **Why?** Cultural hub, affordable, great internet.  \n-",
+            "line": 53,
+            "column": 24,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 16
+      },
+      "appearanceOrder": 16,
+      "influence": 0.03428,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03428,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03428
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 16
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "saltwaternomads.com",
+      "value": "saltwaternomads.com",
+      "link": "https://saltwaternomads.com",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 4609,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 4609,
+            "excerpt": "ffordable.  \n- **Digital Nomad Visa:** [Croatia Nomad Visa](https://mup.gov.hr/)  \n- **Coworking:** [Saltwater Nomads](https://saltwaternomads.com/)  \n\n#### **18. Da Nang, Vietnam**  \n- **Why?** Beach city, fastest internet in Vietnam.  \n- **E-Vis",
+            "line": 88,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 26
+      },
+      "appearanceOrder": 26,
+      "influence": 0.02946,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02946,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02946
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 26
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 26
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "facebook.com",
+      "value": "facebook.com",
+      "link": "https://facebook.com",
+      "linkType": "smp",
+      "linkTypeName": "Social Media",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1371,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1371,
+            "excerpt": "scene.  \n- **Visa:** [Colombia Digital Nomad Visa](https://www.cancilleria.gov.co/)  \n- **Guide:** [Medellín Digital Nomads (FB Group)](https://www.facebook.com/groups/MedellinDigitalNomads/)  \n\n#### **5. Tbilisi, Georgia**  \n- **Why?** Cheap, 365-day visa-free stay for many nationalities,",
+            "line": 23,
+            "column": 14,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.04989,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04989,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04989
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 6
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "tbilisidigitalnomads.com",
+      "value": "tbilisidigitalnomads.com",
+      "link": "https://tbilisidigitalnomads.com",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1680,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1680,
+            "excerpt": "- **Visa-Free Entry:** [Georgia Travel Info](https://www.geoconsul.gov.ge/en)  \n- **Nomad Info:** [Tbilisi Digital Nomads](https://tbilisidigitalnomads.com/)  \n\n#### **6. Mexico City, Mexico**  \n- **Why?** Cosmopolitan, affordable, LATAM’s digital nomad hu",
+            "line": 28,
+            "column": 19,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.04421,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04421,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04421
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 8
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "wework.com",
+      "value": "wework.com",
+      "link": "https://wework.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 1936,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1936,
+            "excerpt": "hub.  \n- **Temporary Resident Visa:** [Mexico Visa Info](https://www.gob.mx/inm)  \n- **Coworking:** [WeWork Mexico](https://www.wework.com/l/mexico-city--mx)  \n\n#### **7. Budapest, Hungary**  \n- **Why?** European charm, great public transport, affordable f",
+            "line": 33,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.04048,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.04048,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.04048
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 10
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "tribalbalika.com",
+      "value": "tribalbalika.com",
+      "link": "https://tribalbalika.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 2434,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2434,
+            "excerpt": "strong nomad ecosystem.  \n- **Visa:** [B211A Visa](https://www.imigrasi.go.id/)  \n- **Coworking:** [Tribal Bali](https://tribalbalika.com/)  \n\n#### **9. Barcelona, Spain**  \n- **Why?** Mediterranean lifestyle, great infrastructure.  \n- **",
+            "line": 43,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.03679,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03679,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03679
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 13
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "locusworkspace.cz",
+      "value": "locusworkspace.cz",
+      "link": "https://locusworkspace.cz",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 3691,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3691,
+            "excerpt": "ncer Visa (Živno):** [Czech Long-Term Visa](https://www.mvcr.cz/mvcren/)  \n- **Digital Nomad Hub:** [Locus Workspace](https://locusworkspace.cz/)  \n\n#### **14. Ho Chi Minh City, Vietnam**  \n- **Why?** Very low cost of living, strong expat commu",
+            "line": 68,
+            "column": 26,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.03189,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.03189,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.03189
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 20
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "r.mx",
+      "value": "r.mx",
+      "link": "https://r.mx",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "o.com",
+      "value": "o.com",
+      "link": "https://o.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "ubo.network",
+      "value": "ubo.network",
+      "link": "https://ubo.network",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "ward.com",
+      "value": "ward.com",
+      "link": "https://ward.com",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "commonground.work",
+      "value": "commonground.work",
+      "link": "https://commonground.work",
+      "linkType": "trl",
+      "linkTypeName": "Travel & Tourism",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 5997,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 5997,
+            "excerpt": "program.  \n- **Digital Nomad Pass:** [Malaysia DE Rantau](https://www.mdec.my/)  \n- **Coworking:** [Common Ground](https://www.commonground.work/)  \n\n#### **24. Athens, Greece**  \n- **Why?** Affordable EU location with history.  \n- **Digital Nom",
+            "line": 118,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 32
+      },
+      "appearanceOrder": 32,
+      "influence": 0.02777,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02777,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02777
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 32
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 32
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "stonesoup.gr",
+      "value": "stonesoup.gr",
+      "link": "https://stonesoup.gr",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6220,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6220,
+            "excerpt": "tory.  \n- **Digital Nomad Visa:** [Greece Remote Work Visa](https://www.mfa.gr/)  \n- **Coworking:** [Stone Soup Athens](https://stonesoup.gr/)  \n\n#### **25. Las Palmas, Gran Canaria**  \n- **Why?** Perfect weather, strong nomad network.  \n- *",
+            "line": 123,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 34
+      },
+      "appearanceOrder": 34,
+      "influence": 0.0273,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.0273,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.0273
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 34
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 34
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "kooper.es",
+      "value": "kooper.es",
+      "link": "https://kooper.es",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6440,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6440,
+            "excerpt": "nomad network.  \n- **Visa:** [Spain Nomad Visa](https://www.exteriores.gob.es/)  \n- **Coworking:** [Kooper Coworking](https://www.kooper.es/)  \n\n### **Final Considerations**  \n- **For Full Visa Details:** Check [Nomad Visa](https://nomadgat",
+            "line": 128,
+            "column": 18,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 35
+      },
+      "appearanceOrder": 35,
+      "influence": 0.0271,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.0271,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.0271
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 35
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 35
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "numbeo.com",
+      "value": "numbeo.com",
+      "link": "https://numbeo.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": 6642,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 6642,
+            "excerpt": ":** Check [Nomad Visa](https://nomadgate.com/remote-work-visas/)  \n- **Cost of Living Comparison:** [Numbeo](https://www.numbeo.com/)  \n- **Best Coworking Spaces:** [Coworker](https://www.coworker.com/)  \n\nThis list was updated for",
+            "line": 132,
+            "column": 34,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_deepseek_chat_v3",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01031,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0.02273,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_deepseek_chat_v3": 37
+      },
+      "appearanceOrder": 37,
+      "influence": 0.02671,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 1,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.02671,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.02671
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 37
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": 10,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 37
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    }
+  ],
   "totalDates": [
     "2025-09-18",
     "2025-09-15"
   ],
-  "totalDataPoints": 161,
-  "totalTimeSaved": "14",
+  "totalDataPoints": 226,
+  "totalTimeSaved": "19",
   "totalCounts": {
     "bots": 4,
     "linkTypes": 13,
@@ -34668,12 +47270,8 @@ window.AppData20250918 = {
     "events": [],
     "linkTypes": [
       {
-        "id": "10",
-        "count": 8
-      },
-      {
-        "id": "999",
-        "count": 3
+        "id": "-9999",
+        "count": 11
       },
       {
         "id": "-1",

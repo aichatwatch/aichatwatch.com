@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-10T14:33:26.976Z
+// AUTO-GENERATED AGGREGATE: 2025-10-10T15:21:27.862Z
 // Aggregated from prompts: 1-what-are-best-practices--2fefd9bd, 2-what-do-experts-recommen-63a1a226, 3-what-tools-or-resources--32f7f397, 4-what-should-beginners-kn-95667a84, 5-what-are-the-dos-and-don-beac9f51
 window.AppDataAggregate20251010 = {
   "report_question": "high blood pressure and hypertension",
   "report_date": "2025-10-10",
   "report_question_id": "1-what-are-best-practices--2fefd9bd",
-  "report_created_at": "Oct 10, 2025, 5:57:32 PM",
+  "report_created_at": "Oct 10, 2025, 7:20:40 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -88043,11 +88043,21709 @@ window.AppDataAggregate20251010 = {
       }
     }
   ],
+  "linkDomains": [
+    {
+      "type": "linkDomain",
+      "code": "nhlbi.nih.gov",
+      "value": "nhlbi.nih.gov",
+      "link": "https://nhlbi.nih.gov",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 12,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 733,
+        "anthropic_claude_with_search_latest": 404,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ension)**: Emphasizes fruits, vegetables, whole grains, and low-fat dairy while reducing sodium\n  - [National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n  - [American Heart Association - DASH Diet](https://www.heart.org/en/healthy-living/healthy-eatin",
+            "line": 9,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4131,
+            "excerpt": "ealth-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n## Additional Resources\n\n- [National Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hype",
+            "line": 81,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 162,
+            "excerpt": "ion\n\n## Lifestyle Modifications\n\n### 1. **DASH Diet (Dietary Approaches to Stop Hypertension)**\nThe [DASH diet](https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/dash_diet.htm) is specifically designed to lower blood pressure and is endorsed by the [National Heart, Lung, and",
+            "line": 6,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 318,
+            "excerpt": "/lose_wt/eat/dash_diet.htm) is specifically designed to lower blood pressure and is endorsed by the [National Heart, Lung, and Blood Institute (NHLBI)](https://www.nhlbi.nih.gov/). It emphasizes:\n- Fruits and vegetables\n- Whole grains\n- Lean proteins\n- Low-fat dairy\n- Limited s",
+            "line": 6,
+            "column": 161,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2354,
+            "excerpt": "w.apa.org/) discusses the connection between stress and hypertension.\n\n## Additional Resources\n\n- **[National Institute of Health (NIH) - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)**: Comprehensive information on hypertension\n- **[World Health Organization (WHO) - Hypertension](",
+            "line": 58,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1435,
+            "excerpt": "l health metrics\n\n## Dietary Resources\n\n### DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-",
+            "line": 26,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1142,
+            "excerpt": "It Matters\n\nHigh blood pressure is called the \"silent killer\" because it often has no symptoms. The [National Institutes of Health (NIH)](https://www.nhlbi.nih.gov/health/high-blood-pressure) explains that untreated hypertension can lead to:\n\n- Heart disease and heart attacks\n- Stroke\n- Ki",
+            "line": 25,
+            "column": 89,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2150,
+            "excerpt": "es-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan) (Dietary Approaches to Stop Hypertension)\n- Reduce sodium to less than 2,300 mg daily (ideally 1,5",
+            "line": 52,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3738,
+            "excerpt": "tion\n\n## Medications\n\nIf lifestyle changes aren't enough, your doctor may prescribe medication. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment) lists common types:\n\n- Diuretics\n- ACE inhibitors\n- ARBs (Angiotensin II receptor blockers)\n- Calc",
+            "line": 91,
+            "column": 79,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 619,
+            "excerpt": "hole grains, and lean proteins\n- Focus on foods rich in potassium, calcium, and magnesium\n- Source: [National Heart, Lung, and Blood Institute - DASH Eating Plan](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n\n### 3. **Reduce Sodium Intake**\n- Limit sodium to less than 2,300 mg per day (ideally 1,500 mg)\n-",
+            "line": 13,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2500,
+            "excerpt": "healthcare provider regularly\n- Screen for related conditions (diabetes, kidney disease)\n- Source: [National Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n\n## DON'Ts ✗\n\n### 1. **Don't Consume Excessive Sodium**\n- Avoid processed foods, canned soups, and",
+            "line": 48,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 4759,
+            "excerpt": "Apnea**\n- Don't dismiss snoring or daytime fatigue\n- Sleep apnea can worsen hypertension\n- Source: [National Heart, Lung, and Blood Institute - Sleep Apnea](https://www.nhlbi.nih.gov/health/sleep-apnea)\n\n### 9. **Don't Self-Diagnose or Self-Treat**\n- Don't rely solely on supplements without medical g",
+            "line": 90,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1592,
+            "excerpt": "hanges, which often include increasing physical activity as a method to control high blood pressure [nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n5. **Natural Remedies and Medication**: According to Prevention, various surprising methods to l",
+            "line": 9,
+            "column": 255,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 733,
+            "excerpt": "s-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to ideally less than 1,500 to 2,300 mg per day, focusing on minimizing pr",
+            "line": 5,
+            "column": 498,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 6928,
+            "excerpt": ".org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n# Citations\n\n1. https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/\n2. https://www.mayoclinic.org/",
+            "line": 43,
+            "column": 984,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 7853,
+            "excerpt": "-to-manage-high-blood-pressure\n10. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https:/",
+            "line": 57,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 5344,
+            "excerpt": "9. https://www.acc.org/latest-in-cardiology/articles/2025/10/01/01/new-in-clinical-guidance-hbp\n10. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n11. https://uofuhealth.utah.edu/newsroom/news/2025/08/2025-high-blood-pressure-guidelines-aim-trans",
+            "line": 34,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2664,
+            "excerpt": "e, understanding hypertension risks, and behavior changes to manage blood pressure effectively[[6]](https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--r",
+            "line": 13,
+            "column": 292,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5729,
+            "excerpt": "/www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.co",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3614,
+            "excerpt": "dex.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/",
+            "line": 41,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.05319,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04286,
+        "anthropic_claude_with_search_latest": 0.11111,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 3.4,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 5,
+      "influence": 0.14294,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.1279,
+        "anthropic_claude_with_search_latest": 0.24509,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.14294,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15488
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.94728
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 5,
+        "2-what-do-experts-recommen-63a1a226": 5,
+        "3-what-tools-or-resources--32f7f397": 3,
+        "4-what-should-beginners-kn-95667a84": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.25895,
+        "2-what-do-experts-recommen-63a1a226": 0.25772,
+        "3-what-tools-or-resources--32f7f397": 0.33641,
+        "4-what-should-beginners-kn-95667a84": 0.3083,
+        "5-what-are-the-dos-and-don-beac9f51": 0.15488
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": 12,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2.5,
+        "2-what-do-experts-recommen-63a1a226": 5,
+        "3-what-tools-or-resources--32f7f397": 10,
+        "4-what-should-beginners-kn-95667a84": 5.5,
+        "5-what-are-the-dos-and-don-beac9f51": 2
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 404,
+              "excerpt": "ension)**: Emphasizes fruits, vegetables, whole grains, and low-fat dairy while reducing sodium\n  - [National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n  - [American Heart Association - DASH Diet](https://www.heart.org/en/healthy-living/healthy-eatin",
+              "line": 9,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4131,
+              "excerpt": "ealth-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n## Additional Resources\n\n- [National Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hype",
+              "line": 81,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 733,
+              "excerpt": "s-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to ideally less than 1,500 to 2,300 mg per day, focusing on minimizing pr",
+              "line": 5,
+              "column": 498,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6928,
+              "excerpt": ".org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n# Citations\n\n1. https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/\n2. https://www.mayoclinic.org/",
+              "line": 43,
+              "column": 984,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7853,
+              "excerpt": "-to-manage-high-blood-pressure\n10. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https:/",
+              "line": 57,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 162,
+              "excerpt": "ion\n\n## Lifestyle Modifications\n\n### 1. **DASH Diet (Dietary Approaches to Stop Hypertension)**\nThe [DASH diet](https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/dash_diet.htm) is specifically designed to lower blood pressure and is endorsed by the [National Heart, Lung, and",
+              "line": 6,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 318,
+              "excerpt": "/lose_wt/eat/dash_diet.htm) is specifically designed to lower blood pressure and is endorsed by the [National Heart, Lung, and Blood Institute (NHLBI)](https://www.nhlbi.nih.gov/). It emphasizes:\n- Fruits and vegetables\n- Whole grains\n- Lean proteins\n- Low-fat dairy\n- Limited s",
+              "line": 6,
+              "column": 161,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2354,
+              "excerpt": "w.apa.org/) discusses the connection between stress and hypertension.\n\n## Additional Resources\n\n- **[National Institute of Health (NIH) - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)**: Comprehensive information on hypertension\n- **[World Health Organization (WHO) - Hypertension](",
+              "line": 58,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1592,
+              "excerpt": "hanges, which often include increasing physical activity as a method to control high blood pressure [nhlbi.nih.gov](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n5. **Natural Remedies and Medication**: According to Prevention, various surprising methods to l",
+              "line": 9,
+              "column": 255,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5344,
+              "excerpt": "9. https://www.acc.org/latest-in-cardiology/articles/2025/10/01/01/new-in-clinical-guidance-hbp\n10. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n11. https://uofuhealth.utah.edu/newsroom/news/2025/08/2025-high-blood-pressure-guidelines-aim-trans",
+              "line": 34,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1435,
+              "excerpt": "l health metrics\n\n## Dietary Resources\n\n### DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-",
+              "line": 26,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2664,
+              "excerpt": "e, understanding hypertension risks, and behavior changes to manage blood pressure effectively[[6]](https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--r",
+              "line": 13,
+              "column": 292,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5729,
+              "excerpt": "/www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.co",
+              "line": 36,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1142,
+              "excerpt": "It Matters\n\nHigh blood pressure is called the \"silent killer\" because it often has no symptoms. The [National Institutes of Health (NIH)](https://www.nhlbi.nih.gov/health/high-blood-pressure) explains that untreated hypertension can lead to:\n\n- Heart disease and heart attacks\n- Stroke\n- Ki",
+              "line": 25,
+              "column": 89,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2150,
+              "excerpt": "es-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan) (Dietary Approaches to Stop Hypertension)\n- Reduce sodium to less than 2,300 mg daily (ideally 1,5",
+              "line": 52,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3738,
+              "excerpt": "tion\n\n## Medications\n\nIf lifestyle changes aren't enough, your doctor may prescribe medication. The [National Heart, Lung, and Blood Institute](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment) lists common types:\n\n- Diuretics\n- ACE inhibitors\n- ARBs (Angiotensin II receptor blockers)\n- Calc",
+              "line": 91,
+              "column": 79,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3614,
+              "excerpt": "dex.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/",
+              "line": 41,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 619,
+              "excerpt": "hole grains, and lean proteins\n- Focus on foods rich in potassium, calcium, and magnesium\n- Source: [National Heart, Lung, and Blood Institute - DASH Eating Plan](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n\n### 3. **Reduce Sodium Intake**\n- Limit sodium to less than 2,300 mg per day (ideally 1,500 mg)\n-",
+              "line": 13,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2500,
+              "excerpt": "healthcare provider regularly\n- Screen for related conditions (diabetes, kidney disease)\n- Source: [National Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n\n## DON'Ts ✗\n\n### 1. **Don't Consume Excessive Sodium**\n- Avoid processed foods, canned soups, and",
+              "line": 48,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4759,
+              "excerpt": "Apnea**\n- Don't dismiss snoring or daytime fatigue\n- Sleep apnea can worsen hypertension\n- Source: [National Heart, Lung, and Blood Institute - Sleep Apnea](https://www.nhlbi.nih.gov/health/sleep-apnea)\n\n### 9. **Don't Self-Diagnose or Self-Treat**\n- Don't rely solely on supplements without medical g",
+              "line": 90,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 4
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 10,
+          "perplexity_with_search_latest": 10
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 3
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "cdc.gov",
+      "value": "cdc.gov",
+      "link": "https://cdc.gov",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 24,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 664,
+        "anthropic_claude_with_search_latest": 772,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 772,
+            "excerpt": "odium**: Limit to less than 2,300 mg daily (ideally 1,500 mg for most adults with hypertension)\n  - [CDC - Sodium Reduction](https://www.cdc.gov/salt/index.htm)\n\n- **Increase Potassium**: Foods like bananas, spinach, and sweet potatoes help balance sodium eff",
+            "line": 13,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1751,
+            "excerpt": "ure/art-20046974)\n\n### Limit Alcohol\n- **Maximum**: 2 drinks/day for men, 1 drink/day for women\n  - [CDC - Alcohol and Blood Pressure](https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm)\n\n### Quit Smoking\n- Smoking raises blood pressure and damages blood vessels\n  - [American Heart As",
+            "line": 29,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2448,
+            "excerpt": "t-health-and-wellbeing)\n\n- **Deep breathing exercises**\n- **Adequate sleep**: 7-9 hours nightly\n  - [CDC - Sleep and Chronic Disease](https://www.cdc.gov/sleep/about_sleep/chronic_disease.html)\n\n## 3. **Medical Management**\n\n### Regular Monitoring\n- **Home blood pressure monitoring**: Track",
+            "line": 42,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 3619,
+            "excerpt": "t your doctor as recommended\n- **Medication adherence**: Take medications exactly as prescribed\n  - [CDC - Managing High Blood Pressure](https://www.cdc.gov/bloodpressure/manage.htm)\n\n## 5. **Know Your Numbers**\n\nUnderstanding blood pressure categories:\n- **Normal**: Less than 120",
+            "line": 67,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 904,
+            "excerpt": "le-strengthening activities at least 2 days per week\n\n### 3. **Weight Management**\nAccording to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/), losing even 5-10 pounds can help reduce blood pressure if you're overweight.\n\n### 4. **Limit Alco",
+            "line": 20,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2263,
+            "excerpt": "](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.",
+            "line": 38,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 647,
+            "excerpt": "lood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/) defines these stages:\n\n- **Normal**: Less than 120/80\n- **Elevated**: 120-129 systolic and less th",
+            "line": 15,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 872,
+            "excerpt": "imit sodium to less than 2,300 mg per day (ideally 1,500 mg)\n- Read food labels carefully\n- Source: [CDC - Sodium and Food Sources](https://www.cdc.gov/salt/index.htm)\n\n### 4. **Exercise Regularly**\n- Aim for at least 150 minutes of moderate aerobic activity per wee",
+            "line": 18,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1677,
+            "excerpt": "medications without consulting your doctor\n- Use pill organizers or smartphone reminders\n- Source: [CDC - Managing Blood Pressure](https://www.cdc.gov/bloodpressure/manage.htm)\n\n### 7. **Limit Alcohol Consumption**\n- Men: No more than 2 drinks per day\n- Women: No more than 1",
+            "line": 33,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 5180,
+            "excerpt": "ods.od.nih.gov/)\n\n## Additional Resources\n\n- [American Heart Association](https://www.heart.org/)\n- [Centers for Disease Control and Prevention - High Blood Pressure](https://www.cdc.gov/bloodpressure/)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hype",
+            "line": 100,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1261,
+            "excerpt": "ity health workers and pharmacy-based interventions can also help manage blood pressure effectively [cdc.gov](https://www.cdc.gov/nccdphp/priorities/high-blood-pressure.html).\n\n4. **Physical Activity**: Regular physical activity is essential. The National Heart, Lung, and",
+            "line": 7,
+            "column": 285,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1084,
+            "excerpt": "l and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+            "line": 11,
+            "column": 16,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 664,
+            "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to",
+            "line": 5,
+            "column": 429,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1117,
+            "excerpt": "treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical activity, aiming for at least 150 minutes per week of moderate aero",
+            "line": 7,
+            "column": 319,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1487,
+            "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/",
+            "line": 9,
+            "column": 306,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1556,
+            "excerpt": "od-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 9,
+            "column": 375,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1984,
+            "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Limit alcohol consumption",
+            "line": 11,
+            "column": 248,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 408,
+            "excerpt": "pressure. Staying physically active can help reduce blood pressure and improve overall health[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html).\n- **Diet**: Adopting a heart-healthy diet like the DASH eating plan, which is high in fruits, veg",
+            "line": 4,
+            "column": 185,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 3086,
+            "excerpt": "dications include ACE inhibitors, ARBs, beta-blockers, calcium channel blockers, and diuretics[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[16]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## A",
+            "line": 13,
+            "column": 158,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4806,
+            "excerpt": "re-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www",
+            "line": 28,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1287,
+            "excerpt": "ment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+            "line": 7,
+            "column": 437,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3235,
+            "excerpt": "and integration with electronic health records to improve blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+            "line": 15,
+            "column": 238,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4746,
+            "excerpt": "ssment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+            "line": 24,
+            "column": 48,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5552,
+            "excerpt": "ension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
+            "line": 34,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1498,
+            "excerpt": "g to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
+            "line": 14,
+            "column": 276,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2905,
+            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-caus",
+            "line": 30,
+            "column": 171,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3472,
+            "excerpt": ". https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
+            "line": 39,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 8635,
+            "excerpt": "howtopreventhighbloodpressure.html)\n- **CDC**: Practical advice for living with high blood pressure [CDC](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[10]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)\n- **Mayo Clinic**: Detailed",
+            "line": 56,
+            "column": 65,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 8711,
+            "excerpt": "ith high blood pressure [CDC](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[10]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)\n- **Mayo Clinic**: Detailed lifestyle strategies for controlling blood pressure [Mayo Clinic](http",
+            "line": 56,
+            "column": 141,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 11669,
+            "excerpt": "s://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417\n10. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n11. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026\n12. https://www.yalemedicine.",
+            "line": 92,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 16,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.15957,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.15714,
+        "anthropic_claude_with_search_latest": 0.22222,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4.4,
+        "anthropic_claude_with_search_latest": 5.2,
+        "openai_chatgpt_with_search_latest": 3.5
+      },
+      "appearanceOrder": 4.47,
+      "influence": 0.36004,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.26697,
+        "anthropic_claude_with_search_latest": 0.07748,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.36004,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08632
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.19651
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 15,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 15
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 15,
+        "2-what-do-experts-recommen-63a1a226": 5,
+        "3-what-tools-or-resources--32f7f397": 6,
+        "4-what-should-beginners-kn-95667a84": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 6
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1,
+        "2-what-do-experts-recommen-63a1a226": 0.42525,
+        "3-what-tools-or-resources--32f7f397": 0.40217,
+        "4-what-should-beginners-kn-95667a84": 0.51296,
+        "5-what-are-the-dos-and-don-beac9f51": 0.08632
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 24,
+          "anthropic_claude_with_search_latest": 10,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2.5,
+        "2-what-do-experts-recommen-63a1a226": 2.33,
+        "3-what-tools-or-resources--32f7f397": 8,
+        "4-what-should-beginners-kn-95667a84": 3.5,
+        "5-what-are-the-dos-and-don-beac9f51": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 772,
+              "excerpt": "odium**: Limit to less than 2,300 mg daily (ideally 1,500 mg for most adults with hypertension)\n  - [CDC - Sodium Reduction](https://www.cdc.gov/salt/index.htm)\n\n- **Increase Potassium**: Foods like bananas, spinach, and sweet potatoes help balance sodium eff",
+              "line": 13,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1751,
+              "excerpt": "ure/art-20046974)\n\n### Limit Alcohol\n- **Maximum**: 2 drinks/day for men, 1 drink/day for women\n  - [CDC - Alcohol and Blood Pressure](https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm)\n\n### Quit Smoking\n- Smoking raises blood pressure and damages blood vessels\n  - [American Heart As",
+              "line": 29,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2448,
+              "excerpt": "t-health-and-wellbeing)\n\n- **Deep breathing exercises**\n- **Adequate sleep**: 7-9 hours nightly\n  - [CDC - Sleep and Chronic Disease](https://www.cdc.gov/sleep/about_sleep/chronic_disease.html)\n\n## 3. **Medical Management**\n\n### Regular Monitoring\n- **Home blood pressure monitoring**: Track",
+              "line": 42,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3619,
+              "excerpt": "t your doctor as recommended\n- **Medication adherence**: Take medications exactly as prescribed\n  - [CDC - Managing High Blood Pressure](https://www.cdc.gov/bloodpressure/manage.htm)\n\n## 5. **Know Your Numbers**\n\nUnderstanding blood pressure categories:\n- **Normal**: Less than 120",
+              "line": 67,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 664,
+              "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to",
+              "line": 5,
+              "column": 429,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1117,
+              "excerpt": "treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical activity, aiming for at least 150 minutes per week of moderate aero",
+              "line": 7,
+              "column": 319,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1487,
+              "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/",
+              "line": 9,
+              "column": 306,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1556,
+              "excerpt": "od-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 9,
+              "column": 375,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1984,
+              "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Limit alcohol consumption",
+              "line": 11,
+              "column": 248,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 904,
+              "excerpt": "le-strengthening activities at least 2 days per week\n\n### 3. **Weight Management**\nAccording to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/), losing even 5-10 pounds can help reduce blood pressure if you're overweight.\n\n### 4. **Limit Alco",
+              "line": 20,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1261,
+              "excerpt": "ity health workers and pharmacy-based interventions can also help manage blood pressure effectively [cdc.gov](https://www.cdc.gov/nccdphp/priorities/high-blood-pressure.html).\n\n4. **Physical Activity**: Regular physical activity is essential. The National Heart, Lung, and",
+              "line": 7,
+              "column": 285,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 408,
+              "excerpt": "pressure. Staying physically active can help reduce blood pressure and improve overall health[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html).\n- **Diet**: Adopting a heart-healthy diet like the DASH eating plan, which is high in fruits, veg",
+              "line": 4,
+              "column": 185,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3086,
+              "excerpt": "dications include ACE inhibitors, ARBs, beta-blockers, calcium channel blockers, and diuretics[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[16]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## A",
+              "line": 13,
+              "column": 158,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4806,
+              "excerpt": "re-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www",
+              "line": 28,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2263,
+              "excerpt": "](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.",
+              "line": 38,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1084,
+              "excerpt": "l and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+              "line": 11,
+              "column": 16,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1287,
+              "excerpt": "ment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+              "line": 7,
+              "column": 437,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3235,
+              "excerpt": "and integration with electronic health records to improve blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+              "line": 15,
+              "column": 238,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4746,
+              "excerpt": "ssment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+              "line": 24,
+              "column": 48,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5552,
+              "excerpt": "ension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
+              "line": 34,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 647,
+              "excerpt": "lood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/) defines these stages:\n\n- **Normal**: Less than 120/80\n- **Elevated**: 120-129 systolic and less th",
+              "line": 15,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1498,
+              "excerpt": "g to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
+              "line": 14,
+              "column": 276,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2905,
+              "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-caus",
+              "line": 30,
+              "column": 171,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3472,
+              "excerpt": ". https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
+              "line": 39,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 872,
+              "excerpt": "imit sodium to less than 2,300 mg per day (ideally 1,500 mg)\n- Read food labels carefully\n- Source: [CDC - Sodium and Food Sources](https://www.cdc.gov/salt/index.htm)\n\n### 4. **Exercise Regularly**\n- Aim for at least 150 minutes of moderate aerobic activity per wee",
+              "line": 18,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1677,
+              "excerpt": "medications without consulting your doctor\n- Use pill organizers or smartphone reminders\n- Source: [CDC - Managing Blood Pressure](https://www.cdc.gov/bloodpressure/manage.htm)\n\n### 7. **Limit Alcohol Consumption**\n- Men: No more than 2 drinks per day\n- Women: No more than 1",
+              "line": 33,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5180,
+              "excerpt": "ods.od.nih.gov/)\n\n## Additional Resources\n\n- [American Heart Association](https://www.heart.org/)\n- [Centers for Disease Control and Prevention - High Blood Pressure](https://www.cdc.gov/bloodpressure/)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hype",
+              "line": 100,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 8635,
+              "excerpt": "howtopreventhighbloodpressure.html)\n- **CDC**: Practical advice for living with high blood pressure [CDC](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[10]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)\n- **Mayo Clinic**: Detailed",
+              "line": 56,
+              "column": 65,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8711,
+              "excerpt": "ith high blood pressure [CDC](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[10]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)\n- **Mayo Clinic**: Detailed lifestyle strategies for controlling blood pressure [Mayo Clinic](http",
+              "line": 56,
+              "column": 141,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11669,
+              "excerpt": "s://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417\n10. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n11. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026\n12. https://www.yalemedicine.",
+              "line": 92,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 3
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 15,
+          "perplexity_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 4
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 2
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "health.harvard.edu",
+      "value": "health.harvard.edu",
+      "link": "https://health.harvard.edu",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 940,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 940,
+            "excerpt": "crease Potassium**: Foods like bananas, spinach, and sweet potatoes help balance sodium effects\n  - [Harvard Health - Potassium and Blood Pressure](https://www.health.harvard.edu/heart-health/potassium-lowers-blood-pressure)\n\n### Physical Activity\n- **150 minutes of moderate aerobic exercise weekly** (or 75 minutes of vig",
+            "line": 16,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 714,
+            "excerpt": "poultry. Avoid foods high in saturated and trans fats. Harvard Health provides additional insights: [Harvard Health](https://www.health.harvard.edu/staying-healthy/6-simple-tips-to-reduce-your-blood-pressure).\n\n3. **Limit Salt Intake**: Reducing salt is crucial, as sodium can increase blood pressure.\n\n4. *",
+            "line": 7,
+            "column": 258,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 666,
+            "excerpt": "vegetables, whole grains, and low-fat dairy products, can significantly reduce blood pressure[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+            "line": 5,
+            "column": 194,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1656,
+            "excerpt": "ng alcohol intake is important, with no more than two drinks per day for men and one for women[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+            "line": 7,
+            "column": 132,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2479,
+            "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756).\n- **Stage 2 Hypertension (140/90 mmHg or higher)**: Immediate treatment with medication is advise",
+            "line": 11,
+            "column": 351,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4649,
+            "excerpt": "edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09\n2. https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-bl",
+            "line": 26,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 4,
+        "perplexity_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 3,
+      "influence": 0.11935,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.07908,
+        "anthropic_claude_with_search_latest": 0.01279,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.11935,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05162
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1,
+        "2-what-do-experts-recommen-63a1a226": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.07576,
+        "2-what-do-experts-recommen-63a1a226": 0.93578,
+        "5-what-are-the-dos-and-don-beac9f51": 0.05162
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 4,
+        "2-what-do-experts-recommen-63a1a226": 3,
+        "5-what-are-the-dos-and-don-beac9f51": 2
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 940,
+              "excerpt": "crease Potassium**: Foods like bananas, spinach, and sweet potatoes help balance sodium effects\n  - [Harvard Health - Potassium and Blood Pressure](https://www.health.harvard.edu/heart-health/potassium-lowers-blood-pressure)\n\n### Physical Activity\n- **150 minutes of moderate aerobic exercise weekly** (or 75 minutes of vig",
+              "line": 16,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 666,
+              "excerpt": "vegetables, whole grains, and low-fat dairy products, can significantly reduce blood pressure[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+              "line": 5,
+              "column": 194,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1656,
+              "excerpt": "ng alcohol intake is important, with no more than two drinks per day for men and one for women[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+              "line": 7,
+              "column": 132,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2479,
+              "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756).\n- **Stage 2 Hypertension (140/90 mmHg or higher)**: Immediate treatment with medication is advise",
+              "line": 11,
+              "column": 351,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4649,
+              "excerpt": "edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09\n2. https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-bl",
+              "line": 26,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 714,
+              "excerpt": "poultry. Avoid foods high in saturated and trans fats. Harvard Health provides additional insights: [Harvard Health](https://www.health.harvard.edu/staying-healthy/6-simple-tips-to-reduce-your-blood-pressure).\n\n3. **Limit Salt Intake**: Reducing salt is crucial, as sodium can increase blood pressure.\n\n4. *",
+              "line": 7,
+              "column": 258,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": 4
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 3
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "openai_chatgpt_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "heart.org",
+      "value": "heart.org",
+      "link": "https://heart.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 42,
+        "anthropic_claude_with_search_latest": 19,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1624,
+        "anthropic_claude_with_search_latest": 518,
+        "openai_chatgpt_with_search_latest": 440
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 518,
+            "excerpt": "t, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n  - [American Heart Association - DASH Diet](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/dash-eating-plan)\n\n- **Reduce Sodium**: Limit to less than 2,300 mg daily (ideally 1,500 mg for most adults with hyp",
+            "line": 10,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1237,
+            "excerpt": "ly** (or 75 minutes of vigorous activity)\n- Activities like brisk walking, swimming, or cycling\n  - [American Heart Association - Physical Activity Guidelines](https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults)\n\n### Weight Management\n- **Lose excess weight**: Even 5-10 pounds can significantly reduce blood p",
+            "line": 21,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1929,
+            "excerpt": "erate-drinking.htm)\n\n### Quit Smoking\n- Smoking raises blood pressure and damages blood vessels\n  - [American Heart Association - Smoking and Cardiovascular Disease](https://www.heart.org/en/healthy-living/healthy-lifestyle/quit-smoking-tobacco)\n\n## 2. **Stress Management**\n\n- **Meditation and mindfulness**: Regular practice can lower blood p",
+            "line": 33,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2185,
+            "excerpt": "tress Management**\n\n- **Meditation and mindfulness**: Regular practice can lower blood pressure\n  - [American Heart Association - Meditation and Heart Health](https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/meditation-to-boost-health-and-wellbeing)\n\n- **Deep breathing exercises**\n- **Adequate sleep**: 7-9 hours nightly\n  - [CDC - Sleep and Chron",
+            "line": 38,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2663,
+            "excerpt": "gement**\n\n### Regular Monitoring\n- **Home blood pressure monitoring**: Track readings regularly\n  - [American Heart Association - Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)\n\n- **Target**: Generally below 130/80 mm Hg for most adults\n  - [American College of Cardiology -",
+            "line": 48,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 609,
+            "excerpt": "y less than 2,300 mg/day, or 1,500 mg for greater effect)\n\n### 2. **Regular Physical Activity**\nThe [American Heart Association (AHA)](https://www.heart.org/) recommends:\n- At least 150 minutes of moderate-intensity aerobic exercise per week\n- Or 75 minutes",
+            "line": 14,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1179,
+            "excerpt": "Limit Alcohol**\n- Men: No more than 2 drinks per day\n- Women: No more than 1 drink per day\n(Source: [AHA Guidelines](https://www.heart.org/en/health-topics/high-blood-pressure))\n\n### 5. **Reduce Sodium Intake**\nThe [FDA](https://www.fda.gov/) and medical experts recommend li",
+            "line": 25,
+            "column": 10,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 473,
+            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
+            "line": 11,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 1957,
+            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 260,
+            "excerpt": "a validated monitor\n- Keep a log of your readings to share with your healthcare provider\n- Source: [American Heart Association - Monitoring Your Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)\n\n### 2. **Follow the DASH Diet**\n- Eat fruits, vegetables, whole grains, and lean proteins\n- Focus",
+            "line": 8,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1391,
+            "excerpt": "- Lose weight if overweight (even 5-10 pounds can help)\n- Calculate and monitor your BMI\n- Source: [American Heart Association - Managing Weight](https://www.heart.org/en/healthy-living/healthy-eating/losing-weight)\n\n### 6. **Take Medications as Prescribed**\n- Never skip doses or stop medications without consulti",
+            "line": 28,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1878,
+            "excerpt": "Consumption**\n- Men: No more than 2 drinks per day\n- Women: No more than 1 drink per day\n- Source: [American Heart Association - Alcohol and Heart Health](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/alcohol-and-heart-health)\n\n### 8. **Manage Stress**\n- Practice relaxation techniques (meditation, deep breathing, yoga)\n- En",
+            "line": 38,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3007,
+            "excerpt": "acco**\n- Smoking raises blood pressure and damages blood vessels\n- Avoid secondhand smoke\n- Source: [American Heart Association - Smoking and Cardiovascular Disease](https://www.heart.org/en/healthy-living/healthy-lifestyle/quit-smoking-tobacco)\n\n### 3. **Don't Ignore Symptoms**\n- Don't dismiss severe headaches, chest pain, or vision changes",
+            "line": 60,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 4227,
+            "excerpt": "le**\n- Avoid prolonged sitting\n- Don't use \"being too busy\" as an excuse to skip exercise\n- Source: [American Heart Association - Physical Activity](https://www.heart.org/en/healthy-living/fitness)\n\n### 7. **Don't Eat Excessive Saturated and Trans Fats**\n- Avoid fried foods, fatty meats, and ful",
+            "line": 80,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 440,
+            "excerpt": "lso crucial. For detailed advice, you can refer to the American Heart Association's recommendations [here](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n   - **Weight Management**: Losing weight if you're overweight is one of the most effective lifes",
+            "line": 4,
+            "column": 244,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2104,
+            "excerpt": "oal is to keep blood pressure below 130/80 mm Hg ([American Heart Association](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know)).\n\nBy integrating these stra",
+            "line": 20,
+            "column": 175,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 400,
+            "excerpt": "d pressure. This includes a balanced diet, regular exercise, weight management, and reducing stress [heart.org](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n2. **DASH Diet**: The Dietary Approaches to Stop Hypertension (DASH) eating plan is particularly",
+            "line": 3,
+            "column": 246,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 483,
+            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
+            "line": 3,
+            "column": 337,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1624,
+            "excerpt": "re/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- Maintain a healthy body weight to reduce cardiovascular strain, with weight loss advised for o",
+            "line": 9,
+            "column": 443,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2432,
+            "excerpt": "treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- Avoid smoking, as tobacco damages blood vessel walls and increases risk of cardiovascular comp",
+            "line": 13,
+            "column": 315,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 3011,
+            "excerpt": "nd minimizing stressors[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Medical management best practices (upon diagnosis of hypertension):**\n\n- Establish individuali",
+            "line": 17,
+            "column": 184,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 5435,
+            "excerpt": "74)[[8]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[13]](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-rec",
+            "line": 39,
+            "column": 392,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 6811,
+            "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n# Citations\n\n1. https://pm",
+            "line": 43,
+            "column": 867,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 757,
+            "excerpt": "ure[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10). Limiting sodium intake to less than 2,300 mg per day is also recommended[[6]](https://www.heart.o",
+            "line": 5,
+            "column": 285,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 947,
+            "excerpt": "sure/high-bp-top-10). Limiting sodium intake to less than 2,300 mg per day is also recommended[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Weight Loss**: If y",
+            "line": 5,
+            "column": 475,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1297,
+            "excerpt": "can help lower blood pressure. Aiming for a 5% body weight reduction is a good starting point[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 6,
+            "column": 165,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1413,
+            "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n- **Alcohol Reduction**: Limiting alcohol intake is important, with no more than two drinks per d",
+            "line": 6,
+            "column": 281,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1747,
+            "excerpt": "men[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10).\n- **Stress Management**: Engaging in stress-reducing activities like meditation or yoga can also",
+            "line": 7,
+            "column": 223,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 6135,
+            "excerpt": "10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11. https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control",
+            "line": 41,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 979,
+            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
+            "line": 11,
+            "column": 168,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2799,
+            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
+            "line": 30,
+            "column": 65,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3165,
+            "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3374,
+            "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
+            "line": 38,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 584,
+            "excerpt": "Approaches to Stop Hypertension) eating plan is specifically designed to lower blood pressure[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10). Limit sodium intake to less than 2,300 mg per day (ideally under 1,500 mg)[[4]](https://www.heart",
+            "line": 9,
+            "column": 235,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 776,
+            "excerpt": "re/high-bp-top-10). Limit sodium intake to less than 2,300 mg per day (ideally under 1,500 mg)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+            "line": 9,
+            "column": 427,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1195,
+            "excerpt": "r week, such as brisk walking[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[7]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n- **Maintain a Healthy Weight**: Losing even a modest amount of weight can help lower blood press",
+            "line": 10,
+            "column": 193,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1478,
+            "excerpt": "can help lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10).\n- **Limit Alcohol**: Men should have no more than two drinks per day, and women no more than one[",
+            "line": 11,
+            "column": 172,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1692,
+            "excerpt": "**Limit Alcohol**: Men should have no more than two drinks per day, and women no more than one[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+            "line": 12,
+            "column": 103,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.14894,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.08571,
+        "anthropic_claude_with_search_latest": 0.33333,
+        "openai_chatgpt_with_search_latest": 0.33333
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4.8,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 3.27,
+      "influence": 1,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.08262,
+        "anthropic_claude_with_search_latest": 0.03077,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 21
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03731
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.04506
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 14,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 14
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 14,
+        "2-what-do-experts-recommen-63a1a226": 15,
+        "3-what-tools-or-resources--32f7f397": 9,
+        "4-what-should-beginners-kn-95667a84": 7,
+        "5-what-are-the-dos-and-don-beac9f51": 21
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.37332,
+        "2-what-do-experts-recommen-63a1a226": 0.79373,
+        "3-what-tools-or-resources--32f7f397": 0.72197,
+        "4-what-should-beginners-kn-95667a84": 0.65251,
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 42,
+          "anthropic_claude_with_search_latest": 19,
+          "openai_chatgpt_with_search_latest": 5
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 12,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 14,
+          "anthropic_claude_with_search_latest": 7,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 3,
+        "2-what-do-experts-recommen-63a1a226": 2.33,
+        "3-what-tools-or-resources--32f7f397": 8.67,
+        "4-what-should-beginners-kn-95667a84": 1.33,
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 518,
+              "excerpt": "t, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)\n  - [American Heart Association - DASH Diet](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/dash-eating-plan)\n\n- **Reduce Sodium**: Limit to less than 2,300 mg daily (ideally 1,500 mg for most adults with hyp",
+              "line": 10,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1237,
+              "excerpt": "ly** (or 75 minutes of vigorous activity)\n- Activities like brisk walking, swimming, or cycling\n  - [American Heart Association - Physical Activity Guidelines](https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults)\n\n### Weight Management\n- **Lose excess weight**: Even 5-10 pounds can significantly reduce blood p",
+              "line": 21,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1929,
+              "excerpt": "erate-drinking.htm)\n\n### Quit Smoking\n- Smoking raises blood pressure and damages blood vessels\n  - [American Heart Association - Smoking and Cardiovascular Disease](https://www.heart.org/en/healthy-living/healthy-lifestyle/quit-smoking-tobacco)\n\n## 2. **Stress Management**\n\n- **Meditation and mindfulness**: Regular practice can lower blood p",
+              "line": 33,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2185,
+              "excerpt": "tress Management**\n\n- **Meditation and mindfulness**: Regular practice can lower blood pressure\n  - [American Heart Association - Meditation and Heart Health](https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/meditation-to-boost-health-and-wellbeing)\n\n- **Deep breathing exercises**\n- **Adequate sleep**: 7-9 hours nightly\n  - [CDC - Sleep and Chron",
+              "line": 38,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2663,
+              "excerpt": "gement**\n\n### Regular Monitoring\n- **Home blood pressure monitoring**: Track readings regularly\n  - [American Heart Association - Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)\n\n- **Target**: Generally below 130/80 mm Hg for most adults\n  - [American College of Cardiology -",
+              "line": 48,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 440,
+              "excerpt": "lso crucial. For detailed advice, you can refer to the American Heart Association's recommendations [here](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n   - **Weight Management**: Losing weight if you're overweight is one of the most effective lifes",
+              "line": 4,
+              "column": 244,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2104,
+              "excerpt": "oal is to keep blood pressure below 130/80 mm Hg ([American Heart Association](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know)).\n\nBy integrating these stra",
+              "line": 20,
+              "column": 175,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1624,
+              "excerpt": "re/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- Maintain a healthy body weight to reduce cardiovascular strain, with weight loss advised for o",
+              "line": 9,
+              "column": 443,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2432,
+              "excerpt": "treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- Avoid smoking, as tobacco damages blood vessel walls and increases risk of cardiovascular comp",
+              "line": 13,
+              "column": 315,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3011,
+              "excerpt": "nd minimizing stressors[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Medical management best practices (upon diagnosis of hypertension):**\n\n- Establish individuali",
+              "line": 17,
+              "column": 184,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5435,
+              "excerpt": "74)[[8]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[13]](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-rec",
+              "line": 39,
+              "column": 392,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6811,
+              "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n# Citations\n\n1. https://pm",
+              "line": 43,
+              "column": 867,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 609,
+              "excerpt": "y less than 2,300 mg/day, or 1,500 mg for greater effect)\n\n### 2. **Regular Physical Activity**\nThe [American Heart Association (AHA)](https://www.heart.org/) recommends:\n- At least 150 minutes of moderate-intensity aerobic exercise per week\n- Or 75 minutes",
+              "line": 14,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1179,
+              "excerpt": "Limit Alcohol**\n- Men: No more than 2 drinks per day\n- Women: No more than 1 drink per day\n(Source: [AHA Guidelines](https://www.heart.org/en/health-topics/high-blood-pressure))\n\n### 5. **Reduce Sodium Intake**\nThe [FDA](https://www.fda.gov/) and medical experts recommend li",
+              "line": 25,
+              "column": 10,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 400,
+              "excerpt": "d pressure. This includes a balanced diet, regular exercise, weight management, and reducing stress [heart.org](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n2. **DASH Diet**: The Dietary Approaches to Stop Hypertension (DASH) eating plan is particularly",
+              "line": 3,
+              "column": 246,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 757,
+              "excerpt": "ure[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10). Limiting sodium intake to less than 2,300 mg per day is also recommended[[6]](https://www.heart.o",
+              "line": 5,
+              "column": 285,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 947,
+              "excerpt": "sure/high-bp-top-10). Limiting sodium intake to less than 2,300 mg per day is also recommended[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Weight Loss**: If y",
+              "line": 5,
+              "column": 475,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1297,
+              "excerpt": "can help lower blood pressure. Aiming for a 5% body weight reduction is a good starting point[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 6,
+              "column": 165,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1413,
+              "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n- **Alcohol Reduction**: Limiting alcohol intake is important, with no more than two drinks per d",
+              "line": 6,
+              "column": 281,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1747,
+              "excerpt": "men[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756)[[6]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10).\n- **Stress Management**: Engaging in stress-reducing activities like meditation or yoga can also",
+              "line": 7,
+              "column": 223,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2114,
+              "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+              "line": 37,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4564,
+              "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+              "line": 74,
+              "column": 74,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 404,
+              "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+              "line": 4,
+              "column": 237,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2777,
+              "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+              "line": 13,
+              "column": 405,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2885,
+              "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+              "line": 13,
+              "column": 513,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3911,
+              "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+              "line": 17,
+              "column": 497,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4929,
+              "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+              "line": 25,
+              "column": 57,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6135,
+              "excerpt": "10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11. https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control",
+              "line": 41,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 473,
+              "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
+              "line": 11,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1957,
+              "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
+              "line": 49,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 483,
+              "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
+              "line": 3,
+              "column": 337,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 979,
+              "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
+              "line": 11,
+              "column": 168,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2799,
+              "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
+              "line": 30,
+              "column": 65,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3165,
+              "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
+              "line": 36,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3374,
+              "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
+              "line": 38,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 260,
+              "excerpt": "a validated monitor\n- Keep a log of your readings to share with your healthcare provider\n- Source: [American Heart Association - Monitoring Your Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)\n\n### 2. **Follow the DASH Diet**\n- Eat fruits, vegetables, whole grains, and lean proteins\n- Focus",
+              "line": 8,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1391,
+              "excerpt": "- Lose weight if overweight (even 5-10 pounds can help)\n- Calculate and monitor your BMI\n- Source: [American Heart Association - Managing Weight](https://www.heart.org/en/healthy-living/healthy-eating/losing-weight)\n\n### 6. **Take Medications as Prescribed**\n- Never skip doses or stop medications without consulti",
+              "line": 28,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1878,
+              "excerpt": "Consumption**\n- Men: No more than 2 drinks per day\n- Women: No more than 1 drink per day\n- Source: [American Heart Association - Alcohol and Heart Health](https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/alcohol-and-heart-health)\n\n### 8. **Manage Stress**\n- Practice relaxation techniques (meditation, deep breathing, yoga)\n- En",
+              "line": 38,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3007,
+              "excerpt": "acco**\n- Smoking raises blood pressure and damages blood vessels\n- Avoid secondhand smoke\n- Source: [American Heart Association - Smoking and Cardiovascular Disease](https://www.heart.org/en/healthy-living/healthy-lifestyle/quit-smoking-tobacco)\n\n### 3. **Don't Ignore Symptoms**\n- Don't dismiss severe headaches, chest pain, or vision changes",
+              "line": 60,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4227,
+              "excerpt": "le**\n- Avoid prolonged sitting\n- Don't use \"being too busy\" as an excuse to skip exercise\n- Source: [American Heart Association - Physical Activity](https://www.heart.org/en/healthy-living/fitness)\n\n### 7. **Don't Eat Excessive Saturated and Trans Fats**\n- Avoid fried foods, fatty meats, and ful",
+              "line": 80,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 584,
+              "excerpt": "Approaches to Stop Hypertension) eating plan is specifically designed to lower blood pressure[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10). Limit sodium intake to less than 2,300 mg per day (ideally under 1,500 mg)[[4]](https://www.heart",
+              "line": 9,
+              "column": 235,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 776,
+              "excerpt": "re/high-bp-top-10). Limit sodium intake to less than 2,300 mg per day (ideally under 1,500 mg)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+              "line": 9,
+              "column": 427,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1195,
+              "excerpt": "r week, such as brisk walking[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[7]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n- **Maintain a Healthy Weight**: Losing even a modest amount of weight can help lower blood press",
+              "line": 10,
+              "column": 193,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1478,
+              "excerpt": "can help lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10).\n- **Limit Alcohol**: Men should have no more than two drinks per day, and women no more than one[",
+              "line": 11,
+              "column": 172,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1692,
+              "excerpt": "**Limit Alcohol**: Men should have no more than two drinks per day, and women no more than one[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+              "line": 12,
+              "column": 103,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 14,
+          "perplexity_with_search_latest": 11,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ama-assn.org",
+      "value": "ama-assn.org",
+      "link": "https://ama-assn.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3329,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3329,
+            "excerpt": "tics\n- Calcium channel blockers\n- Beta-blockers\n\n**Always consult with your healthcare provider** - [Find a Doctor via American Medical Association](https://www.ama-assn.org/delivering-care/patient-support-advocacy/find-doctor)\n\n## 4. **Regular Medical Care**\n\n- **Regular check-ups**: Visit your doctor as recommended\n- **Med",
+            "line": 61,
+            "column": 52,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1510,
+            "excerpt": "Medical Management\n\n### 1. **Regular Monitoring**\n- Home blood pressure monitors recommended by the [American Medical Association (AMA)](https://www.ama-assn.org/)\n- Regular check-ups with healthcare providers\n\n### 2. **Medications (When Needed)**\nAccording to [",
+            "line": 33,
+            "column": 51,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5.5
+      },
+      "appearanceOrder": 5.5,
+      "influence": 0.10477,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10477,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2015
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1,
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.05864,
+        "2-what-do-experts-recommen-63a1a226": 0.2015
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 7,
+        "2-what-do-experts-recommen-63a1a226": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3329,
+              "excerpt": "tics\n- Calcium channel blockers\n- Beta-blockers\n\n**Always consult with your healthcare provider** - [Find a Doctor via American Medical Association](https://www.ama-assn.org/delivering-care/patient-support-advocacy/find-doctor)\n\n## 4. **Regular Medical Care**\n\n- **Regular check-ups**: Visit your doctor as recommended\n- **Med",
+              "line": 61,
+              "column": 52,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1510,
+              "excerpt": "Medical Management\n\n### 1. **Regular Monitoring**\n- Home blood pressure monitors recommended by the [American Medical Association (AMA)](https://www.ama-assn.org/)\n- Regular check-ups with healthcare providers\n\n### 2. **Medications (When Needed)**\nAccording to [",
+              "line": 33,
+              "column": 51,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": 7
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "hopkinsmedicine.org",
+      "value": "hopkinsmedicine.org",
+      "link": "https://hopkinsmedicine.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4349,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4349,
+            "excerpt": "ealth Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hypertension)\n- [Johns Hopkins Medicine - Hypertension](https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension)\n\n**Important**: This information is for educational purposes. Always consult with your healthcare",
+            "line": 83,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2669,
+            "excerpt": "s://www.who.int/news-room/fact-sheets/detail/hypertension)**: Global perspective and guidelines\n- **[Johns Hopkins Medicine - High Blood Pressure](https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension)**: Expert medical information\n\n## Important Notes\n\n1. **Consult Healthcare Providers**: Always wor",
+            "line": 60,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.08925,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08925,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15595
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1,
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.05296,
+        "2-what-do-experts-recommen-63a1a226": 0.15595
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 9,
+        "2-what-do-experts-recommen-63a1a226": 7
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4349,
+              "excerpt": "ealth Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hypertension)\n- [Johns Hopkins Medicine - Hypertension](https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension)\n\n**Important**: This information is for educational purposes. Always consult with your healthcare",
+              "line": 83,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2669,
+              "excerpt": "s://www.who.int/news-room/fact-sheets/detail/hypertension)**: Global perspective and guidelines\n- **[Johns Hopkins Medicine - High Blood Pressure](https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension)**: Expert medical information\n\n## Important Notes\n\n1. **Consult Healthcare Providers**: Always wor",
+              "line": 60,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": 9
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mayoclinic.org",
+      "value": "mayoclinic.org",
+      "link": "https://mayoclinic.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 30,
+        "anthropic_claude_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 443,
+        "anthropic_claude_with_search_latest": 1512,
+        "openai_chatgpt_with_search_latest": 788
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1512,
+            "excerpt": "t Management\n- **Lose excess weight**: Even 5-10 pounds can significantly reduce blood pressure\n  - [Mayo Clinic - Blood Pressure and Weight Loss](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\n### Limit Alcohol\n- **Maximum**: 2 drinks/day for men, 1 drink/day for women\n  - [CDC - Alcohol a",
+            "line": 25,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1671,
+            "excerpt": "/)\n- Regular check-ups with healthcare providers\n\n### 2. **Medications (When Needed)**\nAccording to [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417), common medications include:\n- **ACE inhibitors**\n- **ARBs (Angiotensin II receptor blockers)**\n-",
+            "line": 37,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1578,
+            "excerpt": "- DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-",
+            "line": 27,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 2373,
+            "excerpt": "h Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)** - Symptoms, causes, and treatment\n4. **[Cleveland Clinic - Hypertension Center](https://my.cleve",
+            "line": 39,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1453,
+            "excerpt": "loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410):\n\n- **Age**: Risk increases as you get older\n- **Family history**: Genetic predisposition\n- **Obes",
+            "line": 36,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 1095,
+            "excerpt": "inutes of moderate aerobic activity per week\n- Include strength training 2+ days per week\n- Source: [Mayo Clinic - Exercise and High Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045206)\n\n### 5. **Maintain a Healthy Weight**\n- Lose weight if overweight (even 5-10 pounds can help)\n- Ca",
+            "line": 23,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2190,
+            "excerpt": "techniques (meditation, deep breathing, yoga)\n- Ensure adequate sleep (7-9 hours nightly)\n- Source: [Mayo Clinic - Stress and High Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/stress-and-high-blood-pressure/art-20044190)\n\n### 9. **Regular Check-ups**\n- Visit your healthcare provider regularly\n- Screen for related cond",
+            "line": 43,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3325,
+            "excerpt": "t pain, or vision changes\n- Seek immediate medical attention for hypertensive emergencies\n- Source: [Mayo Clinic - High Blood Pressure Dangers](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045868)\n\n### 4. **Don't Skip Medications**\n- Never stop taking blood pressure medication without medical s",
+            "line": 65,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3932,
+            "excerpt": "y drinks if they spike your blood pressure\n- Monitor your individual response to caffeine\n- Source: [Mayo Clinic - Caffeine and Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058543)\n\n### 6. **Don't Lead a Sedentary Lifestyle**\n- Avoid prolonged sitting\n- Don't use \"being too busy",
+            "line": 75,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 788,
+            "excerpt": "ibuting factor to increasing blood pressure, partly due to the associated condition of sleep apnea ([source](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)). \n\n2. **Regular Monitoring**:\n   - Regular blood pressure checks are important for early detectio",
+            "line": 5,
+            "column": 230,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1456,
+            "excerpt": "palpitations, or nosebleeds as symptoms. For more details on symptoms and causes, you can visit the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n4. **Risk Factors**: Factors that increase the risk of developing high blood pressure include a",
+            "line": 7,
+            "column": 355,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2228,
+            "excerpt": "iding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974) provides guidance on controlling blood pressure without medication.\n\nIt's essential for individual",
+            "line": 11,
+            "column": 306,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 443,
+            "excerpt": "zes fruits, vegetables, whole grains, low-fat dairy, and reduced saturated fat and cholesterol[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20",
+            "line": 5,
+            "column": 208,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 558,
+            "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.go",
+            "line": 5,
+            "column": 323,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 940,
+            "excerpt": "an 1,500 to 2,300 mg per day, focusing on minimizing processed and packaged foods high in salt[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/hi",
+            "line": 7,
+            "column": 142,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1372,
+            "excerpt": "e aerobic exercise (e.g., brisk walking, jogging, cycling) plus strength training twice weekly[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high",
+            "line": 9,
+            "column": 191,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1869,
+            "excerpt": "to reduce cardiovascular strain, with weight loss advised for overweight or obese individuals[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high",
+            "line": 11,
+            "column": 133,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 5645,
+            "excerpt": "edicine.org/news/high-blood-pressure-hypertension\n13. https://pubmed.ncbi.nlm.nih.gov/40811516/\n14. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n15. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n16. https://my.clevelandclinic.org",
+            "line": 38,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 400,
+            "excerpt": "onsistently too high. This condition can lead to serious health issues if not managed properly[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n## Blood Pressure Categories\nBlood pressure is categorized based on two numbers: **systolic** (t",
+            "line": 4,
+            "column": 233,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 877,
+            "excerpt": "Hypertension**: 130-139/80-89 mmHg\n- **Stage 2 Hypertension**: 140 or higher/90 or higher mmHg[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readi",
+            "line": 11,
+            "column": 66,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2355,
+            "excerpt": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n\nIf lifestyle changes are insufficient, medication may be prescribed. Types include diuretics, AC",
+            "line": 26,
+            "column": 144,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2853,
+            "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1",
+            "line": 30,
+            "column": 119,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2996,
+            "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/h",
+            "line": 34,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 892,
+            "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Stay Physically Active**: Aim for at least 150 minutes of moderate-intensity exercise per wee",
+            "line": 9,
+            "column": 543,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1808,
+            "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Quit Smoking**: Smoking increases blood pressure and heart disease risk. If you don’t smoke,",
+            "line": 12,
+            "column": 219,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2700,
+            "excerpt": "Prioritize good sleep hygiene[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Take Prescribed Medications Properly**: Follow your healthcare provider’s instructions for an",
+            "line": 15,
+            "column": 187,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3553,
+            "excerpt": "ssium-rich foods in your diet[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417).\n\n---\n\n## Lifestyle Don’ts\n\n- **Don’t Consume Excess Sodium**: Avoid processed foods, canned soups",
+            "line": 18,
+            "column": 264,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3879,
+            "excerpt": "cks, which are high in sodium[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Don’t Drink Excess Alcohol**: Overconsumption raises blood pressure and can interfere with me",
+            "line": 24,
+            "column": 198,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 18,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.14894,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.17143,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3.75,
+        "anthropic_claude_with_search_latest": 5.8,
+        "openai_chatgpt_with_search_latest": 2.5
+      },
+      "appearanceOrder": 5.47,
+      "influence": 0.51781,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.20053,
+        "anthropic_claude_with_search_latest": 0.03685,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.51781,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.45938
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.66419
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.01462
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 14,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 14
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 14,
+        "2-what-do-experts-recommen-63a1a226": 2,
+        "3-what-tools-or-resources--32f7f397": 2,
+        "4-what-should-beginners-kn-95667a84": 9,
+        "5-what-are-the-dos-and-don-beac9f51": 15
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.43576,
+        "2-what-do-experts-recommen-63a1a226": 0.14339,
+        "3-what-tools-or-resources--32f7f397": 0.37193,
+        "4-what-should-beginners-kn-95667a84": 0.89308,
+        "5-what-are-the-dos-and-don-beac9f51": 0.45938
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 30,
+          "anthropic_claude_with_search_latest": 9,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2.67,
+        "2-what-do-experts-recommen-63a1a226": 8,
+        "3-what-tools-or-resources--32f7f397": 11,
+        "4-what-should-beginners-kn-95667a84": 2.67,
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1512,
+              "excerpt": "t Management\n- **Lose excess weight**: Even 5-10 pounds can significantly reduce blood pressure\n  - [Mayo Clinic - Blood Pressure and Weight Loss](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\n### Limit Alcohol\n- **Maximum**: 2 drinks/day for men, 1 drink/day for women\n  - [CDC - Alcohol a",
+              "line": 25,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 788,
+              "excerpt": "ibuting factor to increasing blood pressure, partly due to the associated condition of sleep apnea ([source](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)). \n\n2. **Regular Monitoring**:\n   - Regular blood pressure checks are important for early detectio",
+              "line": 5,
+              "column": 230,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 443,
+              "excerpt": "zes fruits, vegetables, whole grains, low-fat dairy, and reduced saturated fat and cholesterol[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20",
+              "line": 5,
+              "column": 208,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 558,
+              "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.go",
+              "line": 5,
+              "column": 323,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 940,
+              "excerpt": "an 1,500 to 2,300 mg per day, focusing on minimizing processed and packaged foods high in salt[[3]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/hi",
+              "line": 7,
+              "column": 142,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1372,
+              "excerpt": "e aerobic exercise (e.g., brisk walking, jogging, cycling) plus strength training twice weekly[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high",
+              "line": 9,
+              "column": 191,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1869,
+              "excerpt": "to reduce cardiovascular strain, with weight loss advised for overweight or obese individuals[[2]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high",
+              "line": 11,
+              "column": 133,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1671,
+              "excerpt": "/)\n- Regular check-ups with healthcare providers\n\n### 2. **Medications (When Needed)**\nAccording to [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417), common medications include:\n- **ACE inhibitors**\n- **ARBs (Angiotensin II receptor blockers)**\n-",
+              "line": 37,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5645,
+              "excerpt": "edicine.org/news/high-blood-pressure-hypertension\n13. https://pubmed.ncbi.nlm.nih.gov/40811516/\n14. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n15. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n16. https://my.clevelandclinic.org",
+              "line": 38,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1578,
+              "excerpt": "- DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-",
+              "line": 27,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2373,
+              "excerpt": "h Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)** - Symptoms, causes, and treatment\n4. **[Cleveland Clinic - Hypertension Center](https://my.cleve",
+              "line": 39,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1453,
+              "excerpt": "loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410):\n\n- **Age**: Risk increases as you get older\n- **Family history**: Genetic predisposition\n- **Obes",
+              "line": 36,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1456,
+              "excerpt": "palpitations, or nosebleeds as symptoms. For more details on symptoms and causes, you can visit the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n4. **Risk Factors**: Factors that increase the risk of developing high blood pressure include a",
+              "line": 7,
+              "column": 355,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2228,
+              "excerpt": "iding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974) provides guidance on controlling blood pressure without medication.\n\nIt's essential for individual",
+              "line": 11,
+              "column": 306,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 400,
+              "excerpt": "onsistently too high. This condition can lead to serious health issues if not managed properly[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n## Blood Pressure Categories\nBlood pressure is categorized based on two numbers: **systolic** (t",
+              "line": 4,
+              "column": 233,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 877,
+              "excerpt": "Hypertension**: 130-139/80-89 mmHg\n- **Stage 2 Hypertension**: 140 or higher/90 or higher mmHg[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readi",
+              "line": 11,
+              "column": 66,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2355,
+              "excerpt": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n\nIf lifestyle changes are insufficient, medication may be prescribed. Types include diuretics, AC",
+              "line": 26,
+              "column": 144,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2853,
+              "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1",
+              "line": 30,
+              "column": 119,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2996,
+              "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/h",
+              "line": 34,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1095,
+              "excerpt": "inutes of moderate aerobic activity per week\n- Include strength training 2+ days per week\n- Source: [Mayo Clinic - Exercise and High Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045206)\n\n### 5. **Maintain a Healthy Weight**\n- Lose weight if overweight (even 5-10 pounds can help)\n- Ca",
+              "line": 23,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2190,
+              "excerpt": "techniques (meditation, deep breathing, yoga)\n- Ensure adequate sleep (7-9 hours nightly)\n- Source: [Mayo Clinic - Stress and High Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/stress-and-high-blood-pressure/art-20044190)\n\n### 9. **Regular Check-ups**\n- Visit your healthcare provider regularly\n- Screen for related cond",
+              "line": 43,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3325,
+              "excerpt": "t pain, or vision changes\n- Seek immediate medical attention for hypertensive emergencies\n- Source: [Mayo Clinic - High Blood Pressure Dangers](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20045868)\n\n### 4. **Don't Skip Medications**\n- Never stop taking blood pressure medication without medical s",
+              "line": 65,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3932,
+              "excerpt": "y drinks if they spike your blood pressure\n- Monitor your individual response to caffeine\n- Source: [Mayo Clinic - Caffeine and Blood Pressure](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058543)\n\n### 6. **Don't Lead a Sedentary Lifestyle**\n- Avoid prolonged sitting\n- Don't use \"being too busy",
+              "line": 75,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 892,
+              "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Stay Physically Active**: Aim for at least 150 minutes of moderate-intensity exercise per wee",
+              "line": 9,
+              "column": 543,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1808,
+              "excerpt": "t.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Quit Smoking**: Smoking increases blood pressure and heart disease risk. If you don’t smoke,",
+              "line": 12,
+              "column": 219,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2700,
+              "excerpt": "Prioritize good sleep hygiene[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Take Prescribed Medications Properly**: Follow your healthcare provider’s instructions for an",
+              "line": 15,
+              "column": 187,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3553,
+              "excerpt": "ssium-rich foods in your diet[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417).\n\n---\n\n## Lifestyle Don’ts\n\n- **Don’t Consume Excess Sodium**: Avoid processed foods, canned soups",
+              "line": 18,
+              "column": 264,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3879,
+              "excerpt": "cks, which are high in sodium[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n- **Don’t Drink Excess Alcohol**: Overconsumption raises blood pressure and can interfere with me",
+              "line": 24,
+              "column": 198,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 5
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 11
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "blog.ochsner.org",
+      "value": "blog.ochsner.org",
+      "link": "https://blog.ochsner.org",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1122
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1122,
+            "excerpt": "Home monitoring can complement regular office visits to track blood pressure variations over time ([Ochsner Health](https://blog.ochsner.org/articles/the-truth-about-americas-silent-killer-high-blood-pressure)).\n\n3. **Physical Activity**:\n   - Engaging in regular physical activity can help lower blood press",
+            "line": 8,
+            "column": 185,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.07074,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.07074,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08795
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.08795
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 3
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1122,
+              "excerpt": "Home monitoring can complement regular office visits to track blood pressure variations over time ([Ochsner Health](https://blog.ochsner.org/articles/the-truth-about-americas-silent-killer-high-blood-pressure)).\n\n3. **Physical Activity**:\n   - Engaging in regular physical activity can help lower blood press",
+              "line": 8,
+              "column": 185,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "primehv.com",
+      "value": "primehv.com",
+      "link": "https://primehv.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1769
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1769,
+            "excerpt": "breathing, and yoga can help manage stress, which is a significant factor in blood pressure levels ([Prime Heart and Vascular](https://www.primehv.com/heart-health/how-to-lower-blood-pressure-naturally-a-complete-guide/)).\n\n6. **Adhere to Medical Guidelines**:\n   - According to the 2025 High Blood Pressure Guidelines,",
+            "line": 17,
+            "column": 142,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.06094,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.06094,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07576
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.07576
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1769,
+              "excerpt": "breathing, and yoga can help manage stress, which is a significant factor in blood pressure levels ([Prime Heart and Vascular](https://www.primehv.com/heart-health/how-to-lower-blood-pressure-naturally-a-complete-guide/)).\n\n6. **Adhere to Medical Guidelines**:\n   - According to the 2025 High Blood Pressure Guidelines,",
+              "line": 17,
+              "column": 142,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "professional.heart.org",
+      "value": "professional.heart.org",
+      "link": "https://professional.heart.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2054
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2054,
+            "excerpt": "25 High Blood Pressure Guidelines, the treatment goal is to keep blood pressure below 130/80 mm Hg ([American Heart Association](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know)).\n\nBy integrating these strategies, individuals can better manage their blood pressure and reduce",
+            "line": 20,
+            "column": 125,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3792,
+            "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline).\n\nFor more detailed information, you can refer to the updated guidelines from the American College",
+            "line": 17,
+            "column": 283,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4215,
+            "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline). \n\nYou can also visit the American Heart Association's website for additional resources on managin",
+            "line": 19,
+            "column": 339,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4872,
+            "excerpt": "1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/h",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5,
+        "perplexity_with_search_latest": 8
+      },
+      "appearanceOrder": 6.5,
+      "influence": 0.06843,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.06109,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.06843,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.4428
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1,
+        "2-what-do-experts-recommen-63a1a226": 3
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.06806,
+        "2-what-do-experts-recommen-63a1a226": 0.4428
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 5,
+        "2-what-do-experts-recommen-63a1a226": 8
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2054,
+              "excerpt": "25 High Blood Pressure Guidelines, the treatment goal is to keep blood pressure below 130/80 mm Hg ([American Heart Association](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline/top-things-to-know)).\n\nBy integrating these strategies, individuals can better manage their blood pressure and reduce",
+              "line": 20,
+              "column": 125,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3792,
+              "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline).\n\nFor more detailed information, you can refer to the updated guidelines from the American College",
+              "line": 17,
+              "column": 283,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4215,
+              "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline). \n\nYou can also visit the American Heart Association's website for additional resources on managin",
+              "line": 19,
+              "column": 339,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4872,
+              "excerpt": "1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/h",
+              "line": 29,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "openai_chatgpt_with_search_latest": 5
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "who.int",
+      "value": "who.int",
+      "link": "https://who.int",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4241,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4241,
+            "excerpt": "Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hypertension)\n- [Johns Hopkins Medicine - Hypertension](https://www.hopkinsmedicine.org/health/conditions-and-di",
+            "line": 82,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.04464,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04464,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0555
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.0555
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 8
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4241,
+              "excerpt": "Institutes of Health - High Blood Pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n- [World Health Organization - Hypertension](https://www.who.int/news-room/fact-sheets/detail/hypertension)\n- [Johns Hopkins Medicine - Hypertension](https://www.hopkinsmedicine.org/health/conditions-and-di",
+              "line": 82,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nyulangone.org",
+      "value": "nyulangone.org",
+      "link": "https://nyulangone.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1046,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1046,
+            "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical",
+            "line": 7,
+            "column": 248,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2361,
+            "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 13,
+            "column": 244,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2940,
+            "excerpt": "ess through adequate sleep, relaxation techniques (yoga, meditation), and minimizing stressors[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 17,
+            "column": 113,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 7278,
+            "excerpt": "ps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417\n4. https://nyulangone.org/conditions/high-blood-pressure/prevention\n5. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n6. https://www.cdc.gov/high-blood",
+            "line": 50,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04255,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05714,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.21892,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.21892,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.27223
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 4
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.27223
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 5
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1046,
+              "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical",
+              "line": 7,
+              "column": 248,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2361,
+              "excerpt": "//www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417)[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 13,
+              "column": 244,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2940,
+              "excerpt": "ess through adequate sleep, relaxation techniques (yoga, meditation), and minimizing stressors[[4]](https://nyulangone.org/conditions/high-blood-pressure/prevention)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 17,
+              "column": 113,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7278,
+              "excerpt": "ps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417\n4. https://nyulangone.org/conditions/high-blood-pressure/prevention\n5. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n6. https://www.cdc.gov/high-blood",
+              "line": 50,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "pmc.ncbi.nlm.nih.gov",
+      "value": "pmc.ncbi.nlm.nih.gov",
+      "link": "https://pmc.ncbi.nlm.nih.gov",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3312,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3312,
+            "excerpt": "ividualized blood pressure targets through shared decision-making between patient and provider[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Use pharmacological treatment when needed, often starting with a fixed-dose combination of med",
+            "line": 21,
+            "column": 116,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 3606,
+            "excerpt": "ned with calcium channel blockers or thiazide-type diuretics to improve adherence and efficacy[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guid",
+            "line": 23,
+            "column": 242,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4008,
+            "excerpt": "nnel blockade and chlorthalidone or indapamide over hydrochlorothiazide due to better outcomes[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Regular follow-up visits (monthly until blood pressure targets are met) with possible use of t",
+            "line": 25,
+            "column": 165,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4212,
+            "excerpt": "ssure targets are met) with possible use of telehealth to enhance monitoring and communication[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Screen for and address social determinants of health and barriers to care[[1]](https://pmc.ncb",
+            "line": 27,
+            "column": 152,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4346,
+            "excerpt": "les/PMC8034801/).\n\n- Screen for and address social determinants of health and barriers to care[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Employ multidisciplinary care teams to support lifestyle change adherence and medication manag",
+            "line": 29,
+            "column": 82,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 6770,
+            "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Be Aware of Comorbidities**: M",
+            "line": 39,
+            "column": 328,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 7041,
+            "excerpt": "ns like diabetes, obesity, and high cholesterol is important for overall cardiovascular health[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+            "line": 40,
+            "column": 157,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 11026,
+            "excerpt": "-ESH-Hypertension-Guideline-Update\n2. https://medlineplus.gov/howtopreventhighbloodpressure.html\n3. https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/\n4. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/h",
+            "line": 85,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.08511,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.11429,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7.5
+      },
+      "appearanceOrder": 7.5,
+      "influence": 0.50402,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.50402,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07745
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 8,
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.46914,
+        "5-what-are-the-dos-and-don-beac9f51": 0.07745
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 7,
+        "5-what-are-the-dos-and-don-beac9f51": 8
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3312,
+              "excerpt": "ividualized blood pressure targets through shared decision-making between patient and provider[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Use pharmacological treatment when needed, often starting with a fixed-dose combination of med",
+              "line": 21,
+              "column": 116,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3606,
+              "excerpt": "ned with calcium channel blockers or thiazide-type diuretics to improve adherence and efficacy[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guid",
+              "line": 23,
+              "column": 242,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4008,
+              "excerpt": "nnel blockade and chlorthalidone or indapamide over hydrochlorothiazide due to better outcomes[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Regular follow-up visits (monthly until blood pressure targets are met) with possible use of t",
+              "line": 25,
+              "column": 165,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4212,
+              "excerpt": "ssure targets are met) with possible use of telehealth to enhance monitoring and communication[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Screen for and address social determinants of health and barriers to care[[1]](https://pmc.ncb",
+              "line": 27,
+              "column": 152,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4346,
+              "excerpt": "les/PMC8034801/).\n\n- Screen for and address social determinants of health and barriers to care[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/).\n\n- Employ multidisciplinary care teams to support lifestyle change adherence and medication manag",
+              "line": 29,
+              "column": 82,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6770,
+              "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Be Aware of Comorbidities**: M",
+              "line": 39,
+              "column": 328,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7041,
+              "excerpt": "ns like diabetes, obesity, and high cholesterol is important for overall cardiovascular health[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+              "line": 40,
+              "column": 157,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11026,
+              "excerpt": "-ESH-Hypertension-Guideline-Update\n2. https://medlineplus.gov/howtopreventhighbloodpressure.html\n3. https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/\n4. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/h",
+              "line": 85,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 7
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ahajournals.org",
+      "value": "ahajournals.org",
+      "link": "https://ahajournals.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3775,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3775,
+            "excerpt": "cc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[15]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026).\n\n- Prefer long-acting medications like amlodipine for calcium channel blockade and chlorthalidone",
+            "line": 23,
+            "column": 411,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 7788,
+            "excerpt": "art.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure\n10. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbea",
+            "line": 56,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 8250,
+            "excerpt": "w.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n15. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026",
+            "line": 61,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2861,
+            "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[3]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467).\n- **Types of Medications**: Common high blood pressure medications include ACE inhibitors, ARBs,",
+            "line": 12,
+            "column": 296,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4737,
+            "excerpt": "/2025/09\n2. https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 5070,
+            "excerpt": "eart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10\n7. https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356\n8. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-b",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 5758,
+            "excerpt": "ayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n15. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n16. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+            "line": 39,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 782,
+            "excerpt": "ng continuous and less stressful measurements to improve detection and personalized management[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Standardized Treatment Protocols and Clinical Support Tools**: Protocols help clinicians del",
+            "line": 5,
+            "column": 477,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 2304,
+            "excerpt": "cess to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education and Lifestyle Support Materials**: Resources from organizations like the A",
+            "line": 11,
+            "column": 341,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5838,
+            "excerpt": "ww.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature",
+            "line": 37,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03191,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04286,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6.67
+      },
+      "appearanceOrder": 6.67,
+      "influence": 0.48131,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.48131,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.86134
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 3,
+        "2-what-do-experts-recommen-63a1a226": 4,
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.15889,
+        "2-what-do-experts-recommen-63a1a226": 0.62388,
+        "3-what-tools-or-resources--32f7f397": 0.86134
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 9,
+        "2-what-do-experts-recommen-63a1a226": 7,
+        "3-what-tools-or-resources--32f7f397": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3775,
+              "excerpt": "cc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[15]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026).\n\n- Prefer long-acting medications like amlodipine for calcium channel blockade and chlorthalidone",
+              "line": 23,
+              "column": 411,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7788,
+              "excerpt": "art.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure\n10. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbea",
+              "line": 56,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8250,
+              "excerpt": "w.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n15. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026",
+              "line": 61,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2861,
+              "excerpt": "/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[3]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467).\n- **Types of Medications**: Common high blood pressure medications include ACE inhibitors, ARBs,",
+              "line": 12,
+              "column": 296,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4737,
+              "excerpt": "/2025/09\n2. https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756\n3. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org",
+              "line": 27,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5070,
+              "excerpt": "eart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10\n7. https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356\n8. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-b",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5758,
+              "excerpt": "ayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n15. https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249\n16. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+              "line": 39,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 782,
+              "excerpt": "ng continuous and less stressful measurements to improve detection and personalized management[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Standardized Treatment Protocols and Clinical Support Tools**: Protocols help clinicians del",
+              "line": 5,
+              "column": 477,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2304,
+              "excerpt": "cess to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education and Lifestyle Support Materials**: Resources from organizations like the A",
+              "line": 11,
+              "column": 341,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5838,
+              "excerpt": "ww.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature",
+              "line": 37,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 9
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 7
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "acc.org",
+      "value": "acc.org",
+      "link": "https://acc.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 13,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3662,
+        "anthropic_claude_with_search_latest": 2926,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2926,
+            "excerpt": "toring-your-blood-pressure-at-home)\n\n- **Target**: Generally below 130/80 mm Hg for most adults\n  - [American College of Cardiology - Blood Pressure Guidelines](https://www.acc.org/latest-in-cardiology/articles/2017/11/08/11/47/mon-5pm-bp-guideline-aha-2017)\n\n### Medications\nIf lifestyle changes aren't enough, medications may include:\n- ACE inhibitors\n- A",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 3200,
+            "excerpt": "nsistency is Key**: Blood pressure management is typically a long-term commitment\n\nAccording to the [2017 ACC/AHA Guidelines](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2017/11/09/11/41/2017-guideline-for-high-blood-pressure-in-adults), normal blood pressure is less than 120/80 mmHg, and hypertension is defined as 130/80 mmHg or hig",
+            "line": 68,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2727,
+            "excerpt": "/4314-hypertension-high-blood-pressure)** - Expert medical information\n\n### Clinical Guidelines\n- **[American College of Cardiology (ACC)](https://www.acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-High-Blood-Pressure-in-Adults)** - Latest BP guidelines\n- **[European Society of Hypertension](https://www.eshonline.org/)** - In",
+            "line": 43,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3662,
+            "excerpt": "tics to improve adherence and efficacy[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[15]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026).\n\n- Prefer long-acting me",
+            "line": 23,
+            "column": 298,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4667,
+            "excerpt": "er renal denervation therapy as an option for resistant hypertension under specialist guidance[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n\n**Additional notes:**\n\n- Monitoring blood pressure both in-office and with home/out-of-office de",
+            "line": 33,
+            "column": 109,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 4935,
+            "excerpt": "office and with home/out-of-office devices improves diagnostic accuracy and treatment efficacy[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n\n- A comprehensive approach combining lifestyle intervention and medication when indicated leads",
+            "line": 37,
+            "column": 137,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 6699,
+            "excerpt": "re/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 43,
+            "column": 755,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 7477,
+            "excerpt": "pressure/living-with/index.html\n6. https://www.cdc.gov/high-blood-pressure/prevention/index.html\n7. https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update\n8. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n9. https://",
+            "line": 53,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 5247,
+            "excerpt": "eart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure\n9. https://www.acc.org/latest-in-cardiology/articles/2025/10/01/01/new-in-clinical-guidance-hbp\n10. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n11. https://uofuhealth.utah.edu/",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2953,
+            "excerpt": ": Follow your healthcare provider’s instructions for any prescribed blood pressure medications[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n- **Monitor Your Blood Pressure Regularly**: Regular check-ups and home monitoring can help track",
+            "line": 16,
+            "column": 143,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 5849,
+            "excerpt": "ate on a personalized treatment plan, which may include both lifestyle changes and medications[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Co",
+            "line": 37,
+            "column": 159,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 6272,
+            "excerpt": "diabetes, or chronic kidney disease, medication is necessary to achieve target blood pressure[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Know Your Blood Pressure Targe",
+            "line": 38,
+            "column": 225,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 6658,
+            "excerpt": "ditions (e.g., diabetes, chronic kidney disease) may need a lower target (e.g., <130/80 mm Hg)[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/",
+            "line": 39,
+            "column": 216,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 9179,
+            "excerpt": "/art-20046974)\n- **ACC/AHA Guidelines**: Latest clinical recommendations for hypertension treatment [American College of Cardiology](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guid",
+            "line": 58,
+            "column": 86,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06383,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.07143,
+        "anthropic_claude_with_search_latest": 0.05556,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7.33,
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 9.13,
+      "influence": 0.47965,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.15408,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.47965,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22159
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.15395
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 6,
+        "2-what-do-experts-recommen-63a1a226": 2,
+        "3-what-tools-or-resources--32f7f397": 1,
+        "5-what-are-the-dos-and-don-beac9f51": 7
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.22288,
+        "2-what-do-experts-recommen-63a1a226": 0.14255,
+        "3-what-tools-or-resources--32f7f397": 0.16308,
+        "5-what-are-the-dos-and-don-beac9f51": 0.22159
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 13,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 7,
+        "2-what-do-experts-recommen-63a1a226": 8.5,
+        "3-what-tools-or-resources--32f7f397": 16,
+        "5-what-are-the-dos-and-don-beac9f51": 5
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2926,
+              "excerpt": "toring-your-blood-pressure-at-home)\n\n- **Target**: Generally below 130/80 mm Hg for most adults\n  - [American College of Cardiology - Blood Pressure Guidelines](https://www.acc.org/latest-in-cardiology/articles/2017/11/08/11/47/mon-5pm-bp-guideline-aha-2017)\n\n### Medications\nIf lifestyle changes aren't enough, medications may include:\n- ACE inhibitors\n- A",
+              "line": 51,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3662,
+              "excerpt": "tics to improve adherence and efficacy[[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8034801/)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[15]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026).\n\n- Prefer long-acting me",
+              "line": 23,
+              "column": 298,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4667,
+              "excerpt": "er renal denervation therapy as an option for resistant hypertension under specialist guidance[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n\n**Additional notes:**\n\n- Monitoring blood pressure both in-office and with home/out-of-office de",
+              "line": 33,
+              "column": 109,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4935,
+              "excerpt": "office and with home/out-of-office devices improves diagnostic accuracy and treatment efficacy[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n\n- A comprehensive approach combining lifestyle intervention and medication when indicated leads",
+              "line": 37,
+              "column": 137,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6699,
+              "excerpt": "re/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[7]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 43,
+              "column": 755,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7477,
+              "excerpt": "pressure/living-with/index.html\n6. https://www.cdc.gov/high-blood-pressure/prevention/index.html\n7. https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update\n8. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n9. https://",
+              "line": 53,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3200,
+              "excerpt": "nsistency is Key**: Blood pressure management is typically a long-term commitment\n\nAccording to the [2017 ACC/AHA Guidelines](https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2017/11/09/11/41/2017-guideline-for-high-blood-pressure-in-adults), normal blood pressure is less than 120/80 mmHg, and hypertension is defined as 130/80 mmHg or hig",
+              "line": 68,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5247,
+              "excerpt": "eart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure\n9. https://www.acc.org/latest-in-cardiology/articles/2025/10/01/01/new-in-clinical-guidance-hbp\n10. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n11. https://uofuhealth.utah.edu/",
+              "line": 33,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2727,
+              "excerpt": "/4314-hypertension-high-blood-pressure)** - Expert medical information\n\n### Clinical Guidelines\n- **[American College of Cardiology (ACC)](https://www.acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-High-Blood-Pressure-in-Adults)** - Latest BP guidelines\n- **[European Society of Hypertension](https://www.eshonline.org/)** - In",
+              "line": 43,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2953,
+              "excerpt": ": Follow your healthcare provider’s instructions for any prescribed blood pressure medications[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update).\n- **Monitor Your Blood Pressure Regularly**: Regular check-ups and home monitoring can help track",
+              "line": 16,
+              "column": 143,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5849,
+              "excerpt": "ate on a personalized treatment plan, which may include both lifestyle changes and medications[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Co",
+              "line": 37,
+              "column": 159,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6272,
+              "excerpt": "diabetes, or chronic kidney disease, medication is necessary to achieve target blood pressure[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Know Your Blood Pressure Targe",
+              "line": 38,
+              "column": 225,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6658,
+              "excerpt": "ditions (e.g., diabetes, chronic kidney disease) may need a lower target (e.g., <130/80 mm Hg)[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/",
+              "line": 39,
+              "column": 216,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9179,
+              "excerpt": "/art-20046974)\n- **ACC/AHA Guidelines**: Latest clinical recommendations for hypertension treatment [American College of Cardiology](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[1]](https://www.acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guid",
+              "line": 58,
+              "column": 86,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 6
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 8
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 16
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "aafp.org",
+      "value": "aafp.org",
+      "link": "https://aafp.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5552,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5552,
+            "excerpt": ".org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[13]](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and",
+            "line": 39,
+            "column": 509,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 8008,
+            "excerpt": "eatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+            "line": 59,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02128,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02857,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.0818,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0818,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.1017
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.1017
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 10
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5552,
+              "excerpt": ".org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure)[[13]](https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and",
+              "line": 39,
+              "column": 509,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8008,
+              "excerpt": "eatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+              "line": 59,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nm.org",
+      "value": "nm.org",
+      "link": "https://nm.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 7920,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 7920,
+            "excerpt": "10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recomm",
+            "line": 58,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01064,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01429,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.03716,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03716,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04621
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 1
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.04621
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 13
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 7920,
+              "excerpt": "10.1161/HYP.0000000000000249\n11. https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment\n12. https://www.nm.org/healthbeat/healthy-tips/what-can-i-do-to-lower-my-blood-pressure\n13. https://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recomm",
+              "line": 58,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "escardio.org",
+      "value": "escardio.org",
+      "link": "https://escardio.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5687,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5687,
+            "excerpt": "an/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension).\n\nFor detailed, personalized advice and treatment, consult healthcare providers who can tailor the",
+            "line": 39,
+            "column": 644,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 8140,
+            "excerpt": "ician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n15. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026",
+            "line": 60,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02128,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02857,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.07647,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07647,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09508
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.09508
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 12
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5687,
+              "excerpt": "an/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension).\n\nFor detailed, personalized advice and treatment, consult healthcare providers who can tailor the",
+              "line": 39,
+              "column": 644,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8140,
+              "excerpt": "ician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n15. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026",
+              "line": 60,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "index.html",
+      "value": "index.html",
+      "link": "https://index.html",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 21,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 715,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1182,
+            "excerpt": "s [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+            "line": 11,
+            "column": 114,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 715,
+            "excerpt": "-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to",
+            "line": 5,
+            "column": 480,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1168,
+            "excerpt": "/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical activity, aiming for at least 150 minutes per week of moderate aero",
+            "line": 7,
+            "column": 370,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1539,
+            "excerpt": "in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/",
+            "line": 9,
+            "column": 358,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 1607,
+            "excerpt": "high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 9,
+            "column": 426,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 2036,
+            "excerpt": "in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Limit alcohol consumption",
+            "line": 11,
+            "column": 300,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 460,
+            "excerpt": "blood pressure and improve overall health[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html).\n- **Diet**: Adopting a heart-healthy diet like the DASH eating plan, which is high in fruits, veg",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 3138,
+            "excerpt": "s, calcium channel blockers, and diuretics[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[16]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## A",
+            "line": 13,
+            "column": 210,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4858,
+            "excerpt": "ls.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www",
+            "line": 28,
+            "column": 56,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1343,
+            "excerpt": "ts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+            "line": 7,
+            "column": 493,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3291,
+            "excerpt": "e blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+            "line": 15,
+            "column": 294,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4791,
+            "excerpt": "ons/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association",
+            "line": 24,
+            "column": 93,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4859,
+            "excerpt": "-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+            "line": 24,
+            "column": 161,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5608,
+            "excerpt": "gital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
+            "line": 34,
+            "column": 60,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1538,
+            "excerpt": "alemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
+            "line": 14,
+            "column": 316,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3512,
+            "excerpt": "/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
+            "line": 39,
+            "column": 44,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ]
+      },
+      "mentions": 12,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.11702,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.15714,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4.25,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 4.13,
+      "influence": 0.26037,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.56606,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.26037,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.35622
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 11,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 11
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 11,
+        "2-what-do-experts-recommen-63a1a226": 3,
+        "3-what-tools-or-resources--32f7f397": 6,
+        "4-what-should-beginners-kn-95667a84": 2
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.96759,
+        "2-what-do-experts-recommen-63a1a226": 0.88567,
+        "3-what-tools-or-resources--32f7f397": 0.41891,
+        "4-what-should-beginners-kn-95667a84": 0.35622
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 21,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 3,
+        "2-what-do-experts-recommen-63a1a226": 2,
+        "3-what-tools-or-resources--32f7f397": 5.5,
+        "4-what-should-beginners-kn-95667a84": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 715,
+              "excerpt": "-pressure/diagnosis-treatment/drc-20373417)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[11]](https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment).\n\n- Reduce sodium intake to",
+              "line": 5,
+              "column": 480,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1168,
+              "excerpt": "/conditions/high-blood-pressure/prevention)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Engage in regular physical activity, aiming for at least 150 minutes per week of moderate aero",
+              "line": 7,
+              "column": 370,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1539,
+              "excerpt": "in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/",
+              "line": 9,
+              "column": 358,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1607,
+              "excerpt": "high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html)[[9]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 9,
+              "column": 426,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2036,
+              "excerpt": "in-depth/high-blood-pressure/art-20046974)[[5]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[6]](https://www.cdc.gov/high-blood-pressure/prevention/index.html).\n\n- Limit alcohol consumption",
+              "line": 11,
+              "column": 300,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 460,
+              "excerpt": "blood pressure and improve overall health[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html).\n- **Diet**: Adopting a heart-healthy diet like the DASH eating plan, which is high in fruits, veg",
+              "line": 4,
+              "column": 237,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3138,
+              "excerpt": "s, calcium channel blockers, and diuretics[[4]](https://www.cdc.gov/high-blood-pressure/living-with/index.html)[[16]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## A",
+              "line": 13,
+              "column": 210,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4858,
+              "excerpt": "ls.org/doi/10.1161/HYPERTENSIONAHA.125.25467\n4. https://www.cdc.gov/high-blood-pressure/living-with/index.html\n5. https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline\n6. https://www",
+              "line": 28,
+              "column": 56,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1182,
+              "excerpt": "s [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+              "line": 11,
+              "column": 114,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1343,
+              "excerpt": "ts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+              "line": 7,
+              "column": 493,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3291,
+              "excerpt": "e blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+              "line": 15,
+              "column": 294,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4791,
+              "excerpt": "ons/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association",
+              "line": 24,
+              "column": 93,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4859,
+              "excerpt": "-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+              "line": 24,
+              "column": 161,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5608,
+              "excerpt": "gital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
+              "line": 34,
+              "column": 60,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1538,
+              "excerpt": "alemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
+              "line": 14,
+              "column": 316,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3512,
+              "excerpt": "/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
+              "line": 39,
+              "column": 44,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 3
+        },
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 2
+        },
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 6,
+          "openai_chatgpt_with_search_latest": 5
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "eart.org",
+      "value": "eart.org",
+      "link": "https://eart.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "art.org",
+      "value": "art.org",
+      "link": "https://art.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "highbloodpressure.html",
+      "value": "highbloodpressure.html",
+      "link": "https://highbloodpressure.html",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5657,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5657,
+            "excerpt": "://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and",
+            "line": 39,
+            "column": 614,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          },
+          {
+            "appearanceOrder": 8113,
+            "excerpt": "://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+            "line": 59,
+            "column": 110,
+            "captureDate": "2025-10-10",
+            "question": "What are best practices for high blood pressure and hypertension?",
+            "promptId": "1-what-are-best-practices--2fefd9bd"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02128,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02857,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.07894,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07894,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09814
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 2
+      },
+      "influenceByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 0.09814
+      },
+      "mentionsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": 11
+      },
+      "excerptsByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5657,
+              "excerpt": "://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html)[[14]](https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and",
+              "line": 39,
+              "column": 614,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8113,
+              "excerpt": "://www.aafp.org/family-physician/patient-care/clinical-recommendations/all-clinical-recommendations/highbloodpressure.html\n14. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+              "line": 59,
+              "column": 110,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-best-practices--2fefd9bd": {
+          "perplexity_with_search_latest": 11
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "apa.org",
+      "value": "apa.org",
+      "link": "https://apa.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2201,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2201,
+            "excerpt": "ation and mindfulness\n- Deep breathing exercises\n- Yoga\n- Adequate sleep (7-9 hours per night)\n\nThe [American Psychological Association (APA)](https://www.apa.org/) discusses the connection between stress and hypertension.\n\n## Additional Resources\n\n- **[National",
+            "line": 54,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01786,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.10077,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10077,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.16669
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0.16669
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 6
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2201,
+              "excerpt": "ation and mindfulness\n- Deep breathing exercises\n- Yoga\n- Adequate sleep (7-9 hours per night)\n\nThe [American Psychological Association (APA)](https://www.apa.org/) discusses the connection between stress and hypertension.\n\n## Additional Resources\n\n- **[National",
+              "line": 54,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ksphealth.org",
+      "value": "ksphealth.org",
+      "link": "https://ksphealth.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 901
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 901,
+            "excerpt": "odium, saturated fats, and processed sugars. It has been shown to effectively reduce blood pressure [ksphealth.org](https://ksphealth.org/dash-eating-plan-for-hypertension/).\n\n3. **Self-Monitoring and Care**: The Centers for Disease Control and Prevention (CDC) suggests u",
+            "line": 5,
+            "column": 377,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01786,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.17851,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.17851,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2952
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0.2952
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 2
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 901,
+              "excerpt": "odium, saturated fats, and processed sugars. It has been shown to effectively reduce blood pressure [ksphealth.org](https://ksphealth.org/dash-eating-plan-for-hypertension/).\n\n3. **Self-Monitoring and Care**: The Centers for Disease Control and Prevention (CDC) suggests u",
+              "line": 5,
+              "column": 377,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "openai_chatgpt_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "prevention.com",
+      "value": "prevention.com",
+      "link": "https://prevention.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1930
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1930,
+            "excerpt": "However, they should be used in conjunction with medications if prescribed by healthcare providers [prevention.com](https://www.prevention.com/health/a65900855/ways-to-lower-blood-pressure/).\n\nThese strategies are aimed not only at managing blood pressure levels but also at minimizing the",
+            "line": 11,
+            "column": 257,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01786,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.10946,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10946,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.18101
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0.18101
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 5
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1930,
+              "excerpt": "However, they should be used in conjunction with medications if prescribed by healthcare providers [prevention.com](https://www.prevention.com/health/a65900855/ways-to-lower-blood-pressure/).\n\nThese strategies are aimed not only at managing blood pressure levels but also at minimizing the",
+              "line": 11,
+              "column": 257,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "openai_chatgpt_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "health.ucdavis.edu",
+      "value": "health.ucdavis.edu",
+      "link": "https://health.ucdavis.edu",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2353,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2353,
+            "excerpt": "tially. Medication is considered if lifestyle changes are ineffective or if the risk is higher[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756).\n- **St",
+            "line": 11,
+            "column": 225,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 2735,
+            "excerpt": "nt with medication is advised, often starting with a combination of two drugs in a single pill[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[3]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467).\n- **Types of Medications*",
+            "line": 12,
+            "column": 170,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 3388,
+            "excerpt": "RVATION**: This procedure is now recognized as an option for those with resistant hypertension[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09).\n- **Risk Assessment Tools**: New guidelines include tools like the PREVENT risk calculator to ass",
+            "line": 16,
+            "column": 115,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 3666,
+            "excerpt": "s like the PREVENT risk calculator to assess cardiovascular risk and guide treatment decisions[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline).\n\nFor more",
+            "line": 17,
+            "column": 157,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 4089,
+            "excerpt": "nd the American Heart Association, which provide comprehensive advice on managing hypertension[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline). \n\nYou can",
+            "line": 19,
+            "column": 213,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.10714,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.15,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.60472,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.60472,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 6
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 1
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 12,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 6
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2353,
+              "excerpt": "tially. Medication is considered if lifestyle changes are ineffective or if the risk is higher[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[2]](https://www.health.harvard.edu/blog/new-high-blood-pressure-guidelines-2017111712756).\n- **St",
+              "line": 11,
+              "column": 225,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2735,
+              "excerpt": "nt with medication is advised, often starting with a combination of two drugs in a single pill[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[3]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.125.25467).\n- **Types of Medications*",
+              "line": 12,
+              "column": 170,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3388,
+              "excerpt": "RVATION**: This procedure is now recognized as an option for those with resistant hypertension[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09).\n- **Risk Assessment Tools**: New guidelines include tools like the PREVENT risk calculator to ass",
+              "line": 16,
+              "column": 115,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3666,
+              "excerpt": "s like the PREVENT risk calculator to assess cardiovascular risk and guide treatment decisions[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline).\n\nFor more",
+              "line": 17,
+              "column": 157,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4089,
+              "excerpt": "nd the American Heart Association, which provide comprehensive advice on managing hypertension[[1]](https://health.ucdavis.edu/news/headlines/expert-qa-what-you-need-to-know-about-the-new-hypertension-guidelines/2025/09)[[5]](https://professional.heart.org/en/science-news/2025-high-blood-pressure-guideline). \n\nYou can",
+              "line": 19,
+              "column": 213,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "yalemedicine.org",
+      "value": "yalemedicine.org",
+      "link": "https://yalemedicine.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1064,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1837,
+            "excerpt": "nd genetics. Control over these factors can help manage and prevent hypertension, as highlighted by [Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n\n5. **Management and Prevention**: Lifestyle changes play a crucial role in managing blood pressu",
+            "line": 9,
+            "column": 269,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1064,
+            "excerpt": ".org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Weight Loss**: If you are overweight or obese, losing weight can help lower blood pressure. A",
+            "line": 5,
+            "column": 592,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 5528,
+            "excerpt": "h.utah.edu/newsroom/news/2025/08/2025-high-blood-pressure-guidelines-aim-transform-patient-care\n12. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n13. https://pubmed.ncbi.nlm.nih.gov/40811516/\n14. https://www.mayoclinic.org/diseases-conditions/hi",
+            "line": 36,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What do experts recommend for high blood pressure and hypertension?",
+            "promptId": "2-what-do-experts-recommen-63a1a226"
+          },
+          {
+            "appearanceOrder": 1425,
+            "excerpt": "lth issues because it forces the heart to work harder, potentially leading to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/healt",
+            "line": 14,
+            "column": 203,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 1836,
+            "excerpt": "ial for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Tr",
+            "line": 17,
+            "column": 168,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3095,
+            "excerpt": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+            "line": 35,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2129,
+            "excerpt": "if you do, seek help to quit[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Manage Stress**: Practices like meditation, deep breathing, yoga, and mindfulness can help re",
+            "line": 13,
+            "column": 211,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 4509,
+            "excerpt": "n and cardiovascular disease[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Don’t Neglect Physical Activity**: A sedentary lifestyle contributes to high blood pressure a",
+            "line": 26,
+            "column": 181,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 11806,
+            "excerpt": "re/living-with/index.html\n11. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026\n12. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n13. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+            "line": 94,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03571,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4.33,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4.33,
+      "influence": 0.15189,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.23989,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.15189,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.10574
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 2,
+        "4-what-should-beginners-kn-95667a84": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0.36202,
+        "4-what-should-beginners-kn-95667a84": 0.28994,
+        "5-what-are-the-dos-and-don-beac9f51": 0.10574
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 5,
+        "4-what-should-beginners-kn-95667a84": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 4
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1064,
+              "excerpt": ".org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Weight Loss**: If you are overweight or obese, losing weight can help lower blood pressure. A",
+              "line": 5,
+              "column": 592,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5528,
+              "excerpt": "h.utah.edu/newsroom/news/2025/08/2025-high-blood-pressure-guidelines-aim-transform-patient-care\n12. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n13. https://pubmed.ncbi.nlm.nih.gov/40811516/\n14. https://www.mayoclinic.org/diseases-conditions/hi",
+              "line": 36,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1837,
+              "excerpt": "nd genetics. Control over these factors can help manage and prevent hypertension, as highlighted by [Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n\n5. **Management and Prevention**: Lifestyle changes play a crucial role in managing blood pressu",
+              "line": 9,
+              "column": 269,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1425,
+              "excerpt": "lth issues because it forces the heart to work harder, potentially leading to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/healt",
+              "line": 14,
+              "column": 203,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1836,
+              "excerpt": "ial for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Tr",
+              "line": 17,
+              "column": 168,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3095,
+              "excerpt": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+              "line": 35,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2129,
+              "excerpt": "if you do, seek help to quit[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Manage Stress**: Practices like meditation, deep breathing, yoga, and mindfulness can help re",
+              "line": 13,
+              "column": 211,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4509,
+              "excerpt": "n and cardiovascular disease[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Don’t Neglect Physical Activity**: A sedentary lifestyle contributes to high blood pressure a",
+              "line": 26,
+              "column": 181,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11806,
+              "excerpt": "re/living-with/index.html\n11. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.15026\n12. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n13. https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hy",
+              "line": 94,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 5
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 4
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "w.who.int",
+      "value": "w.who.int",
+      "link": "https://w.who.int",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ah.edu",
+      "value": "ah.edu",
+      "link": "https://ah.edu",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "clinic.org",
+      "value": "clinic.org",
+      "link": "https://clinic.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "influenceByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-do-experts-recommen-63a1a226": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "omron.com",
+      "value": "omron.com",
+      "link": "https://omron.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 131,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 131,
+            "excerpt": "for High Blood Pressure Management\n\n## Home Monitoring Equipment\n\n### Blood Pressure Monitors\n1. **[Omron Healthcare](https://www.omron.com/)** - Industry-leading home BP monitors with validated accuracy\n2. **[Withings BPM Connect](https://",
+            "line": 6,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.28295,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.28295,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.66665
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.66665
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 131,
+              "excerpt": "for High Blood Pressure Management\n\n## Home Monitoring Equipment\n\n### Blood Pressure Monitors\n1. **[Omron Healthcare](https://www.omron.com/)** - Industry-leading home BP monitors with validated accuracy\n2. **[Withings BPM Connect](https://",
+              "line": 6,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "withings.com",
+      "value": "withings.com",
+      "link": "https://withings.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 241,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 241,
+            "excerpt": "lthcare](https://www.omron.com/)** - Industry-leading home BP monitors with validated accuracy\n2. **[Withings BPM Connect](https://www.withings.com/us/en/bpm-connect)** - Smart BP monitor with Wi-Fi sync\n3. **[QardioArm](https://www.getqardio.com/qardioarm-blood-pr",
+            "line": 7,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.17851,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.17851,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.42059
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.42059
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 2
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 241,
+              "excerpt": "lthcare](https://www.omron.com/)** - Industry-leading home BP monitors with validated accuracy\n2. **[Withings BPM Connect](https://www.withings.com/us/en/bpm-connect)** - Smart BP monitor with Wi-Fi sync\n3. **[QardioArm](https://www.getqardio.com/qardioarm-blood-pr",
+              "line": 7,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ihealthlabs.com",
+      "value": "ihealthlabs.com",
+      "link": "https://ihealthlabs.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 462,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 462,
+            "excerpt": "https://www.getqardio.com/qardioarm-blood-pressure-monitor/)** - Wireless, portable BP monitor\n4. **[iHealth Track](https://ihealthlabs.com/fitness-devices/wireless-blood-pressure-monitor/)** - Smartphone-connected monitor\n\n**Validation Resources:**\n- **[STRIDE BP](https://www.stridebp.o",
+            "line": 9,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.12186,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12186,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.28709
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.28709
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 4
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 462,
+              "excerpt": "https://www.getqardio.com/qardioarm-blood-pressure-monitor/)** - Wireless, portable BP monitor\n4. **[iHealth Track](https://ihealthlabs.com/fitness-devices/wireless-blood-pressure-monitor/)** - Smartphone-connected monitor\n\n**Validation Resources:**\n- **[STRIDE BP](https://www.stridebp.o",
+              "line": 9,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "bihsoc.org",
+      "value": "bihsoc.org",
+      "link": "https://bihsoc.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 697,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 697,
+            "excerpt": "n Resources:**\n- **[STRIDE BP](https://www.stridebp.org/)** - Database of validated BP monitors\n- **[British Hypertension Society (BHS)](https://bihsoc.org/bp-monitors/)** - List of approved monitors\n\n## Tracking & Management Apps\n\n1. **[MyFitnessPal](https://www.myfi",
+            "line": 13,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.10946,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10946,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.25787
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.25787
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 5
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 697,
+              "excerpt": "n Resources:**\n- **[STRIDE BP](https://www.stridebp.org/)** - Database of validated BP monitors\n- **[British Hypertension Society (BHS)](https://bihsoc.org/bp-monitors/)** - List of approved monitors\n\n## Tracking & Management Apps\n\n1. **[MyFitnessPal](https://www.myfi",
+              "line": 13,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "myfitnesspal.com",
+      "value": "myfitnesspal.com",
+      "link": "https://myfitnesspal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 834,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 834,
+            "excerpt": "https://bihsoc.org/bp-monitors/)** - List of approved monitors\n\n## Tracking & Management Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connec",
+            "line": 17,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.10077,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10077,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.23748
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.23748
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 6
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 834,
+              "excerpt": "https://bihsoc.org/bp-monitors/)** - List of approved monitors\n\n## Tracking & Management Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connec",
+              "line": 17,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "cardiographapp.com",
+      "value": "cardiographapp.com",
+      "link": "https://cardiographapp.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1018,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1018,
+            "excerpt": "[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp.com/)** - Comprehensive BP tracking\n4. **[Hello Heart](https://www.helloheart.com/)** - FDA-cleared BP m",
+            "line": 19,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.08925,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08925,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2103
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.2103
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 8
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1018,
+              "excerpt": "[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp.com/)** - Comprehensive BP tracking\n4. **[Hello Heart](https://www.helloheart.com/)** - FDA-cleared BP m",
+              "line": 19,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "apple.com",
+      "value": "apple.com",
+      "link": "https://apple.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1204,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1204,
+            "excerpt": "BP tracking\n4. **[Hello Heart](https://www.helloheart.com/)** - FDA-cleared BP management app\n5. **[Apple Health](https://www.apple.com/ios/health/)** / **[Google Fit](https://www.google.com/fit/)** - Integrate BP data with overall health metrics",
+            "line": 21,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.08519,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08519,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2007
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.2007
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 9
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1204,
+              "excerpt": "BP tracking\n4. **[Hello Heart](https://www.helloheart.com/)** - FDA-cleared BP management app\n5. **[Apple Health](https://www.apple.com/ios/health/)** / **[Google Fit](https://www.google.com/fit/)** - Integrate BP data with overall health metrics",
+              "line": 21,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 9
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "amazon.com",
+      "value": "amazon.com",
+      "link": "https://amazon.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1746,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1746,
+            "excerpt": "estyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resource on Amazon\n\n### Nutrition Tracking\n- **[Cronometer](https://cronometer.com/)**",
+            "line": 28,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5251,
+            "excerpt": "m chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt](https://www.amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034)** - Natural management approaches\n- **[Lower Your Blood Pressure Naturally by Dr. Sarah Brewer](ht",
+            "line": 90,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5420,
+            "excerpt": "on.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034)** - Natural management approaches\n- **[Lower Your Blood Pressure Naturally by Dr. Sarah Brewer](https://www.amazon.com/Lower-Your-Blood-Pressure-Naturally/dp/1787831930)**\n\n---\n\n**Important Note**: Always consult with a healthcare provider before starting any new trea",
+            "line": 91,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 3,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03297,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.075,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.2294,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.2294,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.54047
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.54047
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 6,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 12
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1746,
+              "excerpt": "estyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resource on Amazon\n\n### Nutrition Tracking\n- **[Cronometer](https://cronometer.com/)**",
+              "line": 28,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5251,
+              "excerpt": "m chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt](https://www.amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034)** - Natural management approaches\n- **[Lower Your Blood Pressure Naturally by Dr. Sarah Brewer](ht",
+              "line": 90,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5420,
+              "excerpt": "on.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034)** - Natural management approaches\n- **[Lower Your Blood Pressure Naturally by Dr. Sarah Brewer](https://www.amazon.com/Lower-Your-Blood-Pressure-Naturally/dp/1787831930)**\n\n---\n\n**Important Note**: Always consult with a healthcare provider before starting any new trea",
+              "line": 91,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "yazio.com",
+      "value": "yazio.com",
+      "link": "https://yazio.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1986,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1986,
+            "excerpt": "cking\n- **[Cronometer](https://cronometer.com/)** - Detailed nutrient tracking including sodium\n- **[Yazio](https://www.yazio.com/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[A",
+            "line": 32,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.07432,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07432,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.17508
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.17508
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 13
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1986,
+              "excerpt": "cking\n- **[Cronometer](https://cronometer.com/)** - Detailed nutrient tracking including sodium\n- **[Yazio](https://www.yazio.com/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[A",
+              "line": 32,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "silversneakers.com",
+      "value": "silversneakers.com",
+      "link": "https://silversneakers.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3083,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3083,
+            "excerpt": "nternational guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking",
+            "line": 49,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.06784,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06784,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.1599
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 17
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.1599
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 17
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3083,
+              "excerpt": "nternational guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking",
+              "line": 49,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 17
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "onepeloton.com",
+      "value": "onepeloton.com",
+      "link": "https://onepeloton.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3263,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3263,
+            "excerpt": "ograms\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension",
+            "line": 51,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.06547,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06547,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15426
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.15426
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 19
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3263,
+              "excerpt": "ograms\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension",
+              "line": 51,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 19
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "youtube.com",
+      "value": "youtube.com",
+      "link": "https://youtube.com",
+      "linkType": "smp",
+      "linkTypeName": "Social Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3367,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3367,
+            "excerpt": "oton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension](https://www.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Med",
+            "line": 52,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3783,
+            "excerpt": "ayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n10. https://www.youtube.com/watch?v=mjTMZ_sm0LQ\n11. https://www.who.int/news-room/fact-sheets/detail/hypertension",
+            "line": 43,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 20,
+        "perplexity_with_search_latest": 9
+      },
+      "appearanceOrder": 14.5,
+      "influence": 0.04812,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.87313,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04812,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15053
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1,
+        "4-what-should-beginners-kn-95667a84": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.1518,
+        "4-what-should-beginners-kn-95667a84": 0.15053
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 20,
+        "4-what-should-beginners-kn-95667a84": 9
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3367,
+              "excerpt": "oton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension](https://www.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Med",
+              "line": 52,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3783,
+              "excerpt": "ayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n10. https://www.youtube.com/watch?v=mjTMZ_sm0LQ\n11. https://www.who.int/news-room/fact-sheets/detail/hypertension",
+              "line": 43,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 20
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 9
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "calm.com",
+      "value": "calm.com",
+      "link": "https://calm.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3623,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3623,
+            "excerpt": "tress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathi",
+            "line": 56,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.06345,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06345,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14952
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 21
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14952
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 21
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3623,
+              "excerpt": "tress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathi",
+              "line": 56,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 21
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "breathwrk.com",
+      "value": "breathwrk.com",
+      "link": "https://breathwrk.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3700,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3700,
+            "excerpt": "nd mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K",
+            "line": 57,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 22
+      },
+      "appearanceOrder": 22,
+      "influence": 0.06254,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06254,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14736
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 22
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14736
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 22
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3700,
+              "excerpt": "nd mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K",
+              "line": 57,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 22
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "khealth.com",
+      "value": "khealth.com",
+      "link": "https://khealth.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3835,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3835,
+            "excerpt": "om/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online",
+            "line": 62,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 23
+      },
+      "appearanceOrder": 23,
+      "influence": 0.06173,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06173,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14538
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 23
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14538
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 23
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3835,
+              "excerpt": "om/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online",
+              "line": 62,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 23
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "plushcare.com",
+      "value": "plushcare.com",
+      "link": "https://plushcare.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3924,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3924,
+            "excerpt": "icine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.",
+            "line": 63,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 24
+      },
+      "appearanceOrder": 24,
+      "influence": 0.06094,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06094,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14358
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 24
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 24
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14358
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 24
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3924,
+              "excerpt": "icine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.",
+              "line": 63,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 24
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "doctorondemand.com",
+      "value": "doctorondemand.com",
+      "link": "https://doctorondemand.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4012,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4012,
+            "excerpt": "gement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://ww",
+            "line": 64,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 25
+      },
+      "appearanceOrder": 25,
+      "influence": 0.0602,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0602,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14184
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 25
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 25
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14184
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 25
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4012,
+              "excerpt": "gement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://ww",
+              "line": 64,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 25
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "goodrx.com",
+      "value": "goodrx.com",
+      "link": "https://goodrx.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4143,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4143,
+            "excerpt": "doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medicatio",
+            "line": 67,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 26
+      },
+      "appearanceOrder": 26,
+      "influence": 0.05951,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05951,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14022
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 26
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 26
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.14022
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 26
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4143,
+              "excerpt": "doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medicatio",
+              "line": 67,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 26
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "pillpack.com",
+      "value": "pillpack.com",
+      "link": "https://pillpack.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4214,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4214,
+            "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication re",
+            "line": 68,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 27
+      },
+      "appearanceOrder": 27,
+      "influence": 0.05886,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05886,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13866
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 27
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 27
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13866
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 27
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4214,
+              "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication re",
+              "line": 68,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 27
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "bloodpressureuk.org",
+      "value": "bloodpressureuk.org",
+      "link": "https://bloodpressureuk.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4399,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4399,
+            "excerpt": "Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportne",
+            "line": 73,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4071,
+            "excerpt": "-blockers\n\nNever stop taking medication without consulting your doctor.\n\n## Additional Resources\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionlea",
+            "line": 103,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.09993,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.09993,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.16668
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 29
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1,
+        "4-what-should-beginners-kn-95667a84": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13584,
+        "4-what-should-beginners-kn-95667a84": 0.16668
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 29,
+        "4-what-should-beginners-kn-95667a84": 7
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4399,
+              "excerpt": "Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportne",
+              "line": 73,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4071,
+              "excerpt": "-blockers\n\nNever stop taking medication without consulting your doctor.\n\n## Additional Resources\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionlea",
+              "line": 103,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 29
+        },
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "reddit.com",
+      "value": "reddit.com",
+      "link": "https://reddit.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4605,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4605,
+            "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspir",
+            "line": 75,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 31
+      },
+      "appearanceOrder": 31,
+      "influence": 0.05658,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05658,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13332
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 31
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 31
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13332
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 31
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4605,
+              "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspir",
+              "line": 75,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 31
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "welchallyn.com",
+      "value": "welchallyn.com",
+      "link": "https://welchallyn.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4863,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4863,
+            "excerpt": "spire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoda",
+            "line": 80,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 33
+      },
+      "appearanceOrder": 33,
+      "influence": 0.05561,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05561,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13104
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 33
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13104
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 33
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4863,
+              "excerpt": "spire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoda",
+              "line": 80,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 33
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "adctoday.com",
+      "value": "adctoday.com",
+      "link": "https://adctoday.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4945,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4945,
+            "excerpt": "e Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://n",
+            "line": 81,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 34
+      },
+      "appearanceOrder": 34,
+      "influence": 0.05515,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05515,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12996
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 34
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 34
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.12996
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 34
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4945,
+              "excerpt": "e Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://n",
+              "line": 81,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 34
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nusalt.com",
+      "value": "nusalt.com",
+      "link": "https://nusalt.com",
+      "linkType": "foo",
+      "linkTypeName": "Food & Dining",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5091,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5091,
+            "excerpt": "//www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free s",
+            "line": 86,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 35
+      },
+      "appearanceOrder": 35,
+      "influence": 0.05473,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05473,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12894
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 35
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 35
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.12894
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 35
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 5091,
+              "excerpt": "//www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free s",
+              "line": 86,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 35
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mrsdash.com",
+      "value": "mrsdash.com",
+      "link": "https://mrsdash.com",
+      "linkType": "foo",
+      "linkTypeName": "Food & Dining",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5167,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5167,
+            "excerpt": "### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt]",
+            "line": 87,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 36
+      },
+      "appearanceOrder": 36,
+      "influence": 0.05431,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05431,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12798
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 36
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 36
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.12798
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 36
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 5167,
+              "excerpt": "### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt]",
+              "line": 87,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 36
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "millionhearts.hhs.gov",
+      "value": "millionhearts.hhs.gov",
+      "link": "https://millionhearts.hhs.gov",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 528,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 808
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 808,
+            "excerpt": "e include webinars, podcasts, videos, and interactive tools aimed at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
+            "line": 8,
+            "column": 10,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 528,
+            "excerpt": "le cuff sizes—are crucial for frequent self-measurement and tracking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering",
+            "line": 5,
+            "column": 223,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1224,
+            "excerpt": "ted care team strategies that guide diagnosis, treatment adjustment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosa",
+            "line": 7,
+            "column": 374,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3713,
+            "excerpt": "and support systems** to guide both providers and patients in achieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.natu",
+            "line": 17,
+            "column": 299,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4078,
+            "excerpt": "you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovasc",
+            "line": 21,
+            "column": 26,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5274,
+            "excerpt": "tension diagnosis, treatment, patient self-management, and clinical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-card",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06593,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 1.5,
+      "influence": 0.39267,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.19764,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.39267,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.92518
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.27674
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 6
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.92518
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1.5
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 808,
+              "excerpt": "e include webinars, podcasts, videos, and interactive tools aimed at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
+              "line": 8,
+              "column": 10,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 528,
+              "excerpt": "le cuff sizes—are crucial for frequent self-measurement and tracking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering",
+              "line": 5,
+              "column": 223,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1224,
+              "excerpt": "ted care team strategies that guide diagnosis, treatment adjustment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosa",
+              "line": 7,
+              "column": 374,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3713,
+              "excerpt": "and support systems** to guide both providers and patients in achieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.natu",
+              "line": 17,
+              "column": 299,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4078,
+              "excerpt": "you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovasc",
+              "line": 21,
+              "column": 26,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5274,
+              "excerpt": "tension diagnosis, treatment, patient self-management, and clinical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-card",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ncoa.org",
+      "value": "ncoa.org",
+      "link": "https://ncoa.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1669
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1669,
+            "excerpt": "aging hypertension. For guidance on choosing the best device, you can consult resources such as the [National Council on Aging’s guide](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/), which reviews top-rated monitors for home use. This is especially important since hypertension of",
+            "line": 14,
+            "column": 193,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.10077,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10077,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.23748
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.23748
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 6
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1669,
+              "excerpt": "aging hypertension. For guidance on choosing the best device, you can consult resources such as the [National Council on Aging’s guide](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/), which reviews top-rated monitors for home use. This is especially important since hypertension of",
+              "line": 14,
+              "column": 193,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "openai_chatgpt_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "phti.org",
+      "value": "phti.org",
+      "link": "https://phti.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2227,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2227,
+            "excerpt": "and coaching delivered digitally to support patient self-care and improve access to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education an",
+            "line": 11,
+            "column": 264,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3776,
+            "excerpt": "chieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-top",
+            "line": 17,
+            "column": 362,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4560,
+            "excerpt": "iovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/inde",
+            "line": 23,
+            "column": 53,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5478,
+            "excerpt": "art-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/ma",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04396,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.08889,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.34071,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.34071,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.80272
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 4
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.80272
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 9
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2227,
+              "excerpt": "and coaching delivered digitally to support patient self-care and improve access to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education an",
+              "line": 11,
+              "column": 264,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3776,
+              "excerpt": "chieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-top",
+              "line": 17,
+              "column": 362,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4560,
+              "excerpt": "iovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/inde",
+              "line": 23,
+              "column": 53,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5478,
+              "excerpt": "art-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/ma",
+              "line": 33,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 9
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "omronhealthcare.com",
+      "value": "omronhealthcare.com",
+      "link": "https://omronhealthcare.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 918,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 918,
+            "excerpt": "ment Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp",
+            "line": 18,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.09433,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.09433,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22224
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.22224
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 7
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 918,
+              "excerpt": "ment Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp",
+              "line": 18,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fitbit.com",
+      "value": "fitbit.com",
+      "link": "https://fitbit.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3175,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3175,
+            "excerpt": "ms\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com",
+            "line": 50,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.06661,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06661,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15696
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.15696
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 18
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3175,
+              "excerpt": "ms\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com",
+              "line": 50,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 18
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mangohealth.com",
+      "value": "mangohealth.com",
+      "link": "https://mangohealth.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4298,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4298,
+            "excerpt": "tion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.blo",
+            "line": 69,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 28
+      },
+      "appearanceOrder": 28,
+      "influence": 0.05824,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05824,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13722
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 28
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 28
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13722
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 28
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4298,
+              "excerpt": "tion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.blo",
+              "line": 69,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 28
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "supportnetwork.heart.org",
+      "value": "supportnetwork.heart.org",
+      "link": "https://supportnetwork.heart.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4496,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4496,
+            "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - C",
+            "line": 74,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 30
+      },
+      "appearanceOrder": 30,
+      "influence": 0.0571,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0571,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13458
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 30
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 30
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13458
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 30
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4496,
+              "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - C",
+              "line": 74,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 30
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "inspire.com",
+      "value": "inspire.com",
+      "link": "https://inspire.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4716,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4716,
+            "excerpt": "ypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch All",
+            "line": 76,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 32
+      },
+      "appearanceOrder": 32,
+      "influence": 0.0561,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0561,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13218
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 32
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 32
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.13218
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 32
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4716,
+              "excerpt": "ypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch All",
+              "line": 76,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 32
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "resolvetosavelives.org",
+      "value": "resolvetosavelives.org",
+      "link": "https://resolvetosavelives.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1361,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1361,
+            "excerpt": "rotocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Competency Resources**: Accurate blood pressure measurement requires proper tec",
+            "line": 7,
+            "column": 511,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 6282,
+            "excerpt": "od-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control/six-steps/\n14. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-",
+            "line": 43,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02198,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04444,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.18862,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.18862,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.44441
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 2
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.44441
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 7
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1361,
+              "excerpt": "rotocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Competency Resources**: Accurate blood pressure measurement requires proper tec",
+              "line": 7,
+              "column": 511,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6282,
+              "excerpt": "od-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control/six-steps/\n14. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-",
+              "line": 43,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mainehealth.org",
+      "value": "mainehealth.org",
+      "link": "https://mainehealth.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1722,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1722,
+            "excerpt": "are providers and practice staff to reduce measurement errors that could lead to mismanagement[[2]](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)[[10]](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure).",
+            "line": 9,
+            "column": 294,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4233,
+            "excerpt": "s://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-ma",
+            "line": 22,
+            "column": 45,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5334,
+            "excerpt": "linical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/hi",
+            "line": 32,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03297,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.26779,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.26779,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.63089
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.63089
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 8
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1722,
+              "excerpt": "are providers and practice staff to reduce measurement errors that could lead to mismanagement[[2]](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)[[10]](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure).",
+              "line": 9,
+              "column": 294,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4233,
+              "excerpt": "s://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-ma",
+              "line": 22,
+              "column": 45,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5334,
+              "excerpt": "linical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/hi",
+              "line": 32,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nature.com",
+      "value": "nature.com",
+      "link": "https://nature.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 591,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 591,
+            "excerpt": "cking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering continuous and less stressful measurements to improve de",
+            "line": 5,
+            "column": 286,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3853,
+            "excerpt": "ocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 17,
+            "column": 439,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5985,
+            "excerpt": "NSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature.com/articles/s41371-021-00612-6\n10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11.",
+            "line": 39,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03297,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.4244,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.4244,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 591,
+              "excerpt": "cking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering continuous and less stressful measurements to improve de",
+              "line": 5,
+              "column": 286,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3853,
+              "excerpt": "ocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+              "line": 17,
+              "column": 439,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5985,
+              "excerpt": "NSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature.com/articles/s41371-021-00612-6\n10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11.",
+              "line": 39,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fepblue.org",
+      "value": "fepblue.org",
+      "link": "https://fepblue.org",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3308,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3308,
+            "excerpt": "control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program).\n\nIn summary, managing hypertension effectively involves a combination of **accurate measurement t",
+            "line": 15,
+            "column": 311,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 5622,
+            "excerpt": "sion-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications",
+            "line": 35,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02198,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04444,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.15293,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.15293,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.36029
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 2
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.36029
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 12
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3308,
+              "excerpt": "control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program).\n\nIn summary, managing hypertension effectively involves a combination of **accurate measurement t",
+              "line": 15,
+              "column": 311,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5622,
+              "excerpt": "sion-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications",
+              "line": 35,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "getqardio.com",
+      "value": "getqardio.com",
+      "link": "https://getqardio.com",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 350,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 350,
+            "excerpt": "BPM Connect](https://www.withings.com/us/en/bpm-connect)** - Smart BP monitor with Wi-Fi sync\n3. **[QardioArm](https://www.getqardio.com/qardioarm-blood-pressure-monitor/)** - Wireless, portable BP monitor\n4. **[iHealth Track](https://ihealthlabs.com/fitness-devices/wir",
+            "line": 8,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.025,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.14148,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.14148,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.33335
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 1
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.33335
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 3
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 350,
+              "excerpt": "BPM Connect](https://www.withings.com/us/en/bpm-connect)** - Smart BP monitor with Wi-Fi sync\n3. **[QardioArm](https://www.getqardio.com/qardioarm-blood-pressure-monitor/)** - Wireless, portable BP monitor\n4. **[iHealth Track](https://ihealthlabs.com/fitness-devices/wir",
+              "line": 8,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ww.stridebp.org",
+      "value": "ww.stridebp.org",
+      "link": "https://ww.stridebp.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": -1
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "loheart.com",
+      "value": "loheart.com",
+      "link": "https://loheart.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": -1
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "eter.com",
+      "value": "eter.com",
+      "link": "https://eter.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": -1
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "tools.html",
+      "value": "tools.html",
+      "link": "https://tools.html",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 574,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 872
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 872,
+            "excerpt": "d at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
+            "line": 8,
+            "column": 74,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 574,
+            "excerpt": "asurement and tracking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering",
+            "line": 5,
+            "column": 269,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 1270,
+            "excerpt": "treatment adjustment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosa",
+            "line": 7,
+            "column": 420,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 3759,
+            "excerpt": "and patients in achieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.natu",
+            "line": 17,
+            "column": 345,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4117,
+            "excerpt": "ure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Too",
+            "line": 21,
+            "column": 65,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          },
+          {
+            "appearanceOrder": 4175,
+            "excerpt": "s: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovasc",
+            "line": 21,
+            "column": 123,
+            "captureDate": "2025-10-10",
+            "question": "What tools or resources are essential for high blood pressure and hypertension?",
+            "promptId": "3-what-tools-or-resources--32f7f397"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.07692,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 2.5,
+      "influence": 0.30251,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.18888,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.30251,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.71279
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.26439
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 7,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 7
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 7
+      },
+      "influenceByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 0.71279
+      },
+      "mentionsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 12,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-what-tools-or-resources--32f7f397": 2.5
+      },
+      "excerptsByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 872,
+              "excerpt": "d at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
+              "line": 8,
+              "column": 74,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 574,
+              "excerpt": "asurement and tracking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering",
+              "line": 5,
+              "column": 269,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1270,
+              "excerpt": "treatment adjustment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosa",
+              "line": 7,
+              "column": 420,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3759,
+              "excerpt": "and patients in achieving blood pressure control[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.natu",
+              "line": 17,
+              "column": 345,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4117,
+              "excerpt": "ure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Too",
+              "line": 21,
+              "column": 65,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4175,
+              "excerpt": "s: [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovasc",
+              "line": 21,
+              "column": 123,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-what-tools-or-resources--32f7f397": {
+          "perplexity_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fda.gov",
+      "value": "fda.gov",
+      "link": "https://fda.gov",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2913,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2913,
+            "excerpt": "d damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devices/home-use-tests/home-use-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Lis",
+            "line": 73,
+            "column": 53,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2764,
+            "excerpt": "- Avoid processed foods, canned soups, and fast food\n- Don't add extra salt to your meals\n- Source: [FDA - Sodium in Your Diet](https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet)\n\n### 2. **Don't Smoke or Use Tobacco**\n- Smoking raises blood pressure and damages blood vessels\n-",
+            "line": 55,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 3638,
+            "excerpt": "d pressure medication without medical supervision\n- Don't take someone else's medications\n- Source: [FDA - High Blood Pressure Medications](https://www.fda.gov/consumers/free-publications-women/high-blood-pressure-medicines)\n\n### 5. **Don't Consume Excessive Caffeine**\n- Limit coffee and energy drinks if they spike your b",
+            "line": 70,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02273,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.21892,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.21892,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06331
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 1,
+        "5-what-are-the-dos-and-don-beac9f51": 2
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 0.19341,
+        "5-what-are-the-dos-and-don-beac9f51": 0.06331
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 5,
+        "5-what-are-the-dos-and-don-beac9f51": 5
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2913,
+              "excerpt": "d damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devices/home-use-tests/home-use-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Lis",
+              "line": 73,
+              "column": 53,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2764,
+              "excerpt": "- Avoid processed foods, canned soups, and fast food\n- Don't add extra salt to your meals\n- Source: [FDA - Sodium in Your Diet](https://www.fda.gov/food/nutrition-education-resources-materials/sodium-your-diet)\n\n### 2. **Don't Smoke or Use Tobacco**\n- Smoking raises blood pressure and damages blood vessels\n-",
+              "line": 55,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3638,
+              "excerpt": "d pressure medication without medical supervision\n- Don't take someone else's medications\n- Source: [FDA - High Blood Pressure Medications](https://www.fda.gov/consumers/free-publications-women/high-blood-pressure-medicines)\n\n### 5. **Don't Consume Excessive Caffeine**\n- Limit coffee and energy drinks if they spike your b",
+              "line": 70,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": 5
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "medlineplus.gov",
+      "value": "medlineplus.gov",
+      "link": "https://medlineplus.gov",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 15,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4269,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4269,
+            "excerpt": "Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/highbloodpressure.html) - Comprehensive health information\n\n## Key Takeaway\n\nHigh blood pressure is manageable through lif",
+            "line": 105,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1130,
+            "excerpt": "*: Aim for at least 150 minutes of moderate-intensity exercise per week, such as brisk walking[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[7]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+            "line": 10,
+            "column": 128,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 1413,
+            "excerpt": "intain a Healthy Weight**: Losing even a modest amount of weight can help lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+            "line": 11,
+            "column": 107,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2063,
+            "excerpt": "pressure and heart disease risk. If you don’t smoke, don’t start; if you do, seek help to quit[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Manage Stress**: Pr",
+            "line": 13,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2337,
+            "excerpt": "itation, deep breathing, yoga, and mindfulness can help reduce stress and lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+            "line": 14,
+            "column": 140,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 2635,
+            "excerpt": "y Sleep**: Poor sleep can contribute to elevated blood pressure. Prioritize good sleep hygiene[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+            "line": 15,
+            "column": 122,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 16,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02273,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9,
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 6,
+      "influence": 0.81294,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.0606,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.81294,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.61373
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 1,
+        "5-what-are-the-dos-and-don-beac9f51": 15
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 0.15053,
+        "5-what-are-the-dos-and-don-beac9f51": 0.61373
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 15,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 15,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 9,
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4269,
+              "excerpt": "Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/highbloodpressure.html) - Comprehensive health information\n\n## Key Takeaway\n\nHigh blood pressure is manageable through lif",
+              "line": 105,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1130,
+              "excerpt": "*: Aim for at least 150 minutes of moderate-intensity exercise per week, such as brisk walking[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[7]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hig",
+              "line": 10,
+              "column": 128,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1413,
+              "excerpt": "intain a Healthy Weight**: Losing even a modest amount of weight can help lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+              "line": 11,
+              "column": 107,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2063,
+              "excerpt": "pressure and heart disease risk. If you don’t smoke, don’t start; if you do, seek help to quit[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[12]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n- **Manage Stress**: Pr",
+              "line": 13,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2337,
+              "excerpt": "itation, deep breathing, yoga, and mindfulness can help reduce stress and lower blood pressure[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[4]](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressur",
+              "line": 14,
+              "column": 140,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2635,
+              "excerpt": "y Sleep**: Poor sleep can contribute to elevated blood pressure. Prioritize good sleep hygiene[[2]](https://medlineplus.gov/howtopreventhighbloodpressure.html)[[8]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+              "line": 15,
+              "column": 122,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": 9
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "my.clevelandclinic.org",
+      "value": "my.clevelandclinic.org",
+      "link": "https://my.clevelandclinic.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1555,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 950
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 950,
+            "excerpt": "t 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure) provides more insights into these statistics.\n\n3. **Symptoms**: Often termed as a \"silent killer,\"",
+            "line": 5,
+            "column": 330,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1555,
+            "excerpt": "ews/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential",
+            "line": 14,
+            "column": 333,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 1909,
+            "excerpt": "ood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Treatment and Management\nTreatment typically starts with lifestyle changes, such as:\n- Eating",
+            "line": 17,
+            "column": 241,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3526,
+            "excerpt": "essure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-cond",
+            "line": 40,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3203,
+            "excerpt": "*: Regular check-ups and home monitoring can help track progress and detect any concerns early[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Consume Potassium-Rich Foods**: Potassium can help counteract the effects of sodium on blood",
+            "line": 17,
+            "column": 143,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 5961,
+            "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Consider Medication if Lifestyle Changes Aren’t Enough**: For many people, especially those w",
+            "line": 37,
+            "column": 271,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 7574,
+            "excerpt": "ention if you experience severe headache, chest pain, vision problems, or difficulty breathing[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Don’t Rely Solely on Medication Without Lifestyle Changes**: Lifestyle modifications are cruc",
+            "line": 47,
+            "column": 184,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 7798,
+            "excerpt": "ithout Lifestyle Changes**: Lifestyle modifications are crucial, even if you are on medication[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n---\n\n## Official Resources for Hypertension Management\n\n- **American Heart Association**: Compre",
+            "line": 48,
+            "column": 138,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 11252,
+            "excerpt": "t-high-blood-pressure/high-bp-top-10\n5. https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html\n6. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n7. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-b",
+            "line": 88,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6.5,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 5.25,
+      "influence": 0.24033,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.07481,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.24033,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14574
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.11069
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 4,
+        "5-what-are-the-dos-and-don-beac9f51": 5
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 0.34745,
+        "5-what-are-the-dos-and-don-beac9f51": 0.14574
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 4.5,
+        "5-what-are-the-dos-and-don-beac9f51": 6
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 950,
+              "excerpt": "t 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure) provides more insights into these statistics.\n\n3. **Symptoms**: Often termed as a \"silent killer,\"",
+              "line": 5,
+              "column": 330,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1555,
+              "excerpt": "ews/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential",
+              "line": 14,
+              "column": 333,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1909,
+              "excerpt": "ood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Treatment and Management\nTreatment typically starts with lifestyle changes, such as:\n- Eating",
+              "line": 17,
+              "column": 241,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3526,
+              "excerpt": "essure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-cond",
+              "line": 40,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3203,
+              "excerpt": "*: Regular check-ups and home monitoring can help track progress and detect any concerns early[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Consume Potassium-Rich Foods**: Potassium can help counteract the effects of sodium on blood",
+              "line": 17,
+              "column": 143,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5961,
+              "excerpt": "acc.org/Latest-in-Cardiology/Articles/2024/02/05/11/43/2023-ESH-Hypertension-Guideline-Update)[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Consider Medication if Lifestyle Changes Aren’t Enough**: For many people, especially those w",
+              "line": 37,
+              "column": 271,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7574,
+              "excerpt": "ention if you experience severe headache, chest pain, vision problems, or difficulty breathing[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n- **Don’t Rely Solely on Medication Without Lifestyle Changes**: Lifestyle modifications are cruc",
+              "line": 47,
+              "column": 184,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7798,
+              "excerpt": "ithout Lifestyle Changes**: Lifestyle modifications are crucial, even if you are on medication[[6]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n---\n\n## Official Resources for Hypertension Management\n\n- **American Heart Association**: Compre",
+              "line": 48,
+              "column": 138,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11252,
+              "excerpt": "t-high-blood-pressure/high-bp-top-10\n5. https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html\n6. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n7. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-b",
+              "line": 88,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 7,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "validatebp.org",
+      "value": "validatebp.org",
+      "link": "https://validatebp.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3078,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3078,
+            "excerpt": "-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Listing](https://www.validatebp.org/) seal.\n\n**Tips for accurate readings:**\n- Measure at the same time daily\n- Sit quietly for 5 minute",
+            "line": 73,
+            "column": 218,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02273,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.10077,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10077,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.17811
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 1
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 0.17811
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 6
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3078,
+              "excerpt": "-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Listing](https://www.validatebp.org/) seal.\n\n**Tips for accurate readings:**\n- Measure at the same time daily\n- Sit quietly for 5 minute",
+              "line": 73,
+              "column": 218,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "worldhypertensionleague.org",
+      "value": "worldhypertensionleague.org",
+      "link": "https://worldhypertensionleague.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4163,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4163,
+            "excerpt": "rces\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/hig",
+            "line": 104,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02273,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.08925,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08925,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15773
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 1
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 0.15773
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 8
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4163,
+              "excerpt": "rces\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/hig",
+              "line": 104,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "texasheart.org",
+      "value": "texasheart.org",
+      "link": "https://texasheart.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1082,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1082,
+            "excerpt": "ps://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/).\n\n## Risks of High Blood Pressure\nHigh blood pressure increases the risk of heart disease, stroke,",
+            "line": 11,
+            "column": 271,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2243,
+            "excerpt": "rcise\n- Weight loss if needed\n- Stress management\n- Quitting smoking\n- Moderate alcohol intake[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+            "line": 26,
+            "column": 32,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 2626,
+            "excerpt": "escribed. Types include diuretics, ACE inhibitors, beta blockers, and calcium channel blockers[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](htt",
+            "line": 28,
+            "column": 160,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          },
+          {
+            "appearanceOrder": 3265,
+            "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6",
+            "line": 37,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should beginners know about high blood pressure and hypertension?",
+            "promptId": "4-what-should-beginners-kn-95667a84"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.14815,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.56587,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.56587,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 4
+      },
+      "influenceByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 1
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-should-beginners-kn-95667a84": 3
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1082,
+              "excerpt": "ps://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/).\n\n## Risks of High Blood Pressure\nHigh blood pressure increases the risk of heart disease, stroke,",
+              "line": 11,
+              "column": 271,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2243,
+              "excerpt": "rcise\n- Weight loss if needed\n- Stress management\n- Quitting smoking\n- Moderate alcohol intake[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressu",
+              "line": 26,
+              "column": 32,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2626,
+              "excerpt": "escribed. Types include diuretics, ACE inhibitors, beta blockers, and calcium channel blockers[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](htt",
+              "line": 28,
+              "column": 160,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3265,
+              "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6",
+              "line": 37,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-should-beginners-kn-95667a84": {
+          "perplexity_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ods.od.nih.gov",
+      "value": "ods.od.nih.gov",
+      "link": "https://ods.od.nih.gov",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5018,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5018,
+            "excerpt": "ely solely on supplements without medical guidance\n- Don't adjust medications on your own\n- Source: [National Institutes of Health - Dietary Supplements](https://ods.od.nih.gov/)\n\n## Additional Resources\n\n- [American Heart Association](https://www.heart.org/)\n- [Centers for Di",
+            "line": 95,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.10077,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10077,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02914
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.02914
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 6
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 5018,
+              "excerpt": "ely solely on supplements without medical guidance\n- Don't adjust medications on your own\n- Source: [National Institutes of Health - Dietary Supplements](https://ods.od.nih.gov/)\n\n## Additional Resources\n\n- [American Heart Association](https://www.heart.org/)\n- [Centers for Di",
+              "line": 95,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "welcomecure.com",
+      "value": "welcomecure.com",
+      "link": "https://welcomecure.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 355
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 355,
+            "excerpt": "s daily. Exercise helps maintain a healthy weight and reduces blood pressure. For more details, see [Welcome Cure](https://www.welcomecure.com/diseases/high-blood-pressure-hypertension/dos-and-donts).\n\n2. **Adopt a Heart-Healthy Diet**: Consume a diet rich in fresh vegetables, fruits, low-fat dair",
+            "line": 5,
+            "column": 178,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.28295,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.28295,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08183
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.08183
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 355,
+              "excerpt": "s daily. Exercise helps maintain a healthy weight and reduces blood pressure. For more details, see [Welcome Cure](https://www.welcomecure.com/diseases/high-blood-pressure-hypertension/dos-and-donts).\n\n2. **Adopt a Heart-Healthy Diet**: Consume a diet rich in fresh vegetables, fruits, low-fat dair",
+              "line": 5,
+              "column": 178,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "openai_chatgpt_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "health.clevelandclinic.org",
+      "value": "health.clevelandclinic.org",
+      "link": "https://health.clevelandclinic.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1161
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1161,
+            "excerpt": "n of changes and more informed discussions with healthcare providers. More guidance can be found on [Cleveland Clinic](https://health.clevelandclinic.org/how-to-lower-blood-pressure).\n\n5. **Relax and Manage Stress**: Activities like meditation, yoga, or anything that helps you unw",
+            "line": 11,
+            "column": 245,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.14148,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.14148,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04092
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.04092
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1161,
+              "excerpt": "n of changes and more informed discussions with healthcare providers. More guidance can be found on [Cleveland Clinic](https://health.clevelandclinic.org/how-to-lower-blood-pressure).\n\n5. **Relax and Manage Stress**: Activities like meditation, yoga, or anything that helps you unw",
+              "line": 11,
+              "column": 245,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "prakashhospitals.in",
+      "value": "prakashhospitals.in",
+      "link": "https://prakashhospitals.in",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1443
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1443,
+            "excerpt": "nd can positively impact blood pressure. Stress management tips can also be found in resources from [Prakash Hospitals](https://www.prakashhospitals.in/blogs/managing-high-blood-pressure-simple-lifestyle-tips-that-work-s9Ozl3GWvSd8n5q7YTzJ).\n\n6. **Maintain a Healthy Weight**: Being overweight can increase your risk for hypertension, so a",
+            "line": 13,
+            "column": 198,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.12186,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.12186,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03525
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.03525
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 4
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1443,
+              "excerpt": "nd can positively impact blood pressure. Stress management tips can also be found in resources from [Prakash Hospitals](https://www.prakashhospitals.in/blogs/managing-high-blood-pressure-simple-lifestyle-tips-that-work-s9Ozl3GWvSd8n5q7YTzJ).\n\n6. **Maintain a Healthy Weight**: Being overweight can increase your risk for hypertension, so a",
+              "line": 13,
+              "column": 198,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "aimprimarycare.com",
+      "value": "aimprimarycare.com",
+      "link": "https://aimprimarycare.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2529
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2529,
+            "excerpt": "ymptoms are essential for prevention and management. For more detailed lifestyle suggestions, visit [AIM Primary Care](https://www.aimprimarycare.com/blog/ways-to-control-high-blood-pressure-without-medication).\n\nBy incorporating these do's and avoiding or minimizing the don'ts, you can better manage high bl",
+            "line": 27,
+            "column": 216,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.10946,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10946,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03165
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.03165
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 5
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2529,
+              "excerpt": "ymptoms are essential for prevention and management. For more detailed lifestyle suggestions, visit [AIM Primary Care](https://www.aimprimarycare.com/blog/ways-to-control-high-blood-pressure-without-medication).\n\nBy incorporating these do's and avoiding or minimizing the don'ts, you can better manage high bl",
+              "line": 27,
+              "column": 216,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "openai_chatgpt_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "bhf.org.uk",
+      "value": "bhf.org.uk",
+      "link": "https://bhf.org.uk",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 11987,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 11987,
+            "excerpt": "w.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n14. https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/foods-that-lower-blood-pressure\n15. https://www.nm.org/healthbeat/healthy-tips/under-pressure",
+            "line": 96,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01538,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.0818,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0818,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02365
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 1
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.02365
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 10
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 11987,
+              "excerpt": "w.escardio.org/Guidelines/Clinical-Practice-Guidelines/Elevated-Blood-Pressure-and-Hypertension\n14. https://www.bhf.org.uk/informationsupport/heart-matters-magazine/nutrition/foods-that-lower-blood-pressure\n15. https://www.nm.org/healthbeat/healthy-tips/under-pressure",
+              "line": 96,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "p413.html",
+      "value": "p413.html",
+      "link": "https://p413.html",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6431,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6431,
+            "excerpt": "5/11/43/2023-ESH-Hypertension-Guideline-Update)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Know Your Blood Pressure Targets**: For most adults, aim for less than 140/90 mm Hg, but thos",
+            "line": 38,
+            "column": 384,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 6873,
+            "excerpt": "ps://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Be Aware of Comorbidities**: Managing other conditions like diabetes, obesity, and high chole",
+            "line": 39,
+            "column": 431,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          },
+          {
+            "appearanceOrder": 11239,
+            "excerpt": "he-facts-about-high-blood-pressure/high-bp-top-10\n5. https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html\n6. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n7. https://",
+            "line": 87,
+            "column": 51,
+            "captureDate": "2025-10-10",
+            "question": "What are the do's and don'ts of high blood pressure and hypertension?",
+            "promptId": "5-what-are-the-dos-and-don-beac9f51"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03333,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04615,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.28295,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.28295,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08183
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 3
+      },
+      "influenceByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 0.08183
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": 7
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6431,
+              "excerpt": "5/11/43/2023-ESH-Hypertension-Guideline-Update)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Know Your Blood Pressure Targets**: For most adults, aim for less than 140/90 mm Hg, but thos",
+              "line": 38,
+              "column": 384,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6873,
+              "excerpt": "ps://pmc.ncbi.nlm.nih.gov/articles/PMC8031779/)[[5]](https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html).\n- **Be Aware of Comorbidities**: Managing other conditions like diabetes, obesity, and high chole",
+              "line": 39,
+              "column": 431,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11239,
+              "excerpt": "he-facts-about-high-blood-pressure/high-bp-top-10\n5. https://www.aafp.org/pubs/afp/issues/2018/0315/p413.html\n6. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n7. https://",
+              "line": 87,
+              "column": 51,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-are-the-dos-and-don-beac9f51": {
+          "perplexity_with_search_latest": 7
+        }
+      }
+    }
+  ],
   "totalDates": [
     "2025-10-10"
   ],
-  "totalDataPoints": 345,
-  "totalTimeSaved": "9",
+  "totalDataPoints": 430,
+  "totalTimeSaved": "11",
   "totalCounts": {
     "products": 29,
     "organizations": 26,
@@ -88057,6 +109755,7 @@ window.AppDataAggregate20251010 = {
     "events": 0,
     "links": 137,
     "linkTypes": 14,
+    "linkDomains": 85,
     "bots": 3
   },
   "itemCountPerModel": {
@@ -88128,6 +109827,20 @@ window.AppDataAggregate20251010 = {
         "id": "openai_chatgpt_with_search_latest",
         "count": 7
       }
+    ],
+    "linkDomains": [
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 46
+      },
+      {
+        "id": "perplexity_with_search_latest",
+        "count": 30
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 20
+      }
     ]
   },
   "itemCountPerAppearanceOrderTrend": {
@@ -88174,6 +109887,16 @@ window.AppDataAggregate20251010 = {
       {
         "id": "999",
         "count": 14
+      }
+    ],
+    "linkDomains": [
+      {
+        "id": "999",
+        "count": 77
+      },
+      {
+        "id": "-9999",
+        "count": 8
       }
     ]
   },

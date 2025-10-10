@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-10T14:33:22.725Z
+// AUTO-GENERATED AGGREGATE: 2025-10-10T15:20:34.173Z
 // Aggregated from prompts: 1-who-is-the-best-laywer-f-4c811e4f, 2-what-are-the-top-alterna-203042fc, 3-how-best-lawyers-for-a-s-f83309f8, 4-what-makes-best-lawyer-f-9866902d, 5-what-should-someone-choo-5ae7c9df
 window.AppDataAggregate20251010 = {
   "report_question": "best lawyer for a startup",
   "report_date": "2025-10-10",
   "report_question_id": "1-who-is-the-best-laywer-f-4c811e4f",
-  "report_created_at": "Oct 10, 2025, 5:38:11 PM",
+  "report_created_at": "Oct 10, 2025, 7:19:51 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -85941,11 +85941,24804 @@ window.AppDataAggregate20251010 = {
       }
     }
   ],
+  "linkDomains": [
+    {
+      "type": "linkDomain",
+      "code": "wsgr.com",
+      "value": "wsgr.com",
+      "link": "https://wsgr.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1420,
+        "anthropic_claude_with_search_latest": 323,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 323,
+            "excerpt": "y regarded options and resources:\n\n## Top Startup Law Firms\n\n**Wilson Sonsini Goodrich & Rosati** - [https://www.wsgr.com/](https://www.wsgr.com/)\n- One of the most prestigious startup law firms in Silicon Valley\n- Represents major tech companie",
+            "line": 5,
+            "column": 40,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4019,
+            "excerpt": "nancing) typically still require traditional law firms specializing in startups like Wilson Sonsini [https://www.wsgr.com](https://www.wsgr.com), Cooley, or Gunderson Dettmer [https://www.gunder.com](https://www.gunder.com).",
+            "line": 85,
+            "column": 222,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 991,
+            "excerpt": "- [**Fenwick & West**](https://www.fenwick.com/) - Silicon Valley-based with deep tech expertise\n- [**Wilson Sonsini**](https://www.wsgr.com/) - Premier Silicon Valley firm for startups and VCs\n\n### **General Business Lawyers**\n- **Pricing**",
+            "line": 18,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1453,
+            "excerpt": "xibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www",
+            "line": 28,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1420,
+            "excerpt": "e-backed companies[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com)\n- **Cooley LLP** is praised as the go-to firm for startups seeking cutting-edge counsel in venture",
+            "line": 12,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 7994,
+            "excerpt": "|\n| WSGR                       | Tech, life sciences, venture capital     | wsgr.com                         | [[3]](https://startupsavant.com/startup-resources/best-law-firms-for-star",
+            "line": 57,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02564,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 5.75
+      },
+      "appearanceOrder": 6.25,
+      "influence": 0.05566,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.27918,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05566,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.14186
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.1039,
+        "2-what-are-the-top-alterna-203042fc": 0.05203,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.05527,
+        "4-what-makes-best-lawyer-f-9866902d": 0.04785
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "2-what-are-the-top-alterna-203042fc": 13,
+        "3-how-best-lawyers-for-a-s-f83309f8": 5,
+        "4-what-makes-best-lawyer-f-9866902d": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 323,
+              "excerpt": "y regarded options and resources:\n\n## Top Startup Law Firms\n\n**Wilson Sonsini Goodrich & Rosati** - [https://www.wsgr.com/](https://www.wsgr.com/)\n- One of the most prestigious startup law firms in Silicon Valley\n- Represents major tech companie",
+              "line": 5,
+              "column": 40,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1420,
+              "excerpt": "e-backed companies[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com)\n- **Cooley LLP** is praised as the go-to firm for startups seeking cutting-edge counsel in venture",
+              "line": 12,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7994,
+              "excerpt": "|\n| WSGR                       | Tech, life sciences, venture capital     | wsgr.com                         | [[3]](https://startupsavant.com/startup-resources/best-law-firms-for-star",
+              "line": 57,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4019,
+              "excerpt": "nancing) typically still require traditional law firms specializing in startups like Wilson Sonsini [https://www.wsgr.com](https://www.wsgr.com), Cooley, or Gunderson Dettmer [https://www.gunder.com](https://www.gunder.com).",
+              "line": 85,
+              "column": 222,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 991,
+              "excerpt": "- [**Fenwick & West**](https://www.fenwick.com/) - Silicon Valley-based with deep tech expertise\n- [**Wilson Sonsini**](https://www.wsgr.com/) - Premier Silicon Valley firm for startups and VCs\n\n### **General Business Lawyers**\n- **Pricing**",
+              "line": 18,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1453,
+              "excerpt": "xibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www",
+              "line": 28,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 1
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 13
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 5
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "cooley.com",
+      "value": "cooley.com",
+      "link": "https://cooley.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1757,
+        "anthropic_claude_with_search_latest": 520,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 520,
+            "excerpt": "Silicon Valley\n- Represents major tech companies and startups through all stages\n\n**Cooley LLP** - [https://www.cooley.com/](https://www.cooley.com/)\n- Major player in startup/venture capital law\n- Strong presence in tech hubs\n\n**Gunderson Dettmer*",
+            "line": 9,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2350,
+            "excerpt": "esources\n- **Pricing**: Free (templates and resources)\n- Created by top startup law firm Cooley LLP [https://www.cooley.com](https://www.cooley.com)\n\n## 8. **Shoobx**\n[https://www.shoobx.com](https://www.shoobx.com)\n- **Best for**: Comprehensive s",
+            "line": 52,
+            "column": 46,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 609,
+            "excerpt": "s\n- **Speed**: Experienced with fast-moving deals and tight deadlines\n\n**Top Startup Law Firms:**\n- [**Cooley**](https://www.cooley.com/) - Major Silicon Valley firm with extensive startup practice\n- [**Gunderson Dettmer**](https://www.",
+            "line": 14,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1520,
+            "excerpt": "**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould",
+            "line": 29,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1757,
+            "excerpt": "ies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Cooley LLP](https://www.cooley.com)\n- **Lowenstein Sandler** is recognized for its VentureCrush platform and hands-on experience with",
+            "line": 14,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 8227,
+            "excerpt": "|\n| Cooley LLP                 | Early-stage, venture capital             | cooley.com                       | [[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-ea",
+            "line": 58,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02564,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 4
+      },
+      "appearanceOrder": 4.63,
+      "influence": 0.05501,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.2025,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05501,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04298
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.19386
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.0822,
+        "2-what-are-the-top-alterna-203042fc": 0.06249,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.14286,
+        "4-what-makes-best-lawyer-f-9866902d": 0.04298
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 4.5,
+        "2-what-are-the-top-alterna-203042fc": 8,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 5
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 520,
+              "excerpt": "Silicon Valley\n- Represents major tech companies and startups through all stages\n\n**Cooley LLP** - [https://www.cooley.com/](https://www.cooley.com/)\n- Major player in startup/venture capital law\n- Strong presence in tech hubs\n\n**Gunderson Dettmer*",
+              "line": 9,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1757,
+              "excerpt": "ies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Cooley LLP](https://www.cooley.com)\n- **Lowenstein Sandler** is recognized for its VentureCrush platform and hands-on experience with",
+              "line": 14,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8227,
+              "excerpt": "|\n| Cooley LLP                 | Early-stage, venture capital             | cooley.com                       | [[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-ea",
+              "line": 58,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2350,
+              "excerpt": "esources\n- **Pricing**: Free (templates and resources)\n- Created by top startup law firm Cooley LLP [https://www.cooley.com](https://www.cooley.com)\n\n## 8. **Shoobx**\n[https://www.shoobx.com](https://www.shoobx.com)\n- **Best for**: Comprehensive s",
+              "line": 52,
+              "column": 46,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 609,
+              "excerpt": "s\n- **Speed**: Experienced with fast-moving deals and tight deadlines\n\n**Top Startup Law Firms:**\n- [**Cooley**](https://www.cooley.com/) - Major Silicon Valley firm with extensive startup practice\n- [**Gunderson Dettmer**](https://www.",
+              "line": 14,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1520,
+              "excerpt": "**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould",
+              "line": 29,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": 2
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 8
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 1
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "gunder.com",
+      "value": "gunder.com",
+      "link": "https://gunder.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 673,
+        "openai_chatgpt_with_search_latest": 189
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 673,
+            "excerpt": "Major player in startup/venture capital law\n- Strong presence in tech hubs\n\n**Gunderson Dettmer** - [https://www.gunder.com/](https://www.gunder.com/)\n- Focuses exclusively on venture capital and emerging growth companies\n\n**Fenwick & West** - [http",
+            "line": 13,
+            "column": 25,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 709,
+            "excerpt": "[**Cooley**](https://www.cooley.com/) - Major Silicon Valley firm with extensive startup practice\n- [**Gunderson Dettmer**](https://www.gunder.com/) - Specializes in venture capital and emerging companies\n- [**Orrick**](https://www.orrick.com/) -",
+            "line": 15,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1560,
+            "excerpt": "Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould you clarify if you were asking about a specifi",
+            "line": 30,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 189,
+            "excerpt": "e of service required, and budget. However, here are some notable options you might consider:\n\n1. **[Gunderson Dettmer](https://www.gunder.com/)** - Known for its expertise in venture financing and tax law, Gunderson Dettmer is highlighted by",
+            "line": 3,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5150,
+            "excerpt": "tps://www.fidelityprivateshares.com/blog/finding-the-right-startup-lawyer-tips-from-an-attorney\n13. https://www.gunder.com/en/news-insights/insights/10-things-to-know-about-startup-law-practice\n14. https://debruinlawfirm.com/10-benefits-of-hiring-a-startup-lawyer-for-your-new-business/",
+            "line": 33,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 3.67,
+        "openai_chatgpt_with_search_latest": 1,
+        "perplexity_with_search_latest": 8
+      },
+      "appearanceOrder": 3.67,
+      "influence": 0.05338,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.00707,
+        "anthropic_claude_with_search_latest": 0.05784,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05338,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0362
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03571
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.12084,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.09014,
+        "4-what-makes-best-lawyer-f-9866902d": 0.0362
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2,
+        "3-how-best-lawyers-for-a-s-f83309f8": 2,
+        "4-what-makes-best-lawyer-f-9866902d": 7
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 673,
+              "excerpt": "Major player in startup/venture capital law\n- Strong presence in tech hubs\n\n**Gunderson Dettmer** - [https://www.gunder.com/](https://www.gunder.com/)\n- Focuses exclusively on venture capital and emerging growth companies\n\n**Fenwick & West** - [http",
+              "line": 13,
+              "column": 25,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 189,
+              "excerpt": "e of service required, and budget. However, here are some notable options you might consider:\n\n1. **[Gunderson Dettmer](https://www.gunder.com/)** - Known for its expertise in venture financing and tax law, Gunderson Dettmer is highlighted by",
+              "line": 3,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 709,
+              "excerpt": "[**Cooley**](https://www.cooley.com/) - Major Silicon Valley firm with extensive startup practice\n- [**Gunderson Dettmer**](https://www.gunder.com/) - Specializes in venture capital and emerging companies\n- [**Orrick**](https://www.orrick.com/) -",
+              "line": 15,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1560,
+              "excerpt": "Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould you clarify if you were asking about a specifi",
+              "line": 30,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5150,
+              "excerpt": "tps://www.fidelityprivateshares.com/blog/finding-the-right-startup-lawyer-tips-from-an-attorney\n13. https://www.gunder.com/en/news-insights/insights/10-things-to-know-about-startup-law-practice\n14. https://debruinlawfirm.com/10-benefits-of-hiring-a-startup-lawyer-for-your-new-business/",
+              "line": 33,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 2
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 6,
+          "perplexity_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fenwick.com",
+      "value": "fenwick.com",
+      "link": "https://fenwick.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1133,
+        "anthropic_claude_with_search_latest": 817,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 817,
+            "excerpt": ".com/)\n- Focuses exclusively on venture capital and emerging growth companies\n\n**Fenwick & West** - [https://www.fenwick.com/](https://www.fenwick.com/)\n- Long history representing startups and venture capitalists\n\n## More Accessible Options\n\n**Orrick",
+            "line": 16,
+            "column": 22,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 894,
+            "excerpt": "emerging companies\n- [**Orrick**](https://www.orrick.com/) - Strong technology and startup focus\n- [**Fenwick & West**](https://www.fenwick.com/) - Silicon Valley-based with deep tech expertise\n- [**Wilson Sonsini**](https://www.wsgr.com/) - Pr",
+            "line": 17,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1133,
+            "excerpt": "con Valley clients[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Fenwick & West LLP](https://www.fenwick.com)\n- **Wilson Sonsini Goodrich & Rosati** is another powerhouse in the startup legal scene, especiall",
+            "line": 10,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 7761,
+            "excerpt": "|\n| Fenwick & West LLP         | Tech, venture capital, Silicon Valley    | fenwick.com                      | [[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startup",
+            "line": 56,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02564,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.05067,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.52341,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05067,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06152
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.36678
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.09398,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.06152
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 4,
+        "3-how-best-lawyers-for-a-s-f83309f8": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 817,
+              "excerpt": ".com/)\n- Focuses exclusively on venture capital and emerging growth companies\n\n**Fenwick & West** - [https://www.fenwick.com/](https://www.fenwick.com/)\n- Long history representing startups and venture capitalists\n\n## More Accessible Options\n\n**Orrick",
+              "line": 16,
+              "column": 22,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1133,
+              "excerpt": "con Valley clients[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Fenwick & West LLP](https://www.fenwick.com)\n- **Wilson Sonsini Goodrich & Rosati** is another powerhouse in the startup legal scene, especiall",
+              "line": 10,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7761,
+              "excerpt": "|\n| Fenwick & West LLP         | Tech, venture capital, Silicon Valley    | fenwick.com                      | [[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startup",
+              "line": 56,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 894,
+              "excerpt": "emerging companies\n- [**Orrick**](https://www.orrick.com/) - Strong technology and startup focus\n- [**Fenwick & West**](https://www.fenwick.com/) - Silicon Valley-based with deep tech expertise\n- [**Wilson Sonsini**](https://www.wsgr.com/) - Pr",
+              "line": 17,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 4
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "orrick.com",
+      "value": "orrick.com",
+      "link": "https://orrick.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 973,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 973,
+            "excerpt": "ong history representing startups and venture capitalists\n\n## More Accessible Options\n\n**Orrick** - [https://www.orrick.com/](https://www.orrick.com/)\n- Has startup-friendly programs\n\n**Carta Legal** - [https://carta.com/legal/](https://carta.com/le",
+            "line": 21,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 816,
+            "excerpt": "erson Dettmer**](https://www.gunder.com/) - Specializes in venture capital and emerging companies\n- [**Orrick**](https://www.orrick.com/) - Strong technology and startup focus\n- [**Fenwick & West**](https://www.fenwick.com/) - Silicon V",
+            "line": 16,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1241,
+            "excerpt": "/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [Orrick Startup Forms Library](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms)\n\n5. **Speed & Flexibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Star",
+            "line": 23,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2026,
+            "excerpt": "ey GO](https://www.cooleygo.com)** - Free startup legal documents and resources from Cooley LLP\n- **[Orrick's Startup Forms Library](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms)** - Free document templates\n- **[Series Seed Documents](https://www.seriesseed.com)** - Standardiz",
+            "line": 33,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.08381,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08381,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05253
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 1,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.04836,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.07143,
+        "4-what-makes-best-lawyer-f-9866902d": 0.05556,
+        "5-what-should-someone-choo-5ae7c9df": 0.05253
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 5,
+        "3-how-best-lawyers-for-a-s-f83309f8": 3,
+        "4-what-makes-best-lawyer-f-9866902d": 3,
+        "5-what-should-someone-choo-5ae7c9df": 13
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 973,
+              "excerpt": "ong history representing startups and venture capitalists\n\n## More Accessible Options\n\n**Orrick** - [https://www.orrick.com/](https://www.orrick.com/)\n- Has startup-friendly programs\n\n**Carta Legal** - [https://carta.com/legal/](https://carta.com/le",
+              "line": 21,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 816,
+              "excerpt": "erson Dettmer**](https://www.gunder.com/) - Specializes in venture capital and emerging companies\n- [**Orrick**](https://www.orrick.com/) - Strong technology and startup focus\n- [**Fenwick & West**](https://www.fenwick.com/) - Silicon V",
+              "line": 16,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1241,
+              "excerpt": "/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [Orrick Startup Forms Library](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms)\n\n5. **Speed & Flexibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Star",
+              "line": 23,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2026,
+              "excerpt": "ey GO](https://www.cooleygo.com)** - Free startup legal documents and resources from Cooley LLP\n- **[Orrick's Startup Forms Library](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms)** - Free document templates\n- **[Series Seed Documents](https://www.seriesseed.com)** - Standardiz",
+              "line": 33,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 5
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 3
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 3
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "carta.com",
+      "value": "carta.com",
+      "link": "https://carta.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1075,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1075,
+            "excerpt": "ttps://www.orrick.com/](https://www.orrick.com/)\n- Has startup-friendly programs\n\n**Carta Legal** - [https://carta.com/legal/](https://carta.com/legal/)\n- Flat-fee legal services for startups through the Carta platform\n\n## Online/Affordable Platforms",
+            "line": 24,
+            "column": 19,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1768,
+            "excerpt": "at $0 + state fees (for basic LLC)\n- Well-established with attorney network access\n\n## 6. **Carta**\n[https://carta.com](https://carta.com)\n- **Best for**: Cap table management and equity administration\n- **Key features**: Equity manageme",
+            "line": 41,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1723,
+            "excerpt": "anking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated equity and corporate governance\n- [**Carta Legal**](https://carta.com/solutions/carta-legal/) - Legal services integrated with cap table management\n- [**Gust Launch**](https://gust.com/launch)",
+            "line": 32,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 799,
+            "excerpt": "sing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Industry and Growth Stage Knowledge:** Effective startup lawyers usually have expertise in t",
+            "line": 5,
+            "column": 516,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1848,
+            "excerpt": "post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Practical and Entrepreneurial Approach:** Startup lawyers tend to avoid complex legal jargon",
+            "line": 9,
+            "column": 504,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2809,
+            "excerpt": ".nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Comparison to Large Corporate or Litigation Lawyers:** Large law firms renowned for high-val",
+            "line": 13,
+            "column": 430,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 4664,
+            "excerpt": "sing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).**\n\n---\n\n**Links to organizations and resources mentioned:**\n\n- Cohen Schneider Law: https://www.p",
+            "line": 19,
+            "column": 493,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 5841,
+            "excerpt": "how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3\n5. https://eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://www.nerdwallet.com/articl",
+            "line": 41,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7,
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 6,
+      "influence": 0.12463,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.7637,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12463,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.27728
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 6
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.04452,
+        "2-what-are-the-top-alterna-203042fc": 0.07056,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.27728
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 6,
+        "2-what-are-the-top-alterna-203042fc": 6,
+        "3-how-best-lawyers-for-a-s-f83309f8": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1075,
+              "excerpt": "ttps://www.orrick.com/](https://www.orrick.com/)\n- Has startup-friendly programs\n\n**Carta Legal** - [https://carta.com/legal/](https://carta.com/legal/)\n- Flat-fee legal services for startups through the Carta platform\n\n## Online/Affordable Platforms",
+              "line": 24,
+              "column": 19,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1768,
+              "excerpt": "at $0 + state fees (for basic LLC)\n- Well-established with attorney network access\n\n## 6. **Carta**\n[https://carta.com](https://carta.com)\n- **Best for**: Cap table management and equity administration\n- **Key features**: Equity manageme",
+              "line": 41,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1723,
+              "excerpt": "anking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated equity and corporate governance\n- [**Carta Legal**](https://carta.com/solutions/carta-legal/) - Legal services integrated with cap table management\n- [**Gust Launch**](https://gust.com/launch)",
+              "line": 32,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 799,
+              "excerpt": "sing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Industry and Growth Stage Knowledge:** Effective startup lawyers usually have expertise in t",
+              "line": 5,
+              "column": 516,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1848,
+              "excerpt": "post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Practical and Entrepreneurial Approach:** Startup lawyers tend to avoid complex legal jargon",
+              "line": 9,
+              "column": 504,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2809,
+              "excerpt": ".nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Comparison to Large Corporate or Litigation Lawyers:** Large law firms renowned for high-val",
+              "line": 13,
+              "column": 430,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4664,
+              "excerpt": "sing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).**\n\n---\n\n**Links to organizations and resources mentioned:**\n\n- Cohen Schneider Law: https://www.p",
+              "line": 19,
+              "column": 493,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5841,
+              "excerpt": "how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3\n5. https://eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://www.nerdwallet.com/articl",
+              "line": 41,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 6
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 6
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 9,
+          "perplexity_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "clerky.com",
+      "value": "clerky.com",
+      "link": "https://clerky.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1240,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1240,
+            "excerpt": "egal services for startups through the Carta platform\n\n## Online/Affordable Platforms\n\n**Clerky** - [https://www.clerky.com/](https://www.clerky.com/)\n- Automated legal paperwork for incorporation, fundraising\n- Much cheaper than traditional lawyers",
+            "line": 29,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 181,
+            "excerpt": "atforms for startups, each offering different advantages depending on your needs:\n\n## 1. **Clerky**\n[https://www.clerky.com](https://www.clerky.com)\n- **Best for**: Early-stage startups incorporating and managing equity\n- **Key features**: Incorpo",
+            "line": 6,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1441,
+            "excerpt": "p velocity\n\n## **Online Legal Platforms vs. Traditional Firms**\n\n**Online/Tech-Enabled Options:**\n- [**Clerky**](https://www.clerky.com/) - Automated incorporation and fundraising documents ($2k-3k range)\n- [**Stripe Atlas**](https://st",
+            "line": 29,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 243,
+            "excerpt": "s to hiring expensive top-tier lawyers:\n\n## 1. **Online Legal Services & Document Automation**\n\n- **[Clerky](https://www.clerky.com)** - Specialized in startup incorporation, stock issuance, and fundraising documents ($799-2,000 fo",
+            "line": 7,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2900,
+            "excerpt": "cused paperwork    | Pay-per-use legal docs, formation, fundraising, hiring                       | [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-onli",
+            "line": 16,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2935,
+            "excerpt": "gal docs, formation, fundraising, hiring                       | [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison",
+            "line": 16,
+            "column": 180,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 3055,
+            "excerpt": "https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison) |\n| **Northwest Registered Agent** | Privacy-focused LLCs         | High-touch support, privacy fe",
+            "line": 16,
+            "column": 300,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 11235,
+            "excerpt": "s://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n9. https://www.clerky.com/comparison\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https:/",
+            "line": 88,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2833,
+            "excerpt": "legal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https://chambers.com/articles/leverag",
+            "line": 22,
+            "column": 11,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 5,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 3.75,
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 6,
+      "influence": 0.09002,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.4254,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.09002,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09245
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 5,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.04166,
+        "2-what-are-the-top-alterna-203042fc": 0.22828,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.05089,
+        "5-what-should-someone-choo-5ae7c9df": 0.09245
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 7,
+        "2-what-are-the-top-alterna-203042fc": 5,
+        "3-how-best-lawyers-for-a-s-f83309f8": 6,
+        "5-what-should-someone-choo-5ae7c9df": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1240,
+              "excerpt": "egal services for startups through the Carta platform\n\n## Online/Affordable Platforms\n\n**Clerky** - [https://www.clerky.com/](https://www.clerky.com/)\n- Automated legal paperwork for incorporation, fundraising\n- Much cheaper than traditional lawyers",
+              "line": 29,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 181,
+              "excerpt": "atforms for startups, each offering different advantages depending on your needs:\n\n## 1. **Clerky**\n[https://www.clerky.com](https://www.clerky.com)\n- **Best for**: Early-stage startups incorporating and managing equity\n- **Key features**: Incorpo",
+              "line": 6,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2900,
+              "excerpt": "cused paperwork    | Pay-per-use legal docs, formation, fundraising, hiring                       | [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-onli",
+              "line": 16,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2935,
+              "excerpt": "gal docs, formation, fundraising, hiring                       | [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison",
+              "line": 16,
+              "column": 180,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3055,
+              "excerpt": "https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison) |\n| **Northwest Registered Agent** | Privacy-focused LLCs         | High-touch support, privacy fe",
+              "line": 16,
+              "column": 300,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11235,
+              "excerpt": "s://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n9. https://www.clerky.com/comparison\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https:/",
+              "line": 88,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1441,
+              "excerpt": "p velocity\n\n## **Online Legal Platforms vs. Traditional Firms**\n\n**Online/Tech-Enabled Options:**\n- [**Clerky**](https://www.clerky.com/) - Automated incorporation and fundraising documents ($2k-3k range)\n- [**Stripe Atlas**](https://st",
+              "line": 29,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 243,
+              "excerpt": "s to hiring expensive top-tier lawyers:\n\n## 1. **Online Legal Services & Document Automation**\n\n- **[Clerky](https://www.clerky.com)** - Specialized in startup incorporation, stock issuance, and fundraising documents ($799-2,000 fo",
+              "line": 7,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2833,
+              "excerpt": "legal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https://chambers.com/articles/leverag",
+              "line": 22,
+              "column": 11,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 7
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 1
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 6
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "stripe.com",
+      "value": "stripe.com",
+      "link": "https://stripe.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1433,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1433,
+            "excerpt": "ion, fundraising\n- Much cheaper than traditional lawyers for standard documents\n\n**Stripe Atlas** - [https://stripe.com/atlas](https://stripe.com/atlas)\n- Helps incorporate Delaware C-corps with legal templates\n\n**Rocket Lawyer** - [https://www.rocket",
+            "line": 33,
+            "column": 20,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 554,
+            "excerpt": "fically designed for startups going through Y Combinator-style accelerators\n\n## 2. **Stripe Atlas**\n[https://stripe.com/atlas](https://stripe.com/atlas)\n- **Best for**: International founders starting US companies\n- **Key features**: Delaware C-corp f",
+            "line": 13,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1548,
+            "excerpt": "ky**](https://www.clerky.com/) - Automated incorporation and fundraising documents ($2k-3k range)\n- [**Stripe Atlas**](https://stripe.com/atlas) - Incorporation package with banking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated eq",
+            "line": 30,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ncorporation, stock issuance, and fundraising documents ($799-2,000 for incorporation packages)\n- **[Stripe Atlas](https://stripe.com/atlas)** - Incorporation service for startups ($500), includes templates and banking setup\n- **[LegalZoom",
+            "line": 8,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 4.75
+      },
+      "appearanceOrder": 4.75,
+      "influence": 0.09324,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.09324,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12619
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.03944,
+        "2-what-are-the-top-alterna-203042fc": 0.12501,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.04762,
+        "5-what-should-someone-choo-5ae7c9df": 0.12619
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 8,
+        "2-what-are-the-top-alterna-203042fc": 2,
+        "3-how-best-lawyers-for-a-s-f83309f8": 7,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1433,
+              "excerpt": "ion, fundraising\n- Much cheaper than traditional lawyers for standard documents\n\n**Stripe Atlas** - [https://stripe.com/atlas](https://stripe.com/atlas)\n- Helps incorporate Delaware C-corps with legal templates\n\n**Rocket Lawyer** - [https://www.rocket",
+              "line": 33,
+              "column": 20,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 554,
+              "excerpt": "fically designed for startups going through Y Combinator-style accelerators\n\n## 2. **Stripe Atlas**\n[https://stripe.com/atlas](https://stripe.com/atlas)\n- **Best for**: International founders starting US companies\n- **Key features**: Delaware C-corp f",
+              "line": 13,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1548,
+              "excerpt": "ky**](https://www.clerky.com/) - Automated incorporation and fundraising documents ($2k-3k range)\n- [**Stripe Atlas**](https://stripe.com/atlas) - Incorporation package with banking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated eq",
+              "line": 30,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 404,
+              "excerpt": "ncorporation, stock issuance, and fundraising documents ($799-2,000 for incorporation packages)\n- **[Stripe Atlas](https://stripe.com/atlas)** - Incorporation service for startups ($500), includes templates and banking setup\n- **[LegalZoom",
+              "line": 8,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 8
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 2
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 7
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "rocketlawyer.com",
+      "value": "rocketlawyer.com",
+      "link": "https://rocketlawyer.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1565,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1565,
+            "excerpt": "://stripe.com/atlas)\n- Helps incorporate Delaware C-corps with legal templates\n\n**Rocket Lawyer** - [https://www.rocketlawyer.com/](https://www.rocketlawyer.com/)\n- On-demand legal services and document creation\n\n## Finding the Right Lawyer\n\n**Priori Legal** -",
+            "line": 36,
+            "column": 21,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1143,
+            "excerpt": "ng at $462 for incorporation package\n- Connects to Gust's investor network\n\n## 4. **Rocket Lawyer**\n[https://www.rocketlawyer.com](https://www.rocketlawyer.com)\n- **Best for**: General legal documents and attorney consultations\n- **Key features**: Document te",
+            "line": 27,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 633,
+            "excerpt": "[LegalZoom](https://www.legalzoom.com)** - General business formation and basic legal documents\n- **[Rocket Lawyer](https://www.rocketlawyer.com)** - On-demand legal documents and attorney consultations\n\n## 2. **Fractional/On-Demand Legal Servi",
+            "line": 10,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1472,
+            "excerpt": "dance              | Subscription model, customizable forms, on-call attorneys                    | [Rocket Lawyer](https://www.rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsa",
+            "line": 12,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2797,
+            "excerpt": "egal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https:/",
+            "line": 21,
+            "column": 18,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5.67,
+        "perplexity_with_search_latest": 6.5
+      },
+      "appearanceOrder": 6.5,
+      "influence": 0.04657,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.32897,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04657,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06501
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 2,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.03762,
+        "2-what-are-the-top-alterna-203042fc": 0.09558,
+        "5-what-should-someone-choo-5ae7c9df": 0.06501
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 9,
+        "2-what-are-the-top-alterna-203042fc": 3.5,
+        "5-what-should-someone-choo-5ae7c9df": 7
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1565,
+              "excerpt": "://stripe.com/atlas)\n- Helps incorporate Delaware C-corps with legal templates\n\n**Rocket Lawyer** - [https://www.rocketlawyer.com/](https://www.rocketlawyer.com/)\n- On-demand legal services and document creation\n\n## Finding the Right Lawyer\n\n**Priori Legal** -",
+              "line": 36,
+              "column": 21,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1143,
+              "excerpt": "ng at $462 for incorporation package\n- Connects to Gust's investor network\n\n## 4. **Rocket Lawyer**\n[https://www.rocketlawyer.com](https://www.rocketlawyer.com)\n- **Best for**: General legal documents and attorney consultations\n- **Key features**: Document te",
+              "line": 27,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1472,
+              "excerpt": "dance              | Subscription model, customizable forms, on-call attorneys                    | [Rocket Lawyer](https://www.rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsa",
+              "line": 12,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 633,
+              "excerpt": "[LegalZoom](https://www.legalzoom.com)** - General business formation and basic legal documents\n- **[Rocket Lawyer](https://www.rocketlawyer.com)** - On-demand legal documents and attorney consultations\n\n## 2. **Fractional/On-Demand Legal Servi",
+              "line": 10,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2797,
+              "excerpt": "egal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https:/",
+              "line": 21,
+              "column": 18,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 9
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 4
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "priorilegal.com",
+      "value": "priorilegal.com",
+      "link": "https://priorilegal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1726,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1726,
+            "excerpt": ")\n- On-demand legal services and document creation\n\n## Finding the Right Lawyer\n\n**Priori Legal** - [https://www.priorilegal.com/](https://www.priorilegal.com/)\n- Marketplace connecting startups with vetted lawyers\n\n**UpCounsel** - [https://www.upcounsel.com/",
+            "line": 41,
+            "column": 20,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4213,
+            "excerpt": "their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vetted startup lawyers\n- [**Priori Legal**](https://www.priorilegal.com/) - Marketplace for vetted lawyers with transparent pricing\n- [**UpCounsel**](https://www.upcounsel.",
+            "line": 87,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 788,
+            "excerpt": "mand legal documents and attorney consultations\n\n## 2. **Fractional/On-Demand Legal Services**\n\n- **[Priori Legal](https://www.priorilegal.com)** - Vetted lawyers at discounted rates for startups\n- **[UpCounsel](https://www.upcounsel.com)** -",
+            "line": 14,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2719,
+            "excerpt": "lone.\n\n---\n\n**Relevant links for further reference and services:**\n\n- Priori Legal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://c",
+            "line": 19,
+            "column": 33,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 10,
+        "perplexity_with_search_latest": 8
+      },
+      "appearanceOrder": 10.5,
+      "influence": 0.02681,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.19028,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02681,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06672
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.03614,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03571,
+        "5-what-should-someone-choo-5ae7c9df": 0.06672
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 10,
+        "3-how-best-lawyers-for-a-s-f83309f8": 15,
+        "5-what-should-someone-choo-5ae7c9df": 6.5
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1726,
+              "excerpt": ")\n- On-demand legal services and document creation\n\n## Finding the Right Lawyer\n\n**Priori Legal** - [https://www.priorilegal.com/](https://www.priorilegal.com/)\n- Marketplace connecting startups with vetted lawyers\n\n**UpCounsel** - [https://www.upcounsel.com/",
+              "line": 41,
+              "column": 20,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4213,
+              "excerpt": "their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vetted startup lawyers\n- [**Priori Legal**](https://www.priorilegal.com/) - Marketplace for vetted lawyers with transparent pricing\n- [**UpCounsel**](https://www.upcounsel.",
+              "line": 87,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 788,
+              "excerpt": "mand legal documents and attorney consultations\n\n## 2. **Fractional/On-Demand Legal Services**\n\n- **[Priori Legal](https://www.priorilegal.com)** - Vetted lawyers at discounted rates for startups\n- **[UpCounsel](https://www.upcounsel.com)** -",
+              "line": 14,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2719,
+              "excerpt": "lone.\n\n---\n\n**Relevant links for further reference and services:**\n\n- Priori Legal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://c",
+              "line": 19,
+              "column": 33,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": 10
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 15
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "upcounsel.com",
+      "value": "upcounsel.com",
+      "link": "https://upcounsel.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5428,
+        "anthropic_claude_with_search_latest": 1858,
+        "openai_chatgpt_with_search_latest": 1078
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1858,
+            "excerpt": "ttps://www.priorilegal.com/)\n- Marketplace connecting startups with vetted lawyers\n\n**UpCounsel** - [https://www.upcounsel.com/](https://www.upcounsel.com/)\n- Platform to find and hire experienced business lawyers\n\n**Your location's Bar Association** - Se",
+            "line": 44,
+            "column": 17,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4322,
+            "excerpt": "Legal**](https://www.priorilegal.com/) - Marketplace for vetted lawyers with transparent pricing\n- [**UpCounsel**](https://www.upcounsel.com/) - Legal marketplace (acquired by Upwork)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand",
+            "line": 88,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 888,
+            "excerpt": "[Priori Legal](https://www.priorilegal.com)** - Vetted lawyers at discounted rates for startups\n- **[UpCounsel](https://www.upcounsel.com)** - Marketplace connecting startups with experienced lawyers (acquired by Rocket Lawyer)\n- **[Atri",
+            "line": 15,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1078,
+            "excerpt": "ercial arrangements from a startup's inception, aiming to prevent legal issues down the line.\n\n5. **[UpCounsel](https://www.upcounsel.com/startup-attorneys-boston-ma)** - A platform that connects startups with attorneys like Jo Ann Jorge in various locations, based",
+            "line": 11,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 874,
+            "excerpt": "ds. UpCounsel is ideal for startups looking to hire lawyers on an as-needed basis. Discover more at [UpCounsel](https://www.upcounsel.com/startup-attorneys).\n\n2. **AI-Powered Legal Platforms**:\n   - AI technology is playing an increasing role in legal ser",
+            "line": 5,
+            "column": 288,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5428,
+            "excerpt": "pCounsel allow you to compare and hire startup attorneys with transparent pricing and reviews[[12]](https://www.upcounsel.com/startup-attorneys-california).\n  [UpCounsel Startup Lawyers](https://www.upcounsel.com/startup-attorneys-california)\n- **Reviews",
+            "line": 38,
+            "column": 134,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 5487,
+            "excerpt": "th transparent pricing and reviews[[12]](https://www.upcounsel.com/startup-attorneys-california).\n  [UpCounsel Startup Lawyers](https://www.upcounsel.com/startup-attorneys-california)\n- **Reviews and Rankings:** Chambers and Partners, Vault, and TRUiC provide annual rankings and de",
+            "line": 39,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 10581,
+            "excerpt": "5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[12]](https://www.upcounsel.com/startup-attorneys-california).\n- **Request consultations** with a few top-rated firms or solo practitioners to assess fit, commu",
+            "line": 70,
+            "column": 294,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 12026,
+            "excerpt": "n-each-practice-area/emerging-companies-and-venture-capital)\n- **UpCounsel for Startup Attorneys**: [https://www.upcounsel.com/startup-attorneys-california](https://www.upcounsel.com/startup-attorneys-california)[[12]](https://www.upcounsel.com/startup-attorneys-california)\n- **StartupLawyer.com (Ryan Roberts)",
+            "line": 80,
+            "column": 40,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 12145,
+            "excerpt": "sel.com/startup-attorneys-california](https://www.upcounsel.com/startup-attorneys-california)[[12]](https://www.upcounsel.com/startup-attorneys-california)\n- **StartupLawyer.com (Ryan Roberts)**: [https://startuplawyer.com](https://startuplawyer.com)[[6]",
+            "line": 80,
+            "column": 159,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2533,
+            "excerpt": "lized needs        | Access to vetted attorneys for one-off projects, flat-rate options           | [UpCounsel](https://www.upcounsel.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+            "line": 15,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7058,
+            "excerpt": ": Use services like [LawKick](https://www.lawkick.com), [LawTrades](https://www.lawtrades.com), and [UpCounsel](https://www.upcounsel.com) to compare and connect with attorneys based on your budget and needs[[11]](https://www.wrike.com/b",
+            "line": 47,
+            "column": 123,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7246,
+            "excerpt": "ur budget and needs[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Strategic Planning**: Align your legal needs with your business growth plans, considering fut",
+            "line": 47,
+            "column": 311,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 9955,
+            "excerpt": "pCounsel[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Emerging legal tech** offers scalable, cost-effective solutions for compliance, contracts, an",
+            "line": 72,
+            "column": 261,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 11460,
+            "excerpt": "https://www.wrike.com/blog/ultimate-list-legal-resources-startups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https://www.mycase.com/blog/ai/legal-ai-companies/",
+            "line": 92,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 6551,
+            "excerpt": "://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n14. https://www.upcounsel.com/startup-attorneys-new-york",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06838,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05941,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11.67,
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 3.5
+      },
+      "appearanceOrder": 8.79,
+      "influence": 0.07659,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.0798,
+        "anthropic_claude_with_search_latest": 0.0389,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.07659,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07124
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.0497
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.05149
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 8,
+        "2-what-are-the-top-alterna-203042fc": 6,
+        "3-how-best-lawyers-for-a-s-f83309f8": 2,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.0697,
+        "2-what-are-the-top-alterna-203042fc": 0.15749,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03861,
+        "5-what-should-someone-choo-5ae7c9df": 0.07124
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 12,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 10.67,
+        "2-what-are-the-top-alterna-203042fc": 5,
+        "3-how-best-lawyers-for-a-s-f83309f8": 13.5,
+        "5-what-should-someone-choo-5ae7c9df": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1858,
+              "excerpt": "ttps://www.priorilegal.com/)\n- Marketplace connecting startups with vetted lawyers\n\n**UpCounsel** - [https://www.upcounsel.com/](https://www.upcounsel.com/)\n- Platform to find and hire experienced business lawyers\n\n**Your location's Bar Association** - Se",
+              "line": 44,
+              "column": 17,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1078,
+              "excerpt": "ercial arrangements from a startup's inception, aiming to prevent legal issues down the line.\n\n5. **[UpCounsel](https://www.upcounsel.com/startup-attorneys-boston-ma)** - A platform that connects startups with attorneys like Jo Ann Jorge in various locations, based",
+              "line": 11,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5428,
+              "excerpt": "pCounsel allow you to compare and hire startup attorneys with transparent pricing and reviews[[12]](https://www.upcounsel.com/startup-attorneys-california).\n  [UpCounsel Startup Lawyers](https://www.upcounsel.com/startup-attorneys-california)\n- **Reviews",
+              "line": 38,
+              "column": 134,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5487,
+              "excerpt": "th transparent pricing and reviews[[12]](https://www.upcounsel.com/startup-attorneys-california).\n  [UpCounsel Startup Lawyers](https://www.upcounsel.com/startup-attorneys-california)\n- **Reviews and Rankings:** Chambers and Partners, Vault, and TRUiC provide annual rankings and de",
+              "line": 39,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 10581,
+              "excerpt": "5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[12]](https://www.upcounsel.com/startup-attorneys-california).\n- **Request consultations** with a few top-rated firms or solo practitioners to assess fit, commu",
+              "line": 70,
+              "column": 294,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 12026,
+              "excerpt": "n-each-practice-area/emerging-companies-and-venture-capital)\n- **UpCounsel for Startup Attorneys**: [https://www.upcounsel.com/startup-attorneys-california](https://www.upcounsel.com/startup-attorneys-california)[[12]](https://www.upcounsel.com/startup-attorneys-california)\n- **StartupLawyer.com (Ryan Roberts)",
+              "line": 80,
+              "column": 40,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 12145,
+              "excerpt": "sel.com/startup-attorneys-california](https://www.upcounsel.com/startup-attorneys-california)[[12]](https://www.upcounsel.com/startup-attorneys-california)\n- **StartupLawyer.com (Ryan Roberts)**: [https://startuplawyer.com](https://startuplawyer.com)[[6]",
+              "line": 80,
+              "column": 159,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 874,
+              "excerpt": "ds. UpCounsel is ideal for startups looking to hire lawyers on an as-needed basis. Discover more at [UpCounsel](https://www.upcounsel.com/startup-attorneys).\n\n2. **AI-Powered Legal Platforms**:\n   - AI technology is playing an increasing role in legal ser",
+              "line": 5,
+              "column": 288,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2533,
+              "excerpt": "lized needs        | Access to vetted attorneys for one-off projects, flat-rate options           | [UpCounsel](https://www.upcounsel.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+              "line": 15,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7058,
+              "excerpt": ": Use services like [LawKick](https://www.lawkick.com), [LawTrades](https://www.lawtrades.com), and [UpCounsel](https://www.upcounsel.com) to compare and connect with attorneys based on your budget and needs[[11]](https://www.wrike.com/b",
+              "line": 47,
+              "column": 123,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7246,
+              "excerpt": "ur budget and needs[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Strategic Planning**: Align your legal needs with your business growth plans, considering fut",
+              "line": 47,
+              "column": 311,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9955,
+              "excerpt": "pCounsel[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Emerging legal tech** offers scalable, cost-effective solutions for compliance, contracts, an",
+              "line": 72,
+              "column": 261,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11460,
+              "excerpt": "https://www.wrike.com/blog/ultimate-list-legal-resources-startups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https://www.mycase.com/blog/ai/legal-ai-companies/",
+              "line": 92,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4322,
+              "excerpt": "Legal**](https://www.priorilegal.com/) - Marketplace for vetted lawyers with transparent pricing\n- [**UpCounsel**](https://www.upcounsel.com/) - Legal marketplace (acquired by Upwork)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand",
+              "line": 88,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6551,
+              "excerpt": "://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n14. https://www.upcounsel.com/startup-attorneys-new-york",
+              "line": 49,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 888,
+              "excerpt": "[Priori Legal](https://www.priorilegal.com)** - Vetted lawyers at discounted rates for startups\n- **[UpCounsel](https://www.upcounsel.com)** - Marketplace connecting startups with experienced lawyers (acquired by Rocket Lawyer)\n- **[Atri",
+              "line": 15,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 16,
+          "anthropic_claude_with_search_latest": 11,
+          "openai_chatgpt_with_search_latest": 5
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 8,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 16,
+          "perplexity_with_search_latest": 11
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "etonvs.com",
+      "value": "etonvs.com",
+      "link": "https://etonvs.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 729,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 332
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 332,
+            "excerpt": ")** - Known for its expertise in venture financing and tax law, Gunderson Dettmer is highlighted by [etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/) as a leading firm for startups.\n\n2. **[VSQ Legal](https://www.vsqlegal.com/)** - Offers strategic",
+            "line": 3,
+            "column": 149,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1119,
+            "excerpt": "ees until funding is secured, which can be extremely beneficial for startups in their early phases ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/)). \n\n3. **Network Accessibility**: Lawyers who specialize in startups often have extensive networks",
+            "line": 5,
+            "column": 280,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2791,
+            "excerpt": "ttps://mystartuplawyer.com/startups-and-emerging-businesses/) or follow guides by industry experts ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/)).",
+            "line": 13,
+            "column": 482,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 729,
+            "excerpt": "ignificant number of startup deals and IPOs, making them a go-to for high-growth tech startups[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Perkins Coie LLP](https://www.perkinscoie.com)\n- **Fenwick & West LLP** is frequently listed a",
+            "line": 7,
+            "column": 300,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1958,
+            "excerpt": "form and hands-on experience with thousands of startup matters, particularly in tech and media[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Lowenstein Sandler](https://www.lowenstein.com)\n- **Silicon Legal Strategy** is a boutique fir",
+            "line": 15,
+            "column": 165,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4462,
+            "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n- **Budget and Fee",
+            "line": 35,
+            "column": 324,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 6725,
+            "excerpt": "Sandler** is a networking and educational platform connecting startups, investors, and lawyers[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n- **Chambers and Partners** provides detailed, vetted rankings of top startup law firms and indiv",
+            "line": 48,
+            "column": 132,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 7506,
+            "excerpt": "LLP           | Tech, venture capital, IPOs              | perkinscoie.com                  | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)",
+            "line": 55,
+            "column": 116,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 8434,
+            "excerpt": "s seeking traditional counsel, some sites list top firms by deal volume and startup experience[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n- **Legal resources for startups**: Comprehensive lists of tools, templates, and platforms are av",
+            "line": 55,
+            "column": 137,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 11068,
+            "excerpt": "s://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-k",
+            "line": 86,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 3899,
+            "excerpt": ".nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emergin",
+            "line": 17,
+            "column": 501,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 5902,
+            "excerpt": "/eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n9. https://vault.",
+            "line": 42,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06838,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06931,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 8.67,
+        "openai_chatgpt_with_search_latest": 1.5
+      },
+      "appearanceOrder": 8,
+      "influence": 0.14461,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.03324,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.14461,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.25385
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.14528
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 8,
+        "2-what-are-the-top-alterna-203042fc": 2,
+        "3-how-best-lawyers-for-a-s-f83309f8": 4
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.21678,
+        "2-what-are-the-top-alterna-203042fc": 0.09167,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.25385
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1.5,
+        "2-what-are-the-top-alterna-203042fc": 19,
+        "3-how-best-lawyers-for-a-s-f83309f8": 3.5
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 332,
+              "excerpt": ")** - Known for its expertise in venture financing and tax law, Gunderson Dettmer is highlighted by [etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/) as a leading firm for startups.\n\n2. **[VSQ Legal](https://www.vsqlegal.com/)** - Offers strategic",
+              "line": 3,
+              "column": 149,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 729,
+              "excerpt": "ignificant number of startup deals and IPOs, making them a go-to for high-growth tech startups[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Perkins Coie LLP](https://www.perkinscoie.com)\n- **Fenwick & West LLP** is frequently listed a",
+              "line": 7,
+              "column": 300,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1958,
+              "excerpt": "form and hands-on experience with thousands of startup matters, particularly in tech and media[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Lowenstein Sandler](https://www.lowenstein.com)\n- **Silicon Legal Strategy** is a boutique fir",
+              "line": 15,
+              "column": 165,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4462,
+              "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n- **Budget and Fee",
+              "line": 35,
+              "column": 324,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6725,
+              "excerpt": "Sandler** is a networking and educational platform connecting startups, investors, and lawyers[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n- **Chambers and Partners** provides detailed, vetted rankings of top startup law firms and indiv",
+              "line": 48,
+              "column": 132,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7506,
+              "excerpt": "LLP           | Tech, venture capital, IPOs              | perkinscoie.com                  | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)",
+              "line": 55,
+              "column": 116,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 8434,
+              "excerpt": "s seeking traditional counsel, some sites list top firms by deal volume and startup experience[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n- **Legal resources for startups**: Comprehensive lists of tools, templates, and platforms are av",
+              "line": 55,
+              "column": 137,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11068,
+              "excerpt": "s://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-k",
+              "line": 86,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1119,
+              "excerpt": "ees until funding is secured, which can be extremely beneficial for startups in their early phases ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/)). \n\n3. **Network Accessibility**: Lawyers who specialize in startups often have extensive networks",
+              "line": 5,
+              "column": 280,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2791,
+              "excerpt": "ttps://mystartuplawyer.com/startups-and-emerging-businesses/) or follow guides by industry experts ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-for-startups/)).",
+              "line": 13,
+              "column": 482,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3899,
+              "excerpt": ".nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emergin",
+              "line": 17,
+              "column": 501,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5902,
+              "excerpt": "/eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n9. https://vault.",
+              "line": 42,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 19
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 6,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "khanna.law",
+      "value": "khanna.law",
+      "link": "https://khanna.law",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 661
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 661,
+            "excerpt": "mpanies with a strong client satisfaction rating, making it a well-rated choice for startups.\n\n3. **[Khanna Law](https://www.khanna.law/)** - Run by Harry Khanna, this firm provides big law firm service at an affordable price for founde",
+            "line": 7,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1284,
+            "excerpt": "vices tailored specifically for founders, avoiding the overhead costs of traditional big law firms ([Khanna Law](https://www.khanna.law/)). These lawyers are often entrepreneurs themselves and understand the unique challenges startups f",
+            "line": 9,
+            "column": 180,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3.5
+      },
+      "appearanceOrder": 3.5,
+      "influence": 0.05422,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05422,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08614
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.0625,
+        "5-what-should-someone-choo-5ae7c9df": 0.08614
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "5-what-should-someone-choo-5ae7c9df": 4
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 661,
+              "excerpt": "mpanies with a strong client satisfaction rating, making it a well-rated choice for startups.\n\n3. **[Khanna Law](https://www.khanna.law/)** - Run by Harry Khanna, this firm provides big law firm service at an affordable price for founde",
+              "line": 7,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1284,
+              "excerpt": "vices tailored specifically for founders, avoiding the overhead costs of traditional big law firms ([Khanna Law](https://www.khanna.law/)). These lawyers are often entrepreneurs themselves and understand the unique challenges startups f",
+              "line": 9,
+              "column": 180,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startuplawyer.vc",
+      "value": "startuplawyer.vc",
+      "link": "https://startuplawyer.vc",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 870
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 870,
+            "excerpt": "affordable price for founders, especially those who might not suit a larger firm's structure.\n\n4. **[Startup Lawyer](https://startuplawyer.vc/)** - Specializes in structuring shareholding, IP rights, and commercial arrangements from a startup",
+            "line": 9,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2635,
+            "excerpt": "rrangements, and ensuring smooth shareholder agreements to avoid future disputes, as highlighted by [Startup Lawyer VC](https://startuplawyer.vc/).\n\nOverall, a successful startup lawyer not only understands the legal landscape but also comprehen",
+            "line": 11,
+            "column": 303,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 1467,
+            "excerpt": "elves and understand the unique challenges startups face.\n\n5. **Virtual Law Firms**: Platforms like [StartupLawyer.vc](https://startuplawyer.vc/) specialize in providing virtual legal services that combine investor comfort with operational flex",
+            "line": 11,
+            "column": 42,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4.67
+      },
+      "appearanceOrder": 4.67,
+      "influence": 0.07049,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.07049,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07737
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 1,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.05384,
+        "4-what-makes-best-lawyer-f-9866902d": 0.04298,
+        "5-what-should-someone-choo-5ae7c9df": 0.07737
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 4,
+        "4-what-makes-best-lawyer-f-9866902d": 5,
+        "5-what-should-someone-choo-5ae7c9df": 5
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 870,
+              "excerpt": "affordable price for founders, especially those who might not suit a larger firm's structure.\n\n4. **[Startup Lawyer](https://startuplawyer.vc/)** - Specializes in structuring shareholding, IP rights, and commercial arrangements from a startup",
+              "line": 9,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2635,
+              "excerpt": "rrangements, and ensuring smooth shareholder agreements to avoid future disputes, as highlighted by [Startup Lawyer VC](https://startuplawyer.vc/).\n\nOverall, a successful startup lawyer not only understands the legal landscape but also comprehen",
+              "line": 11,
+              "column": 303,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1467,
+              "excerpt": "elves and understand the unique challenges startups face.\n\n5. **Virtual Law Firms**: Platforms like [StartupLawyer.vc](https://startuplawyer.vc/) specialize in providing virtual legal services that combine investor comfort with operational flex",
+              "line": 11,
+              "column": 42,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "openai_chatgpt_with_search_latest": 4
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "openai_chatgpt_with_search_latest": 5
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "openai_chatgpt_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "perkinscoie.com",
+      "value": "perkinscoie.com",
+      "link": "https://perkinscoie.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 793,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 793,
+            "excerpt": "for high-growth tech startups[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Perkins Coie LLP](https://www.perkinscoie.com)\n- **Fenwick & West LLP** is frequently listed as a top choice for tech startups and venture-backed",
+            "line": 8,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 7465,
+            "excerpt": "------------------------|\n| Perkins Coie LLP           | Tech, venture capital, IPOs              | perkinscoie.com                  | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://",
+            "line": 55,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.07423,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07423,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15774
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.15774
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 793,
+              "excerpt": "for high-growth tech startups[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Perkins Coie LLP](https://www.perkinscoie.com)\n- **Fenwick & West LLP** is frequently listed as a top choice for tech startups and venture-backed",
+              "line": 8,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7465,
+              "excerpt": "------------------------|\n| Perkins Coie LLP           | Tech, venture capital, IPOs              | perkinscoie.com                  | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://",
+              "line": 55,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lowenstein.com",
+      "value": "lowenstein.com",
+      "link": "https://lowenstein.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2022,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2022,
+            "excerpt": "particularly in tech and media[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Lowenstein Sandler](https://www.lowenstein.com)\n- **Silicon Legal Strategy** is a boutique firm dedicated specifically to startups, offering perso",
+            "line": 16,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 8513,
+            "excerpt": "|\n| Lowenstein Sandler         | Tech, media, VentureCrush platform       | lowenstein.com                   | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)",
+            "line": 59,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.03711,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03711,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07886
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.07886
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 8
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2022,
+              "excerpt": "particularly in tech and media[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/).\n  [Lowenstein Sandler](https://www.lowenstein.com)\n- **Silicon Legal Strategy** is a boutique firm dedicated specifically to startups, offering perso",
+              "line": 16,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8513,
+              "excerpt": "|\n| Lowenstein Sandler         | Tech, media, VentureCrush platform       | lowenstein.com                   | [[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)",
+              "line": 59,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "siliconlegal.com",
+      "value": "siliconlegal.com",
+      "link": "https://siliconlegal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2421,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2421,
+            "excerpt": "de-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal Strategy](https://www.siliconlegal.com)\n- **Troutman Pepper Locke LLP** (formed by the 2025 merger of Troutman Pepper and Locke Lord) has",
+            "line": 18,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 8734,
+            "excerpt": "|\n| Silicon Legal Strategy     | Boutique, flexible, startup-focused      | siliconlegal.com                 | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationw",
+            "line": 60,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.03401,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03401,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07226
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.07226
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 10
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2421,
+              "excerpt": "de-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal Strategy](https://www.siliconlegal.com)\n- **Troutman Pepper Locke LLP** (formed by the 2025 merger of Troutman Pepper and Locke Lord) has",
+              "line": 18,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8734,
+              "excerpt": "|\n| Silicon Legal Strategy     | Boutique, flexible, startup-focused      | siliconlegal.com                 | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationw",
+              "line": 60,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "troutman.com",
+      "value": "troutman.com",
+      "link": "https://troutman.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2758,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2758,
+            "excerpt": "](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Troutman Pepper Locke LLP](https://www.troutman.com)\n- **Wiggin and Dana LLP** offers full-service startup legal support from seed financing to IPO, wi",
+            "line": 20,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 9064,
+            "excerpt": "|\n| Troutman Pepper Locke LLP  | Tech, life sciences, financings          | troutman.com                     | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nat",
+            "line": 61,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.03282,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03282,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06974
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.06974
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 11
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2758,
+              "excerpt": "](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Troutman Pepper Locke LLP](https://www.troutman.com)\n- **Wiggin and Dana LLP** offers full-service startup legal support from seed financing to IPO, wi",
+              "line": 20,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9064,
+              "excerpt": "|\n| Troutman Pepper Locke LLP  | Tech, life sciences, financings          | troutman.com                     | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nat",
+              "line": 61,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 11
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "wiggin.com",
+      "value": "wiggin.com",
+      "link": "https://wiggin.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3054,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3054,
+            "excerpt": "](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Wiggin and Dana LLP](https://www.wiggin.com)\n\n### Notable Boutique and Solo Startup Lawyers\n\n- **Ryan Roberts** (formerly of Cooley, now solo p",
+            "line": 22,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 9319,
+            "excerpt": "|\n| Wiggin and Dana LLP        | Full-service, multiple industries        | wiggin.com                       | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-n",
+            "line": 62,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01709,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0198,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.03179,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03179,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06756
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.06756
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 12
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3054,
+              "excerpt": "](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Wiggin and Dana LLP](https://www.wiggin.com)\n\n### Notable Boutique and Solo Startup Lawyers\n\n- **Ryan Roberts** (formerly of Cooley, now solo p",
+              "line": 22,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9319,
+              "excerpt": "|\n| Wiggin and Dana LLP        | Full-service, multiple industries        | wiggin.com                       | [[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-n",
+              "line": 62,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startuplawyer.com",
+      "value": "startuplawyer.com",
+      "link": "https://startuplawyer.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 15,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3255,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3255,
+            "excerpt": "n Roberts** (formerly of Cooley, now solo practitioner) is a prolific startup lawyer and founder of StartupLawyer.com, a leading resource for entrepreneurs. He represents startups and investors internationally and has",
+            "line": 26,
+            "column": 108,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 3413,
+            "excerpt": "e represents startups and investors internationally and has written extensively on startup law[[6]](https://startuplawyer.com).\n  [StartupLawyer.com](https://startuplawyer.com)\n- **Gallagher Krich, APC** is a California-based",
+            "line": 26,
+            "column": 266,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 3443,
+            "excerpt": "stors internationally and has written extensively on startup law[[6]](https://startuplawyer.com).\n  [StartupLawyer.com](https://startuplawyer.com)\n- **Gallagher Krich, APC** is a California-based firm with decades of experience helping startups",
+            "line": 27,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4922,
+            "excerpt": "best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).\n- **Location:** While many top firms operate nationally, consider proximity for local networking",
+            "line": 36,
+            "column": 321,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 6423,
+            "excerpt": "each-practice-area/emerging-companies-and-venture-capital)\n\n### Additional Tools and Resources\n\n- **StartupLawyer.com** offers a glossary, articles, and practical guides for entrepreneurs navigating legal issues, auth",
+            "line": 47,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 15,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.12821,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.14851,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.23175,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.23175,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.49246
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 15,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 15
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 15
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.49246
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 15,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 13
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3255,
+              "excerpt": "n Roberts** (formerly of Cooley, now solo practitioner) is a prolific startup lawyer and founder of StartupLawyer.com, a leading resource for entrepreneurs. He represents startups and investors internationally and has",
+              "line": 26,
+              "column": 108,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3413,
+              "excerpt": "e represents startups and investors internationally and has written extensively on startup law[[6]](https://startuplawyer.com).\n  [StartupLawyer.com](https://startuplawyer.com)\n- **Gallagher Krich, APC** is a California-based",
+              "line": 26,
+              "column": 266,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3443,
+              "excerpt": "stors internationally and has written extensively on startup law[[6]](https://startuplawyer.com).\n  [StartupLawyer.com](https://startuplawyer.com)\n- **Gallagher Krich, APC** is a California-based firm with decades of experience helping startups",
+              "line": 27,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4922,
+              "excerpt": "best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).\n- **Location:** While many top firms operate nationally, consider proximity for local networking",
+              "line": 36,
+              "column": 321,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6423,
+              "excerpt": "each-practice-area/emerging-companies-and-venture-capital)\n\n### Additional Tools and Resources\n\n- **StartupLawyer.com** offers a glossary, articles, and practical guides for entrepreneurs navigating legal issues, auth",
+              "line": 47,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "tomgallagherlaw.com",
+      "value": "tomgallagherlaw.com",
+      "link": "https://tomgallagherlaw.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3692,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3692,
+            "excerpt": "formation to growth, especially for businesses navigating California’s regulatory environment[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n  [Gallagher Krich, APC](https://www.tomgallagherlaw.com)\n- **Andrew S. Bosin** is highlighted as",
+            "line": 28,
+            "column": 203,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 3756,
+            "excerpt": "ornia’s regulatory environment[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n  [Gallagher Krich, APC](https://www.tomgallagherlaw.com)\n- **Andrew S. Bosin** is highlighted as an expert in SaaS and tech contracts, offering fixed-fee s",
+            "line": 29,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4856,
+            "excerpt": "d to large firms[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).\n- **Location:** While many top firms operate nationally, consider",
+            "line": 36,
+            "column": 255,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 5233,
+            "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n- **Resources:** Platforms like UpCounsel allow you to compare and hire startup attorneys with tr",
+            "line": 37,
+            "column": 284,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 9761,
+            "excerpt": "|\n| Gallagher Krich, APC       | California, business formation           | tomgallagherlaw.com              | [[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)",
+            "line": 64,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.06838,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.07921,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.12045,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12045,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.25596
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 8
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.25596
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 14
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3692,
+              "excerpt": "formation to growth, especially for businesses navigating California’s regulatory environment[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n  [Gallagher Krich, APC](https://www.tomgallagherlaw.com)\n- **Andrew S. Bosin** is highlighted as",
+              "line": 28,
+              "column": 203,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3756,
+              "excerpt": "ornia’s regulatory environment[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n  [Gallagher Krich, APC](https://www.tomgallagherlaw.com)\n- **Andrew S. Bosin** is highlighted as an expert in SaaS and tech contracts, offering fixed-fee s",
+              "line": 29,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4856,
+              "excerpt": "d to large firms[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).\n- **Location:** While many top firms operate nationally, consider",
+              "line": 36,
+              "column": 255,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5233,
+              "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n- **Resources:** Platforms like UpCounsel allow you to compare and hire startup attorneys with tr",
+              "line": 37,
+              "column": 284,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9761,
+              "excerpt": "|\n| Gallagher Krich, APC       | California, business formation           | tomgallagherlaw.com              | [[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)",
+              "line": 64,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 14
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "njbusiness-attorney.com",
+      "value": "njbusiness-attorney.com",
+      "link": "https://njbusiness-attorney.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3947,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3947,
+            "excerpt": "d as an expert in SaaS and tech contracts, offering fixed-fee services for startups nationwide[[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/).\n  [Andrew S. Bosin’s Law Firm](https://www.njbusiness-attorney.com)\n\n### How to Compare and Choos",
+            "line": 30,
+            "column": 136,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4041,
+            "excerpt": "[[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/).\n  [Andrew S. Bosin’s Law Firm](https://www.njbusiness-attorney.com)\n\n### How to Compare and Choose\n\n- **Industry Focus:** If your startup is in tech, AI, or life scie",
+            "line": 31,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 9982,
+            "excerpt": "|\n| Andrew S. Bosin            | SaaS, fixed-fee contracts                | njbusiness-attorney.com          | [[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete",
+            "line": 65,
+            "column": 75,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 10023,
+            "excerpt": "in            | SaaS, fixed-fee contracts                | njbusiness-attorney.com          | [[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/)                                            |\n\n## How to Find the Best Fit for Your Startup\n\n- **Id",
+            "line": 65,
+            "column": 116,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 12883,
+            "excerpt": "urces/best-law-firms-for-startups\n4. https://www.tomgallagherlaw.com/lawyer-business-startup-ca/\n5. https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/\n6. https://startuplawyer.com\n7. https://vault.com/best-companies-to-work-for/law/best-law-firms-in-",
+            "line": 91,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04274,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0495,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.07353,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07353,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15626
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 5
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.15626
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 15
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3947,
+              "excerpt": "d as an expert in SaaS and tech contracts, offering fixed-fee services for startups nationwide[[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/).\n  [Andrew S. Bosin’s Law Firm](https://www.njbusiness-attorney.com)\n\n### How to Compare and Choos",
+              "line": 30,
+              "column": 136,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4041,
+              "excerpt": "[[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/).\n  [Andrew S. Bosin’s Law Firm](https://www.njbusiness-attorney.com)\n\n### How to Compare and Choose\n\n- **Industry Focus:** If your startup is in tech, AI, or life scie",
+              "line": 31,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9982,
+              "excerpt": "|\n| Andrew S. Bosin            | SaaS, fixed-fee contracts                | njbusiness-attorney.com          | [[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete",
+              "line": 65,
+              "column": 75,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 10023,
+              "excerpt": "in            | SaaS, fixed-fee contracts                | njbusiness-attorney.com          | [[5]](https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/)                                            |\n\n## How to Find the Best Fit for Your Startup\n\n- **Id",
+              "line": 65,
+              "column": 116,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 12883,
+              "excerpt": "urces/best-law-firms-for-startups\n4. https://www.tomgallagherlaw.com/lawyer-business-startup-ca/\n5. https://www.njbusiness-attorney.com/best-law-firms-for-tech-startups-2025-complete-guide/\n6. https://startuplawyer.com\n7. https://vault.com/best-companies-to-work-for/law/best-law-firms-in-",
+              "line": 91,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 15
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "chambers.com",
+      "value": "chambers.com",
+      "link": "https://chambers.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 21,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2245,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3323,
+            "excerpt": "eject\n\n3. **Network Value**\n   - Top startup firms can introduce you to VCs and other founders\n   - [Legal directories like Chambers](https://chambers.com/) and [The Legal 500](https://www.legal500.com/) track these reputations\n\n4. **Speed & Availability*",
+            "line": 63,
+            "column": 6,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2245,
+            "excerpt": "startups, offering personalized, business-oriented legal services with flexible fee structures[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal St",
+            "line": 17,
+            "column": 175,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2660,
+            "excerpt": "cke Lord) has a strong emerging companies practice, especially in technology and life sciences[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Troutman Pepper Locke LLP](https://www.troutman.com)\n- **Wiggin and Dana LLP** offers full-ser",
+            "line": 19,
+            "column": 185,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2956,
+            "excerpt": "e startup legal support from seed financing to IPO, with experience across multiple industries[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Wiggin and Dana LLP](https://www.wiggin.com)\n\n### Notable Boutique and Solo Startup Lawyers\n\n-",
+            "line": 21,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4362,
+            "excerpt": "y strong. For media or digital businesses, Lowenstein Sandler and Perkins Coie are top choices[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/s",
+            "line": 35,
+            "column": 224,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 5133,
+            "excerpt": "al networking and regulatory expertise (e.g., California for tech, New York for media/finance)[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n- **Resources:** Platforms like",
+            "line": 37,
+            "column": 184,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 6348,
+            "excerpt": "r-for-your-startup/\n11. https://startupsavant.com/startup-resources/best-law-firms-for-startups\n12. https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n13. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-ad",
+            "line": 47,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 484,
+            "excerpt": "ch can be better served by legal services designed for startups rather than generalist lawyers[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success). ALSPs provide these benefits by leveraging technology and specialized legal teams, offering agili",
+            "line": 3,
+            "column": 226,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 738,
+            "excerpt": "nd specialized legal teams, offering agility and lower costs compared to traditional law firms[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-servi",
+            "line": 3,
+            "column": 480,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 1242,
+            "excerpt": "include platforms like **Priori Legal** that connect startups with vetted attorneys on demand[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success).\n\nAdditionally, online legal platforms such as **LegalZoom**, **Rocket Lawyer**, and **Clerky** of",
+            "line": 3,
+            "column": 984,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 2914,
+            "excerpt": "yer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success]\n\n# Citations\n\n1. https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-gu",
+            "line": 23,
+            "column": 62,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3029,
+            "excerpt": "s.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success]\n\n# Citations\n\n1. https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startu",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 16,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.12821,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.14851,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6.33,
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 6.83,
+      "influence": 0.3246,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.07051,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.3246,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 15,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 15
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 15,
+        "3-how-best-lawyers-for-a-s-f83309f8": 2,
+        "5-what-should-someone-choo-5ae7c9df": 5
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.56444,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.04189,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 21,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 9,
+        "3-how-best-lawyers-for-a-s-f83309f8": 10.5,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2245,
+              "excerpt": "startups, offering personalized, business-oriented legal services with flexible fee structures[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal St",
+              "line": 17,
+              "column": 175,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2660,
+              "excerpt": "cke Lord) has a strong emerging companies practice, especially in technology and life sciences[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Troutman Pepper Locke LLP](https://www.troutman.com)\n- **Wiggin and Dana LLP** offers full-ser",
+              "line": 19,
+              "column": 185,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2956,
+              "excerpt": "e startup legal support from seed financing to IPO, with experience across multiple industries[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1).\n  [Wiggin and Dana LLP](https://www.wiggin.com)\n\n### Notable Boutique and Solo Startup Lawyers\n\n-",
+              "line": 21,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4362,
+              "excerpt": "y strong. For media or digital businesses, Lowenstein Sandler and Perkins Coie are top choices[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/s",
+              "line": 35,
+              "column": 224,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5133,
+              "excerpt": "al networking and regulatory expertise (e.g., California for tech, New York for media/finance)[[1]](https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/).\n- **Resources:** Platforms like",
+              "line": 37,
+              "column": 184,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3323,
+              "excerpt": "eject\n\n3. **Network Value**\n   - Top startup firms can introduce you to VCs and other founders\n   - [Legal directories like Chambers](https://chambers.com/) and [The Legal 500](https://www.legal500.com/) track these reputations\n\n4. **Speed & Availability*",
+              "line": 63,
+              "column": 6,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6348,
+              "excerpt": "r-for-your-startup/\n11. https://startupsavant.com/startup-resources/best-law-firms-for-startups\n12. https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n13. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-ad",
+              "line": 47,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 484,
+              "excerpt": "ch can be better served by legal services designed for startups rather than generalist lawyers[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success). ALSPs provide these benefits by leveraging technology and specialized legal teams, offering agili",
+              "line": 3,
+              "column": 226,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 738,
+              "excerpt": "nd specialized legal teams, offering agility and lower costs compared to traditional law firms[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-servi",
+              "line": 3,
+              "column": 480,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1242,
+              "excerpt": "include platforms like **Priori Legal** that connect startups with vetted attorneys on demand[[1]](https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success).\n\nAdditionally, online legal platforms such as **LegalZoom**, **Rocket Lawyer**, and **Clerky** of",
+              "line": 3,
+              "column": 984,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2914,
+              "excerpt": "yer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Leveraging Alternative Legal Services [https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success]\n\n# Citations\n\n1. https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-gu",
+              "line": 23,
+              "column": 62,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3029,
+              "excerpt": "s.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success]\n\n# Citations\n\n1. https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startu",
+              "line": 27,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 9
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 12,
+          "perplexity_with_search_latest": 9
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "vault.com",
+      "value": "vault.com",
+      "link": "https://vault.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1628,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1628,
+            "excerpt": "tartups seeking cutting-edge counsel in venture capital and early-stage company representation[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Cooley LLP](https://www.cooley.com)\n- **Lowenstein Sandler** is recognized for its VentureCrus",
+            "line": 13,
+            "column": 152,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 5910,
+            "excerpt": "-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Chambers and Partners](https://chambers.com/legal-rankings)\n  [TRUiC Best Law Firms for Startu",
+            "line": 40,
+            "column": 340,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 6213,
+            "excerpt": "Law Firms for Startups](https://startupsavant.com/startup-resources/best-law-firms-for-startups)\n  [Vault Best Law Firms for Venture Capital](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)\n\n### Additional Tools and Resources\n\n- **StartupLawyer.com** offers a glossary, articles, and prac",
+            "line": 43,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 8268,
+            "excerpt": "| Early-stage, venture capital             | cooley.com                       | [[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)                                            |\n| Lowenstein Sandler         | Tech, media, VentureCr",
+            "line": 58,
+            "column": 116,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 11786,
+            "excerpt": "om/startup-resources/best-law-firms-for-startups)\n- **Vault’s Best Law Firms for Venture Capital**: [https://vault.com/best-companies-to-work-for/law](https://vault.com)[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emergin",
+            "line": 79,
+            "column": 51,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 3965,
+            "excerpt": ".com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)[[11]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n\nIn summary, **bes",
+            "line": 17,
+            "column": 567,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 5261,
+            "excerpt": "law-firms  \n- Lowenstein Sandler: https://www.lowenstein.com/  \n- Wilson Sonsini Goodrich & Rosati: https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital  \n- NerdWallet's Guide for Startup Lawyers: https://www.nerdwallet.com/article/small-business/how-t",
+            "line": 31,
+            "column": 37,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 6047,
+            "excerpt": "-for-startups/\n8. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n9. https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital\n10. https://stonebellus.com/general-counsel/choosing-the-best-business-lawyer-for-your-startup/\n11.",
+            "line": 44,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.05983,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06931,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6.5
+      },
+      "appearanceOrder": 6.5,
+      "influence": 0.20236,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.20236,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14286
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 7,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 7
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 7,
+        "3-how-best-lawyers-for-a-s-f83309f8": 3
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.31168,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.14286
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 6,
+        "3-how-best-lawyers-for-a-s-f83309f8": 7
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1628,
+              "excerpt": "tartups seeking cutting-edge counsel in venture capital and early-stage company representation[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Cooley LLP](https://www.cooley.com)\n- **Lowenstein Sandler** is recognized for its VentureCrus",
+              "line": 13,
+              "column": 152,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5910,
+              "excerpt": "-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital).\n  [Chambers and Partners](https://chambers.com/legal-rankings)\n  [TRUiC Best Law Firms for Startu",
+              "line": 40,
+              "column": 340,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6213,
+              "excerpt": "Law Firms for Startups](https://startupsavant.com/startup-resources/best-law-firms-for-startups)\n  [Vault Best Law Firms for Venture Capital](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)\n\n### Additional Tools and Resources\n\n- **StartupLawyer.com** offers a glossary, articles, and prac",
+              "line": 43,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8268,
+              "excerpt": "| Early-stage, venture capital             | cooley.com                       | [[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)                                            |\n| Lowenstein Sandler         | Tech, media, VentureCr",
+              "line": 58,
+              "column": 116,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11786,
+              "excerpt": "om/startup-resources/best-law-firms-for-startups)\n- **Vault’s Best Law Firms for Venture Capital**: [https://vault.com/best-companies-to-work-for/law](https://vault.com)[[7]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emergin",
+              "line": 79,
+              "column": 51,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3965,
+              "excerpt": ".com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)[[11]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n\nIn summary, **bes",
+              "line": 17,
+              "column": 567,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5261,
+              "excerpt": "law-firms  \n- Lowenstein Sandler: https://www.lowenstein.com/  \n- Wilson Sonsini Goodrich & Rosati: https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital  \n- NerdWallet's Guide for Startup Lawyers: https://www.nerdwallet.com/article/small-business/how-t",
+              "line": 31,
+              "column": 37,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6047,
+              "excerpt": "-for-startups/\n8. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n9. https://vault.com/best-companies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital\n10. https://stonebellus.com/general-counsel/choosing-the-best-business-lawyer-for-your-startup/\n11.",
+              "line": 44,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 6
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startupsavant.com",
+      "value": "startupsavant.com",
+      "link": "https://startupsavant.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 26,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1057,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1802,
+            "excerpt": "gy and growth that can be critical as startups navigate uncertainties and build toward scalability ([startupsavant.com](https://startupsavant.com/startup-resources/best-law-firms-for-startups)).\n\n5. **Legal Services Tailored to Emerging Technologies**: With the rise of SaaS and other techno",
+            "line": 9,
+            "column": 230,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1057,
+            "excerpt": "reputation for innovation, efficient processes, and a roster of iconic Silicon Valley clients[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Fenwick & West LLP](https://www.fenwick.com)\n- **Wilson Sonsini Goodrich & Rosati** is another",
+            "line": 9,
+            "column": 217,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1344,
+            "excerpt": "he startup legal scene, especially for technology, life sciences, and venture-backed companies[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com)\n- **Cooley LLP** is praised as the go-",
+            "line": 11,
+            "column": 166,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 2345,
+            "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal Strategy](https://www.siliconlegal.com)\n- **Troutman Pepper Locke LLP** (formed",
+            "line": 17,
+            "column": 275,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4528,
+            "excerpt": "a-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n- **Budget and Fee Structure:** Boutique firms like Silicon Legal Strategy or solo practitioners",
+            "line": 35,
+            "column": 390,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 4778,
+            "excerpt": "r solo practitioners may offer more flexible, cost-effective solutions compared to large firms[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).",
+            "line": 36,
+            "column": 177,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 1599,
+            "excerpt": ".rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsavant.com/best-online-legal-services) |\n| **ZenBusiness**        | Fast, affordable LLC formation      | Compliance tools, dashboard, fr",
+            "line": 12,
+            "column": 272,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2996,
+            "excerpt": "| [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison) |\n| **Northwest Registered Agent** | Privacy-focused LLCs",
+            "line": 16,
+            "column": 241,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 4387,
+            "excerpt": "-for-entrepreneurs/), [VentureSmarter](https://venturesmarter.com/best-online-legal-services/), and [Startup Savant (TRUiC)](https://startupsavant.com/best-online-legal-services) offer detailed, side-by-side reviews of these services[[1]](https://deliberatedirections.com/onlin",
+            "line": 21,
+            "column": 205,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 4606,
+            "excerpt": "these services[[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/)[[3]](https://startupsavant.com/best-online-legal-services)[[5]](https://venturesmarter.com/best-online-legal-services/).\n\n## **AI-Powered Legal Tech Startups",
+            "line": 21,
+            "column": 424,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 9640,
+            "excerpt": "or ZenBusiness[[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/)[[3]](https://startupsavant.com/best-online-legal-services).\n- **For complex, high-stakes, or ongoing legal needs**, consider hiring a specialized startup law",
+            "line": 71,
+            "column": 239,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 4097,
+            "excerpt": "-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)[[11]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n\nIn summary, **best startup lawyers differ through their specialized startup experience, practica",
+            "line": 17,
+            "column": 699,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 6272,
+            "excerpt": "10. https://stonebellus.com/general-counsel/choosing-the-best-business-lawyer-for-your-startup/\n11. https://startupsavant.com/startup-resources/best-law-firms-for-startups\n12. https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n1",
+            "line": 46,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1646,
+            "excerpt": "action of the cost of traditional lawyers, making legal support more affordable and accessible[[3]](https://startupsavant.com/best-online-legal-services).\n\nIn short, instead of simply aiming to hire the \"best lawyer,\" startups can:\n\n- Use **Alternative",
+            "line": 5,
+            "column": 305,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3211,
+            "excerpt": "ide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startupsavant.com/best-online-legal-services\n4. https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.c",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 17,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.13675,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.15842,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 4.38,
+      "influence": 0.12681,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.45162,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.12681,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15474
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 16,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 16
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 16,
+        "2-what-are-the-top-alterna-203042fc": 6,
+        "3-how-best-lawyers-for-a-s-f83309f8": 3,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 0.51197,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.07467,
+        "5-what-should-someone-choo-5ae7c9df": 0.15474
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 26,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 3,
+        "2-what-are-the-top-alterna-203042fc": 4,
+        "3-how-best-lawyers-for-a-s-f83309f8": 5.5,
+        "5-what-should-someone-choo-5ae7c9df": 5
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1057,
+              "excerpt": "reputation for innovation, efficient processes, and a roster of iconic Silicon Valley clients[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Fenwick & West LLP](https://www.fenwick.com)\n- **Wilson Sonsini Goodrich & Rosati** is another",
+              "line": 9,
+              "column": 217,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1344,
+              "excerpt": "he startup legal scene, especially for technology, life sciences, and venture-backed companies[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com)\n- **Cooley LLP** is praised as the go-",
+              "line": 11,
+              "column": 166,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2345,
+              "excerpt": "https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n  [Silicon Legal Strategy](https://www.siliconlegal.com)\n- **Troutman Pepper Locke LLP** (formed",
+              "line": 17,
+              "column": 275,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4528,
+              "excerpt": "a-nationwide-5:2663:12788:1)[[2]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n- **Budget and Fee Structure:** Boutique firms like Silicon Legal Strategy or solo practitioners",
+              "line": 35,
+              "column": 390,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4778,
+              "excerpt": "r solo practitioners may offer more flexible, cost-effective solutions compared to large firms[[3]](https://startupsavant.com/startup-resources/best-law-firms-for-startups)[[4]](https://www.tomgallagherlaw.com/lawyer-business-startup-ca/)[[6]](https://startuplawyer.com).",
+              "line": 36,
+              "column": 177,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1599,
+              "excerpt": ".rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsavant.com/best-online-legal-services) |\n| **ZenBusiness**        | Fast, affordable LLC formation      | Compliance tools, dashboard, fr",
+              "line": 12,
+              "column": 272,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2996,
+              "excerpt": "| [Clerky](https://www.clerky.com) | [Clerky Comparison](https://www.clerky.com/comparison) [[3]](https://startupsavant.com/best-online-legal-services)[[9]](https://www.clerky.com/comparison) |\n| **Northwest Registered Agent** | Privacy-focused LLCs",
+              "line": 16,
+              "column": 241,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4387,
+              "excerpt": "-for-entrepreneurs/), [VentureSmarter](https://venturesmarter.com/best-online-legal-services/), and [Startup Savant (TRUiC)](https://startupsavant.com/best-online-legal-services) offer detailed, side-by-side reviews of these services[[1]](https://deliberatedirections.com/onlin",
+              "line": 21,
+              "column": 205,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4606,
+              "excerpt": "these services[[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/)[[3]](https://startupsavant.com/best-online-legal-services)[[5]](https://venturesmarter.com/best-online-legal-services/).\n\n## **AI-Powered Legal Tech Startups",
+              "line": 21,
+              "column": 424,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9640,
+              "excerpt": "or ZenBusiness[[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/)[[3]](https://startupsavant.com/best-online-legal-services).\n- **For complex, high-stakes, or ongoing legal needs**, consider hiring a specialized startup law",
+              "line": 71,
+              "column": 239,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1802,
+              "excerpt": "gy and growth that can be critical as startups navigate uncertainties and build toward scalability ([startupsavant.com](https://startupsavant.com/startup-resources/best-law-firms-for-startups)).\n\n5. **Legal Services Tailored to Emerging Technologies**: With the rise of SaaS and other techno",
+              "line": 9,
+              "column": 230,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4097,
+              "excerpt": "-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital)[[11]](https://startupsavant.com/startup-resources/best-law-firms-for-startups).\n\nIn summary, **best startup lawyers differ through their specialized startup experience, practica",
+              "line": 17,
+              "column": 699,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6272,
+              "excerpt": "10. https://stonebellus.com/general-counsel/choosing-the-best-business-lawyer-for-your-startup/\n11. https://startupsavant.com/startup-resources/best-law-firms-for-startups\n12. https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n1",
+              "line": 46,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1646,
+              "excerpt": "action of the cost of traditional lawyers, making legal support more affordable and accessible[[3]](https://startupsavant.com/best-online-legal-services).\n\nIn short, instead of simply aiming to hire the \"best lawyer,\" startups can:\n\n- Use **Alternative",
+              "line": 5,
+              "column": 305,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3211,
+              "excerpt": "ide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startupsavant.com/best-online-legal-services\n4. https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.c",
+              "line": 29,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 3
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 4
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 8,
+          "openai_chatgpt_with_search_latest": 3
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startuplawyer.com).",
+      "value": "startuplawyer.com).",
+      "link": "https://startuplawyer.com).",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startuplawyer.com)",
+      "value": "startuplawyer.com)",
+      "link": "https://startuplawyer.com)",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "vault.com)",
+      "value": "vault.com)",
+      "link": "https://vault.com)",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "tong-law.com",
+      "value": "tong-law.com",
+      "link": "https://tong-law.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13133,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13133,
+            "excerpt": "nies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital\n8. https://www.tong-law.com/business-lawyer/startups-and-formations/\n9. https://www.clio.com/blog/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_ser",
+            "line": 94,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.01411,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01411,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02998
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 17
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02998
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 17
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13133,
+              "excerpt": "nies-to-work-for/law/best-law-firms-in-each-practice-area/emerging-companies-and-venture-capital\n8. https://www.tong-law.com/business-lawyer/startups-and-formations/\n9. https://www.clio.com/blog/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_ser",
+              "line": 94,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 17
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ycombinator.com",
+      "value": "ycombinator.com",
+      "link": "https://ycombinator.com",
+      "linkType": "frm",
+      "linkTypeName": "Forums",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13327,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3552,
+            "excerpt": "GO (free), LegalZoom, Gust Launch\n\n## Additional Resources:\n\n- **Y Combinator's Legal Resources**: [https://www.ycombinator.com/documents](https://www.ycombinator.com/documents) - Free startup legal document templates\n- **Series Seed Documents**: [https://www.seriesseed.com](",
+            "line": 82,
+            "column": 39,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 558,
+            "excerpt": "rtable with deferred fees, equity stakes, and understand startup cash flow constraints\n   - Source: [Y Combinator's Legal Guide](https://www.ycombinator.com/library/co-legal)\n\n2. **Specialized Knowledge Areas**:\n   - Cap table management and equity splits\n   - SAFE notes a",
+            "line": 8,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 759,
+            "excerpt": "e Areas**:\n   - Cap table management and equity splits\n   - SAFE notes and convertible instruments ([Y Combinator SAFE](https://www.ycombinator.com/documents))\n   - Venture capital financing rounds\n   - Stock option plans (409A valuations)\n   - Intellectual",
+            "line": 12,
+            "column": 46,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 1580,
+            "excerpt": "s for nonprofits and social enterprises\n\n## 4. **Startup Accelerator/Incubator Legal Support**\n\n- **[Y Combinator](https://www.ycombinator.com)** - Provides standard documents (SAFE, Series AA) and legal templates\n- **[Techstars](https://www.",
+            "line": 26,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 2253,
+            "excerpt": "**[Series Seed Documents](https://www.seriesseed.com)** - Standardized seed financing documents\n- **[Y Combinator's SAFE](https://www.ycombinator.com/documents)** - Simple Agreement for Future Equity templates\n\n## 6. **Community & Educational Resources**\n\n- *",
+            "line": 35,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13327,
+            "excerpt": "/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_services/emerging-companies\n11. https://www.ycombinator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-attorneys-california\n13. https://devsquad.com/blog/legal-star",
+            "line": 97,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 19,
+        "anthropic_claude_with_search_latest": 7.33
+      },
+      "appearanceOrder": 10.25,
+      "influence": 0.0346,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.07405,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0346,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.11563
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 2,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02892,
+        "2-what-are-the-top-alterna-203042fc": 0.05525,
+        "4-what-makes-best-lawyer-f-9866902d": 0.22222,
+        "5-what-should-someone-choo-5ae7c9df": 0.11563
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 19,
+        "2-what-are-the-top-alterna-203042fc": 11,
+        "4-what-makes-best-lawyer-f-9866902d": 1,
+        "5-what-should-someone-choo-5ae7c9df": 10
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13327,
+              "excerpt": "/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_services/emerging-companies\n11. https://www.ycombinator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-attorneys-california\n13. https://devsquad.com/blog/legal-star",
+              "line": 97,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3552,
+              "excerpt": "GO (free), LegalZoom, Gust Launch\n\n## Additional Resources:\n\n- **Y Combinator's Legal Resources**: [https://www.ycombinator.com/documents](https://www.ycombinator.com/documents) - Free startup legal document templates\n- **Series Seed Documents**: [https://www.seriesseed.com](",
+              "line": 82,
+              "column": 39,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 558,
+              "excerpt": "rtable with deferred fees, equity stakes, and understand startup cash flow constraints\n   - Source: [Y Combinator's Legal Guide](https://www.ycombinator.com/library/co-legal)\n\n2. **Specialized Knowledge Areas**:\n   - Cap table management and equity splits\n   - SAFE notes a",
+              "line": 8,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 759,
+              "excerpt": "e Areas**:\n   - Cap table management and equity splits\n   - SAFE notes and convertible instruments ([Y Combinator SAFE](https://www.ycombinator.com/documents))\n   - Venture capital financing rounds\n   - Stock option plans (409A valuations)\n   - Intellectual",
+              "line": 12,
+              "column": 46,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1580,
+              "excerpt": "s for nonprofits and social enterprises\n\n## 4. **Startup Accelerator/Incubator Legal Support**\n\n- **[Y Combinator](https://www.ycombinator.com)** - Provides standard documents (SAFE, Series AA) and legal templates\n- **[Techstars](https://www.",
+              "line": 26,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2253,
+              "excerpt": "**[Series Seed Documents](https://www.seriesseed.com)** - Standardized seed financing documents\n- **[Y Combinator's SAFE](https://www.ycombinator.com/documents)** - Simple Agreement for Future Equity templates\n\n## 6. **Community & Educational Resources**\n\n- *",
+              "line": 35,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 19
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 11
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 1
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "devsquad.com",
+      "value": "devsquad.com",
+      "link": "https://devsquad.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 14,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13443,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13443,
+            "excerpt": "binator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-attorneys-california\n13. https://devsquad.com/blog/legal-startup\n14. https://www.sacattorneys.com/practice-areas/business-law/tech-startup/\n15. https://www.youtube.",
+            "line": 99,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 5000,
+            "excerpt": "ecially for early-stage startups.\n\n- **Legitify**: Focuses on digital signing and verification[[4]](https://devsquad.com/blog/legal-startup).\n- **LEGID.app**: Emphasizes workflow automation for legal processes[[4]](https://devsquad.com/blo",
+            "line": 27,
+            "column": 66,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 5115,
+            "excerpt": "d.com/blog/legal-startup).\n- **LEGID.app**: Emphasizes workflow automation for legal processes[[4]](https://devsquad.com/blog/legal-startup).\n- **EvenUp**: Specializes in AI-driven document automation[[4]](https://devsquad.com/blog/legal-s",
+            "line": 28,
+            "column": 74,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 5221,
+            "excerpt": "//devsquad.com/blog/legal-startup).\n- **EvenUp**: Specializes in AI-driven document automation[[4]](https://devsquad.com/blog/legal-startup).\n- **LegalFly**: Offers contract lifecycle management[[4]](https://devsquad.com/blog/legal-startup",
+            "line": 29,
+            "column": 65,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 5321,
+            "excerpt": "https://devsquad.com/blog/legal-startup).\n- **LegalFly**: Offers contract lifecycle management[[4]](https://devsquad.com/blog/legal-startup).\n- **Legalbook.io**: Provides compliance tracking and management[[4]](https://devsquad.com/blog/le",
+            "line": 30,
+            "column": 59,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 5432,
+            "excerpt": "squad.com/blog/legal-startup).\n- **Legalbook.io**: Provides compliance tracking and management[[4]](https://devsquad.com/blog/legal-startup).\n- **Lawrina**: Legal tech platform for document automation[[4]](https://devsquad.com/blog/legal-s",
+            "line": 31,
+            "column": 70,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 13,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 16.5
+      },
+      "appearanceOrder": 16.5,
+      "influence": 0.19944,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.19944,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.67648
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 13
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02846,
+        "2-what-are-the-top-alterna-203042fc": 0.67648
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 14,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 13,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 20,
+        "2-what-are-the-top-alterna-203042fc": 13
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13443,
+              "excerpt": "binator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-attorneys-california\n13. https://devsquad.com/blog/legal-startup\n14. https://www.sacattorneys.com/practice-areas/business-law/tech-startup/\n15. https://www.youtube.",
+              "line": 99,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5000,
+              "excerpt": "ecially for early-stage startups.\n\n- **Legitify**: Focuses on digital signing and verification[[4]](https://devsquad.com/blog/legal-startup).\n- **LEGID.app**: Emphasizes workflow automation for legal processes[[4]](https://devsquad.com/blo",
+              "line": 27,
+              "column": 66,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5115,
+              "excerpt": "d.com/blog/legal-startup).\n- **LEGID.app**: Emphasizes workflow automation for legal processes[[4]](https://devsquad.com/blog/legal-startup).\n- **EvenUp**: Specializes in AI-driven document automation[[4]](https://devsquad.com/blog/legal-s",
+              "line": 28,
+              "column": 74,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5221,
+              "excerpt": "//devsquad.com/blog/legal-startup).\n- **EvenUp**: Specializes in AI-driven document automation[[4]](https://devsquad.com/blog/legal-startup).\n- **LegalFly**: Offers contract lifecycle management[[4]](https://devsquad.com/blog/legal-startup",
+              "line": 29,
+              "column": 65,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5321,
+              "excerpt": "https://devsquad.com/blog/legal-startup).\n- **LegalFly**: Offers contract lifecycle management[[4]](https://devsquad.com/blog/legal-startup).\n- **Legalbook.io**: Provides compliance tracking and management[[4]](https://devsquad.com/blog/le",
+              "line": 30,
+              "column": 59,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5432,
+              "excerpt": "squad.com/blog/legal-startup).\n- **Legalbook.io**: Provides compliance tracking and management[[4]](https://devsquad.com/blog/legal-startup).\n- **Lawrina**: Legal tech platform for document automation[[4]](https://devsquad.com/blog/legal-s",
+              "line": 31,
+              "column": 70,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 20
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "youtube.com",
+      "value": "youtube.com",
+      "link": "https://youtube.com",
+      "linkType": "smp",
+      "linkTypeName": "Social Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13562,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13562,
+            "excerpt": "m/blog/legal-startup\n14. https://www.sacattorneys.com/practice-areas/business-law/tech-startup/\n15. https://www.youtube.com/watch?v=zGFXiNH8vpo\n16. https://www.abrateolsenlaw.com/services/business-startup-formation/\n17. https://review.firstrou",
+            "line": 101,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.01319,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01319,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02804
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 21
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02804
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 21
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13562,
+              "excerpt": "m/blog/legal-startup\n14. https://www.sacattorneys.com/practice-areas/business-law/tech-startup/\n15. https://www.youtube.com/watch?v=zGFXiNH8vpo\n16. https://www.abrateolsenlaw.com/services/business-startup-formation/\n17. https://review.firstrou",
+              "line": 101,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 21
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "review.firstround.com",
+      "value": "review.firstround.com",
+      "link": "https://review.firstround.com",
+      "linkType": "rvw",
+      "linkTypeName": "Reviews",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13682,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1444,
+            "excerpt": "ies, which can provide startups with crucial connections and opportunities for securing investment ([review.firstround.com](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/)).\n\n4. **Strategic Guidance**: Strategically, these lawyers often advise beyond legal matters, offe",
+            "line": 7,
+            "column": 248,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13682,
+            "excerpt": "com/watch?v=zGFXiNH8vpo\n16. https://www.abrateolsenlaw.com/services/business-startup-formation/\n17. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/",
+            "line": 103,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          },
+          {
+            "appearanceOrder": 7456,
+            "excerpt": "h your business growth plans, considering future fundraising, expansion, or regulatory changes[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n**For more on finding and working with startup lawyers:** [NerdWallet](https://www.nerdwallet.co",
+            "line": 48,
+            "column": 153,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7715,
+            "excerpt": "** [NerdWallet](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer) and [First Round Review](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/) offer in-depth guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup",
+            "line": 50,
+            "column": 156,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7950,
+            "excerpt": "th guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n## **Additional Resources**\n\n- **Harvard Law School Startup Clinic**: Offers guidance on picking",
+            "line": 50,
+            "column": 391,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 10347,
+            "excerpt": "needs is crucial—match your legal support to your growth trajectory and potential future needs[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n**Always cross-reference services on comparison sites and review platforms before committing, an",
+            "line": 74,
+            "column": 136,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 10964,
+            "excerpt": "ttps://devsquad.com/blog/legal-startup\n5. https://venturesmarter.com/best-online-legal-services/\n6. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/t",
+            "line": 85,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 6446,
+            "excerpt": ". https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n13. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n14. https://www.upcounsel.com/startup-attorneys-new-york",
+            "line": 48,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2700,
+            "excerpt": "look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n- **Good Fit and Communication:** They build strong rapport with founders, communicate complex l",
+            "line": 11,
+            "column": 432,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 4869,
+            "excerpt": "/\n9. https://techandmedialaw.com/essential-qualities-to-look-for-in-a-startup-contracts-lawyer/\n10. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n11. https://www.heavybit.com/library/article/how-to-hire-a-startup-lawyer\n12. https://www.fidelityp",
+            "line": 30,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 13.75,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 12.75,
+      "influence": 0.0543,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.08247,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.0543,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07916
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 22
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1,
+        "2-what-are-the-top-alterna-203042fc": 5,
+        "3-how-best-lawyers-for-a-s-f83309f8": 2,
+        "4-what-makes-best-lawyer-f-9866902d": 2
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02764,
+        "2-what-are-the-top-alterna-203042fc": 0.23757,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.08167,
+        "4-what-makes-best-lawyer-f-9866902d": 0.07916
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 5,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 22,
+        "2-what-are-the-top-alterna-203042fc": 17,
+        "3-how-best-lawyers-for-a-s-f83309f8": 6,
+        "4-what-makes-best-lawyer-f-9866902d": 6
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13682,
+              "excerpt": "com/watch?v=zGFXiNH8vpo\n16. https://www.abrateolsenlaw.com/services/business-startup-formation/\n17. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/",
+              "line": 103,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 7456,
+              "excerpt": "h your business growth plans, considering future fundraising, expansion, or regulatory changes[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n**For more on finding and working with startup lawyers:** [NerdWallet](https://www.nerdwallet.co",
+              "line": 48,
+              "column": 153,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7715,
+              "excerpt": "** [NerdWallet](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer) and [First Round Review](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/) offer in-depth guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup",
+              "line": 50,
+              "column": 156,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7950,
+              "excerpt": "th guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n## **Additional Resources**\n\n- **Harvard Law School Startup Clinic**: Offers guidance on picking",
+              "line": 50,
+              "column": 391,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 10347,
+              "excerpt": "needs is crucial—match your legal support to your growth trajectory and potential future needs[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n**Always cross-reference services on comparison sites and review platforms before committing, an",
+              "line": 74,
+              "column": 136,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 10964,
+              "excerpt": "ttps://devsquad.com/blog/legal-startup\n5. https://venturesmarter.com/best-online-legal-services/\n6. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/t",
+              "line": 85,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1444,
+              "excerpt": "ies, which can provide startups with crucial connections and opportunities for securing investment ([review.firstround.com](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/)).\n\n4. **Strategic Guidance**: Strategically, these lawyers often advise beyond legal matters, offe",
+              "line": 7,
+              "column": 248,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6446,
+              "excerpt": ". https://chambers.com/legal-rankings/startups-emerging-companies-usa-nationwide-5:2663:12788:1\n13. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n14. https://www.upcounsel.com/startup-attorneys-new-york",
+              "line": 48,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2700,
+              "excerpt": "look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n- **Good Fit and Communication:** They build strong rapport with founders, communicate complex l",
+              "line": 11,
+              "column": 432,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4869,
+              "excerpt": "/\n9. https://techandmedialaw.com/essential-qualities-to-look-for-in-a-startup-contracts-lawyer/\n10. https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/\n11. https://www.heavybit.com/library/article/how-to-hire-a-startup-lawyer\n12. https://www.fidelityp",
+              "line": 30,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 22
+        },
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 17
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 10,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "l.com",
+      "value": "l.com",
+      "link": "https://l.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lt.com",
+      "value": "lt.com",
+      "link": "https://lt.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ant.com",
+      "value": "ant.com",
+      "link": "https://ant.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "tein.com",
+      "value": "tein.com",
+      "link": "https://tein.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "w.upcounsel.com",
+      "value": "w.upcounsel.com",
+      "link": "https://w.upcounsel.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": -1
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "huschblackwell.com",
+      "value": "huschblackwell.com",
+      "link": "https://huschblackwell.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 13253,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 13253,
+            "excerpt": ".com/business-lawyer/startups-and-formations/\n9. https://www.clio.com/blog/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_services/emerging-companies\n11. https://www.ycombinator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-atto",
+            "line": 96,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "Who is the best laywer for a startup available today?",
+            "promptId": "1-who-is-the-best-laywer-f-4c811e4f"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00855,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0099,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.01385,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01385,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02942
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 1
+      },
+      "influenceByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 0.02942
+      },
+      "mentionsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": 18
+      },
+      "excerptsByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 13253,
+              "excerpt": ".com/business-lawyer/startups-and-formations/\n9. https://www.clio.com/blog/legal-tech-startups/\n10. https://www.huschblackwell.com/industries_services/emerging-companies\n11. https://www.ycombinator.com/companies/industry/legal\n12. https://www.upcounsel.com/startup-atto",
+              "line": 96,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-is-the-best-laywer-f-4c811e4f": {
+          "perplexity_with_search_latest": 18
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "gust.com",
+      "value": "gust.com",
+      "link": "https://gust.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 846,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 846,
+            "excerpt": "- **Pricing**: $500 flat fee\n- Includes banking setup and AWS/Stripe credits\n\n## 3. **Gust Launch**\n[https://gust.com/launch](https://gust.com/launch)\n- **Best for**: First-time founders needing guidance\n- **Key features**: Incorporation, equity man",
+            "line": 20,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1839,
+            "excerpt": "](https://carta.com/solutions/carta-legal/) - Legal services integrated with cap table management\n- [**Gust Launch**](https://gust.com/launch) - Formation and compliance tools\n\n**Pros**: Lower cost, faster for standard documents, tech-friend",
+            "line": 33,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6.5
+      },
+      "appearanceOrder": 6.5,
+      "influence": 0.06071,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06071,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04129
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.09905,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.04129
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 3,
+        "3-how-best-lawyers-for-a-s-f83309f8": 10
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 846,
+              "excerpt": "- **Pricing**: $500 flat fee\n- Includes banking setup and AWS/Stripe credits\n\n## 3. **Gust Launch**\n[https://gust.com/launch](https://gust.com/launch)\n- **Best for**: First-time founders needing guidance\n- **Key features**: Incorporation, equity man",
+              "line": 20,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1839,
+              "excerpt": "](https://carta.com/solutions/carta-legal/) - Legal services integrated with cap table management\n- [**Gust Launch**](https://gust.com/launch) - Formation and compliance tools\n\n**Pros**: Lower cost, faster for standard documents, tech-friend",
+              "line": 33,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 3
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "legalzoom.com",
+      "value": "legalzoom.com",
+      "link": "https://legalzoom.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1150,
+        "anthropic_claude_with_search_latest": 1448,
+        "openai_chatgpt_with_search_latest": 547
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1448,
+            "excerpt": "icing**: Subscription starting at $39.99/month\n- Broader than just startup law\n\n## 5. **LegalZoom**\n[https://www.legalzoom.com](https://www.legalzoom.com)\n- **Best for**: Budget-conscious startups needing basic formation\n- **Key features**: Business for",
+            "line": 34,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 533,
+            "excerpt": ".com/atlas)** - Incorporation service for startups ($500), includes templates and banking setup\n- **[LegalZoom](https://www.legalzoom.com)** - General business formation and basic legal documents\n- **[Rocket Lawyer](https://www.rocketlaw",
+            "line": 9,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 547,
+            "excerpt": "popular choice for startups seeking legal guidance without hefty fees. More details can be found at [LegalZoom](https://www.legalzoom.com).\n   - **UpCounsel**: This platform connects startups with experienced business lawyers online. You",
+            "line": 4,
+            "column": 340,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1150,
+            "excerpt": "general           | Formation, legal document templates, optional attorney consultations         | [LegalZoom](https://www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesm",
+            "line": 11,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2757,
+            "excerpt": "er reference and services:**\n\n- Priori Legal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Lev",
+            "line": 20,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.03158,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.25
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 4.17,
+      "influence": 0.10725,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.01303,
+        "anthropic_claude_with_search_latest": 0.02769,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10725,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07032
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.01496
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02763
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 3,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.19136,
+        "5-what-should-someone-choo-5ae7c9df": 0.07032
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 3,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 2
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 2.33,
+        "5-what-should-someone-choo-5ae7c9df": 6
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1448,
+              "excerpt": "icing**: Subscription starting at $39.99/month\n- Broader than just startup law\n\n## 5. **LegalZoom**\n[https://www.legalzoom.com](https://www.legalzoom.com)\n- **Best for**: Budget-conscious startups needing basic formation\n- **Key features**: Business for",
+              "line": 34,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 547,
+              "excerpt": "popular choice for startups seeking legal guidance without hefty fees. More details can be found at [LegalZoom](https://www.legalzoom.com).\n   - **UpCounsel**: This platform connects startups with experienced business lawyers online. You",
+              "line": 4,
+              "column": 340,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1150,
+              "excerpt": "general           | Formation, legal document templates, optional attorney consultations         | [LegalZoom](https://www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesm",
+              "line": 11,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 533,
+              "excerpt": ".com/atlas)** - Incorporation service for startups ($500), includes templates and banking setup\n- **[LegalZoom](https://www.legalzoom.com)** - General business formation and basic legal documents\n- **[Rocket Lawyer](https://www.rocketlaw",
+              "line": 9,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2757,
+              "excerpt": "er reference and services:**\n\n- Priori Legal (ALSP platform) [https://priorilegal.com]\n- LegalZoom [https://legalzoom.com]\n- Rocket Lawyer [https://rocketlawyer.com]\n- Clerky [https://clerky.com]\n- Chambers Article on Lev",
+              "line": 20,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "cooleygo.com",
+      "value": "cooleygo.com",
+      "link": "https://cooleygo.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2072,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2072,
+            "excerpt": "y-stage, custom pricing as you scale\n- Industry standard for equity management\n\n## 7. **Cooley GO**\n[https://www.cooleygo.com](https://www.cooleygo.com)\n- **Best for**: Free legal resources and document generators\n- **Key features**: Free legal docume",
+            "line": 48,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1087,
+            "excerpt": "with VCs and angel investors\n   - Connections to other startups and service providers\n   - Source: [Cooley GO Startup Resources](https://www.cooleygo.com/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [",
+            "line": 20,
+            "column": 14,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 1921,
+            "excerpt": "nclude legal services in their packages\n\n## 5. **Template Libraries & Self-Service Resources**\n\n- **[Cooley GO](https://www.cooleygo.com)** - Free startup legal documents and resources from Cooley LLP\n- **[Orrick's Startup Forms Library",
+            "line": 32,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 670,
+            "excerpt": "any challenges, modest budgets, and rapid growth dynamics better than general business lawyers[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startup",
+            "line": 5,
+            "column": 387,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1219,
+            "excerpt": "\" with specialists in employment, IP, tax, licensing, and regulatory work relevant to startups[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms).\n\n- **Pricing and Fee Structures:**",
+            "line": 7,
+            "column": 360,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1781,
+            "excerpt": "s specifically for new ventures[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Practical and Entrepreneuria",
+            "line": 9,
+            "column": 437,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 3246,
+            "excerpt": "erging companies rather than general corporate lawyers less familiar with startup environments[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[4]](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3).\n\nPromine",
+            "line": 15,
+            "column": 377,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 4535,
+            "excerpt": "general or traditional lawyers[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startup",
+            "line": 19,
+            "column": 364,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1125,
+            "excerpt": "l and financial challenges startups face, including cost constraints and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Busines",
+            "line": 5,
+            "column": 271,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 4535,
+            "excerpt": "l/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://legal.thomsonreuters.com/en/insights/articles/advice-for-general-counsel-at-startup-law-",
+            "line": 26,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2341,
+            "excerpt": "a-startup-lawyer)[[4]](https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/)[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://www.theventurealley.com/2020/02/choose-your-startup-lawyer/).\n\nThis approach focuses",
+            "line": 11,
+            "column": 334,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3374,
+            "excerpt": "/www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-",
+            "line": 32,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7,
+        "perplexity_with_search_latest": 4
+      },
+      "appearanceOrder": 5.13,
+      "influence": 0.22776,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.53741,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.22776,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.11318
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 7,
+        "4-what-makes-best-lawyer-f-9866902d": 3,
+        "5-what-should-someone-choo-5ae7c9df": 3
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.06604,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 0.0892,
+        "5-what-should-someone-choo-5ae7c9df": 0.11318
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 4,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 7,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "4-what-makes-best-lawyer-f-9866902d": 3,
+        "5-what-should-someone-choo-5ae7c9df": 9.5
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2072,
+              "excerpt": "y-stage, custom pricing as you scale\n- Industry standard for equity management\n\n## 7. **Cooley GO**\n[https://www.cooleygo.com](https://www.cooleygo.com)\n- **Best for**: Free legal resources and document generators\n- **Key features**: Free legal docume",
+              "line": 48,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 670,
+              "excerpt": "any challenges, modest budgets, and rapid growth dynamics better than general business lawyers[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startup",
+              "line": 5,
+              "column": 387,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1219,
+              "excerpt": "\" with specialists in employment, IP, tax, licensing, and regulatory work relevant to startups[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms).\n\n- **Pricing and Fee Structures:**",
+              "line": 7,
+              "column": 360,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1781,
+              "excerpt": "s specifically for new ventures[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Practical and Entrepreneuria",
+              "line": 9,
+              "column": 437,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3246,
+              "excerpt": "erging companies rather than general corporate lawyers less familiar with startup environments[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[4]](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3).\n\nPromine",
+              "line": 15,
+              "column": 377,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4535,
+              "excerpt": "general or traditional lawyers[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startup",
+              "line": 19,
+              "column": 364,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1087,
+              "excerpt": "with VCs and angel investors\n   - Connections to other startups and service providers\n   - Source: [Cooley GO Startup Resources](https://www.cooleygo.com/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [",
+              "line": 20,
+              "column": 14,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1125,
+              "excerpt": "l and financial challenges startups face, including cost constraints and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Busines",
+              "line": 5,
+              "column": 271,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4535,
+              "excerpt": "l/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://legal.thomsonreuters.com/en/insights/articles/advice-for-general-counsel-at-startup-law-",
+              "line": 26,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1921,
+              "excerpt": "nclude legal services in their packages\n\n## 5. **Template Libraries & Self-Service Resources**\n\n- **[Cooley GO](https://www.cooleygo.com)** - Free startup legal documents and resources from Cooley LLP\n- **[Orrick's Startup Forms Library",
+              "line": 32,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2341,
+              "excerpt": "a-startup-lawyer)[[4]](https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/)[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://www.theventurealley.com/2020/02/choose-your-startup-lawyer/).\n\nThis approach focuses",
+              "line": 11,
+              "column": 334,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3374,
+              "excerpt": "/www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-",
+              "line": 32,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 7
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 1
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": 2,
+          "perplexity_with_search_latest": 4
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "foundersuite.com",
+      "value": "foundersuite.com",
+      "link": "https://foundersuite.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2721,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2721,
+            "excerpt": "ustom pricing based on company stage\n- More comprehensive platform approach\n\n## 9. **Foundersuite**\n[https://www.foundersuite.com](https://www.foundersuite.com)\n- **Best for**: Fundraising-focused startups\n- **Key features**: Investor CRM, document templates,",
+            "line": 62,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.03401,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03401,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05728
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05728
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 10
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2721,
+              "excerpt": "ustom pricing based on company stage\n- More comprehensive platform approach\n\n## 9. **Foundersuite**\n[https://www.foundersuite.com](https://www.foundersuite.com)\n- **Best for**: Fundraising-focused startups\n- **Key features**: Investor CRM, document templates,",
+              "line": 62,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "femaleswitch.com",
+      "value": "femaleswitch.com",
+      "link": "https://femaleswitch.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1185
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1185,
+            "excerpt": "gal processes and help ensure compliance. Startups can explore these innovative solutions listed on [Femaleswitch](https://www.femaleswitch.com/top-startups-2025/tpost/n495njoav1-top-10-startup-lawyer-platforms-that-use).\n\n3. **Choosing the Right Lawyer Over a Firm**:\n   - When hiring a lawyer, it's often more benefic",
+            "line": 8,
+            "column": 218,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.25
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.05882,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05882,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09905
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.09905
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 3
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1185,
+              "excerpt": "gal processes and help ensure compliance. Startups can explore these innovative solutions listed on [Femaleswitch](https://www.femaleswitch.com/top-startups-2025/tpost/n495njoav1-top-10-startup-lawyer-platforms-that-use).\n\n3. **Choosing the Right Lawyer Over a Firm**:\n   - When hiring a lawyer, it's often more benefic",
+              "line": 8,
+              "column": 218,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "westaway.com",
+      "value": "westaway.com",
+      "link": "https://westaway.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1503
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1503,
+            "excerpt": "cial to focus on the individual attorney rather than solely the law firm they represent. Sites like [Westaway](https://westaway.com/faq/choosing-the-best-startup-law-firm/) emphasize the importance of selecting an attorney who will work closely with your startup to addre",
+            "line": 11,
+            "column": 150,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.25
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.05067,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05067,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08532
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.08532
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 4
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1503,
+              "excerpt": "cial to focus on the individual attorney rather than solely the law firm they represent. Sites like [Westaway](https://westaway.com/faq/choosing-the-best-startup-law-firm/) emphasize the importance of selecting an attorney who will work closely with your startup to addre",
+              "line": 11,
+              "column": 150,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "zenbusiness.com",
+      "value": "zenbusiness.com",
+      "link": "https://zenbusiness.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1799,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1799,
+            "excerpt": "LLC formation      | Compliance tools, dashboard, free registered agent for 1st year              | [ZenBusiness](https://www.zenbusiness.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+            "line": 13,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.04551,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04551,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07664
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.07664
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 5
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1799,
+              "excerpt": "LLC formation      | Compliance tools, dashboard, free registered agent for 1st year              | [ZenBusiness](https://www.zenbusiness.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+              "line": 13,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "incfile.com",
+      "value": "incfile.com",
+      "link": "https://incfile.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2170,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2170,
+            "excerpt": "cost              | Free formation filings, compliance reminders                                 | [Incfile](https://www.incfile.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+            "line": 14,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.03922,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03922,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06604
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.06604
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 7
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2170,
+              "excerpt": "cost              | Free formation filings, compliance reminders                                 | [Incfile](https://www.incfile.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+              "line": 14,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "northwestregisteredagent.com",
+      "value": "northwestregisteredagent.com",
+      "link": "https://northwestregisteredagent.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3237,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3237,
+            "excerpt": "cused LLCs         | High-touch support, privacy features                                         | [Northwest Registered Agent](https://www.northwestregisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesm",
+            "line": 17,
+            "column": 146,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.03401,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03401,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05728
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05728
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 10
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3237,
+              "excerpt": "cused LLCs         | High-touch support, privacy features                                         | [Northwest Registered Agent](https://www.northwestregisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesm",
+              "line": 17,
+              "column": 146,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 10
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lawdepot.com",
+      "value": "lawdepot.com",
+      "link": "https://lawdepot.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3591,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3591,
+            "excerpt": "templates         | Large document library, no lawyer needed                                     | [LawDepot](https://www.lawdepot.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+            "line": 18,
+            "column": 145,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.03282,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03282,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05525
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05525
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 11
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3591,
+              "excerpt": "templates         | Large document library, no lawyer needed                                     | [LawDepot](https://www.lawdepot.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+              "line": 18,
+              "column": 145,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 11
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "trademarkia.com",
+      "value": "trademarkia.com",
+      "link": "https://trademarkia.com",
+      "linkType": "auto",
+      "linkTypeName": "Automotive",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3955,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3955,
+            "excerpt": "s                   | Attorney-led filings, monitoring                                            | [Trademarkia](https://www.trademarkia.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+            "line": 19,
+            "column": 144,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.03179,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03179,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05353
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05353
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 12
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3955,
+              "excerpt": "s                   | Attorney-led filings, monitoring                                            | [Trademarkia](https://www.trademarkia.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs",
+              "line": 19,
+              "column": 144,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "deliberatedirections.com",
+      "value": "deliberatedirections.com",
+      "link": "https://deliberatedirections.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 28,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1844,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1844,
+            "excerpt": "ard, free registered agent for 1st year              | [ZenBusiness](https://www.zenbusiness.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Incfile**",
+            "line": 13,
+            "column": 190,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1949,
+            "excerpt": "berate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Incfile**            | Speed, no upfront cost              | Free formation filings, complia",
+            "line": 13,
+            "column": 295,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2207,
+            "excerpt": "ilings, compliance reminders                                 | [Incfile](https://www.incfile.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **UpCounsel**",
+            "line": 14,
+            "column": 182,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2312,
+            "excerpt": "berate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **UpCounsel**          | Complex or specialized needs        | Access to vetted attorneys for",
+            "line": 14,
+            "column": 287,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2574,
+            "excerpt": "orneys for one-off projects, flat-rate options           | [UpCounsel](https://www.upcounsel.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Clerky**",
+            "line": 15,
+            "column": 186,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 14,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.14737,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.17949,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.58669,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.58669,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.98802
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 14,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 14
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 14
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.98802
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 28,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 6
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1844,
+              "excerpt": "ard, free registered agent for 1st year              | [ZenBusiness](https://www.zenbusiness.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Incfile**",
+              "line": 13,
+              "column": 190,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1949,
+              "excerpt": "berate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Incfile**            | Speed, no upfront cost              | Free formation filings, complia",
+              "line": 13,
+              "column": 295,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2207,
+              "excerpt": "ilings, compliance reminders                                 | [Incfile](https://www.incfile.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **UpCounsel**",
+              "line": 14,
+              "column": 182,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2312,
+              "excerpt": "berate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **UpCounsel**          | Complex or specialized needs        | Access to vetted attorneys for",
+              "line": 14,
+              "column": 287,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2574,
+              "excerpt": "orneys for one-off projects, flat-rate options           | [UpCounsel](https://www.upcounsel.com) | [Deliberate Directions](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) [[1]](https://deliberatedirections.com/online-legal-services-for-entrepreneurs/) |\n| **Clerky**",
+              "line": 15,
+              "column": 186,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lawkick.com",
+      "value": "lawkick.com",
+      "link": "https://lawkick.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6978,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6978,
+            "excerpt": "com/article/small-business/how-to-find-a-startup-lawyer).\n- **Online Platforms**: Use services like [LawKick](https://www.lawkick.com), [LawTrades](https://www.lawtrades.com), and [UpCounsel](https://www.upcounsel.com) to compare and",
+            "line": 47,
+            "column": 43,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.02941,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02941,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04954
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.04954
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 15
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6978,
+              "excerpt": "com/article/small-business/how-to-find-a-startup-lawyer).\n- **Online Platforms**: Use services like [LawKick](https://www.lawkick.com), [LawTrades](https://www.lawtrades.com), and [UpCounsel](https://www.upcounsel.com) to compare and",
+              "line": 47,
+              "column": 43,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 15
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nerdwallet.com",
+      "value": "nerdwallet.com",
+      "link": "https://nerdwallet.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 14,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6648,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6648,
+            "excerpt": "*Referrals**: Ask other entrepreneurs, your network, or even other lawyers for recommendations[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer).\n- **Business Events**: Attend startup incubators, industry conferences, and meetups where lawyers",
+            "line": 45,
+            "column": 104,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 6855,
+            "excerpt": "end startup incubators, industry conferences, and meetups where lawyers often speak or network[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer).\n- **Online Platforms**: Use services like [LawKick](https://www.lawkick.com), [LawTrades](https:/",
+            "line": 46,
+            "column": 127,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7618,
+            "excerpt": "artup-with-this-off-the-record-advice/).\n\n**For more on finding and working with startup lawyers:** [NerdWallet](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer) and [First Round Review](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-",
+            "line": 50,
+            "column": 59,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 7865,
+            "excerpt": "/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/) offer in-depth guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-",
+            "line": 50,
+            "column": 306,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 9869,
+            "excerpt": "specialized startup lawyer—either through referral networks or online platforms like UpCounsel[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Emerging legal tech** offers s",
+            "line": 72,
+            "column": 175,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 2179,
+            "excerpt": "ecific contacts for lawyers with relevant startup experience if personalized counsel is needed[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[4]](https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/)[[6]](https://www.cool",
+            "line": 11,
+            "column": 172,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3129,
+            "excerpt": "https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startupsavant.com/best-online-legal-services\n4. https://www.pillar.vc/playlist/article/h",
+            "line": 28,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.06316,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.07692,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.23805,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.23805,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.14248
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 6,
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.30427,
+        "5-what-should-someone-choo-5ae7c9df": 0.14248
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 14,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 14,
+        "5-what-should-someone-choo-5ae7c9df": 6
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6648,
+              "excerpt": "*Referrals**: Ask other entrepreneurs, your network, or even other lawyers for recommendations[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer).\n- **Business Events**: Attend startup incubators, industry conferences, and meetups where lawyers",
+              "line": 45,
+              "column": 104,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 6855,
+              "excerpt": "end startup incubators, industry conferences, and meetups where lawyers often speak or network[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer).\n- **Online Platforms**: Use services like [LawKick](https://www.lawkick.com), [LawTrades](https:/",
+              "line": 46,
+              "column": 127,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7618,
+              "excerpt": "artup-with-this-off-the-record-advice/).\n\n**For more on finding and working with startup lawyers:** [NerdWallet](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer) and [First Round Review](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-",
+              "line": 50,
+              "column": 59,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 7865,
+              "excerpt": "/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/) offer in-depth guides[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[6]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-",
+              "line": 50,
+              "column": 306,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 9869,
+              "excerpt": "specialized startup lawyer—either through referral networks or online platforms like UpCounsel[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Emerging legal tech** offers s",
+              "line": 72,
+              "column": 175,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2179,
+              "excerpt": "ecific contacts for lawyers with relevant startup experience if personalized counsel is needed[[2]](https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer)[[4]](https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/)[[6]](https://www.cool",
+              "line": 11,
+              "column": 172,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3129,
+              "excerpt": "https://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success\n2. https://www.nerdwallet.com/article/small-business/how-to-find-a-startup-lawyer\n3. https://startupsavant.com/best-online-legal-services\n4. https://www.pillar.vc/playlist/article/h",
+              "line": 28,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 14
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 6
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "wrike.com",
+      "value": "wrike.com",
+      "link": "https://wrike.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 7172,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 7172,
+            "excerpt": "tps://www.upcounsel.com) to compare and connect with attorneys based on your budget and needs[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Strategic Planning**: Align yo",
+            "line": 47,
+            "column": 237,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 8604,
+            "excerpt": "l resources for startups**: Comprehensive lists of tools, templates, and platforms are available at [Wrike](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/).\n\n## **Summary Table: Wh",
+            "line": 56,
+            "column": 109,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 8686,
+            "excerpt": "are available at [Wrike](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/).\n\n## **Summary Table: When to Use Which Option**\n\n| Need                             | Best Option",
+            "line": 56,
+            "column": 191,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 11361,
+            "excerpt": "parison\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https://www.wrike.com/blog/ultimate-list-legal-resources-startups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https:/",
+            "line": 90,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04211,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05128,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 16
+      },
+      "appearanceOrder": 16,
+      "influence": 0.11513,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.11513,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.19388
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 4
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.19388
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 16
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 7172,
+              "excerpt": "tps://www.upcounsel.com) to compare and connect with attorneys based on your budget and needs[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[13]](https://www.upcounsel.com/startup-attorneys-new-york-ny).\n- **Strategic Planning**: Align yo",
+              "line": 47,
+              "column": 237,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8604,
+              "excerpt": "l resources for startups**: Comprehensive lists of tools, templates, and platforms are available at [Wrike](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/).\n\n## **Summary Table: Wh",
+              "line": 56,
+              "column": 109,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 8686,
+              "excerpt": "are available at [Wrike](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/)[[11]](https://www.wrike.com/blog/ultimate-list-legal-resources-startups/).\n\n## **Summary Table: When to Use Which Option**\n\n| Need                             | Best Option",
+              "line": 56,
+              "column": 191,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11361,
+              "excerpt": "parison\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https://www.wrike.com/blog/ultimate-list-legal-resources-startups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https:/",
+              "line": 90,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 16
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "seriesseed.com)",
+      "value": "seriesseed.com)",
+      "link": "https://seriesseed.com)",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "gunder.com).",
+      "value": "gunder.com).",
+      "link": "https://gunder.com).",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "venturesmarter.com",
+      "value": "venturesmarter.com",
+      "link": "https://venturesmarter.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1191,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1191,
+            "excerpt": "ument templates, optional attorney consultations         | [LegalZoom](https://www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **Rocket Lawyer**      | Regular",
+            "line": 11,
+            "column": 186,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1270,
+            "excerpt": "www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **Rocket Lawyer**      | Regular legal guidance              | Subscription model, customizabl",
+            "line": 11,
+            "column": 265,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1520,
+            "excerpt": "zable forms, on-call attorneys                    | [Rocket Lawyer](https://www.rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsavant.com/best-online-legal-services) |\n| **ZenBusiness**        | Fast, aff",
+            "line": 12,
+            "column": 193,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 3310,
+            "excerpt": "| [Northwest Registered Agent](https://www.northwestregisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **LawDepot**           | DIY con",
+            "line": 17,
+            "column": 219,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 3389,
+            "excerpt": "gisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **LawDepot**           | DIY contracts and templates         | Large document library, no lawy",
+            "line": 17,
+            "column": 298,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.08421,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.10256,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.59382,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.59382,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 8
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 16,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 2
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1191,
+              "excerpt": "ument templates, optional attorney consultations         | [LegalZoom](https://www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **Rocket Lawyer**      | Regular",
+              "line": 11,
+              "column": 186,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1270,
+              "excerpt": "www.legalzoom.com) | [Venturesmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **Rocket Lawyer**      | Regular legal guidance              | Subscription model, customizabl",
+              "line": 11,
+              "column": 265,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1520,
+              "excerpt": "zable forms, on-call attorneys                    | [Rocket Lawyer](https://www.rocketlawyer.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[3]](https://startupsavant.com/best-online-legal-services) |\n| **ZenBusiness**        | Fast, aff",
+              "line": 12,
+              "column": 193,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3310,
+              "excerpt": "| [Northwest Registered Agent](https://www.northwestregisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **LawDepot**           | DIY con",
+              "line": 17,
+              "column": 219,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3389,
+              "excerpt": "gisteredagent.com) | [VentureSmarter](https://venturesmarter.com/best-online-legal-services/) [[5]](https://venturesmarter.com/best-online-legal-services/) |\n| **LawDepot**           | DIY contracts and templates         | Large document library, no lawy",
+              "line": 17,
+              "column": 298,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "clinics.law.harvard.edu",
+      "value": "clinics.law.harvard.edu",
+      "link": "https://clinics.law.harvard.edu",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 8195,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1093,
+            "excerpt": "egrate seamlessly with the team to provide guidance that drives both legal and business success. As [Harvard's Technology Law Clinic](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/) points out, the right lawyer should combine professional skills with personal attributes that alig",
+            "line": 5,
+            "column": 221,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 8195,
+            "excerpt": "Law School Startup Clinic**: Offers guidance on picking the right legal support for your stage[[8]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n- **List of law firms**: For startups seeking traditional counsel, some sites list top firms by d",
+            "line": 54,
+            "column": 113,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 11131,
+            "excerpt": "-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n9. https://www.clerky.com/comparison\n10. https://www.chambers-associate.com/career-moves/so-you-wan",
+            "line": 87,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 696,
+            "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\nKey factors that make such a lawyer distinct include:\n\n- **Startup-Focused Experience:** They ha",
+            "line": 1,
+            "column": 697,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 1624,
+            "excerpt": "ility[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\n- **Comprehensive Legal Expertise:** They master specialized legal domains relevant to startups—",
+            "line": 7,
+            "column": 361,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 3667,
+            "excerpt": "yer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/). \n\nFor more information,",
+            "line": 15,
+            "column": 570,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 4290,
+            "excerpt": "up-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n5. https://blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startu",
+            "line": 24,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02105,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02564,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10.5,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 10.25,
+      "influence": 0.05382,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.08077,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05382,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09645
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 2,
+        "4-what-makes-best-lawyer-f-9866902d": 5
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.09328,
+        "4-what-makes-best-lawyer-f-9866902d": 0.09645
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 1
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 18,
+        "4-what-makes-best-lawyer-f-9866902d": 2.5
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 8195,
+              "excerpt": "Law School Startup Clinic**: Offers guidance on picking the right legal support for your stage[[8]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n- **List of law firms**: For startups seeking traditional counsel, some sites list top firms by d",
+              "line": 54,
+              "column": 113,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 11131,
+              "excerpt": "-with-this-off-the-record-advice/\n7. https://etonvs.com/startup-101/best-law-firms-for-startups/\n8. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n9. https://www.clerky.com/comparison\n10. https://www.chambers-associate.com/career-moves/so-you-wan",
+              "line": 87,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1093,
+              "excerpt": "egrate seamlessly with the team to provide guidance that drives both legal and business success. As [Harvard's Technology Law Clinic](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/) points out, the right lawyer should combine professional skills with personal attributes that alig",
+              "line": 5,
+              "column": 221,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 696,
+              "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\nKey factors that make such a lawyer distinct include:\n\n- **Startup-Focused Experience:** They ha",
+              "line": 1,
+              "column": 697,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1624,
+              "excerpt": "ility[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\n- **Comprehensive Legal Expertise:** They master specialized legal domains relevant to startups—",
+              "line": 7,
+              "column": 361,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3667,
+              "excerpt": "yer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/). \n\nFor more information,",
+              "line": 15,
+              "column": 570,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4290,
+              "excerpt": "up-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n5. https://blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startu",
+              "line": 24,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 18
+        },
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mycase.com",
+      "value": "mycase.com",
+      "link": "https://mycase.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 11520,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 11520,
+            "excerpt": "artups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https://www.mycase.com/blog/ai/legal-ai-companies/",
+            "line": 93,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01282,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.02678,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02678,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0451
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.0451
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 20
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 11520,
+              "excerpt": "artups/\n12. https://gaps.com/legal/\n13. https://www.upcounsel.com/startup-attorneys-new-york-ny\n14. https://www.mycase.com/blog/ai/legal-ai-companies/",
+              "line": 93,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 20
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "shoobx.com",
+      "value": "shoobx.com",
+      "link": "https://shoobx.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2417,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2417,
+            "excerpt": "top startup law firm Cooley LLP [https://www.cooley.com](https://www.cooley.com)\n\n## 8. **Shoobx**\n[https://www.shoobx.com](https://www.shoobx.com)\n- **Best for**: Comprehensive startup legal automation\n- **Key features**: Incorporation, equity m",
+            "line": 55,
+            "column": 1,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          },
+          {
+            "appearanceOrder": 1639,
+            "excerpt": "range)\n- [**Stripe Atlas**](https://stripe.com/atlas) - Incorporation package with banking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated equity and corporate governance\n- [**Carta Legal**](https://carta.com/solutions/carta-",
+            "line": 31,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8.5
+      },
+      "appearanceOrder": 8.5,
+      "influence": 0.05433,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05433,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04506
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1,
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05963,
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.04506
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 9,
+        "3-how-best-lawyers-for-a-s-f83309f8": 8
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2417,
+              "excerpt": "top startup law firm Cooley LLP [https://www.cooley.com](https://www.cooley.com)\n\n## 8. **Shoobx**\n[https://www.shoobx.com](https://www.shoobx.com)\n- **Best for**: Comprehensive startup legal automation\n- **Key features**: Incorporation, equity m",
+              "line": 55,
+              "column": 1,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1639,
+              "excerpt": "range)\n- [**Stripe Atlas**](https://stripe.com/atlas) - Incorporation package with banking ($500)\n- [**Shoobx**](https://www.shoobx.com/) - Automated equity and corporate governance\n- [**Carta Legal**](https://carta.com/solutions/carta-",
+              "line": 31,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 9
+        },
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "seriesseed.com",
+      "value": "seriesseed.com",
+      "link": "https://seriesseed.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3700,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3700,
+            "excerpt": "www.ycombinator.com/documents) - Free startup legal document templates\n- **Series Seed Documents**: [https://www.seriesseed.com](https://www.seriesseed.com) - Standardized seed financing documents\n\n**Note**: While these platforms are excellent for standar",
+            "line": 83,
+            "column": 30,
+            "captureDate": "2025-10-10",
+            "question": "What are the top alternatives to best lawyer for a startup?",
+            "promptId": "2-what-are-the-top-alterna-203042fc"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01053,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.03179,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03179,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05353
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 1
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0.05353
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 12
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3700,
+              "excerpt": "www.ycombinator.com/documents) - Free startup legal document templates\n- **Series Seed Documents**: [https://www.seriesseed.com](https://www.seriesseed.com) - Standardized seed financing documents\n\n**Note**: While these platforms are excellent for standar",
+              "line": 83,
+              "column": 30,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ww.gunder.com",
+      "value": "ww.gunder.com",
+      "link": "https://ww.gunder.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "smarter.com",
+      "value": "smarter.com",
+      "link": "https://smarter.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "beratedirections.com",
+      "value": "beratedirections.com",
+      "link": "https://beratedirections.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nturesmarter.com",
+      "value": "nturesmarter.com",
+      "link": "https://nturesmarter.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ades.com",
+      "value": "ades.com",
+      "link": "https://ades.com",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "e.com",
+      "value": "e.com",
+      "link": "https://e.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "influenceByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": 0
+      },
+      "mentionsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": -1
+      },
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "2-what-are-the-top-alterna-203042fc": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nvca.org",
+      "value": "nvca.org",
+      "link": "https://nvca.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3049,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3049,
+            "excerpt": "00-3,000 for incorporation\n\n2. **Document Quality**\n   - Startup lawyers use VC-standard documents ([NVCA forms](https://nvca.org/model-legal-documents/), [Y Combinator SAFE](https://www.ycombinator.com/documents))\n   - General lawyers may create custo",
+            "line": 58,
+            "column": 49,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.03282,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03282,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03985
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03985
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 11
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 3049,
+              "excerpt": "00-3,000 for incorporation\n\n2. **Document Quality**\n   - Startup lawyers use VC-standard documents ([NVCA forms](https://nvca.org/model-legal-documents/), [Y Combinator SAFE](https://www.ycombinator.com/documents))\n   - General lawyers may create custo",
+              "line": 58,
+              "column": 49,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 11
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "angellist.com",
+      "value": "angellist.com",
+      "link": "https://angellist.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4049,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4049,
+            "excerpt": "n Sonsini, etc.)\n- Budget $30k-100k+ per funding round\n\n## **Resources for Finding & Comparing**\n\n- [**AngelList**](https://www.angellist.com/) - Many lawyers list their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vet",
+            "line": 85,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.0309,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0309,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03752
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03752
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 13
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4049,
+              "excerpt": "n Sonsini, etc.)\n- Budget $30k-100k+ per funding round\n\n## **Resources for Finding & Comparing**\n\n- [**AngelList**](https://www.angellist.com/) - Many lawyers list their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vet",
+              "line": 85,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 13
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lawtrades.com",
+      "value": "lawtrades.com",
+      "link": "https://lawtrades.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4409,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4409,
+            "excerpt": "nt pricing\n- [**UpCounsel**](https://www.upcounsel.com/) - Legal marketplace (acquired by Upwork)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand legal services\n\n**Review Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.co",
+            "line": 89,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.02821,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02821,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03426
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 17
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03426
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 17
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4409,
+              "excerpt": "nt pricing\n- [**UpCounsel**](https://www.upcounsel.com/) - Legal marketplace (acquired by Upwork)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand legal services\n\n**Review Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.co",
+              "line": 89,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 17
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "martindale.com",
+      "value": "martindale.com",
+      "link": "https://martindale.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4501,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4501,
+            "excerpt": "work)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand legal services\n\n**Review Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.com/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [*",
+            "line": 92,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.0277,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0277,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03363
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03363
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 18
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4501,
+              "excerpt": "work)\n- [**LawTrades**](https://www.lawtrades.com/) - On-demand legal services\n\n**Review Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.com/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [*",
+              "line": 92,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 18
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "yelp.com",
+      "value": "yelp.com",
+      "link": "https://yelp.com",
+      "linkType": "rvw",
+      "linkTypeName": "Reviews",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4651,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4651,
+            "excerpt": "m/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [**Yelp**](https://www.yelp.com/) - Client reviews\n\nThe best approach is often a hybrid: use online tools for routine tasks and hire",
+            "line": 94,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.02678,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02678,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03253
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03253
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 20
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4651,
+              "excerpt": "m/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [**Yelp**](https://www.yelp.com/) - Client reviews\n\nThe best approach is often a hybrid: use online tools for routine tasks and hire",
+              "line": 94,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 20
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "toslawyer.com",
+      "value": "toslawyer.com",
+      "link": "https://toslawyer.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2209
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2209,
+            "excerpt": "d tech-centric regulations, thus offering more tailored services compared to traditional law firms ([toslawyer.com](https://toslawyer.com/best-10-saas-agreement-law-firms-for-startups-enterprises/)).\n\nIn summary, the key advantages of hiring a legal firm specializing in startups include their be",
+            "line": 11,
+            "column": 312,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.05067,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05067,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06152
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.06152
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 4
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2209,
+              "excerpt": "d tech-centric regulations, thus offering more tailored services compared to traditional law firms ([toslawyer.com](https://toslawyer.com/best-10-saas-agreement-law-firms-for-startups-enterprises/)).\n\nIn summary, the key advantages of hiring a legal firm specializing in startups include their be",
+              "line": 11,
+              "column": 312,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mystartuplawyer.com",
+      "value": "mystartuplawyer.com",
+      "link": "https://mystartuplawyer.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2672
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2672,
+            "excerpt": "ecessary for growth and success. For more detailed insights, you might want to check resources like [MyStartupLawyer](https://mystartuplawyer.com/startups-and-emerging-businesses/) or follow guides by industry experts ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-f",
+            "line": 13,
+            "column": 363,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.16667
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.04551,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.04551,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05527
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.05527
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 5
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2672,
+              "excerpt": "ecessary for growth and success. For more detailed insights, you might want to check resources like [MyStartupLawyer](https://mystartuplawyer.com/startups-and-emerging-businesses/) or follow guides by industry experts ([etonvs.com](https://etonvs.com/startup-101/best-law-firms-f",
+              "line": 13,
+              "column": 363,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "openai_chatgpt_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fi.co",
+      "value": "fi.co",
+      "link": "https://fi.co",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4130,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4130,
+            "excerpt": "g & Comparing**\n\n- [**AngelList**](https://www.angellist.com/) - Many lawyers list their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vetted startup lawyers\n- [**Priori Legal**](https://www.priorilegal.com/) - Marketplace for vett",
+            "line": 86,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2413,
+            "excerpt": "** - Simple Agreement for Future Equity templates\n\n## 6. **Community & Educational Resources**\n\n- **[Founder Institute](https://fi.co)** - Startup accelerator with legal education components\n- **[SFBART (SF Bar Association)](https://",
+            "line": 39,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.04517,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04517,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05119
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03656,
+        "5-what-should-someone-choo-5ae7c9df": 0.05119
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 14,
+        "5-what-should-someone-choo-5ae7c9df": 14
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4130,
+              "excerpt": "g & Comparing**\n\n- [**AngelList**](https://www.angellist.com/) - Many lawyers list their services\n- [**Founder Institute Legal Directory**](https://fi.co/) - Vetted startup lawyers\n- [**Priori Legal**](https://www.priorilegal.com/) - Marketplace for vett",
+              "line": 86,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2413,
+              "excerpt": "** - Simple Agreement for Future Equity templates\n\n## 6. **Community & Educational Resources**\n\n- **[Founder Institute](https://fi.co)** - Startup accelerator with legal education components\n- **[SFBART (SF Bar Association)](https://",
+              "line": 39,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 14
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 14
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "projectionhub.com",
+      "value": "projectionhub.com",
+      "link": "https://projectionhub.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1718,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1718,
+            "excerpt": "me firms create startup-focused packages with forecastable costs specifically for new ventures[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/st",
+            "line": 9,
+            "column": 374,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2231,
+            "excerpt": "p founders understand legal trade-offs, risks, and opportunities in an entrepreneurial context[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[4]](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3).\n\n- **Foc",
+            "line": 11,
+            "column": 323,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 3725,
+            "excerpt": "rtup needs and often support numerous emerging tech companies and venture capital transactions[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup",
+            "line": 17,
+            "column": 327,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 4472,
+            "excerpt": "ess models and growth challenges, distinguishing them from more general or traditional lawyers[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguid",
+            "line": 19,
+            "column": 301,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 4808,
+            "excerpt": "am/law-firms/).**\n\n---\n\n**Links to organizations and resources mentioned:**\n\n- Cohen Schneider Law: https://www.projectionhub.com/post/startup-lawyer-in-nyc  \n- Buchwald & Associates: https://www.projectionhub.com/post/startup-lawyer-in-nyc  \n- Romano Law:",
+            "line": 25,
+            "column": 24,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.12121,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.40534,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.40534,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.49221
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 8
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.49221
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 16,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 4
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1718,
+              "excerpt": "me firms create startup-focused packages with forecastable costs specifically for new ventures[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[6]](https://carta.com/learn/st",
+              "line": 9,
+              "column": 374,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2231,
+              "excerpt": "p founders understand legal trade-offs, risks, and opportunities in an entrepreneurial context[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[4]](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3).\n\n- **Foc",
+              "line": 11,
+              "column": 323,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3725,
+              "excerpt": "rtup needs and often support numerous emerging tech companies and venture capital transactions[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup",
+              "line": 17,
+              "column": 327,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4472,
+              "excerpt": "ess models and growth challenges, distinguishing them from more general or traditional lawyers[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguid",
+              "line": 19,
+              "column": 301,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4808,
+              "excerpt": "am/law-firms/).**\n\n---\n\n**Links to organizations and resources mentioned:**\n\n- Cohen Schneider Law: https://www.projectionhub.com/post/startup-lawyer-in-nyc  \n- Buchwald & Associates: https://www.projectionhub.com/post/startup-lawyer-in-nyc  \n- Romano Law:",
+              "line": 25,
+              "column": 24,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "nycfounderguide.com",
+      "value": "nycfounderguide.com",
+      "link": "https://nycfounderguide.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 14,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 737,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 737,
+            "excerpt": "an general business lawyers[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Industry and Growth Stage Kn",
+            "line": 5,
+            "column": 454,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 1286,
+            "excerpt": "y work relevant to startups[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms).\n\n- **Pricing and Fee Structures:** Many startup lawyers or boutique firms offer fixed-fee or tran",
+            "line": 7,
+            "column": 427,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 2698,
+            "excerpt": ", acquisitions, and IPOs, aligning legal guidance with a startup’s lifecycle and exit planning[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-te",
+            "line": 13,
+            "column": 319,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 3788,
+            "excerpt": "nd venture capital transactions[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firm",
+            "line": 17,
+            "column": 390,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 4602,
+            "excerpt": "post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).**\n\n---\n\n**Links to organizations",
+            "line": 19,
+            "column": 431,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.10606,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.175,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.51959,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.51959,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.63093
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 7,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 7
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 7
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.63093
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 14,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 2
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 737,
+              "excerpt": "an general business lawyers[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Industry and Growth Stage Kn",
+              "line": 5,
+              "column": 454,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1286,
+              "excerpt": "y work relevant to startups[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms).\n\n- **Pricing and Fee Structures:** Many startup lawyers or boutique firms offer fixed-fee or tran",
+              "line": 7,
+              "column": 427,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2698,
+              "excerpt": ", acquisitions, and IPOs, aligning legal guidance with a startup’s lifecycle and exit planning[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-te",
+              "line": 13,
+              "column": 319,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3788,
+              "excerpt": "nd venture capital transactions[[1]](https://www.projectionhub.com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firm",
+              "line": 17,
+              "column": 390,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4602,
+              "excerpt": "post/startup-lawyer-in-nyc)[[2]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).**\n\n---\n\n**Links to organizations",
+              "line": 19,
+              "column": 431,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "eqvista.com",
+      "value": "eqvista.com",
+      "link": "https://eqvista.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2760,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2760,
+            "excerpt": "up’s lifecycle and exit planning[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Comparison to Large Corporat",
+            "line": 13,
+            "column": 381,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 3850,
+            "excerpt": ".com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-comp",
+            "line": 17,
+            "column": 452,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          },
+          {
+            "appearanceOrder": 5795,
+            "excerpt": "-law-firms\n4. https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3\n5. https://eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best",
+            "line": 40,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04545,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.13654,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.13654,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.16579
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 3
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.16579
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 6,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 5
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2760,
+              "excerpt": "up’s lifecycle and exit planning[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[6]](https://carta.com/learn/startups/founding-team/law-firms/).\n\n- **Comparison to Large Corporat",
+              "line": 13,
+              "column": 381,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3850,
+              "excerpt": ".com/post/startup-lawyer-in-nyc)[[3]](https://www.nycfounderguide.com/insight/local-law-firms)[[5]](https://eqvista.com/top-startup-law-firms/)[[7]](https://etonvs.com/startup-101/best-law-firms-for-startups/)[[9]](https://vault.com/best-comp",
+              "line": 17,
+              "column": 452,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 5795,
+              "excerpt": "-law-firms\n4. https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3\n5. https://eqvista.com/top-startup-law-firms/\n6. https://carta.com/learn/startups/founding-team/law-firms/\n7. https://etonvs.com/startup-101/best",
+              "line": 40,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 5
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "avvo.com",
+      "value": "avvo.com",
+      "link": "https://avvo.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4586,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4586,
+            "excerpt": "iew Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.com/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [**Yelp**](https://www.yelp.com/) - Client reviews\n\nThe best approa",
+            "line": 93,
+            "column": 3,
+            "captureDate": "2025-10-10",
+            "question": "How best lawyers for a startup compare to others?",
+            "promptId": "3-how-best-lawyers-for-a-s-f83309f8"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01515,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.02722,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02722,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03305
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 1
+      },
+      "influenceByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 0.03305
+      },
+      "mentionsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": 19
+      },
+      "excerptsByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 4586,
+              "excerpt": "iew Sites:**\n- [**Martindale-Hubbell**](https://www.martindale.com/) - Lawyer ratings and reviews\n- [**Avvo**](https://www.avvo.com/) - Lawyer reviews and ratings\n- [**Yelp**](https://www.yelp.com/) - Client reviews\n\nThe best approa",
+              "line": 93,
+              "column": 3,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "3-how-best-lawyers-for-a-s-f83309f8": {
+          "anthropic_claude_with_search_latest": 19
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "uncommoncounsel.com",
+      "value": "uncommoncounsel.com",
+      "link": "https://uncommoncounsel.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 609
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 609,
+            "excerpt": "nderstanding tech-specific risks, scalable business models, and rapid growth concerns. According to [Uncommon Counsel](https://uncommoncounsel.com/startup-law-isnt-one-size-fits-all-how-to-pick-the-right-kind-of-legal-support/), the legal needs of tech startups aren't static, and selecting the wrong type of legal help can wa",
+            "line": 3,
+            "column": 382,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.025,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.11765,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.11765,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.11111
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0.11111
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 609,
+              "excerpt": "nderstanding tech-specific risks, scalable business models, and rapid growth concerns. According to [Uncommon Counsel](https://uncommoncounsel.com/startup-law-isnt-one-size-fits-all-how-to-pick-the-right-kind-of-legal-support/), the legal needs of tech startups aren't static, and selecting the wrong type of legal help can wa",
+              "line": 3,
+              "column": 382,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "openai_chatgpt_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fastercapital.com",
+      "value": "fastercapital.com",
+      "link": "https://fastercapital.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1724
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1724,
+            "excerpt": ". Legal advice should include considerations on choosing the right corporate structure, as noted by [FasterCapital](https://fastercapital.com/content/A-Startup-Attorney-s-Advice-for-Success.html), such as whether to form a sole proprietorship or a limited liability company (LLC).\n\n4. **Interes",
+            "line": 7,
+            "column": 333,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.025,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.05882,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05882,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05556
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0.05556
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 3
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1724,
+              "excerpt": ". Legal advice should include considerations on choosing the right corporate structure, as noted by [FasterCapital](https://fastercapital.com/content/A-Startup-Attorney-s-Advice-for-Success.html), such as whether to form a sole proprietorship or a limited liability company (LLC).\n\n4. **Interes",
+              "line": 7,
+              "column": 333,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "wework.com",
+      "value": "wework.com",
+      "link": "https://wework.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1535,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2130
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2130,
+            "excerpt": "personal connection are important for fostering trust and effective communication. As emphasized by [WeWork](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer), finding an attorney who is genuinely interested in you and your business can make a significant d",
+            "line": 9,
+            "column": 225,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1535,
+            "excerpt": "and counsel in ways that align with the startup's goals, revenue recognition, and scalability[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 7,
+            "column": 272,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2537,
+            "excerpt": "d exposures, and prepare the company for key milestones like raising capital or an acquisition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firs",
+            "line": 11,
+            "column": 269,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 3012,
+            "excerpt": "in understandable terms, and show genuine interest in the startup’s vision and evolving needs[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer).\n\nIn summary, the distinctiveness of the best startup lawyers lies in their combination of broad g",
+            "line": 13,
+            "column": 209,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 3488,
+            "excerpt": "sk mitigation from inception to exit[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+            "line": 15,
+            "column": 391,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 4117,
+            "excerpt": "business for legal counsel.\n\n# Citations\n\n1. https://fridmanlawfirm.com/brooklyn/startup-lawyer/\n2. https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://c",
+            "line": 22,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.15,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.17857,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4.5,
+      "influence": 0.08131,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.10083,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.08131,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07679
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.10454
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 6
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0.07679
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 10,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 4.5
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2130,
+              "excerpt": "personal connection are important for fostering trust and effective communication. As emphasized by [WeWork](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer), finding an attorney who is genuinely interested in you and your business can make a significant d",
+              "line": 9,
+              "column": 225,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1535,
+              "excerpt": "and counsel in ways that align with the startup's goals, revenue recognition, and scalability[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+              "line": 7,
+              "column": 272,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2537,
+              "excerpt": "d exposures, and prepare the company for key milestones like raising capital or an acquisition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firs",
+              "line": 11,
+              "column": 269,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3012,
+              "excerpt": "in understandable terms, and show genuine interest in the startup’s vision and evolving needs[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer).\n\nIn summary, the distinctiveness of the best startup lawyers lies in their combination of broad g",
+              "line": 13,
+              "column": 209,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3488,
+              "excerpt": "sk mitigation from inception to exit[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+              "line": 15,
+              "column": 391,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4117,
+              "excerpt": "business for legal counsel.\n\n# Citations\n\n1. https://fridmanlawfirm.com/brooklyn/startup-lawyer/\n2. https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://c",
+              "line": 22,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "fridmanlawfirm.com",
+      "value": "fridmanlawfirm.com",
+      "link": "https://fridmanlawfirm.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 18,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 548,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 548,
+            "excerpt": "that supports long-term success rather than merely addressing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+            "line": 1,
+            "column": 549,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 1192,
+            "excerpt": "s and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Business Understanding:** Beyond legal paperwork, they grasp the startup’s busin",
+            "line": 5,
+            "column": 338,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2049,
+            "excerpt": "ent, employment, and tax laws—to provide well-rounded support throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](htt",
+            "line": 9,
+            "column": 322,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2197,
+            "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Collaborative:** Rather than waiting for issues to arise, the best startup l",
+            "line": 9,
+            "column": 470,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2626,
+            "excerpt": "ition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record",
+            "line": 11,
+            "column": 358,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.225,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.32143,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 1,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 9
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 18,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 548,
+              "excerpt": "that supports long-term success rather than merely addressing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+              "line": 1,
+              "column": 549,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 1192,
+              "excerpt": "s and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Business Understanding:** Beyond legal paperwork, they grasp the startup’s busin",
+              "line": 5,
+              "column": 338,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2049,
+              "excerpt": "ent, employment, and tax laws—to provide well-rounded support throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](htt",
+              "line": 9,
+              "column": 322,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2197,
+              "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Collaborative:** Rather than waiting for issues to arise, the best startup l",
+              "line": 9,
+              "column": 470,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2626,
+              "excerpt": "ition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record",
+              "line": 11,
+              "column": 358,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "chambers-associate.com",
+      "value": "chambers-associate.com",
+      "link": "https://chambers-associate.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 606,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 606,
+            "excerpt": "sing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 1,
+            "column": 607,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 2107,
+            "excerpt": "ort throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Col",
+            "line": 9,
+            "column": 380,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 3577,
+            "excerpt": "yer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 15,
+            "column": 480,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 4203,
+            "excerpt": "up-lawyer/\n2. https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-k",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          },
+          {
+            "appearanceOrder": 3693,
+            "excerpt": "-your-startup-lawyer/\n9. https://www.hsfkramer.com/capabilities/services/digital-legal-delivery\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https://www.pactly.com/alternative-legal-service-provider-list\n12. https://www.mergelane.com/po",
+            "line": 36,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.14286,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.17647,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.17647,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05405
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 4,
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0.28041,
+        "5-what-should-someone-choo-5ae7c9df": 0.05405
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 2,
+        "5-what-should-someone-choo-5ae7c9df": 12
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 606,
+              "excerpt": "sing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+              "line": 1,
+              "column": 607,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 2107,
+              "excerpt": "ort throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Col",
+              "line": 9,
+              "column": 380,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3577,
+              "excerpt": "yer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+              "line": 15,
+              "column": 480,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4203,
+              "excerpt": "up-lawyer/\n2. https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer\n3. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n4. https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-k",
+              "line": 23,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3693,
+              "excerpt": "-your-startup-lawyer/\n9. https://www.hsfkramer.com/capabilities/services/digital-legal-delivery\n10. https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/\n11. https://www.pactly.com/alternative-legal-service-provider-list\n12. https://www.mergelane.com/po",
+              "line": 36,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 2
+        },
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 12
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "blog.promise.legal",
+      "value": "blog.promise.legal",
+      "link": "https://blog.promise.legal",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4394,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4394,
+            "excerpt": "s://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n5. https://blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://legal.thomsonreuters.com",
+            "line": 25,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What makes best lawyer for a startup unique or different?",
+            "promptId": "4-what-makes-best-lawyer-f-9866902d"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.025,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03571,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.03922,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03922,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03704
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 1
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0.03704
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 7
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4394,
+              "excerpt": "s://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/\n5. https://blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://legal.thomsonreuters.com",
+              "line": 25,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "ivateshares.com",
+      "value": "ivateshares.com",
+      "link": "https://ivateshares.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0
+      },
+      "influenceByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": 0
+      },
+      "mentionsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": -1
+      },
+      "excerptsByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "4-what-makes-best-lawyer-f-9866902d": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "atrium.co",
+      "value": "atrium.co",
+      "link": "https://atrium.co",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1020,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1020,
+            "excerpt": "l.com)** - Marketplace connecting startups with experienced lawyers (acquired by Rocket Lawyer)\n- **[Atrium](https://www.atrium.co)** - Tech-enabled legal services for startups (note: now offers software tools)\n\n## 3. **Legal Clin",
+            "line": 16,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.03922,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03922,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06667
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.06667
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 7
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1020,
+              "excerpt": "l.com)** - Marketplace connecting startups with experienced lawyers (acquired by Rocket Lawyer)\n- **[Atrium](https://www.atrium.co)** - Tech-enabled legal services for startups (note: now offers software tools)\n\n## 3. **Legal Clin",
+              "line": 16,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 7
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "score.org",
+      "value": "score.org",
+      "link": "https://score.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1310,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1310,
+            "excerpt": "universities offer free/low-cost legal clinics (search \"[your city] law school startup clinic\")\n- **[SCORE](https://www.score.org)** - Free mentorship and legal workshops for small businesses\n- **[Lawyers Alliance](https://lawyer",
+            "line": 21,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.03711,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03711,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06309
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.06309
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 8
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1310,
+              "excerpt": "universities offer free/low-cost legal clinics (search \"[your city] law school startup clinic\")\n- **[SCORE](https://www.score.org)** - Free mentorship and legal workshops for small businesses\n- **[Lawyers Alliance](https://lawyer",
+              "line": 21,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 8
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "lawyersalliance.org",
+      "value": "lawyersalliance.org",
+      "link": "https://lawyersalliance.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1406,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1406,
+            "excerpt": "- **[SCORE](https://www.score.org)** - Free mentorship and legal workshops for small businesses\n- **[Lawyers Alliance](https://lawyersalliance.org)** - Pro bono legal services for nonprofits and social enterprises\n\n## 4. **Startup Accelerator/Inc",
+            "line": 22,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.03542,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03542,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.06021
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.06021
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 9
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1406,
+              "excerpt": "- **[SCORE](https://www.score.org)** - Free mentorship and legal workshops for small businesses\n- **[Lawyers Alliance](https://lawyersalliance.org)** - Pro bono legal services for nonprofits and social enterprises\n\n## 4. **Startup Accelerator/Inc",
+              "line": 22,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 9
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "techstars.com",
+      "value": "techstars.com",
+      "link": "https://techstars.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1698,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1698,
+            "excerpt": "ps://www.ycombinator.com)** - Provides standard documents (SAFE, Series AA) and legal templates\n- **[Techstars](https://www.techstars.com)** - Offers legal support and connections during program\n- Local accelerators often include legal s",
+            "line": 27,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.03282,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03282,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05579
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.05579
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 11
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1698,
+              "excerpt": "ps://www.ycombinator.com)** - Provides standard documents (SAFE, Series AA) and legal templates\n- **[Techstars](https://www.techstars.com)** - Offers legal support and connections during program\n- Local accelerators often include legal s",
+              "line": 27,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 11
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "sfbar.org",
+      "value": "sfbar.org",
+      "link": "https://sfbar.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2508,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2508,
+            "excerpt": "- **[Founder Institute](https://fi.co)** - Startup accelerator with legal education components\n- **[SFBART (SF Bar Association)](https://www.sfbar.org)** - Many local bar associations offer startup legal clinics\n- **[Startup Lawyer Podcasts/Blogs](ht",
+            "line": 40,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.02941,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02941,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.05
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 15
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2508,
+              "excerpt": "- **[Founder Institute](https://fi.co)** - Startup accelerator with legal education components\n- **[SFBART (SF Bar Association)](https://www.sfbar.org)** - Many local bar associations offer startup legal clinics\n- **[Startup Lawyer Podcasts/Blogs](ht",
+              "line": 40,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 15
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startuplawblog.com",
+      "value": "startuplawblog.com",
+      "link": "https://startuplawblog.com",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2625,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2625,
+            "excerpt": "ssociation)](https://www.sfbar.org)** - Many local bar associations offer startup legal clinics\n- **[Startup Lawyer Podcasts/Blogs](https://www.startuplawblog.com)** - Educational content from startup attorneys\n\n## 7. **Hybrid Approach (Recommended)**\n\nThe smart",
+            "line": 41,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05882,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 16
+      },
+      "appearanceOrder": 16,
+      "influence": 0.02878,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02878,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04893
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.04893
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 16
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2625,
+              "excerpt": "ssociation)](https://www.sfbar.org)** - Many local bar associations offer startup legal clinics\n- **[Startup Lawyer Podcasts/Blogs](https://www.startuplawblog.com)** - Educational content from startup attorneys\n\n## 7. **Hybrid Approach (Recommended)**\n\nThe smart",
+              "line": 41,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": 16
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "startupprogram.com",
+      "value": "startupprogram.com",
+      "link": "https://startupprogram.com",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 246
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 246,
+            "excerpt": "ending on your specific needs and circumstances:\n\n1. **Legal Technology Platforms**: Platforms like [SUP](https://startupprogram.com/) provide a blend of DIY legal solutions and access to legal professionals. They offer tools like au",
+            "line": 3,
+            "column": 51,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.11765,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.11765,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.2
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 246,
+              "excerpt": "ending on your specific needs and circumstances:\n\n1. **Legal Technology Platforms**: Platforms like [SUP](https://startupprogram.com/) provide a blend of DIY legal solutions and access to legal professionals. They offer tools like au",
+              "line": 3,
+              "column": 51,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "openai_chatgpt_with_search_latest": 1
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "uneed.best",
+      "value": "uneed.best",
+      "link": "https://uneed.best",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 541
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 541,
+            "excerpt": "able management, which can be cost-effective for startups.\n\n2. **Full-Stack Law Firms**: Firms like [Founders Firm](https://uneed.best/tool/founders-firm) are designed specifically for startups and small businesses. They offer comprehensive legal servic",
+            "line": 5,
+            "column": 41,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.07423,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.07423,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12619
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.12619
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 541,
+              "excerpt": "able management, which can be cost-effective for startups.\n\n2. **Full-Stack Law Firms**: Firms like [Founders Firm](https://uneed.best/tool/founders-firm) are designed specifically for startups and small businesses. They offer comprehensive legal servic",
+              "line": 5,
+              "column": 41,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "openai_chatgpt_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "vsqlegal.com",
+      "value": "vsqlegal.com",
+      "link": "https://vsqlegal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 838
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 838,
+            "excerpt": "overing everything from formation to funding.\n\n3. **Startup-Focused Legal Services**: Services like [VSQ Legal](https://www.vsqlegal.com/) offer strategic legal support specifically for founders, investors, and high-growth companies. The",
+            "line": 7,
+            "column": 54,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.05882,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.05882,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.1
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 2
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 3
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 838,
+              "excerpt": "overing everything from formation to funding.\n\n3. **Startup-Focused Legal Services**: Services like [VSQ Legal](https://www.vsqlegal.com/) offer strategic legal support specifically for founders, investors, and high-growth companies. The",
+              "line": 7,
+              "column": 54,
+              "captureDate": "2025-10-10"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "openai_chatgpt_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "korumlegal.com",
+      "value": "korumlegal.com",
+      "link": "https://korumlegal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 990,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 990,
+            "excerpt": "onlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/)[[14]](https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-new-frontier-in-legal-support). Examples of such services include platforms like **Priori Legal** that connect startups with vett",
+            "line": 3,
+            "column": 732,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 4001,
+            "excerpt": "-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-new-frontier-in-legal-support",
+            "line": 40,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04348,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.08333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.10134,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10134,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.17227
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.17227
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 4
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 990,
+              "excerpt": "onlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/)[[14]](https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-new-frontier-in-legal-support). Examples of such services include platforms like **Priori Legal** that connect startups with vett",
+              "line": 3,
+              "column": 732,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 4001,
+              "excerpt": "-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-new-frontier-in-legal-support",
+              "line": 40,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 4
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "axiomlaw.com",
+      "value": "axiomlaw.com",
+      "link": "https://axiomlaw.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 841,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 841,
+            "excerpt": "ps://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-",
+            "line": 3,
+            "column": 583,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3341,
+            "excerpt": "-online-legal-services\n4. https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insight",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04348,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.08333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.14845,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.14845,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.25237
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.25237
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 841,
+              "excerpt": "ps://chambers.com/articles/leveraging-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-",
+              "line": 3,
+              "column": 583,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3341,
+              "excerpt": "-online-legal-services\n4. https://www.pillar.vc/playlist/article/how-to-choose-a-startup-lawyer/\n5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insight",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "paragonlegal.com",
+      "value": "paragonlegal.com",
+      "link": "https://paragonlegal.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 877,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 877,
+            "excerpt": "g-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/)[[14]](https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring",
+            "line": 3,
+            "column": 619,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          },
+          {
+            "appearanceOrder": 3438,
+            "excerpt": "5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/\n8. https://www.theventurealley.com/2020/02/choose-your-startup-lawyer/\n9. https://www.hsfkramer.com",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04348,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.08333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.11765,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.11765,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 2
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.2
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 3
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 877,
+              "excerpt": "g-alternative-legal-services-a-start-ups-guide-to-success)[[5]](https://www.axiomlaw.com/alsp)[[7]](https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/)[[14]](https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring",
+              "line": 3,
+              "column": 619,
+              "captureDate": "2025-10-10"
+            },
+            {
+              "appearanceOrder": 3438,
+              "excerpt": "5. https://www.axiomlaw.com/alsp\n6. https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/\n7. https://paragonlegal.com/insights/alternative-legal-service-providers-what-are-they-and-when-to-use-them/\n8. https://www.theventurealley.com/2020/02/choose-your-startup-lawyer/\n9. https://www.hsfkramer.com",
+              "line": 33,
+              "column": 4,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 3
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "thomsonreuters.com",
+      "value": "thomsonreuters.com",
+      "link": "https://thomsonreuters.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3930,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3930,
+            "excerpt": "provider-list\n12. https://www.mergelane.com/post/how-to-choose-the-best-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-",
+            "line": 39,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.03011,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03011,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05119
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.05119
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 14
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3930,
+              "excerpt": "provider-list\n12. https://www.mergelane.com/post/how-to-choose-the-best-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.com/blog/what-is-an-alternative-legal-service-provider-alsp-exploring-a-",
+              "line": 39,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 14
+        }
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "egalzoom.com",
+      "value": "egalzoom.com",
+      "link": "https://egalzoom.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": -1
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "y.com",
+      "value": "y.com",
+      "link": "https://y.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 0,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": -1
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {}
+      }
+    },
+    {
+      "type": "linkDomain",
+      "code": "mergelane.com",
+      "value": "mergelane.com",
+      "link": "https://mergelane.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3848,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3848,
+            "excerpt": "want-to-be-a-startup-lawyer/\n11. https://www.pactly.com/alternative-legal-service-provider-list\n12. https://www.mergelane.com/post/how-to-choose-the-best-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.c",
+            "line": 38,
+            "column": 5,
+            "captureDate": "2025-10-10",
+            "question": "What should someone choose instead of a best lawyer for a startup?",
+            "promptId": "5-what-should-someone-choo-5ae7c9df"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.0309,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0309,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05253
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 1
+      },
+      "influenceByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 0.05253
+      },
+      "mentionsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 0,
+          "openai_chatgpt_with_search_latest": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": 13
+      },
+      "excerptsByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3848,
+              "excerpt": "want-to-be-a-startup-lawyer/\n11. https://www.pactly.com/alternative-legal-service-provider-list\n12. https://www.mergelane.com/post/how-to-choose-the-best-lawyer-for-your-startup\n13. https://www.thomsonreuters.com/en-us/posts/legal/alsp-report-2025/\n14. https://www.korumlegal.c",
+              "line": 38,
+              "column": 5,
+              "captureDate": "2025-10-10"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "5-what-should-someone-choo-5ae7c9df": {
+          "perplexity_with_search_latest": 13
+        }
+      }
+    }
+  ],
   "totalDates": [
     "2025-10-10"
   ],
-  "totalDataPoints": 360,
-  "totalTimeSaved": "10",
+  "totalDataPoints": 462,
+  "totalTimeSaved": "13",
   "totalCounts": {
     "products": 33,
     "organizations": 53,
@@ -85955,6 +110748,7 @@ window.AppDataAggregate20251010 = {
     "events": 0,
     "links": 125,
     "linkTypes": 15,
+    "linkDomains": 102,
     "bots": 3
   },
   "itemCountPerModel": {
@@ -86039,6 +110833,20 @@ window.AppDataAggregate20251010 = {
         "id": "openai_chatgpt_with_search_latest",
         "count": 7
       }
+    ],
+    "linkDomains": [
+      {
+        "id": "perplexity_with_search_latest",
+        "count": 53
+      },
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 32
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 19
+      }
     ]
   },
   "itemCountPerAppearanceOrderTrend": {
@@ -86086,6 +110894,16 @@ window.AppDataAggregate20251010 = {
       {
         "id": "999",
         "count": 15
+      }
+    ],
+    "linkDomains": [
+      {
+        "id": "999",
+        "count": 83
+      },
+      {
+        "id": "-9999",
+        "count": 19
       }
     ]
   },
