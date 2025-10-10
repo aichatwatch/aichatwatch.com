@@ -1,10 +1,30 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-08T15:31:17.564Z
+// AUTO-GENERATED AGGREGATE: 2025-10-10T11:44:15.890Z
 // Aggregated from prompts: 1-what-are-the-top-ai-chat-9690be43, 2-how-can-i-track-ai-chatb-32051f15, 3-which-tools-provide-real-6e1edae0
 window.AppDataAggregate20251007 = {
   "report_question": "Top AI Tools",
   "report_date": "2025-10-07",
   "report_question_id": "1-what-are-the-top-ai-chat-9690be43",
-  "report_created_at": "Oct 8, 2025, 7:31:10 PM",
+  "report_created_at": "Oct 9, 2025, 3:23:20 PM",
+  "bots": [
+    {
+      "id": "perplexity_with_search_latest",
+      "name": "Perplexity Sonar (with search) (latest)",
+      "url": "https://perplexity.ai",
+      "estimated_mau": 22000000
+    },
+    {
+      "id": "anthropic_claude_with_search_latest",
+      "name": "Anthropic Claude Sonnet (latest)",
+      "url": "https://anthropic.com",
+      "estimated_mau": 7500000
+    },
+    {
+      "id": "openai_chatgpt_with_search_latest",
+      "name": "OpenAI ChatGPT Latest",
+      "url": "https://openai.com/gpt-4",
+      "estimated_mau": 105000000
+    }
+  ],
   "products": [
     {
       "value": "Zendesk QA",
@@ -45383,23 +45403,6 @@ window.AppDataAggregate20251007 = {
           "openai_chatgpt_with_search_latest": -1
         }
       }
-    }
-  ],
-  "bots": [
-    {
-      "id": "perplexity_with_search_latest",
-      "name": "Perplexity Sonar (with search) (latest)",
-      "estimated_mau": 22000000
-    },
-    {
-      "id": "anthropic_claude_with_search_latest",
-      "name": "Anthropic Claude Sonnet (latest)",
-      "estimated_mau": 7500000
-    },
-    {
-      "id": "openai_chatgpt_with_search_latest",
-      "name": "OpenAI ChatGPT Latest",
-      "estimated_mau": 105000000
     }
   ],
   "totalDates": [

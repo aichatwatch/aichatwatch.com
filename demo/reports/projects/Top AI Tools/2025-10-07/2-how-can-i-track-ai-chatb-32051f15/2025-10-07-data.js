@@ -2,7 +2,27 @@ window.AppData20251007 = {
   "report_question": "How can I track AI chatbot responses across platforms?",
   "report_date": "2025-10-07",
   "report_question_id": "2-how-can-i-track-ai-chatb-32051f15",
-  "report_created_at": "Oct 8, 2025, 7:31:10 PM",
+  "report_created_at": "Oct 9, 2025, 3:23:20 PM",
+  "bots": [
+    {
+      "id": "perplexity_with_search_latest",
+      "name": "Perplexity Sonar (with search) (latest)",
+      "url": "https://perplexity.ai",
+      "estimated_mau": 22000000
+    },
+    {
+      "id": "anthropic_claude_with_search_latest",
+      "name": "Anthropic Claude Sonnet (latest)",
+      "url": "https://anthropic.com",
+      "estimated_mau": 7500000
+    },
+    {
+      "id": "openai_chatgpt_with_search_latest",
+      "name": "OpenAI ChatGPT Latest",
+      "url": "https://openai.com/gpt-4",
+      "estimated_mau": 105000000
+    }
+  ],
   "products": [
     {
       "value": "Zendesk QA",
@@ -18978,23 +18998,6 @@ window.AppData20251007 = {
       "volatility": 0
     }
   ],
-  "bots": [
-    {
-      "id": "perplexity_with_search_latest",
-      "name": "Perplexity Sonar (with search) (latest)",
-      "estimated_mau": 22000000
-    },
-    {
-      "id": "anthropic_claude_with_search_latest",
-      "name": "Anthropic Claude Sonnet (latest)",
-      "estimated_mau": 7500000
-    },
-    {
-      "id": "openai_chatgpt_with_search_latest",
-      "name": "OpenAI ChatGPT Latest",
-      "estimated_mau": 105000000
-    }
-  ],
   "totalDates": [
     "2025-10-07",
     "2025-10-06"
@@ -19015,11 +19018,11 @@ window.AppData20251007 = {
   "itemCountPerModel": {
     "products": [
       {
-        "id": "anthropic_claude_with_search_latest",
+        "id": "perplexity_with_search_latest",
         "count": 8
       },
       {
-        "id": "perplexity_with_search_latest",
+        "id": "anthropic_claude_with_search_latest",
         "count": 8
       },
       {
@@ -19041,8 +19044,34 @@ window.AppData20251007 = {
         "count": 2
       }
     ],
-    "people": [],
-    "places": [],
+    "people": [
+      {
+        "id": "perplexity_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 0
+      }
+    ],
+    "places": [
+      {
+        "id": "perplexity_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 0
+      }
+    ],
     "links": [
       {
         "id": "perplexity_with_search_latest",
@@ -19071,7 +19100,20 @@ window.AppData20251007 = {
         "count": 7
       }
     ],
-    "events": [],
+    "events": [
+      {
+        "id": "perplexity_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 0
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 0
+      }
+    ],
     "linkTypes": []
   },
   "itemCountPerAppearanceOrderTrend": {
@@ -19148,8 +19190,16 @@ window.AppData20251007 = {
     "events": [],
     "linkTypes": [
       {
-        "id": "-9999",
-        "count": 5
+        "id": "10",
+        "count": 2
+      },
+      {
+        "id": "-1",
+        "count": 2
+      },
+      {
+        "id": "999",
+        "count": 1
       }
     ]
   },
