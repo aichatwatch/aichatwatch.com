@@ -1,4 +1,4 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-10T11:44:23.871Z
+// AUTO-GENERATED AGGREGATE: 2025-10-10T14:33:32.411Z
 // Aggregated from prompts: 1-what-are-the-best-y-comb-907eddd4, 2-what-are-the-top-alterna-c2491069, 3-how-does-y-combinator-co-a61f8da3, 4-what-makes-y-combinator--6e3ff816, 5-when-should-someone-choo-ba5daa5b
 window.AppDataAggregate20250923 = {
   "report_question": "Y Combinator",

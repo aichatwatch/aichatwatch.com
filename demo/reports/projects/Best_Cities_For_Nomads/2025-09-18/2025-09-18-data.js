@@ -1,4 +1,4 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-10T11:44:12.144Z
+// AUTO-GENERATED AGGREGATE: 2025-10-10T14:33:16.075Z
 // Aggregated from prompts: 1-what-are-the-best-ci, 2-which-cities-are-the, 3-best-place-to-work-f, 4-top-25-places-for-no, 5-recommend-best-place
 window.AppDataAggregate20250918 = {
   "report_question": "Best_Cities_For_Nomads",
