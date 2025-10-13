@@ -2,7 +2,7 @@ window.AppData20251013 = {
   "report_question": "Which organizations are leading innovation in Startups in Armenia?",
   "report_date": "2025-10-13",
   "report_question_id": "5-which-organizations-are--18b3f454",
-  "report_created_at": "Oct 13, 2025, 5:34:54 PM",
+  "report_created_at": "Oct 13, 2025, 7:54:15 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -4708,11 +4708,11 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.09677,
+      "mentionsAsPercent": 0.09934,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.06897,
-        "anthropic_claude_with_search_latest": 0.13793,
-        "openai_chatgpt_with_search_latest": 0.07692
+        "anthropic_claude_with_search_latest": 0.14035,
+        "openai_chatgpt_with_search_latest": 0.08333
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -4720,13 +4720,13 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 1.33,
-      "influence": 0.64795,
+      "influence": 0.70774,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.19371,
-        "anthropic_claude_with_search_latest": 0.23483,
+        "perplexity_with_search_latest": 0.16604,
+        "anthropic_claude_with_search_latest": 0.20128,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.64795,
+      "weightedInfluence": 0.70774,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -4736,7 +4736,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.64795
+          "value": 0.70774
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4789,13 +4789,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.19371
+            "value": 0.16604
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.23483
+            "value": 0.20128
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4853,7 +4853,7 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 16,
         "anthropic_claude_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": 7
+        "openai_chatgpt_with_search_latest": 6
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 106,
@@ -4928,10 +4928,10 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 899,
-            "excerpt": "ted include Doccy, Biocentric.ai, and Prodmap.ai [eufordigital.eu](https://eufordigital.eu/armenian-startups-shine-in-global-accelerator-with-plug-and-play/).\n\n3. **EPIC - Entrepreneurship and Product Innovat",
-            "line": 5,
-            "column": 364,
+            "appearanceOrder": 1743,
+            "excerpt": "ogy Angels Network (STAN)**: This global network of angel investors supports early-stage technology startups. STAN is focused on nurturing innovative startups in both Armenia and Los Angeles by providing fina",
+            "line": 11,
+            "column": 123,
             "captureDate": "2025-10-13"
           }
         ],
@@ -4973,15 +4973,15 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 32,
+      "mentions": 31,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.20645,
+      "mentionsAsPercent": 0.2053,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.27586,
-        "anthropic_claude_with_search_latest": 0.15517,
-        "openai_chatgpt_with_search_latest": 0.17949
+        "anthropic_claude_with_search_latest": 0.15789,
+        "openai_chatgpt_with_search_latest": 0.16667
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
@@ -4999,7 +4999,7 @@ window.AppData20251013 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 32
+          "value": 31
         }
       ],
       "influenceTrendVals": [
@@ -5045,7 +5045,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 7
+            "value": 6
           }
         ]
       },
@@ -5100,12 +5100,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 32,
+      "mentions_change": 31,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 32
+          "mentions": 31
         }
       ],
       "lastSeen": "2025-10-13",
@@ -5176,25 +5176,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercent": 0.03311,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.05172,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "anthropic_claude_with_search_latest": 0.05263,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": 11,
-        "openai_chatgpt_with_search_latest": 12
+        "openai_chatgpt_with_search_latest": 11
       },
-      "appearanceOrder": 10.67,
-      "influence": 0.07713,
+      "appearanceOrder": 10.33,
+      "influence": 0.08613,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.10219,
-        "anthropic_claude_with_search_latest": 0.17186,
+        "perplexity_with_search_latest": 0.08487,
+        "anthropic_claude_with_search_latest": 0.14274,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.07713,
+      "weightedInfluence": 0.08613,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5204,13 +5204,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07713
+          "value": 0.08613
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 10.67
+          "value": 10.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5257,13 +5257,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.10219
+            "value": 0.08487
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.17186
+            "value": 0.14274
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5294,7 +5294,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 12
+            "value": 11
           }
         ]
       },
@@ -5352,23 +5352,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.03509,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.13585,
+      "influence": 0.14834,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13585,
+      "weightedInfluence": 0.14834,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5378,7 +5378,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.13585
+          "value": 0.14834
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5526,23 +5526,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.03509,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.15129,
+      "influence": 0.16528,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15129,
+      "weightedInfluence": 0.16528,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5552,7 +5552,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.15129
+          "value": 0.16528
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5723,25 +5723,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.03226,
+      "mentionsAsPercent": 0.03311,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.03509,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 19,
         "anthropic_claude_with_search_latest": 13,
-        "openai_chatgpt_with_search_latest": 11
+        "openai_chatgpt_with_search_latest": 10
       },
-      "appearanceOrder": 14.33,
-      "influence": 0.12636,
+      "appearanceOrder": 14,
+      "influence": 0.1423,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.03809,
-        "anthropic_claude_with_search_latest": 0.05223,
+        "perplexity_with_search_latest": 0.03151,
+        "anthropic_claude_with_search_latest": 0.04321,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.12636,
+      "weightedInfluence": 0.1423,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5751,13 +5751,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.12636
+          "value": 0.1423
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 14.33
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5804,13 +5804,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.03809
+            "value": 0.03151
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.05223
+            "value": 0.04321
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5841,7 +5841,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 11
+            "value": 10
           }
         ]
       },
@@ -5892,23 +5892,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.09724,
+      "influence": 0.10621,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09724,
+      "weightedInfluence": 0.10621,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5918,7 +5918,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09724
+          "value": 0.10621
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6035,12 +6035,12 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 11,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 66,
         "anthropic_claude_with_search_latest": 1159,
-        "openai_chatgpt_with_search_latest": 479
+        "openai_chatgpt_with_search_latest": 2020
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
@@ -6053,13 +6053,6 @@ window.AppData20251013 = {
           }
         ],
         "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 479,
-            "excerpt": "obal perspective on local innovation [linkedin.com](https://www.linkedin.com/pulse/armenias-startup-ecosystem-quietly-booming-heres-what-you-should-mwe8f).\n\n2. **Plug and Play Accelerator**: In collaboration w",
-            "line": 3,
-            "column": 341,
-            "captureDate": "2025-10-13"
-          },
           {
             "appearanceOrder": 2020,
             "excerpt": "/).\n\nThese organizations are integral to the growth and development of Armenia's burgeoning startup ecosystem.",
@@ -6106,45 +6099,45 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 14,
+      "mentions": 13,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.09032,
+      "mentionsAsPercent": 0.08609,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.18966,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 15,
-        "openai_chatgpt_with_search_latest": 8
+        "openai_chatgpt_with_search_latest": 20
       },
-      "appearanceOrder": 8.33,
-      "influence": 0.41261,
+      "appearanceOrder": 12.33,
+      "influence": 0.36426,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.02185,
-        "openai_chatgpt_with_search_latest": 0.99168
+        "openai_chatgpt_with_search_latest": 0.41748
       },
-      "weightedInfluence": 0.41261,
+      "weightedInfluence": 0.36426,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 14
+          "value": 13
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.41261
+          "value": 0.36426
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 8.33
+          "value": 12.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6178,7 +6171,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 2
+            "value": 1
           }
         ]
       },
@@ -6203,7 +6196,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.99168
+            "value": 0.41748
           }
         ]
       },
@@ -6228,17 +6221,17 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 8
+            "value": 20
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 14,
+      "mentions_change": 13,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 14
+          "mentions": 13
         }
       ],
       "lastSeen": "2025-10-13",
@@ -6469,25 +6462,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.03871,
+      "mentionsAsPercent": 0.03974,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.03448,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.03509,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 13,
         "anthropic_claude_with_search_latest": 18,
-        "openai_chatgpt_with_search_latest": 15
+        "openai_chatgpt_with_search_latest": 14
       },
-      "appearanceOrder": 15.33,
-      "influence": 0.12628,
+      "appearanceOrder": 15,
+      "influence": 0.14051,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.09631,
-        "anthropic_claude_with_search_latest": 0.05237,
+        "perplexity_with_search_latest": 0.08062,
+        "anthropic_claude_with_search_latest": 0.04384,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.12628,
+      "weightedInfluence": 0.14051,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -6497,13 +6490,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.12628
+          "value": 0.14051
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 15.33
+          "value": 15
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6550,13 +6543,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.09631
+            "value": 0.08062
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.05237
+            "value": 0.04384
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6587,7 +6580,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 15
+            "value": 14
           }
         ]
       },
@@ -6692,25 +6685,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.05806,
+      "mentionsAsPercent": 0.0596,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.06897,
-        "anthropic_claude_with_search_latest": 0.06897,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "anthropic_claude_with_search_latest": 0.07018,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 8,
         "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 17
+        "openai_chatgpt_with_search_latest": 16
       },
-      "appearanceOrder": 10.33,
-      "influence": 0.11888,
+      "appearanceOrder": 10,
+      "influence": 0.13089,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.48242,
-        "anthropic_claude_with_search_latest": 0.33022,
+        "perplexity_with_search_latest": 0.40528,
+        "anthropic_claude_with_search_latest": 0.27741,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.11888,
+      "weightedInfluence": 0.13089,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -6720,13 +6713,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.11888
+          "value": 0.13089
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 10.33
+          "value": 10
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6773,13 +6766,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.48242
+            "value": 0.40528
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.33022
+            "value": 0.27741
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6810,7 +6803,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 17
+            "value": 16
           }
         ]
       },
@@ -6857,23 +6850,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 14
       },
       "appearanceOrder": 14,
-      "influence": 0.06434,
+      "influence": 0.0703,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06434,
+      "weightedInfluence": 0.0703,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -6883,7 +6876,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06434
+          "value": 0.0703
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7024,23 +7017,23 @@ window.AppData20251013 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.08952,
+      "influence": 0.09779,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.08952,
+      "weightedInfluence": 0.09779,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7050,7 +7043,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08952
+          "value": 0.09779
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7214,25 +7207,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.02581,
+      "mentionsAsPercent": 0.02649,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 21,
         "anthropic_claude_with_search_latest": 22,
-        "openai_chatgpt_with_search_latest": 10
+        "openai_chatgpt_with_search_latest": 9
       },
-      "appearanceOrder": 17.67,
-      "influence": 0.12579,
+      "appearanceOrder": 17.33,
+      "influence": 0.14247,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.03551,
-        "anthropic_claude_with_search_latest": 0.02125,
+        "perplexity_with_search_latest": 0.02924,
+        "anthropic_claude_with_search_latest": 0.01749,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.12579,
+      "weightedInfluence": 0.14247,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7242,13 +7235,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.12579
+          "value": 0.14247
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 17.67
+          "value": 17.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7295,13 +7288,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.03551
+            "value": 0.02924
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.02125
+            "value": 0.01749
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7332,7 +7325,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 10
+            "value": 9
           }
         ]
       },
@@ -7383,7 +7376,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -7393,13 +7386,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.07263,
+      "influence": 0.07932,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07263,
+      "weightedInfluence": 0.07932,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7409,7 +7402,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07263
+          "value": 0.07932
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7558,24 +7551,24 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 16
+        "openai_chatgpt_with_search_latest": 15
       },
-      "appearanceOrder": 10,
-      "influence": 0.06459,
+      "appearanceOrder": 9.5,
+      "influence": 0.07191,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.09787,
+        "anthropic_claude_with_search_latest": 0.08208,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.06459,
+      "weightedInfluence": 0.07191,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7585,13 +7578,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06459
+          "value": 0.07191
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 10
+          "value": 9.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7644,7 +7637,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.09787
+            "value": 0.08208
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7675,7 +7668,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 16
+            "value": 15
           }
         ]
       },
@@ -7763,25 +7756,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.03871,
+      "mentionsAsPercent": 0.03974,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.05172,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.05263,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 20
+        "openai_chatgpt_with_search_latest": 19
       },
-      "appearanceOrder": 10.33,
-      "influence": 0.12105,
+      "appearanceOrder": 10,
+      "influence": 0.13379,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.08665,
-        "anthropic_claude_with_search_latest": 0.1221,
+        "perplexity_with_search_latest": 0.07308,
+        "anthropic_claude_with_search_latest": 0.10297,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.12105,
+      "weightedInfluence": 0.13379,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7791,13 +7784,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.12105
+          "value": 0.13379
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 10.33
+          "value": 10
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7844,13 +7837,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.08665
+            "value": 0.07308
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.1221
+            "value": 0.10297
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7881,7 +7874,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 20
+            "value": 19
           }
         ]
       },
@@ -7932,7 +7925,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -7942,13 +7935,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.09724,
+      "influence": 0.10621,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09724,
+      "weightedInfluence": 0.10621,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7958,7 +7951,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09724
+          "value": 0.10621
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8099,7 +8092,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -8109,13 +8102,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.08952,
+      "influence": 0.09779,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08952,
+      "weightedInfluence": 0.09779,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8125,7 +8118,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08952
+          "value": 0.09779
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8288,10 +8281,10 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02581,
+      "mentionsAsPercent": 0.02649,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.03448,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.03509,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -8299,13 +8292,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 16
       },
       "appearanceOrder": 17,
-      "influence": 0.11952,
+      "influence": 0.13055,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.62994,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11952,
+      "weightedInfluence": 0.13055,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8315,7 +8308,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.11952
+          "value": 0.13055
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8688,11 +8681,11 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.08387,
+      "mentionsAsPercent": 0.08609,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.05172,
-        "anthropic_claude_with_search_latest": 0.10345,
-        "openai_chatgpt_with_search_latest": 0.10256
+        "anthropic_claude_with_search_latest": 0.10526,
+        "openai_chatgpt_with_search_latest": 0.11111
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 7,
@@ -8700,13 +8693,13 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 3
       },
       "appearanceOrder": 4.33,
-      "influence": 0.47559,
+      "influence": 0.51949,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.04582,
-        "anthropic_claude_with_search_latest": 0.08334,
+        "perplexity_with_search_latest": 0.03927,
+        "anthropic_claude_with_search_latest": 0.07144,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.47559,
+      "weightedInfluence": 0.51949,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8716,7 +8709,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.47559
+          "value": 0.51949
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8769,13 +8762,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.04582
+            "value": 0.03927
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.08334
+            "value": 0.07144
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -8873,25 +8866,25 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.01935,
+      "mentionsAsPercent": 0.01987,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 20,
         "anthropic_claude_with_search_latest": 19,
-        "openai_chatgpt_with_search_latest": 19
+        "openai_chatgpt_with_search_latest": 18
       },
-      "appearanceOrder": 19.33,
-      "influence": 0.05799,
+      "appearanceOrder": 19,
+      "influence": 0.06426,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.09031,
-        "anthropic_claude_with_search_latest": 0.05543,
+        "perplexity_with_search_latest": 0.07607,
+        "anthropic_claude_with_search_latest": 0.04669,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.05799,
+      "weightedInfluence": 0.06426,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8901,13 +8894,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.05799
+          "value": 0.06426
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 19.33
+          "value": 19
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -8954,13 +8947,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.09031
+            "value": 0.07607
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.05543
+            "value": 0.04669
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -8991,7 +8984,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 19
+            "value": 18
           }
         ]
       },
@@ -9050,24 +9043,24 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8,
         "openai_chatgpt_with_search_latest": 5
       },
       "appearanceOrder": 6.5,
-      "influence": 0.09603,
+      "influence": 0.10494,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0452,
+        "anthropic_claude_with_search_latest": 0.03874,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.09603,
+      "weightedInfluence": 0.10494,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9077,7 +9070,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09603
+          "value": 0.10494
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9136,7 +9129,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.0452
+            "value": 0.03874
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -9218,23 +9211,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.07263,
+      "influence": 0.07932,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07263,
+      "weightedInfluence": 0.07932,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9244,7 +9237,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07263
+          "value": 0.07932
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9385,7 +9378,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -9395,13 +9388,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.06788,
+      "influence": 0.07421,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06788,
+      "weightedInfluence": 0.07421,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9411,7 +9404,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06788
+          "value": 0.07421
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9552,7 +9545,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -9562,13 +9555,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 16
       },
       "appearanceOrder": 16,
-      "influence": 0.06153,
+      "influence": 0.06715,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06153,
+      "weightedInfluence": 0.06715,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9578,7 +9571,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06153
+          "value": 0.06715
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9727,10 +9720,10 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -9738,13 +9731,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 17
       },
       "appearanceOrder": 15.5,
-      "influence": 0.0633,
+      "influence": 0.06911,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.5687,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0633,
+      "weightedInfluence": 0.06911,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9754,7 +9747,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.0633
+          "value": 0.06911
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9895,7 +9888,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -9905,13 +9898,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.06282,
+      "influence": 0.0686,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06282,
+      "weightedInfluence": 0.0686,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9921,7 +9914,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06282
+          "value": 0.0686
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10062,23 +10055,23 @@ window.AppData20251013 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 18
+        "openai_chatgpt_with_search_latest": 17
       },
-      "appearanceOrder": 18,
-      "influence": 0.0592,
+      "appearanceOrder": 17,
+      "influence": 0.06587,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.0592,
+      "weightedInfluence": 0.06587,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -10088,13 +10081,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.0592
+          "value": 0.06587
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 18
+          "value": 17
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10178,7 +10171,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 18
+            "value": 17
           }
         ]
       },
@@ -10378,23 +10371,23 @@ window.AppData20251013 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 14
+        "openai_chatgpt_with_search_latest": 13
       },
-      "appearanceOrder": 14,
-      "influence": 0.06434,
+      "appearanceOrder": 13,
+      "influence": 0.07209,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.06434,
+      "weightedInfluence": 0.07209,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -10404,13 +10397,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06434
+          "value": 0.07209
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 14
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10494,7 +10487,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 14
+            "value": 13
           }
         ]
       },
@@ -10541,23 +10534,23 @@ window.AppData20251013 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 7
       },
       "appearanceOrder": 7,
-      "influence": 0.08381,
+      "influence": 0.09149,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.08381,
+      "weightedInfluence": 0.09149,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -10567,7 +10560,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08381
+          "value": 0.09149
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11002,23 +10995,23 @@ window.AppData20251013 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.02564
+        "openai_chatgpt_with_search_latest": 0.02778
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 9
+        "openai_chatgpt_with_search_latest": 8
       },
-      "appearanceOrder": 9,
-      "influence": 0.07569,
+      "appearanceOrder": 8,
+      "influence": 0.08664,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.07569,
+      "weightedInfluence": 0.08664,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11028,13 +11021,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07569
+          "value": 0.08664
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 9
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11118,7 +11111,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 9
+            "value": 8
           }
         ]
       },
@@ -11322,10 +11315,10 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0129,
+      "mentionsAsPercent": 0.01325,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -11333,13 +11326,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 20
       },
       "appearanceOrder": 18.5,
-      "influence": 0.05952,
+      "influence": 0.06502,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.57551,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.05952,
+      "weightedInfluence": 0.06502,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11349,7 +11342,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.05952
+          "value": 0.06502
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11610,8 +11603,8 @@ window.AppData20251013 = {
       "type": "keyword",
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 4690,
@@ -11633,13 +11626,6 @@ window.AppData20251013 = {
             "line": 54,
             "column": 10,
             "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2383,
-            "excerpt": "y of Armenia (AUA) - Entrepreneurship and Product Innovation Center**\n[https://aua.am/epic](https://aua.am/epic)\nSupports student entrepreneurship and innovation through programs and resources.\n\n**Nation",
-            "line": 54,
-            "column": 31,
-            "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11656,13 +11642,6 @@ window.AppData20251013 = {
             "line": 7,
             "column": 273,
             "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 1327,
-            "excerpt": "for AUA students and external entrepreneurs [am.linkedin.com](https://am.linkedin.com/company/epicataua).\n\n4. **Enterprise Incubator Foundation (EIF)**: This organization focuses on providing educational",
-            "line": 7,
-            "column": 369,
-            "captureDate": "2025-10-13"
           }
         ],
         "perplexity_with_search_latest": [
@@ -11675,45 +11654,45 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.04516,
+      "mentionsAsPercent": 0.03311,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.05172,
-        "openai_chatgpt_with_search_latest": 0.07692
+        "anthropic_claude_with_search_latest": 0.03509,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 23,
         "anthropic_claude_with_search_latest": 21,
-        "openai_chatgpt_with_search_latest": 13
+        "openai_chatgpt_with_search_latest": 12
       },
-      "appearanceOrder": 19,
-      "influence": 0.17301,
+      "appearanceOrder": 18.67,
+      "influence": 0.13251,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.02538,
-        "anthropic_claude_with_search_latest": 0.04745,
+        "perplexity_with_search_latest": 0.03171,
+        "anthropic_claude_with_search_latest": 0.03953,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.17301,
+      "weightedInfluence": 0.13251,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 7
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.17301
+          "value": 0.13251
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 19
+          "value": 18.67
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11741,13 +11720,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 2
           }
         ]
       },
@@ -11760,13 +11739,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.02538
+            "value": 0.03171
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.04745
+            "value": 0.03953
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11797,17 +11776,17 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 13
+            "value": 12
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 7
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-13",
@@ -11867,11 +11846,11 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.02581,
+      "mentionsAsPercent": 0.02649,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
-        "anthropic_claude_with_search_latest": 0.01724,
-        "openai_chatgpt_with_search_latest": 0.05128
+        "anthropic_claude_with_search_latest": 0.01754,
+        "openai_chatgpt_with_search_latest": 0.05556
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 22,
@@ -11879,13 +11858,13 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 15.67,
-      "influence": 0.40457,
+      "influence": 0.44187,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.01013,
-        "anthropic_claude_with_search_latest": 0.00596,
+        "perplexity_with_search_latest": 0.00868,
+        "anthropic_claude_with_search_latest": 0.00511,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.40457,
+      "weightedInfluence": 0.44187,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11895,7 +11874,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.40457
+          "value": 0.44187
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11948,13 +11927,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.01013
+            "value": 0.00868
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.00596
+            "value": 0.00511
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -12032,7 +12011,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01724,
         "anthropic_claude_with_search_latest": 0,
@@ -12042,13 +12021,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.07014,
+      "influence": 0.0766,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07014,
+      "weightedInfluence": 0.0766,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -12058,7 +12037,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07014
+          "value": 0.0766
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12493,23 +12472,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00645,
+      "mentionsAsPercent": 0.00662,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01724,
+        "anthropic_claude_with_search_latest": 0.01754,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 23
       },
       "appearanceOrder": 23,
-      "influence": 0.05485,
+      "influence": 0.05991,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.05485,
+      "weightedInfluence": 0.05991,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -12519,7 +12498,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.05485
+          "value": 0.05991
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12782,8 +12761,8 @@ window.AppData20251013 = {
       "type": "place",
       "mentionsByModel": {
         "perplexity_with_search_latest": 40,
-        "anthropic_claude_with_search_latest": 19,
-        "openai_chatgpt_with_search_latest": 11
+        "anthropic_claude_with_search_latest": 17,
+        "openai_chatgpt_with_search_latest": 9
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 48,
@@ -12821,10 +12800,10 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 450,
-            "excerpt": "ion (Foundation for Armenian Science and Technology)**\n[https://www.fastarmenia.am](https://www.fastarmenia.am)\nSupports tech startups and innovation through various programs and connects the Armenian tech d",
-            "line": 10,
-            "column": 46,
+            "appearanceOrder": 542,
+            "excerpt": "www.fastarmenia.am)\nSupports tech startups and innovation through various programs and connects the Armenian tech diaspora with local entrepreneurs.\n\n**Armenian National Interests Fund (ANIF)**\n[https://www.",
+            "line": 11,
+            "column": 81,
             "captureDate": "2025-10-13"
           }
         ],
@@ -12851,17 +12830,17 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 462,
-            "excerpt": "so fostering a global perspective on local innovation [linkedin.com](https://www.linkedin.com/pulse/armenias-startup-ecosystem-quietly-booming-heres-what-you-should-mwe8f).\n\n2. **Plug and Play Accelerator**:",
-            "line": 3,
-            "column": 324,
-            "captureDate": "2025-10-13"
-          },
-          {
             "appearanceOrder": 630,
             "excerpt": "8f).\n\n2. **Plug and Play Accelerator**: In collaboration with the Ministry of High-Tech Industry of Armenia, the Plug and Play global accelerator program has been pivotal in providing Armenian startups with",
             "line": 5,
             "column": 95,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 714,
+            "excerpt": "ech Industry of Armenia, the Plug and Play global accelerator program has been pivotal in providing Armenian startups with resources and mentorship. Notable startups that have participated include Doccy, Bio",
+            "line": 5,
+            "column": 179,
             "captureDate": "2025-10-13"
           }
         ],
@@ -12903,15 +12882,15 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 70,
+      "mentions": 66,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.93333,
+      "mentionsAsPercent": 0.92958,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.97561,
-        "anthropic_claude_with_search_latest": 0.86364,
-        "openai_chatgpt_with_search_latest": 0.91667
+        "anthropic_claude_with_search_latest": 0.85,
+        "openai_chatgpt_with_search_latest": 0.9
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -12929,7 +12908,7 @@ window.AppData20251013 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 70
+          "value": 66
         }
       ],
       "influenceTrendVals": [
@@ -12969,13 +12948,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 19
+            "value": 17
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 11
+            "value": 9
           }
         ]
       },
@@ -13030,21 +13009,18 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 70,
+      "mentions_change": 66,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 70
+          "mentions": 66
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
       "volatility": 0,
-      "link": "https://www.armenia.gov.am",
-      "sources": {
-        "link": "AI"
-      }
+      "link": "https://www.fastarmenia.am"
     },
     {
       "value": "Gyumri",
@@ -13083,23 +13059,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02667,
+      "mentionsAsPercent": 0.02817,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.09091,
+        "anthropic_claude_with_search_latest": 0.1,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.06179,
+      "influence": 0.06888,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06179,
+      "weightedInfluence": 0.06888,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -13109,7 +13085,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06179
+          "value": 0.06888
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13266,11 +13242,11 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.04,
+      "mentionsAsPercent": 0.04225,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.02439,
-        "anthropic_claude_with_search_latest": 0.04545,
-        "openai_chatgpt_with_search_latest": 0.08333
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0.1
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
@@ -13278,13 +13254,13 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.03896,
+      "influence": 0.04346,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.05762,
-        "anthropic_claude_with_search_latest": 0.04131,
+        "perplexity_with_search_latest": 0.04714,
+        "anthropic_claude_with_search_latest": 0.03782,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03896,
+      "weightedInfluence": 0.04346,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -13294,7 +13270,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.03896
+          "value": 0.04346
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13347,13 +13323,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.05762
+            "value": 0.04714
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.04131
+            "value": 0.03782
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -26470,7 +26446,7 @@ window.AppData20251013 = {
       }
     ]
   },
-  "summary": "# Executive Summary: Leading Innovation in Startups in Armenia\n\n**Date:** 2025-10-13\n\n## Comprehensive AI Responses\nOne of the most comprehensive and positive responses received from an AI chatbot came from the `Anthropic Claude with Search Latest` model, highlighting key organizations:\n\n> \"These organizations form the backbone of Armenia's growing reputation as a tech and startup hub in the region, often referred to as the 'Silicon Valley of the Caucasus.'\"\n\n## Key Mentions\n### Positive Mentions\n- **Enterprise Incubator Foundation (EIF)**\n- **FAST Foundation**\n- **Armenian National Interests Fund (ANIF)**\n- **EPIC (Entrepreneurship and Product Innovation Center)**\n- **Startup Armenia Foundation**\n- **GYumri Technology Center (GTC)**\n- **TUMO Center for Creative Technologies**\n- **Granatus Ventures**\n- **SmartGateVC**\n- **BANA Angels**\n- **Plug and Play Accelerator**\n- **Science & Technology Angels Network (STAN)**\n- **Picsart**\n- **Krisp**\n- **SupperAnnotate**\n- **Podcastle**\n- **AeroLink Technologies**\n- **Revalcon**\n\n### Negative Mentions\nNo negative organizations or entities were explicitly mentioned in the AI chatbot responses.\n\n## Trends and Patterns in AI Responses\n1. **Focus on Collaboration:** Many responses emphasized the collaborative nature of startups with accelerators, incubators, and educational institutions.\n2. **Diverse Support System:** There is a notable mention of various types of organizations, including government funds, private investors, and educational institutes, all contributing significantly to the startup ecosystem.\n3. **Highlighting Success Stories:** The AI responses frequently point to successful Armenian startups as examples of effective innovation and entrepreneurship.\n4. **Global Connectivity:** Several responses discussed the importance of international networks and capabilities offered by various organizations, indicating a global outlook in the Armenian startup landscape.\n\n## Analysis\nThe AI models provided rich and varied insights, showcasing a robust ecosystem for startups in Armenia. However, no specific quantitative data was provided regarding the number of startups or funding metrics. Furthermore, while many organizations were mentioned, there was a lack of critical assessment of their effectiveness or conditions for success.\n\n**Key Takeaways:**\n- Armenia's startup ecosystem is supported by a diverse array of organizations, highlighting a collaborative environment conducive to innovation.\n- Key players like EIF, FAST, and TUMO Center are recognized as vital contributors to the ecosystem's growth.\n- The presence of successful tech startups like Picsart and Krisp reflects the effective innovation driving Armenia's tech landscape.",
-  "summaryHtml": "<h1>Executive Summary: Leading Innovation in Startups in Armenia</h1>\n<p><strong>Date:</strong> 2025-10-13</p>\n<h2>Comprehensive AI Responses</h2>\n<p>One of the most comprehensive and positive responses received from an AI chatbot came from the <code>Anthropic Claude with Search Latest</code> model, highlighting key organizations:</p>\n<blockquote>\n<p>&quot;These organizations form the backbone of Armenia&#39;s growing reputation as a tech and startup hub in the region, often referred to as the &#39;Silicon Valley of the Caucasus.&#39;&quot;</p>\n</blockquote>\n<h2>Key Mentions</h2>\n<h3>Positive Mentions</h3>\n<ul>\n<li><strong>Enterprise Incubator Foundation (EIF)</strong></li>\n<li><strong>FAST Foundation</strong></li>\n<li><strong>Armenian National Interests Fund (ANIF)</strong></li>\n<li><strong>EPIC (Entrepreneurship and Product Innovation Center)</strong></li>\n<li><strong>Startup Armenia Foundation</strong></li>\n<li><strong>GYumri Technology Center (GTC)</strong></li>\n<li><strong>TUMO Center for Creative Technologies</strong></li>\n<li><strong>Granatus Ventures</strong></li>\n<li><strong>SmartGateVC</strong></li>\n<li><strong>BANA Angels</strong></li>\n<li><strong>Plug and Play Accelerator</strong></li>\n<li><strong>Science &amp; Technology Angels Network (STAN)</strong></li>\n<li><strong>Picsart</strong></li>\n<li><strong>Krisp</strong></li>\n<li><strong>SupperAnnotate</strong></li>\n<li><strong>Podcastle</strong></li>\n<li><strong>AeroLink Technologies</strong></li>\n<li><strong>Revalcon</strong></li>\n</ul>\n<h3>Negative Mentions</h3>\n<p>No negative organizations or entities were explicitly mentioned in the AI chatbot responses.</p>\n<h2>Trends and Patterns in AI Responses</h2>\n<ol>\n<li><strong>Focus on Collaboration:</strong> Many responses emphasized the collaborative nature of startups with accelerators, incubators, and educational institutions.</li>\n<li><strong>Diverse Support System:</strong> There is a notable mention of various types of organizations, including government funds, private investors, and educational institutes, all contributing significantly to the startup ecosystem.</li>\n<li><strong>Highlighting Success Stories:</strong> The AI responses frequently point to successful Armenian startups as examples of effective innovation and entrepreneurship.</li>\n<li><strong>Global Connectivity:</strong> Several responses discussed the importance of international networks and capabilities offered by various organizations, indicating a global outlook in the Armenian startup landscape.</li>\n</ol>\n<h2>Analysis</h2>\n<p>The AI models provided rich and varied insights, showcasing a robust ecosystem for startups in Armenia. However, no specific quantitative data was provided regarding the number of startups or funding metrics. Furthermore, while many organizations were mentioned, there was a lack of critical assessment of their effectiveness or conditions for success.</p>\n<p><strong>Key Takeaways:</strong></p>\n<ul>\n<li>Armenia&#39;s startup ecosystem is supported by a diverse array of organizations, highlighting a collaborative environment conducive to innovation.</li>\n<li>Key players like EIF, FAST, and TUMO Center are recognized as vital contributors to the ecosystem&#39;s growth.</li>\n<li>The presence of successful tech startups like Picsart and Krisp reflects the effective innovation driving Armenia&#39;s tech landscape.</li>\n</ul>\n"
+  "summary": "# Executive Summary: Leading Innovation in Startups in Armenia\n\n**Date:** 2025-10-13\n\n## Comprehensive AI Responses\nOne of the most comprehensive and positive responses received from an AI chatbot came from the `Anthropic Claude with Search Latest` model, highlighting key organizations:\n\n \"These organizations form the backbone of Armenia's growing reputation as a tech and startup hub in the region, often referred to as the 'Silicon Valley of the Caucasus.'\"\n\n## Key Mentions\n### Positive Mentions\n- **Enterprise Incubator Foundation (EIF)**\n- **FAST Foundation**\n- **Armenian National Interests Fund (ANIF)**\n- **EPIC (Entrepreneurship and Product Innovation Center)**\n- **Startup Armenia Foundation**\n- **GYumri Technology Center (GTC)**\n- **TUMO Center for Creative Technologies**\n- **Granatus Ventures**\n- **SmartGateVC**\n- **BANA Angels**\n- **Plug and Play Accelerator**\n- **Science & Technology Angels Network (STAN)**\n- **Picsart**\n- **Krisp**\n- **SupperAnnotate**\n- **Podcastle**\n- **AeroLink Technologies**\n- **Revalcon**\n\n### Negative Mentions\nNo negative organizations or entities were explicitly mentioned in the AI chatbot responses.\n\n## Trends and Patterns in AI Responses\n1. **Focus on Collaboration:** Many responses emphasized the collaborative nature of startups with accelerators, incubators, and educational institutions.\n2. **Diverse Support System:** There is a notable mention of various types of organizations, including government funds, private investors, and educational institutes, all contributing significantly to the startup ecosystem.\n3. **Highlighting Success Stories:** The AI responses frequently point to successful Armenian startups as examples of effective innovation and entrepreneurship.\n4. **Global Connectivity:** Several responses discussed the importance of international networks and capabilities offered by various organizations, indicating a global outlook in the Armenian startup landscape.\n\n## Analysis\nThe AI models provided rich and varied insights, showcasing a robust ecosystem for startups in Armenia. However, no specific quantitative data was provided regarding the number of startups or funding metrics. Furthermore, while many organizations were mentioned, there was a lack of critical assessment of their effectiveness or conditions for success.\n\n**Key Takeaways:**\n- Armenia's startup ecosystem is supported by a diverse array of organizations, highlighting a collaborative environment conducive to innovation.\n- Key players like EIF, FAST, and TUMO Center are recognized as vital contributors to the ecosystem's growth.\n- The presence of successful tech startups like Picsart and Krisp reflects the effective innovation driving Armenia's tech landscape.",
+  "summaryHtml": "<h1>Executive Summary: Leading Innovation in Startups in Armenia</h1>\n<p><strong>Date:</strong> 2025-10-13</p>\n<h2>Comprehensive AI Responses</h2>\n<p>One of the most comprehensive and positive responses received from an AI chatbot came from the <code>Anthropic Claude with Search Latest</code> model, highlighting key organizations:</p>\n<p> &quot;These organizations form the backbone of Armenia&#39;s growing reputation as a tech and startup hub in the region, often referred to as the &#39;Silicon Valley of the Caucasus.&#39;&quot;</p>\n<h2>Key Mentions</h2>\n<h3>Positive Mentions</h3>\n<ul>\n<li><strong>Enterprise Incubator Foundation (EIF)</strong></li>\n<li><strong>FAST Foundation</strong></li>\n<li><strong>Armenian National Interests Fund (ANIF)</strong></li>\n<li><strong>EPIC (Entrepreneurship and Product Innovation Center)</strong></li>\n<li><strong>Startup Armenia Foundation</strong></li>\n<li><strong>GYumri Technology Center (GTC)</strong></li>\n<li><strong>TUMO Center for Creative Technologies</strong></li>\n<li><strong>Granatus Ventures</strong></li>\n<li><strong>SmartGateVC</strong></li>\n<li><strong>BANA Angels</strong></li>\n<li><strong>Plug and Play Accelerator</strong></li>\n<li><strong>Science &amp; Technology Angels Network (STAN)</strong></li>\n<li><strong>Picsart</strong></li>\n<li><strong>Krisp</strong></li>\n<li><strong>SupperAnnotate</strong></li>\n<li><strong>Podcastle</strong></li>\n<li><strong>AeroLink Technologies</strong></li>\n<li><strong>Revalcon</strong></li>\n</ul>\n<h3>Negative Mentions</h3>\n<p>No negative organizations or entities were explicitly mentioned in the AI chatbot responses.</p>\n<h2>Trends and Patterns in AI Responses</h2>\n<ol>\n<li><strong>Focus on Collaboration:</strong> Many responses emphasized the collaborative nature of startups with accelerators, incubators, and educational institutions.</li>\n<li><strong>Diverse Support System:</strong> There is a notable mention of various types of organizations, including government funds, private investors, and educational institutes, all contributing significantly to the startup ecosystem.</li>\n<li><strong>Highlighting Success Stories:</strong> The AI responses frequently point to successful Armenian startups as examples of effective innovation and entrepreneurship.</li>\n<li><strong>Global Connectivity:</strong> Several responses discussed the importance of international networks and capabilities offered by various organizations, indicating a global outlook in the Armenian startup landscape.</li>\n</ol>\n<h2>Analysis</h2>\n<p>The AI models provided rich and varied insights, showcasing a robust ecosystem for startups in Armenia. However, no specific quantitative data was provided regarding the number of startups or funding metrics. Furthermore, while many organizations were mentioned, there was a lack of critical assessment of their effectiveness or conditions for success.</p>\n<p><strong>Key Takeaways:</strong></p>\n<ul>\n<li>Armenia&#39;s startup ecosystem is supported by a diverse array of organizations, highlighting a collaborative environment conducive to innovation.</li>\n<li>Key players like EIF, FAST, and TUMO Center are recognized as vital contributors to the ecosystem&#39;s growth.</li>\n<li>The presence of successful tech startups like Picsart and Krisp reflects the effective innovation driving Armenia&#39;s tech landscape.</li>\n</ul>\n"
 };
 window.AppData = window.AppData20251013;
