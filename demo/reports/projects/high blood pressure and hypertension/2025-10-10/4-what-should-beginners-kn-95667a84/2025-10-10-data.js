@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What should beginners know about high blood pressure and hypertension?",
   "report_date": "2025-10-10",
   "report_question_id": "4-what-should-beginners-kn-95667a84",
-  "report_created_at": "Oct 14, 2025, 5:53:31 PM",
+  "report_created_at": "Oct 15, 2025, 9:00:58 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -28,10 +28,32 @@ window.AppData20251010 = {
     {
       "value": "American Heart Association",
       "type": "organization",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "heart.org",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2800,
@@ -62,6 +84,13 @@ window.AppData20251010 = {
             "line": 3,
             "column": 338,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2669,
+            "excerpt": "the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n-",
+            "line": 17,
+            "column": 36,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -74,15 +103,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 4,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.23529,
+      "mentionsAsPercent": 0.25,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.33333,
-        "anthropic_claude_with_search_latest": 0.22222,
-        "openai_chatgpt_with_search_latest": 0.2
+        "anthropic_claude_with_search_latest": 0.25,
+        "openai_chatgpt_with_search_latest": 0.22222
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -100,7 +129,7 @@ window.AppData20251010 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
@@ -146,7 +175,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -201,21 +230,36 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 4
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.heart.org/en/health-topics/high-blood-pressure"
     },
     {
       "value": "Centers for Disease Control and Prevention",
       "type": "organization",
+      "sources": [
+        {
+          "url": "cdc.gov/bloodpressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -240,7 +284,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 2906,
-            "excerpt": "an Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-",
+            "excerpt": "an Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-p",
             "line": 30,
             "column": 172,
             "captureDate": "2025-10-10"
@@ -251,10 +295,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.11765,
+      "mentionsAsPercent": 0.1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.33333,
-        "anthropic_claude_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -262,13 +306,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2.5,
-      "influence": 0.50511,
+      "influence": 0.29039,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.21509,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.50511,
+      "weightedInfluence": 0.29039,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -278,7 +322,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.50511
+          "value": 0.29039
         }
       ],
       "appearanceOrderTrendVals": [
@@ -383,11 +427,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.cdc.gov/bloodpressure/"
     },
     {
       "value": "National Institutes of Health",
       "type": "organization",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/health/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -415,23 +466,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.05,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.47359,
+      "influence": 0.27226,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.47359,
+      "weightedInfluence": 0.27226,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -441,7 +492,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.47359
+          "value": 0.27226
         }
       ],
       "appearanceOrderTrendVals": [
@@ -546,15 +597,38 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.nhlbi.nih.gov/health/high-blood-pressure"
     },
     {
       "value": "Mayo Clinic",
       "type": "organization",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2854,
@@ -585,6 +659,20 @@ window.AppData20251010 = {
             "line": 11,
             "column": 307,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6151,
+            "excerpt": ".mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\nMayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations.\\",
+            "line": 35,
+            "column": 1,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6224,
+            "excerpt": "od-pressure/art-20046974)\n\nMayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health System locations.\\ If you have high blood pressure, you may wonder if you need to take medic",
+            "line": 35,
+            "column": 74,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -597,15 +685,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 4,
+      "mentions": 6,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.23529,
+      "mentionsAsPercent": 0.3,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.33333,
-        "anthropic_claude_with_search_latest": 0.11111,
-        "openai_chatgpt_with_search_latest": 0.4
+        "anthropic_claude_with_search_latest": 0.125,
+        "openai_chatgpt_with_search_latest": 0.44444
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
@@ -613,23 +701,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.85993,
+      "influence": 0.9195,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.26439,
         "anthropic_claude_with_search_latest": 0.03077,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.85993,
+      "weightedInfluence": 0.9195,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 4
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.85993
+          "value": 0.9195
         }
       ],
       "appearanceOrderTrendVals": [
@@ -669,7 +757,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 4
           }
         ]
       },
@@ -724,21 +812,28 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 4
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410"
     },
     {
       "value": "Cleveland Clinic",
       "type": "organization",
+      "sources": [
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -766,23 +861,23 @@ window.AppData20251010 = {
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.05,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
+        "openai_chatgpt_with_search_latest": 0.11111
       },
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.5976,
+      "influence": 0.34355,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.5976,
+      "weightedInfluence": 0.34355,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -792,7 +887,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.5976
+          "value": 0.34355
         }
       ],
       "appearanceOrderTrendVals": [
@@ -897,15 +992,22 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure"
     },
     {
       "value": "Yale Medicine",
       "type": "organization",
+      "sources": [
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -921,41 +1023,48 @@ window.AppData20251010 = {
             "line": 9,
             "column": 270,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5242,
+            "excerpt": "ike headaches, heart palpitations or nosebleeds.\n\n4. [17 Things To Know About High Blood Pressure - Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\nIf you do just one thing to i",
+            "line": 29,
+            "column": 51,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
+        "openai_chatgpt_with_search_latest": 0.22222
       },
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.40793,
+      "influence": 0.46904,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.40793,
+      "weightedInfluence": 0.46904,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.40793
+          "value": 0.46904
         }
       ],
       "appearanceOrderTrendVals": [
@@ -995,7 +1104,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -1050,21 +1159,28 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 1
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.yalemedicine.org/news/high-blood-pressure-hypertension"
     },
     {
       "value": "National Heart, Lung, and Blood Institute",
       "type": "organization",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/health/high-blood-pressure/treatment",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1092,23 +1208,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.05,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.36641,
+      "influence": 0.21067,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.36641,
+      "weightedInfluence": 0.21067,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -1118,7 +1234,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.36641
+          "value": 0.21067
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1223,11 +1339,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment"
     },
     {
       "value": "Blood Pressure UK",
       "type": "organization",
+      "sources": [
+        {
+          "url": "bloodpressureuk.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1255,23 +1378,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.05,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.33739,
+      "influence": 0.19398,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.33739,
+      "weightedInfluence": 0.19398,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -1281,7 +1404,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.33739
+          "value": 0.19398
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1386,11 +1509,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.bloodpressureuk.org/"
     },
     {
       "value": "World Hypertension League",
       "type": "organization",
+      "sources": [
+        {
+          "url": "worldhypertensionleague.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1418,23 +1548,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
+      "mentionsAsPercent": 0.05,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 7
       },
       "appearanceOrder": 7,
-      "influence": 0.31572,
+      "influence": 0.18153,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.31572,
+      "weightedInfluence": 0.18153,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -1444,7 +1574,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.31572
+          "value": 0.18153
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1549,170 +1679,8 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "MedlinePlus",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4270,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4270,
-            "excerpt": "Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/highbloodpressure.html) - Comprehensive health inform",
-            "line": 105,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05882,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.29882,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.29882,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.29882
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.worldhypertensionleague.org/"
     }
   ],
   "persons": [],
@@ -1720,10 +1688,52 @@ window.AppData20251010 = {
     {
       "value": "high blood pressure",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "medlineplus.gov/highbloodpressure.html",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "nhlbi.nih.gov/health/high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 30,
         "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 25
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 29,
@@ -1789,6 +1799,20 @@ window.AppData20251010 = {
             "line": 9,
             "column": 67,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2646,
+            "excerpt": "ntly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts",
+            "line": 17,
+            "column": 13,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2796,
+            "excerpt": "(https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pressure measured and to u",
+            "line": 19,
+            "column": 3,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -1829,15 +1853,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 39,
+      "mentions": 61,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.22414,
+      "mentionsAsPercent": 0.28638,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.42254,
-        "anthropic_claude_with_search_latest": 0.08108,
-        "openai_chatgpt_with_search_latest": 0.10345
+        "anthropic_claude_with_search_latest": 0.07895,
+        "openai_chatgpt_with_search_latest": 0.37879
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -1847,15 +1871,15 @@ window.AppData20251010 = {
       "appearanceOrder": 1,
       "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.34921,
-        "anthropic_claude_with_search_latest": 0.08928,
+        "perplexity_with_search_latest": 0.20953,
+        "anthropic_claude_with_search_latest": 0.05357,
         "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 39
+          "value": 61
         }
       ],
       "influenceTrendVals": [
@@ -1901,7 +1925,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 3
+            "value": 25
           }
         ]
       },
@@ -1914,13 +1938,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.34921
+            "value": 0.20953
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.08928
+            "value": 0.05357
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -1956,29 +1980,63 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 39,
+      "mentions_change": 61,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 39
+          "mentions": 61
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "workout,physical activity,fitness routine",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "hypertension",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "worldhypertensionleague.org",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "who.int/news-room/fact-sheets/detail/hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 16,
         "anthropic_claude_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 5
+        "openai_chatgpt_with_search_latest": 12
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 53,
@@ -2098,15 +2156,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 28,
+      "mentions": 35,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.16092,
+      "mentionsAsPercent": 0.16432,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.22535,
-        "anthropic_claude_with_search_latest": 0.09459,
-        "openai_chatgpt_with_search_latest": 0.17241
+        "anthropic_claude_with_search_latest": 0.09211,
+        "openai_chatgpt_with_search_latest": 0.18182
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
@@ -2114,23 +2172,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.57496,
+      "influence": 0.31537,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.11175,
-        "anthropic_claude_with_search_latest": 0.06249,
+        "perplexity_with_search_latest": 0.23281,
+        "anthropic_claude_with_search_latest": 0.13019,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.57496,
+      "weightedInfluence": 0.31537,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 28
+          "value": 35
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.57496
+          "value": 0.31537
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2170,7 +2228,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5
+            "value": 12
           }
         ]
       },
@@ -2183,13 +2241,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.11175
+            "value": 0.23281
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.06249
+            "value": 0.13019
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2225,25 +2283,27 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 28,
+      "mentions_change": 35,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 28
+          "mentions": 35
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "weight control,body weight management,caloric balance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "systolic",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 3,
@@ -2293,10 +2353,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02299,
+      "mentionsAsPercent": 0.01878,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.04054,
+        "anthropic_claude_with_search_latest": 0.03947,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -2304,13 +2364,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 3.5,
-      "influence": 0.09262,
+      "influence": 0.02838,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.22467,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09262,
+      "weightedInfluence": 0.02838,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2320,7 +2380,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.09262
+          "value": 0.02838
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2425,15 +2485,21 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "tobacco use,nicotine addiction,cessation",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "diastolic",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 3,
@@ -2483,10 +2549,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02299,
+      "mentionsAsPercent": 0.01878,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.04054,
+        "anthropic_claude_with_search_latest": 0.03947,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -2494,13 +2560,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 4.5,
-      "influence": 0.08136,
+      "influence": 0.02491,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.23418,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08136,
+      "weightedInfluence": 0.02491,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2510,7 +2576,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.08136
+          "value": 0.02491
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2615,15 +2681,21 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "home health tracking,self-monitoring,remote monitoring",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "normal blood pressure",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/bloodpressure",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2651,23 +2723,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.05102,
+      "influence": 0.01562,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.05102,
+      "weightedInfluence": 0.01562,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2677,7 +2749,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.05102
+          "value": 0.01562
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2782,15 +2854,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "prescription drugs,pharmaceuticals,medication therapy",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "elevated blood pressure",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2818,23 +2887,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 42
       },
       "appearanceOrder": 42,
-      "influence": 0.02433,
+      "influence": 0.00744,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02433,
+      "weightedInfluence": 0.00744,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2844,7 +2913,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02433
+          "value": 0.00744
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2949,15 +3018,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "water pills,fluid retention treatment,edema medication",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "stage 1 hypertension",
+      "value": "Stage 1 Hypertension",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -2993,10 +3059,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3004,13 +3070,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 7
       },
       "appearanceOrder": 6.5,
-      "influence": 0.04618,
+      "influence": 0.01414,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.83621,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04618,
+      "weightedInfluence": 0.01414,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -3020,7 +3086,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04618
+          "value": 0.01414
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3125,15 +3191,37 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "angiotensin-converting enzyme inhibitors,blood pressure meds,heart medications",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "stage 2 hypertension",
+      "value": "Stage 2 Hypertension",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -3169,10 +3257,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3180,13 +3268,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 8
       },
       "appearanceOrder": 7.5,
-      "influence": 0.04335,
+      "influence": 0.01328,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.82727,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04335,
+      "weightedInfluence": 0.01328,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -3196,7 +3284,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04335
+          "value": 0.01328
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3301,15 +3389,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "angiotensin receptor blockers,blood pressure control,hypertension treatment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "hypertensive crisis",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3337,23 +3422,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.0397,
+      "influence": 0.01215,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0397,
+      "weightedInfluence": 0.01215,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -3363,7 +3448,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.0397
+          "value": 0.01215
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3468,19 +3553,21 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "calcium antagonists,heart health drugs,vascular medications",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "silent killer",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -3504,42 +3591,49 @@ window.AppData20251010 = {
             "line": 7,
             "column": 37,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4872,
+            "excerpt": "high blood pressure doesn’t cause any signs or symptoms. That’s why healthcare providers call it a “silent killer.” You could have high blood pressure for years and not know it. In fact, the World Health Organizat",
+            "line": 27,
+            "column": 371,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
+      "mentions": 3,
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.01408,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.0303
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 6
       },
       "appearanceOrder": 8.5,
-      "influence": 0.04356,
+      "influence": 0.02762,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03862,
+        "anthropic_claude_with_search_latest": 0.08719,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04356,
+      "weightedInfluence": 0.02762,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04356
+          "value": 0.02762
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3579,7 +3673,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -3598,7 +3692,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03862
+            "value": 0.08719
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3623,36 +3717,58 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 10
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 6
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 2
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "heart rate reducers,cardiac medications,hypertension drugs",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "heart disease",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -3688,24 +3804,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 8,
-        "anthropic_claude_with_search_latest": 11
+        "anthropic_claude_with_search_latest": 12
       },
-      "appearanceOrder": 9.5,
-      "influence": 0.04037,
+      "appearanceOrder": 10,
+      "influence": 0.01227,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.8866,
+        "perplexity_with_search_latest": 0.91489,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04037,
+      "weightedInfluence": 0.01227,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -3715,13 +3831,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04037
+          "value": 0.01227
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9.5
+          "value": 10
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -3768,7 +3884,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.8866
+            "value": 0.91489
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -3799,7 +3915,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 11
+            "value": 12
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3820,15 +3936,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "consistent tracking,ongoing assessment,regular check-ups",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "heart attacks",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3864,24 +3977,24 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12,
-        "openai_chatgpt_with_search_latest": 4
+        "anthropic_claude_with_search_latest": 13,
+        "openai_chatgpt_with_search_latest": 3
       },
       "appearanceOrder": 8,
-      "influence": 0.05539,
+      "influence": 0.01956,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02796,
+        "anthropic_claude_with_search_latest": 0.11723,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.05539,
+      "weightedInfluence": 0.01956,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -3891,7 +4004,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.05539
+          "value": 0.01956
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3950,7 +4063,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.02796
+            "value": 0.11723
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3975,13 +4088,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 3
           }
         ]
       },
@@ -3996,19 +4109,45 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "early diagnosis,timely detection,proactive screening",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "stroke",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1280,
@@ -4032,6 +4171,20 @@ window.AppData20251010 = {
             "line": 3,
             "column": 268,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3257,
+            "excerpt": "uch as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults have high bloo",
+            "line": 19,
+            "column": 464,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3813,
+            "excerpt": "e/symptoms-causes/syc-20373410)\n\nUntreated, high blood pressure increases the risk of heart attack, stroke and other serious health problems. It's important to have your blood pressure checked at least ever",
+            "line": 23,
+            "column": 68,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -4044,39 +4197,39 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 3,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.01724,
+      "mentionsAsPercent": 0.02347,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.04545
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9,
-        "anthropic_claude_with_search_latest": 13,
-        "openai_chatgpt_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 4
       },
       "appearanceOrder": 9,
-      "influence": 0.04824,
+      "influence": 0.04331,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.02715,
-        "anthropic_claude_with_search_latest": 0.0303,
+        "perplexity_with_search_latest": 0.04064,
+        "anthropic_claude_with_search_latest": 0.04411,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04824,
+      "weightedInfluence": 0.04331,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04824
+          "value": 0.04331
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4116,7 +4269,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -4129,13 +4282,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.02715
+            "value": 0.04064
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.0303
+            "value": 0.04411
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4160,36 +4313,62 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 13
+            "value": 14
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 3
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "health risks,medical complications,adverse effects",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "kidney disease",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 2,
@@ -4232,24 +4411,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01724,
+      "mentionsAsPercent": 0.01408,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.02703,
+        "anthropic_claude_with_search_latest": 0.02632,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 14
+        "anthropic_claude_with_search_latest": 15
       },
-      "appearanceOrder": 12,
-      "influence": 0.04556,
+      "appearanceOrder": 12.5,
+      "influence": 0.01385,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.44258,
+        "perplexity_with_search_latest": 0.45272,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04556,
+      "weightedInfluence": 0.01385,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -4259,13 +4438,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04556
+          "value": 0.01385
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 12.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -4312,7 +4491,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.44258
+            "value": 0.45272
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -4343,7 +4522,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 14
+            "value": 15
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4364,15 +4543,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "medical issues,health concerns,wellness problems",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "vision loss",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4400,190 +4576,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 15
-      },
-      "appearanceOrder": 15,
-      "influence": 0.03296,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.03296,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.03296
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 15
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 15
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "health risks,threats to health,pre-existing conditions",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "sexual dysfunction",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1361,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1361,
-            "excerpt": "ertension can lead to:\n\n- Heart disease and heart attacks\n- Stroke\n- Kidney disease\n- Vision loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.",
-            "line": 31,
-            "column": 3,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 16
       },
       "appearanceOrder": 16,
-      "influence": 0.03224,
+      "influence": 0.00988,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03224,
+      "weightedInfluence": 0.00988,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -4593,7 +4602,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03224
+          "value": 0.00988
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4698,15 +4707,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "erectile dysfunction,sexual health issues,impotence",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "cognitive decline",
+      "value": "sexual dysfunction",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4714,15 +4720,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1382,
+        "anthropic_claude_with_search_latest": 1361,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1382,
-            "excerpt": ":\n\n- Heart disease and heart attacks\n- Stroke\n- Kidney disease\n- Vision loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/disea",
-            "line": 32,
+            "appearanceOrder": 1361,
+            "excerpt": "ertension can lead to:\n\n- Heart disease and heart attacks\n- Stroke\n- Kidney disease\n- Vision loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.",
+            "line": 31,
             "column": 3,
             "captureDate": "2025-10-10"
           }
@@ -4734,23 +4740,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 17
       },
       "appearanceOrder": 17,
-      "influence": 0.03163,
+      "influence": 0.00968,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03163,
+      "weightedInfluence": 0.00968,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -4760,7 +4766,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03163
+          "value": 0.00968
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4865,19 +4871,222 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "mental decline,cognitive impairment,brain health issues",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "cognitive decline",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1382,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1382,
+            "excerpt": ":\n\n- Heart disease and heart attacks\n- Stroke\n- Kidney disease\n- Vision loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/disea",
+            "line": 32,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00469,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.00951,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.00951,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.00951
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "value": "age",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "cdc.gov/bloodpressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "medlineplus.gov/highbloodpressure.html",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 6
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 381,
@@ -4946,9 +5155,16 @@ window.AppData20251010 = {
           },
           {
             "appearanceOrder": 2525,
-            "excerpt": "essential for individuals to get their blood pressure checked regularly, as early detection and management can significantly reduce the risk of the complications associated with this condition.",
+            "excerpt": "essential for individuals to get their blood pressure checked regularly, as early detection and management can significantly reduce the risk of the complications associated with this condition.\n\n# CITAT",
             "line": 13,
             "column": 105,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3943,
+            "excerpt": "h problems. It's important to have your blood pressure checked at least every two years starting at age 18. Some people need more-frequent checks. Healthy lifestyle habits —such as not smoking, exercisin",
+            "line": 23,
+            "column": 198,
             "captureDate": "2025-10-10"
           }
         ],
@@ -4990,45 +5206,45 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 18,
+      "mentions": 20,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.10345,
+      "mentionsAsPercent": 0.0939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.08451,
-        "anthropic_claude_with_search_latest": 0.10811,
-        "openai_chatgpt_with_search_latest": 0.13793
+        "anthropic_claude_with_search_latest": 0.10526,
+        "openai_chatgpt_with_search_latest": 0.09091
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 12
+        "openai_chatgpt_with_search_latest": 10
       },
-      "appearanceOrder": 7,
-      "influence": 0.19691,
+      "appearanceOrder": 6.33,
+      "influence": 0.08094,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.09694,
-        "anthropic_claude_with_search_latest": 0.11767,
+        "perplexity_with_search_latest": 0.30207,
+        "anthropic_claude_with_search_latest": 0.36669,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.19691,
+      "weightedInfluence": 0.08094,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 18
+          "value": 20
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.19691
+          "value": 0.08094
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 6.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5062,7 +5278,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 6
           }
         ]
       },
@@ -5075,13 +5291,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.09694
+            "value": 0.30207
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.11767
+            "value": 0.36669
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5112,39 +5328,41 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 10
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 18,
+      "mentions_change": 20,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 18
+          "mentions": 20
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "years,age factor,aging",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "family history",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": 1613,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 5824
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
@@ -5156,52 +5374,61 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 5824,
+            "excerpt": ". If you eat a lot of processed foods, are overweight or obese, are chronically stressed, or have a family history of high blood pressure, you are considered at risk for the condition. The good news is that most of",
+            "line": 31,
+            "column": 499,
+            "captureDate": "2025-10-10"
+          }
+        ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 19
+        "anthropic_claude_with_search_latest": 19,
+        "openai_chatgpt_with_search_latest": 17
       },
-      "appearanceOrder": 19,
-      "influence": 0.0305,
+      "appearanceOrder": 18,
+      "influence": 0.00966,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0.21495,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.0305,
+      "weightedInfluence": 0.00966,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.0305
+          "value": 0.00966
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 19
+          "value": 18
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 2
         }
       ],
       "mentionsTrend": 999,
@@ -5211,7 +5438,7 @@ window.AppData20251010 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5229,14 +5456,14 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5248,20 +5475,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.21495
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5279,30 +5506,27 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 17
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 1
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "genetic predisposition,hereditary risk,family health history",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "obesity",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5338,24 +5562,24 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 20,
-        "openai_chatgpt_with_search_latest": 10
+        "openai_chatgpt_with_search_latest": 8
       },
-      "appearanceOrder": 15,
-      "influence": 0.03759,
+      "appearanceOrder": 14,
+      "influence": 0.01252,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03523,
+        "anthropic_claude_with_search_latest": 0.16142,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03759,
+      "weightedInfluence": 0.01252,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5365,13 +5589,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03759
+          "value": 0.01252
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 15
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5424,7 +5648,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03523
+            "value": 0.16142
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5455,7 +5679,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 10
+            "value": 8
           }
         ]
       },
@@ -5470,15 +5694,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "excess weight,overweight,body mass index",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "physical inactivity",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5506,23 +5727,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 21
       },
       "appearanceOrder": 21,
-      "influence": 0.02957,
+      "influence": 0.00907,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02957,
+      "weightedInfluence": 0.00907,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5532,7 +5753,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02957
+          "value": 0.00907
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5637,15 +5858,17 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "lack of exercise,sedentary lifestyle,inactivity",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "diet",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/education/dash-eating-plan",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 4,
@@ -5717,25 +5940,25 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.04023,
+      "mentionsAsPercent": 0.03286,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.05405,
-        "openai_chatgpt_with_search_latest": 0.06897
+        "anthropic_claude_with_search_latest": 0.05263,
+        "openai_chatgpt_with_search_latest": 0.0303
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 13,
         "anthropic_claude_with_search_latest": 22,
-        "openai_chatgpt_with_search_latest": 9
+        "openai_chatgpt_with_search_latest": 7
       },
-      "appearanceOrder": 14.67,
-      "influence": 0.07416,
+      "appearanceOrder": 14,
+      "influence": 0.02474,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.01521,
-        "anthropic_claude_with_search_latest": 0.06553,
+        "perplexity_with_search_latest": 0.06868,
+        "anthropic_claude_with_search_latest": 0.29587,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.07416,
+      "weightedInfluence": 0.02474,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5745,13 +5968,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.07416
+          "value": 0.02474
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 14.67
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5798,13 +6021,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.01521
+            "value": 0.06868
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.06553
+            "value": 0.29587
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5835,7 +6058,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 9
+            "value": 7
           }
         ]
       },
@@ -5850,15 +6073,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "nutrition,healthy eating,food choices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "sodium",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -5901,24 +6121,24 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01724,
+      "mentionsAsPercent": 0.01408,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02703,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.02632,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 23,
-        "openai_chatgpt_with_search_latest": 14
+        "openai_chatgpt_with_search_latest": 12
       },
-      "appearanceOrder": 18.5,
-      "influence": 0.03533,
+      "appearanceOrder": 17.5,
+      "influence": 0.01136,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.07608,
+        "anthropic_claude_with_search_latest": 0.36019,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03533,
+      "weightedInfluence": 0.01136,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5928,13 +6148,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03533
+          "value": 0.01136
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 18.5
+          "value": 17.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5987,7 +6207,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.07608
+            "value": 0.36019
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6018,7 +6238,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 14
+            "value": 12
           }
         ]
       },
@@ -6033,15 +6253,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "table salt,sodium chloride,salt intake",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "potassium",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -6069,23 +6286,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 24
       },
       "appearanceOrder": 24,
-      "influence": 0.02839,
+      "influence": 0.0087,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02839,
+      "weightedInfluence": 0.0087,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -6095,7 +6312,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02839
+          "value": 0.0087
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6200,15 +6417,21 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "essential mineral,body electrolyte,health mineral",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "alcohol",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 2,
@@ -6251,24 +6474,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01724,
+      "mentionsAsPercent": 0.01408,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.02703,
+        "anthropic_claude_with_search_latest": 0.02632,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 17,
+        "perplexity_with_search_latest": 16,
         "anthropic_claude_with_search_latest": 25
       },
-      "appearanceOrder": 21,
-      "influence": 0.03785,
+      "appearanceOrder": 20.5,
+      "influence": 0.01173,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.44108,
+        "perplexity_with_search_latest": 0.44781,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03785,
+      "weightedInfluence": 0.01173,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -6278,13 +6501,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03785
+          "value": 0.01173
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 21
+          "value": 20.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6331,7 +6554,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.44108
+            "value": 0.44781
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6356,7 +6579,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 17
+            "value": 16
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6383,15 +6606,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "drinking alcohol,alcohol consumption,liquor intake",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "tobacco",
+      "value": "tobacco use",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -6406,7 +6626,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "appearanceOrder": 1821,
-            "excerpt": "inactivity**: Sedentary lifestyle\n- **Diet**: Too much sodium, too little potassium\n- **Alcohol and tobacco use**\n- **Stress**\n- **Certain chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Life",
+            "excerpt": "inactivity**: Sedentary lifestyle\n- **Diet**: Too much sodium, too little potassium\n- **Alcohol and tobacco use**\n- **Stress**\n- **Certain chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyl",
             "line": 43,
             "column": 17,
             "captureDate": "2025-10-10"
@@ -6415,7 +6635,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "appearanceOrder": 2134,
-            "excerpt": "es maintaining a healthy diet low in sodium, regular physical activity, weight management, avoiding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic]",
+            "excerpt": "es maintaining a healthy diet low in sodium, regular physical activity, weight management, avoiding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic](htt",
             "line": 11,
             "column": 212,
             "captureDate": "2025-10-10"
@@ -6427,24 +6647,24 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 26,
-        "openai_chatgpt_with_search_latest": 16
+        "openai_chatgpt_with_search_latest": 14
       },
-      "appearanceOrder": 21,
-      "influence": 0.03194,
+      "appearanceOrder": 20,
+      "influence": 0.01022,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03848,
+        "anthropic_claude_with_search_latest": 0.18398,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03194,
+      "weightedInfluence": 0.01022,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -6454,13 +6674,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03194
+          "value": 0.01022
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 21
+          "value": 20
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6513,7 +6733,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03848
+            "value": 0.18398
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6544,7 +6764,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 16
+            "value": 14
           }
         ]
       },
@@ -6559,19 +6779,21 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "smoking,tobacco use,nicotine consumption",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "stress",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2175,
@@ -6609,6 +6831,13 @@ window.AppData20251010 = {
             "line": 11,
             "column": 238,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5804,
+            "excerpt": "es have hypertension. If you eat a lot of processed foods, are overweight or obese, are chronically stressed, or have a family history of high blood pressure, you are considered at risk for the condition. T",
+            "line": 31,
+            "column": 479,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6621,45 +6850,45 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 5,
+      "mentions": 6,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.02874,
+      "mentionsAsPercent": 0.02817,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.02703,
-        "openai_chatgpt_with_search_latest": 0.06897
+        "anthropic_claude_with_search_latest": 0.02632,
+        "openai_chatgpt_with_search_latest": 0.04545
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 15,
         "anthropic_claude_with_search_latest": 27,
-        "openai_chatgpt_with_search_latest": 11
+        "openai_chatgpt_with_search_latest": 9
       },
-      "appearanceOrder": 17.67,
-      "influence": 0.06588,
+      "appearanceOrder": 17,
+      "influence": 0.03107,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.01561,
-        "anthropic_claude_with_search_latest": 0.0333,
+        "perplexity_with_search_latest": 0.04823,
+        "anthropic_claude_with_search_latest": 0.10284,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.06588,
+      "weightedInfluence": 0.03107,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 5
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.06588
+          "value": 0.03107
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 17.67
+          "value": 17
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6693,7 +6922,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ]
       },
@@ -6706,13 +6935,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.01561
+            "value": 0.04823
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.0333
+            "value": 0.10284
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6743,30 +6972,32 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 11
+            "value": 9
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 5,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 5
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "anxiety,pressure,emotional strain",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "chronic conditions",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -6794,23 +7025,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 28
       },
       "appearanceOrder": 28,
-      "influence": 0.02715,
+      "influence": 0.0083,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02715,
+      "weightedInfluence": 0.0083,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -6820,7 +7051,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02715
+          "value": 0.0083
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6925,19 +7156,33 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "long-term illnesses,persistent conditions,ongoing health issues",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "lifestyle changes",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2057,
@@ -6968,6 +7213,13 @@ window.AppData20251010 = {
             "line": 11,
             "column": 35,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6356,
+            "excerpt": "ons.\\ If you have high blood pressure, you may wonder if you need to take medicine to treat it. But lifestyle changes play a vital role in treating high blood pressure. Controlling blood pressure with a healthy lifest",
+            "line": 35,
+            "column": 206,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6987,45 +7239,45 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 5,
+      "mentions": 6,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.02874,
+      "mentionsAsPercent": 0.02817,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.02817,
-        "anthropic_claude_with_search_latest": 0.02703,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.02632,
+        "openai_chatgpt_with_search_latest": 0.0303
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12,
         "anthropic_claude_with_search_latest": 29,
-        "openai_chatgpt_with_search_latest": 13
+        "openai_chatgpt_with_search_latest": 11
       },
-      "appearanceOrder": 18,
-      "influence": 0.04171,
+      "appearanceOrder": 17.33,
+      "influence": 0.02208,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.07193,
-        "anthropic_claude_with_search_latest": 0.06925,
+        "perplexity_with_search_latest": 0.16935,
+        "anthropic_claude_with_search_latest": 0.16303,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04171,
+      "weightedInfluence": 0.02208,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 5
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04171
+          "value": 0.02208
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 18
+          "value": 17.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7059,7 +7311,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -7072,13 +7324,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.07193
+            "value": 0.16935
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.06925
+            "value": 0.16303
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7109,30 +7361,32 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 13
+            "value": 11
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 5,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 5
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "health improvements,lifestyle modifications,wellness changes",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "DASH Diet",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/education/dash-eating-plan",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -7160,23 +7414,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 30
       },
       "appearanceOrder": 30,
-      "influence": 0.02664,
+      "influence": 0.00816,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02664,
+      "weightedInfluence": 0.00816,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -7186,7 +7440,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02664
+          "value": 0.00816
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7291,15 +7545,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "healthy eating plan,nutrition strategy,low-sodium diet",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "exercise",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -7335,10 +7586,10 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -7346,13 +7597,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 31
       },
       "appearanceOrder": 22.5,
-      "influence": 0.03188,
+      "influence": 0.00976,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.99286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03188,
+      "weightedInfluence": 0.00976,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -7362,7 +7613,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03188
+          "value": 0.00976
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7472,6 +7723,7 @@ window.AppData20251010 = {
     {
       "value": "weight management",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -7507,24 +7759,24 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 32,
-        "openai_chatgpt_with_search_latest": 15
+        "openai_chatgpt_with_search_latest": 13
       },
-      "appearanceOrder": 23.5,
-      "influence": 0.0325,
+      "appearanceOrder": 22.5,
+      "influence": 0.01045,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03536,
+        "anthropic_claude_with_search_latest": 0.16829,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.0325,
+      "weightedInfluence": 0.01045,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -7534,13 +7786,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.0325
+          "value": 0.01045
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 23.5
+          "value": 22.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7593,7 +7845,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03536
+            "value": 0.16829
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7624,7 +7876,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 15
+            "value": 13
           }
         ]
       },
@@ -7642,112 +7894,83 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "smoking",
+      "value": "smoking cessation",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2204,
-        "anthropic_claude_with_search_latest": 2769,
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2769,
-            "excerpt": "nagement**\n- Practice relaxation techniques\n- Get adequate sleep (7-9 hours nightly)\n\n### 5. **Quit Smoking**\n- Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pres",
-            "line": 68,
-            "column": 15,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2781,
-            "excerpt": "Practice relaxation techniques\n- Get adequate sleep (7-9 hours nightly)\n\n### 5. **Quit Smoking**\n- Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitor",
-            "line": 69,
-            "column": 3,
-            "captureDate": "2025-10-10"
-          }
-        ],
+        "anthropic_claude_with_search_latest": [],
         "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2204,
-            "excerpt": "diet low in salt and fat\n- Regular exercise\n- Weight loss if needed\n- Stress management\n- Quitting smoking\n- Moderate alcohol intake[[4]](https://www.texasheart.org/heart-health/heart-information-center/top",
-            "line": 25,
-            "column": 12,
-            "captureDate": "2025-10-10"
-          }
-        ]
+        "perplexity_with_search_latest": []
       },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01724,
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.02703,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 16,
-        "anthropic_claude_with_search_latest": 33
-      },
-      "appearanceOrder": 24.5,
-      "influence": 0.03723,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.4854,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.03723,
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 0
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03723
+          "value": 0
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 24.5
+          "value": -1
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 0
         }
       ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7758,21 +7981,21 @@ window.AppData20251010 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.4854
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7783,21 +8006,21 @@ window.AppData20251010 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 16
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 33
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7808,12 +8031,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
+      "mentions_change": 0,
+      "changePercent": 0,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 3
+          "mentions": 0
         }
       ],
       "lastSeen": "2025-10-10",
@@ -7821,8 +8044,9 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "monitoring at home",
+      "value": "home blood pressure monitoring",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -7830,16 +8054,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2841,
+        "anthropic_claude_with_search_latest": 2861,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2841,
-            "excerpt": "urs nightly)\n\n### 5. **Quit Smoking**\n- Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devices/home",
-            "line": 71,
-            "column": 4,
+            "appearanceOrder": 2861,
+            "excerpt": "**Quit Smoking**\n- Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devices/home-use-tests/home-use-blood-pressu",
+            "line": 73,
+            "column": 1,
             "captureDate": "2025-10-10"
           }
         ],
@@ -7850,23 +8074,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 34
       },
       "appearanceOrder": 34,
-      "influence": 0.02571,
+      "influence": 0.00788,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02571,
+      "weightedInfluence": 0.00788,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -7876,7 +8100,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02571
+          "value": 0.00788
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7984,8 +8208,9 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "medications",
+      "value": "medical care",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -7993,16 +8218,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3647,
+        "anthropic_claude_with_search_latest": 1020,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3647,
-            "excerpt": "or vision problems\n- You need help managing your blood pressure\n- You're considering medication\n\n## Medications\n\nIf lifestyle changes aren't enough, your doctor may prescribe medication. The [National Heart, Lun",
-            "line": 89,
-            "column": 4,
+            "appearanceOrder": 1020,
+            "excerpt": "e 2 Hypertension**: 140/90 or higher\n- **Hypertensive Crisis**: Higher than 180/120 (seek immediate medical care)\n\n## Why It Matters\n\nHigh blood pressure is called the \"silent killer\" because it often has no symp",
+            "line": 21,
+            "column": 64,
             "captureDate": "2025-10-10"
           }
         ],
@@ -8013,23 +8238,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 35
+        "anthropic_claude_with_search_latest": 10
       },
-      "appearanceOrder": 35,
-      "influence": 0.02551,
+      "appearanceOrder": 10,
+      "influence": 0.01168,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02551,
+      "weightedInfluence": 0.01168,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8039,13 +8264,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02551
+          "value": 0.01168
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 35
+          "value": 10
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -8123,7 +8348,171 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 35
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "medications",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3647,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3647,
+            "excerpt": "or vision problems\n- You need help managing your blood pressure\n- You're considering medication\n\n## Medications\n\nIf lifestyle changes aren't enough, your doctor may prescribe medication. The [National Heart, Lun",
+            "line": 89,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00469,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 36
+      },
+      "appearanceOrder": 36,
+      "influence": 0.00776,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.00776,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.00776
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 36
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 36
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -8149,6 +8538,12 @@ window.AppData20251010 = {
     {
       "value": "diuretics",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -8184,24 +8579,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 18,
-        "anthropic_claude_with_search_latest": 36
+        "perplexity_with_search_latest": 17,
+        "anthropic_claude_with_search_latest": 37
       },
       "appearanceOrder": 27,
-      "influence": 0.02957,
+      "influence": 0.00919,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.95522,
+        "perplexity_with_search_latest": 0.98496,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02957,
+      "weightedInfluence": 0.00919,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8211,7 +8606,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02957
+          "value": 0.00919
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8264,7 +8659,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.95522
+            "value": 0.98496
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8289,13 +8684,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 18
+            "value": 17
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 36
+            "value": 37
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -8321,6 +8716,12 @@ window.AppData20251010 = {
     {
       "value": "ACE inhibitors",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -8356,24 +8757,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 19,
-        "anthropic_claude_with_search_latest": 37
+        "perplexity_with_search_latest": 18,
+        "anthropic_claude_with_search_latest": 38
       },
       "appearanceOrder": 28,
-      "influence": 0.02916,
+      "influence": 0.00904,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.94737,
+        "perplexity_with_search_latest": 0.9697,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02916,
+      "weightedInfluence": 0.00904,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8383,7 +8784,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02916
+          "value": 0.00904
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8436,7 +8837,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.94737
+            "value": 0.9697
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8461,13 +8862,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 19
+            "value": 18
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 37
+            "value": 38
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -8491,68 +8892,92 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "ARB",
+      "value": "ARS",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3898,
-        "openai_chatgpt_with_search_latest": -1
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 3927
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
           {
-            "appearanceOrder": 3898,
-            "excerpt": "i.nih.gov/health/high-blood-pressure/treatment) lists common types:\n\n- Diuretics\n- ACE inhibitors\n- ARBs (Angiotensin II receptor blockers)\n- Calcium channel blockers\n- Beta-blockers\n\nNever stop taking m",
-            "line": 95,
-            "column": 3,
+            "appearanceOrder": 3927,
+            "excerpt": "er serious health problems. It's important to have your blood pressure checked at least every two years starting at age 18. Some people need more-frequent checks. Healthy lifestyle habits —such as not sm",
+            "line": 23,
+            "column": 182,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4327,
+            "excerpt": "en if blood pressure readings reach dangerously high levels. You can have high blood pressure for years without any symptoms.\n\n3. [Hypertension (High Blood Pressure): Symptoms and Causes](https://my.clev",
+            "line": 23,
+            "column": 582,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "That’s why healthcare providers call it a “silent killer.” You could have high blood pressure for years and not know it. In fact, the World Health Organization estimates that 46% of adults with hypertens",
+            "line": 27,
+            "column": 428,
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
+      "mentions": 3,
+      "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.01408,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.04545
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 38
+        "openai_chatgpt_with_search_latest": 15
       },
-      "appearanceOrder": 38,
-      "influence": 0.02494,
+      "appearanceOrder": 15,
+      "influence": 0.03031,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.02494,
+      "weightedInfluence": 0.03031,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02494
+          "value": 0.03031
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 38
+          "value": 15
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -8567,8 +8992,8 @@ window.AppData20251010 = {
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8580,20 +9005,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 3
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8605,20 +9030,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8630,23 +9055,23 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 38
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 15
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 1
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
@@ -8656,6 +9081,12 @@ window.AppData20251010 = {
     {
       "value": "calcium channel blockers",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -8691,24 +9122,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 21,
+        "perplexity_with_search_latest": 20,
         "anthropic_claude_with_search_latest": 39
       },
-      "appearanceOrder": 30,
-      "influence": 0.02834,
+      "appearanceOrder": 29.5,
+      "influence": 0.0088,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.9313,
+        "perplexity_with_search_latest": 0.94656,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02834,
+      "weightedInfluence": 0.0088,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8718,13 +9149,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02834
+          "value": 0.0088
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 30
+          "value": 29.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -8771,7 +9202,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.9313
+            "value": 0.94656
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8796,7 +9227,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 21
+            "value": 20
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8828,6 +9259,7 @@ window.AppData20251010 = {
     {
       "value": "beta-blockers",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -8863,24 +9295,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentionsAsPercent": 0.00939,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
+        "anthropic_claude_with_search_latest": 0.01316,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 20,
+        "perplexity_with_search_latest": 19,
         "anthropic_claude_with_search_latest": 40
       },
-      "appearanceOrder": 30,
-      "influence": 0.02864,
+      "appearanceOrder": 29.5,
+      "influence": 0.00889,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.95385,
+        "perplexity_with_search_latest": 0.96923,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02864,
+      "weightedInfluence": 0.00889,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8890,13 +9322,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.02864
+          "value": 0.00889
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 30
+          "value": 29.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -8943,7 +9375,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.95385
+            "value": 0.96923
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8968,7 +9400,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 20
+            "value": 19
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -8998,86 +9430,133 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "regular monitoring",
+      "value": "monitoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 1,
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1708,
-        "anthropic_claude_with_search_latest": 4504,
-        "openai_chatgpt_with_search_latest": 916
+        "perplexity_with_search_latest": 1716,
+        "anthropic_claude_with_search_latest": 2841,
+        "openai_chatgpt_with_search_latest": 924
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4504,
-            "excerpt": "High blood pressure is manageable through lifestyle modifications and, when necessary, medication. Regular monitoring and working with your healthcare provider are essential for long-term health. The earlier you addre",
+            "appearanceOrder": 2841,
+            "excerpt": "urs nightly)\n\n### 5. **Quit Smoking**\n- Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devi",
+            "line": 71,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2881,
+            "excerpt": "Smoking raises blood pressure and damages blood vessels\n\n## Monitoring at Home\n\nHome blood pressure monitoring can be valuable. The [FDA](https://www.fda.gov/medical-devices/home-use-tests/home-use-blood-pressu",
+            "line": 73,
+            "column": 21,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4512,
+            "excerpt": "ood pressure is manageable through lifestyle modifications and, when necessary, medication. Regular monitoring and working with your healthcare provider are essential for long-term health. The earlier you addre",
             "line": 109,
-            "column": 100,
+            "column": 108,
             "captureDate": "2025-10-10"
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
-            "appearanceOrder": 916,
-            "excerpt": "- or middle-income countries. About 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-",
+            "appearanceOrder": 924,
+            "excerpt": "dle-income countries. About 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-",
             "line": 5,
-            "column": 296,
+            "column": 304,
             "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 1708,
-            "excerpt": "ypertension-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential for diagnosis. Monitoring should be done over time to confirm high blood pressure read",
+            "appearanceOrder": 1716,
+            "excerpt": "ion-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential for diagnosis. Monitoring should be done over time to confirm high blood pressure read",
             "line": 17,
-            "column": 40,
+            "column": 48,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1755,
+            "excerpt": "and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/",
+            "line": 17,
+            "column": 87,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 3,
+      "mentions": 6,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.01724,
+      "mentionsAsPercent": 0.02817,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01408,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "perplexity_with_search_latest": 0.02817,
+        "anthropic_claude_with_search_latest": 0.03947,
+        "openai_chatgpt_with_search_latest": 0.01515
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 11,
-        "anthropic_claude_with_search_latest": 41,
-        "openai_chatgpt_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 33,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "appearanceOrder": 19.33,
-      "influence": 0.04407,
+      "appearanceOrder": 16.33,
+      "influence": 0.01722,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.02733,
-        "anthropic_claude_with_search_latest": 0.02319,
+        "perplexity_with_search_latest": 0.25166,
+        "anthropic_claude_with_search_latest": 0.34023,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04407,
+      "weightedInfluence": 0.01722,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04407
+          "value": 0.01722
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 19.33
+          "value": 16.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9099,13 +9578,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -9124,13 +9603,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.02733
+            "value": 0.25166
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.02319
+            "value": 0.34023
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -9155,13 +9634,198 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 41
+            "value": 33
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "healthcare provider",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3373,
+        "openai_chatgpt_with_search_latest": 4840
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3373,
+            "excerpt": "oor, back supported\n- Take multiple readings and record them\n\n## When to See a Doctor\n\nContact your healthcare provider if:\n- Your blood pressure is consistently elevated (above 120/80)\n- You're experiencing symptoms li",
+            "line": 83,
+            "column": 14,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4545,
+            "excerpt": "h lifestyle modifications and, when necessary, medication. Regular monitoring and working with your healthcare provider are essential for long-term health. The earlier you address elevated blood pressure, the better you",
+            "line": 109,
+            "column": 141,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4840,
+            "excerpt": "ddle-income countries. Usually, high blood pressure doesn’t cause any signs or symptoms. That’s why healthcare providers call it a “silent killer.” You could have high blood pressure for years and not know it. In fact,",
+            "line": 27,
+            "column": 339,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 3,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01408,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02632,
+        "openai_chatgpt_with_search_latest": 0.01515
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 35,
+        "openai_chatgpt_with_search_latest": 16
+      },
+      "appearanceOrder": 25.5,
+      "influence": 0.01027,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.3534,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.01027,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01027
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 25.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.3534
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 35
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
           }
         ]
       },
@@ -9179,52 +9843,53 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "early detection",
+      "value": "long-term health",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 2502
+        "anthropic_claude_with_search_latest": 4583,
+        "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
+        "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2502,
-            "excerpt": "thout medication.\n\nIt's essential for individuals to get their blood pressure checked regularly, as early detection and management can significantly reduce the risk of the complications associated with this conditio",
-            "line": 13,
-            "column": 82,
+            "appearanceOrder": 4583,
+            "excerpt": "cessary, medication. Regular monitoring and working with your healthcare provider are essential for long-term health. The earlier you address elevated blood pressure, the better you can prevent serious complications.",
+            "line": 109,
+            "column": 179,
             "captureDate": "2025-10-10"
           }
         ],
+        "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
       "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
+      "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 17
+        "anthropic_claude_with_search_latest": 41
       },
-      "appearanceOrder": 17,
-      "influence": 0.03163,
+      "appearanceOrder": 41,
+      "influence": 0.00749,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03163,
+      "weightedInfluence": 0.00749,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -9234,13 +9899,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.03163
+          "value": 0.00749
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 17
+          "value": 41
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9255,8 +9920,8 @@ window.AppData20251010 = {
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9268,20 +9933,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9293,20 +9958,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9318,13 +9983,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 41
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 17
+            "value": -1
           }
         ]
       },
@@ -9342,83 +10007,75 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "value": "complications",
+      "value": "serious complications",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4685,
-        "openai_chatgpt_with_search_latest": 2574
+        "anthropic_claude_with_search_latest": 4677,
+        "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4685,
-            "excerpt": "ng-term health. The earlier you address elevated blood pressure, the better you can prevent serious complications.",
+            "appearanceOrder": 4677,
+            "excerpt": "l for long-term health. The earlier you address elevated blood pressure, the better you can prevent serious complications.",
             "line": 109,
-            "column": 281,
+            "column": 273,
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 2574,
-            "excerpt": "ssure checked regularly, as early detection and management can significantly reduce the risk of the complications associated with this condition.",
-            "line": 13,
-            "column": 154,
-            "captureDate": "2025-10-10"
-          }
-        ],
+        "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00469,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "anthropic_claude_with_search_latest": 0.01316,
+        "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 43,
-        "openai_chatgpt_with_search_latest": 18
+        "anthropic_claude_with_search_latest": 43
       },
-      "appearanceOrder": 30.5,
-      "influence": 0.0306,
+      "appearanceOrder": 43,
+      "influence": 0.00739,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03482,
-        "openai_chatgpt_with_search_latest": 1
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0306,
+      "weightedInfluence": 0.00739,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.0306
+          "value": 0.00739
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 30.5
+          "value": 43
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 1
         }
       ],
       "mentionsTrend": 999,
@@ -9428,7 +10085,7 @@ window.AppData20251010 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
+        "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9446,14 +10103,14 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
+        "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9465,20 +10122,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03482
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
+        "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9496,170 +10153,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 18
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "health problems",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 372
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 372,
-            "excerpt": "lood vessels is consistently too high. This condition is significant because it can lead to serious health problems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [Ame",
-            "line": 3,
-            "column": 226,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00575,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.03448
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.06593,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.06593,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.06593
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
             "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
           }
         ]
       },
@@ -9670,178 +10164,6 @@ window.AppData20251010 = {
         {
           "date": "2025-10-10",
           "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "risk factors",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1422,
-        "openai_chatgpt_with_search_latest": 1574
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1422,
-            "excerpt": "troke\n- Kidney disease\n- Vision loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/",
-            "line": 34,
-            "column": 22,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1574,
-            "excerpt": "s://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n4. **Risk Factors**: Factors that increase the risk of developing high blood pressure include a diet high in salt, ob",
-            "line": 9,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01149,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.01351,
-        "openai_chatgpt_with_search_latest": 0.03448
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 18,
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "appearanceOrder": 13,
-      "influence": 0.04088,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0333,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.04088,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.04088
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 13
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.0333
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 18
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-10",
@@ -9863,7 +10185,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 979,
@@ -9894,6 +10216,20 @@ window.AppData20251010 = {
             "line": 3,
             "column": 337,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2637,
+            "excerpt": "significantly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pr",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3164,
+            "excerpt": "s of your blood vessels is too high. High blood pressure can lead to other serious problems such as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults h",
+            "line": 19,
+            "column": 371,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -9912,30 +10248,30 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3165,
-            "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
-            "line": 36,
+            "appearanceOrder": 3320,
+            "excerpt": "lood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertens",
+            "line": 38,
             "column": 4,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3374,
-            "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
-            "line": 38,
+            "appearanceOrder": 3724,
+            "excerpt": ".texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.htm",
+            "line": 42,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 9,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.0814,
+      "mentionsAsPercent": 0.07627,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.1
+        "perplexity_with_search_latest": 0.06557,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.09677
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
@@ -9943,23 +10279,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 1.67,
-      "influence": 0.7848,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.13968,
-        "anthropic_claude_with_search_latest": 0.09523,
+        "perplexity_with_search_latest": 0.09312,
+        "anthropic_claude_with_search_latest": 0.06348,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.7848,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 9
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.7848
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9999,7 +10335,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -10012,13 +10348,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.13968
+            "value": 0.09312
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.09523
+            "value": 0.06348
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10054,12 +10390,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 9,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 7
+          "mentions": 9
         }
       ],
       "lastSeen": "2025-10-10",
@@ -10102,15 +10438,15 @@ window.AppData20251010 = {
           },
           {
             "appearanceOrder": 2905,
-            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-caus",
+            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-",
             "line": 30,
             "column": 171,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3472,
-            "excerpt": ". https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
-            "line": 39,
+            "appearanceOrder": 3913,
+            "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure](https://my.clev",
+            "line": 44,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -10120,24 +10456,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
+      "mentionsAsPercent": 0.0339,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
-        "anthropic_claude_with_search_latest": 5
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 6
       },
-      "appearanceOrder": 7,
-      "influence": 0.49679,
+      "appearanceOrder": 8.5,
+      "influence": 0.25701,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.29204,
+        "anthropic_claude_with_search_latest": 0.29022,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.49679,
+      "weightedInfluence": 0.25701,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10147,13 +10483,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.49679
+          "value": 0.25701
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 8.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10206,7 +10542,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.29204
+            "value": 0.29022
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10225,13 +10561,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 9
+            "value": 11
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5
+            "value": 6
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10265,7 +10601,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3614,
+        "perplexity_with_search_latest": 4183,
         "anthropic_claude_with_search_latest": 1142,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -10296,9 +10632,9 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 3614,
-            "excerpt": "dex.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/",
-            "line": 41,
+            "appearanceOrder": 4183,
+            "excerpt": "pressure](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)\n\n8. [www.nhlbi.nih.gov/health/high-blood-pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n\n9. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-2",
+            "line": 48,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -10308,24 +10644,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
+      "mentionsAsPercent": 0.0339,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01923,
-        "anthropic_claude_with_search_latest": 0.125,
+        "perplexity_with_search_latest": 0.01639,
+        "anthropic_claude_with_search_latest": 0.11538,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 14,
-        "anthropic_claude_with_search_latest": 8
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 9
       },
-      "appearanceOrder": 11,
-      "influence": 0.2777,
+      "appearanceOrder": 12.5,
+      "influence": 0.14819,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.39682,
+        "perplexity_with_search_latest": 0.39726,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2777,
+      "weightedInfluence": 0.14819,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10335,13 +10671,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2777
+          "value": 0.14819
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 11
+          "value": 12.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10388,7 +10724,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.39682
+            "value": 0.39726
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10413,13 +10749,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 14
+            "value": 16
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 8
+            "value": 9
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10450,7 +10786,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 400,
@@ -10481,6 +10817,20 @@ window.AppData20251010 = {
             "line": 11,
             "column": 306,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3591,
+            "excerpt": "checked. A diagnosis of high blood pressure will need to be made by a health care professional.\n\n2. [High blood pressure (hypertension) - Symptoms & causes](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\nUntreated, high blood pressure increases the risk of heart attack, stroke and other serious healt",
+            "line": 21,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5980,
+            "excerpt": "d at risk for the condition. The good news is that most of these risk factors can be addressed.\n\n5. [10 ways to control high blood pressure without medication](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\nMayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health Syste",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -10507,59 +10857,59 @@ window.AppData20251010 = {
           },
           {
             "appearanceOrder": 2853,
-            "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1",
+            "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1",
             "line": 30,
             "column": 119,
             "captureDate": "2025-10-10"
           },
           {
             "appearanceOrder": 2996,
-            "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/h",
+            "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\n2. [www.yalemedicine.org/news/high-blood-pressure-hypertension](https://www.yalemedicine.org/news",
             "line": 34,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 9,
+      "mentions": 11,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.10465,
+      "mentionsAsPercent": 0.09322,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11538,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.2
+        "perplexity_with_search_latest": 0.09836,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0.12903
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 7
       },
-      "appearanceOrder": 5.67,
-      "influence": 1,
+      "appearanceOrder": 6.33,
+      "influence": 0.73286,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.58821,
-        "anthropic_claude_with_search_latest": 0.01931,
+        "perplexity_with_search_latest": 0.62858,
+        "anthropic_claude_with_search_latest": 0.01991,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.73286,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9
+          "value": 11
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 0.73286
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 5.67
+          "value": 6.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10593,7 +10943,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 4
           }
         ]
       },
@@ -10606,13 +10956,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.58821
+            "value": 0.62858
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.01931
+            "value": 0.01991
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10637,23 +10987,23 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 10
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 7
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 9,
+      "mentions_change": 11,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 9
+          "mentions": 11
         }
       ],
       "lastSeen": "2025-10-10",
@@ -10671,7 +11021,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 979,
@@ -10702,6 +11052,20 @@ window.AppData20251010 = {
             "line": 3,
             "column": 337,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2637,
+            "excerpt": "significantly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pr",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3164,
+            "excerpt": "s of your blood vessels is too high. High blood pressure can lead to other serious problems such as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults h",
+            "line": 19,
+            "column": 371,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -10720,30 +11084,30 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3165,
-            "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
-            "line": 36,
+            "appearanceOrder": 3320,
+            "excerpt": "lood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertens",
+            "line": 38,
             "column": 4,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3374,
-            "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
-            "line": 38,
+            "appearanceOrder": 3724,
+            "excerpt": ".texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.htm",
+            "line": 42,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 9,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.0814,
+      "mentionsAsPercent": 0.07627,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.1
+        "perplexity_with_search_latest": 0.06557,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.09677
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 4,
@@ -10751,23 +11115,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 2.67,
-      "influence": 0.54365,
+      "influence": 0.65802,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.19069,
-        "anthropic_claude_with_search_latest": 0.09522,
+        "perplexity_with_search_latest": 0.12712,
+        "anthropic_claude_with_search_latest": 0.06348,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.54365,
+      "weightedInfluence": 0.65802,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 9
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.54365
+          "value": 0.65802
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10807,7 +11171,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -10820,13 +11184,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.19069
+            "value": 0.12712
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.09522
+            "value": 0.06348
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10862,12 +11226,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 9,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 7
+          "mentions": 9
         }
       ],
       "lastSeen": "2025-10-10",
@@ -10906,23 +11270,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
+      "mentionsAsPercent": 0.00847,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
+        "anthropic_claude_with_search_latest": 13
       },
-      "appearanceOrder": 12,
-      "influence": 0.17396,
+      "appearanceOrder": 13,
+      "influence": 0.09447,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.17396,
+      "weightedInfluence": 0.09447,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10932,13 +11296,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.17396
+          "value": 0.09447
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11016,7 +11380,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11050,7 +11414,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3614,
+        "perplexity_with_search_latest": 4183,
         "anthropic_claude_with_search_latest": 1142,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -11081,9 +11445,9 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 3614,
-            "excerpt": "dex.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/",
-            "line": 41,
+            "appearanceOrder": 4183,
+            "excerpt": "pressure](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)\n\n8. [www.nhlbi.nih.gov/health/high-blood-pressure](https://www.nhlbi.nih.gov/health/high-blood-pressure)\n\n9. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-2",
+            "line": 48,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -11093,24 +11457,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
+      "mentionsAsPercent": 0.0339,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01923,
-        "anthropic_claude_with_search_latest": 0.125,
+        "perplexity_with_search_latest": 0.01639,
+        "anthropic_claude_with_search_latest": 0.11538,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15,
-        "anthropic_claude_with_search_latest": 9
+        "perplexity_with_search_latest": 17,
+        "anthropic_claude_with_search_latest": 10
       },
-      "appearanceOrder": 12,
-      "influence": 0.2678,
+      "appearanceOrder": 13.5,
+      "influence": 0.1436,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.40619,
+        "perplexity_with_search_latest": 0.40571,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2678,
+      "weightedInfluence": 0.1436,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -11120,13 +11484,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2678
+          "value": 0.1436
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 13.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11173,7 +11537,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.40619
+            "value": 0.40571
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -11198,13 +11562,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 15
+            "value": 17
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 9
+            "value": 10
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11262,1737 +11626,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
+      "mentionsAsPercent": 0.00847,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 14
-      },
-      "appearanceOrder": 14,
-      "influence": 0.16475,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.16475,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.16475
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 14
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 14
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "medlineplus.gov/highbloodpressure.html",
-      "link": "medlineplus.gov/highbloodpressure.html",
-      "linkType": "gov",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4269,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4269,
-            "excerpt": "Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/highbloodpressure.html) - Comprehensive health information\n\n## Key Takeaway\n\nHigh blood pressure is manageable through lif",
-            "line": 105,
-            "column": 3,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 16
-      },
-      "appearanceOrder": 16,
-      "influence": 0.15745,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.15745,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.15745
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 16
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 16
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
-      "link": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 979,
-        "anthropic_claude_with_search_latest": 473,
-        "openai_chatgpt_with_search_latest": 483
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 473,
-            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
-            "line": 11,
-            "column": 18,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 1957,
-            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
-            "line": 49,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 483,
-            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
-            "line": 3,
-            "column": 337,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 979,
-            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
-            "line": 11,
-            "column": 168,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2799,
-            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
-            "line": 30,
-            "column": 65,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3165,
-            "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
-            "line": 36,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3374,
-            "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
-            "line": 38,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 7,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.0814,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3.67,
-      "influence": 0.45004,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.21612,
-        "anthropic_claude_with_search_latest": 0.09525,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.45004,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.45004
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.21612
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.09525
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 7,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 7
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
-      "link": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
-      "linkType": "hlt",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1555,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 950
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 950,
-            "excerpt": "t 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure) provides more insights into these statistics.\n\n3. **Symptoms**: Often termed as a \"silent killer,\"",
-            "line": 5,
-            "column": 330,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1555,
-            "excerpt": "ews/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential",
-            "line": 14,
-            "column": 333,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 1909,
-            "excerpt": "ood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Treatment and Management\nTreatment typically starts with lifestyle changes, such as:\n- Eating",
-            "line": 17,
-            "column": 241,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3526,
-            "excerpt": "essure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://www.nhlbi.nih.gov/health/high-blood-pressure\n9. https://www.mayoclinic.org/diseases-cond",
-            "line": 40,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13,
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "appearanceOrder": 9,
-      "influence": 0.29369,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.14225,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.29369,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.29369
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.14225
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 13
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "yalemedicine.org/news/high-blood-pressure-hypertension",
-      "link": "yalemedicine.org/news/high-blood-pressure-hypertension",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1425,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1837
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1837,
-            "excerpt": "nd genetics. Control over these factors can help manage and prevent hypertension, as highlighted by [Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n\n5. **Management and Prevention**: Lifestyle changes play a crucial role in managing blood pressu",
-            "line": 9,
-            "column": 269,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1425,
-            "excerpt": "lth issues because it forces the heart to work harder, potentially leading to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/healt",
-            "line": 14,
-            "column": 203,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 1836,
-            "excerpt": "ial for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Tr",
-            "line": 17,
-            "column": 168,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3095,
-            "excerpt": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings",
-            "line": 35,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.27342,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.20952,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.27342,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.27342
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.20952
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
-      "link": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
-      "linkType": "hlt",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 400,
-        "anthropic_claude_with_search_latest": 1453,
-        "openai_chatgpt_with_search_latest": 1456
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1453,
-            "excerpt": "loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410):\n\n- **Age**: Risk increases as you get older\n- **Family history**: Genetic predisposition\n- **Obes",
-            "line": 36,
-            "column": 18,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1456,
-            "excerpt": "palpitations, or nosebleeds as symptoms. For more details on symptoms and causes, you can visit the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n4. **Risk Factors**: Factors that increase the risk of developing high blood pressure include a",
-            "line": 7,
-            "column": 355,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2228,
-            "excerpt": "iding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974) provides guidance on controlling blood pressure without medication.\n\nIt's essential for individual",
-            "line": 11,
-            "column": 306,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 400,
-            "excerpt": "onsistently too high. This condition can lead to serious health issues if not managed properly[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n## Blood Pressure Categories\nBlood pressure is categorized based on two numbers: **systolic** (t",
-            "line": 4,
-            "column": 233,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 877,
-            "excerpt": "Hypertension**: 130-139/80-89 mmHg\n- **Stage 2 Hypertension**: 140 or higher/90 or higher mmHg[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readi",
-            "line": 11,
-            "column": 66,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2355,
-            "excerpt": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n\nIf lifestyle changes are insufficient, medication may be prescribed. Types include diuretics, AC",
-            "line": 26,
-            "column": 144,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2853,
-            "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1",
-            "line": 30,
-            "column": 119,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2996,
-            "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/h",
-            "line": 34,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 9,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.10465,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11538,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 11,
-        "openai_chatgpt_with_search_latest": 7
-      },
-      "appearanceOrder": 6.67,
-      "influence": 0.74356,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.39659,
-        "anthropic_claude_with_search_latest": 0.01991,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.74356,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.74356
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 6.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.39659
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.01991
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 7
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 9,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 9
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "heart.org",
-      "link": "heart.org",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 979,
-        "anthropic_claude_with_search_latest": 473,
-        "openai_chatgpt_with_search_latest": 483
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 473,
-            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
-            "line": 11,
-            "column": 18,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 1957,
-            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
-            "line": 49,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 483,
-            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
-            "line": 3,
-            "column": 337,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 979,
-            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
-            "line": 11,
-            "column": 168,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2799,
-            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
-            "line": 30,
-            "column": 65,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3165,
-            "excerpt": "mptoms-causes/syc-20373410\n2. https://www.yalemedicine.org/news/high-blood-pressure-hypertension\n3. https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hype",
-            "line": 36,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3374,
-            "excerpt": "ww.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/dise",
-            "line": 38,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 7,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.0814,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 4.67,
-      "influence": 0.39732,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.23104,
-        "anthropic_claude_with_search_latest": 0.09524,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.39732,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.39732
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.23104
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.09524
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 7,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 7
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "cdc.gov",
-      "link": "cdc.gov",
-      "linkType": "hlt",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1498,
-        "anthropic_claude_with_search_latest": 647,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 647,
-            "excerpt": "lood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/) defines these stages:\n\n- **Normal**: Less than 120/80\n- **Elevated**: 120-129 systolic and less th",
-            "line": 15,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1498,
-            "excerpt": "g to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
-            "line": 14,
-            "column": 276,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2905,
-            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-caus",
-            "line": 30,
-            "column": 171,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3472,
-            "excerpt": ". https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
-            "line": 39,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 6
-      },
-      "appearanceOrder": 8,
-      "influence": 0.47454,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.28003,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.47454,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.47454
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.28003
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 10
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "validatebp.org",
-      "link": "validatebp.org",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3078,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3078,
-            "excerpt": "-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Listing](https://www.validatebp.org/) seal.\n\n**Tips for accurate readings:**\n- Measure at the same time daily\n- Sit quietly for 5 minute",
-            "line": 73,
-            "column": 218,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 13
-      },
-      "appearanceOrder": 13,
-      "influence": 0.16903,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.16903,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.16903
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 13
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 13
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "worldhypertensionleague.org",
-      "link": "worldhypertensionleague.org",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4163,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4163,
-            "excerpt": "rces\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/hig",
-            "line": 104,
-            "column": 3,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.16092,
+      "influence": 0.08992,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16092,
+      "weightedInfluence": 0.08992,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13002,7 +11652,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.16092
+          "value": 0.08992
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13111,6 +11761,1675 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
+      "value": "medlineplus.gov/highbloodpressure.html",
+      "link": "medlineplus.gov/highbloodpressure.html",
+      "linkType": "gov",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4269,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4269,
+            "excerpt": "Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/highbloodpressure.html) - Comprehensive health information\n\n## Key Takeaway\n\nHigh blood pressure is manageable through lif",
+            "line": 105,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00847,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.08624,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08624,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08624
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 17
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+      "link": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 979,
+        "anthropic_claude_with_search_latest": 473,
+        "openai_chatgpt_with_search_latest": 483
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 473,
+            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
+            "line": 11,
+            "column": 18,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1957,
+            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 483,
+            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
+            "line": 3,
+            "column": 337,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2637,
+            "excerpt": "significantly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pr",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3164,
+            "excerpt": "s of your blood vessels is too high. High blood pressure can lead to other serious problems such as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults h",
+            "line": 19,
+            "column": 371,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 979,
+            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
+            "line": 11,
+            "column": 168,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2799,
+            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
+            "line": 30,
+            "column": 65,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3320,
+            "excerpt": "lood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertens",
+            "line": 38,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3724,
+            "excerpt": ".texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.htm",
+            "line": 42,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.07627,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06557,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.09677
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3.67,
+      "influence": 0.53218,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.14408,
+        "anthropic_claude_with_search_latest": 0.0635,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.53218,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.53218
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.14408
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.0635
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+      "link": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1555,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 950
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 950,
+            "excerpt": "t 46% of adults with hypertension don't know they have it, making regular monitoring essential. The [Cleveland Clinic](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure) provides more insights into these statistics.\n\n3. **Symptoms**: Often termed as a \"silent killer,\"",
+            "line": 5,
+            "column": 330,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4357,
+            "excerpt": "reach dangerously high levels. You can have high blood pressure for years without any symptoms.\n\n3. [Hypertension (High Blood Pressure): Symptoms and Causes](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)\n\nOf those, 37 million have a blood pressure of at least 140/90 mmHg. The World Health Organization",
+            "line": 25,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1555,
+            "excerpt": "ews/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Symptoms and Diagnosis\nHypertension often has no symptoms, so regular monitoring is essential",
+            "line": 14,
+            "column": 333,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1909,
+            "excerpt": "ood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Treatment and Management\nTreatment typically starts with lifestyle changes, such as:\n- Eating",
+            "line": 17,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4014,
+            "excerpt": "www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure)\n\n8. [www.nhlbi.nih.gov/health/high-blood-pressure](https://www.nhlbi.nih.gov/health/high-blood-pre",
+            "line": 46,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.04237,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.06452
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 10.5,
+      "influence": 0.25855,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.14708,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.25855,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.25855
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.14708
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "yalemedicine.org/news/high-blood-pressure-hypertension",
+      "link": "yalemedicine.org/news/high-blood-pressure-hypertension",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1425,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1837
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1837,
+            "excerpt": "nd genetics. Control over these factors can help manage and prevent hypertension, as highlighted by [Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n\n5. **Management and Prevention**: Lifestyle changes play a crucial role in managing blood pressu",
+            "line": 9,
+            "column": 269,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5195,
+            "excerpt": "0 mmHg or higher, you may experience symptoms like headaches, heart palpitations or nosebleeds.\n\n4. [17 Things To Know About High Blood Pressure - Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\nIf you do just one thing to improve your health this year, it could be to gain control over your",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5448,
+            "excerpt": "ng to improve your health this year, it could be to gain control over your blood pressure. Cases of [high blood pressure](https://www.yalemedicine.org/conditions/hypertension) ﻿, or hypertension—a silent, but dangerous condition—have skyrocketed over the past decade. It’s e",
+            "line": 31,
+            "column": 123,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1425,
+            "excerpt": "lth issues because it forces the heart to work harder, potentially leading to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/healt",
+            "line": 14,
+            "column": 203,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1836,
+            "excerpt": "ial for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Tr",
+            "line": 17,
+            "column": 168,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3187,
+            "excerpt": "ttps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\n2. [www.yalemedicine.org/news/high-blood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](htt",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.05085,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.09677
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.32478,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.13969,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.32478,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.32478
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.13969
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+      "link": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 400,
+        "anthropic_claude_with_search_latest": 1453,
+        "openai_chatgpt_with_search_latest": 1456
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1453,
+            "excerpt": "loss\n- Sexual dysfunction\n- Cognitive decline\n\n## Common Causes and Risk Factors\n\nAccording to the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410):\n\n- **Age**: Risk increases as you get older\n- **Family history**: Genetic predisposition\n- **Obes",
+            "line": 36,
+            "column": 18,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1456,
+            "excerpt": "palpitations, or nosebleeds as symptoms. For more details on symptoms and causes, you can visit the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n4. **Risk Factors**: Factors that increase the risk of developing high blood pressure include a",
+            "line": 7,
+            "column": 355,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2228,
+            "excerpt": "iding tobacco use, and managing stress levels. In some cases, medication may also be necessary. The [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974) provides guidance on controlling blood pressure without medication.\n\nIt's essential for individual",
+            "line": 11,
+            "column": 306,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3591,
+            "excerpt": "checked. A diagnosis of high blood pressure will need to be made by a health care professional.\n\n2. [High blood pressure (hypertension) - Symptoms & causes](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\nUntreated, high blood pressure increases the risk of heart attack, stroke and other serious healt",
+            "line": 21,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5980,
+            "excerpt": "d at risk for the condition. The good news is that most of these risk factors can be addressed.\n\n5. [10 ways to control high blood pressure without medication](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\nMayo Clinic offers appointments in Arizona, Florida and Minnesota and at Mayo Clinic Health Syste",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 400,
+            "excerpt": "onsistently too high. This condition can lead to serious health issues if not managed properly[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410).\n\n## Blood Pressure Categories\nBlood pressure is categorized based on two numbers: **systolic** (t",
+            "line": 4,
+            "column": 233,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 877,
+            "excerpt": "Hypertension**: 130-139/80-89 mmHg\n- **Stage 2 Hypertension**: 140 or higher/90 or higher mmHg[[1]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readi",
+            "line": 11,
+            "column": 66,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2355,
+            "excerpt": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)[[9]](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974).\n\nIf lifestyle changes are insufficient, medication may be prescribed. Types include diuretics, AC",
+            "line": 26,
+            "column": 144,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2853,
+            "excerpt": "information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1",
+            "line": 30,
+            "column": 119,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2996,
+            "excerpt": "and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410](https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\n2. [www.yalemedicine.org/news/high-blood-pressure-hypertension](https://www.yalemedicine.org/news",
+            "line": 34,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 11,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.09322,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.09836,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0.12903
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 12,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "appearanceOrder": 7.33,
+      "influence": 0.58238,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.41905,
+        "anthropic_claude_with_search_latest": 0.02038,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.58238,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 11
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.58238
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7.33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.41905
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02038
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 11,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 11
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/en/health-topics/heart-attack/about-heart-attacks",
+      "link": "heart.org/en/health-topics/heart-attack/about-heart-attacks",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 979,
+        "anthropic_claude_with_search_latest": 473,
+        "openai_chatgpt_with_search_latest": 483
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 473,
+            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
+            "line": 11,
+            "column": 18,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1957,
+            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 483,
+            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
+            "line": 3,
+            "column": 337,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2637,
+            "excerpt": "significantly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pr",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3164,
+            "excerpt": "s of your blood vessels is too high. High blood pressure can lead to other serious problems such as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults h",
+            "line": 19,
+            "column": 371,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 979,
+            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
+            "line": 11,
+            "column": 168,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2799,
+            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
+            "line": 30,
+            "column": 65,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3320,
+            "excerpt": "lood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertens",
+            "line": 38,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3724,
+            "excerpt": ".texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.htm",
+            "line": 42,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.07627,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06557,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.09677
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4.67,
+      "influence": 0.46382,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.15403,
+        "anthropic_claude_with_search_latest": 0.06349,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.46382,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.46382
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.15403
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.06349
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org",
+      "link": "heart.org",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 979,
+        "anthropic_claude_with_search_latest": 473,
+        "openai_chatgpt_with_search_latest": 483
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 473,
+            "excerpt": "ats\n- **Diastolic** (bottom number): pressure when your heart rests between beats\n\nAccording to the [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for",
+            "line": 11,
+            "column": 18,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1957,
+            "excerpt": "in chronic conditions**: Diabetes, kidney disease, sleep apnea\n\n## Lifestyle Changes That Help\n\nThe [American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure) recommends:\n\n### 1. **Dietary Changes**\n- Follow the [DASH Diet](https://www.nhlbi.nih.gov/educati",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 483,
+            "excerpt": "lems such as heart attacks and strokes. For a detailed explanation, you might want to check out the [American Heart Association's resource](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure).\n\n2. **Prevalence**: Nearly half of U.S. adults have hypertension, yet many are unaware they are a",
+            "line": 3,
+            "column": 337,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2637,
+            "excerpt": "significantly reduce the risk of the complications associated with this condition.\n\n# CITATIONS\n\n1. [What is High Blood Pressure? | American Heart Association](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n- High blood pressure can lead to serious health problems. - It’s important to have your blood pr",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3164,
+            "excerpt": "s of your blood vessels is too high. High blood pressure can lead to other serious problems such as [heart attack](https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks) and [stroke](https://www.stroke.org/en/about-stroke/types-of-stroke). Nearly half of U.S. adults h",
+            "line": 19,
+            "column": 371,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 979,
+            "excerpt": "tps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)[[3]](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)[[4]](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-h",
+            "line": 11,
+            "column": 168,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2799,
+            "excerpt": "igh-blood-pressure-hypertension/).\n\nFor more detailed information, you can visit resources like the [American Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (",
+            "line": 30,
+            "column": 65,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3320,
+            "excerpt": "lood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertens",
+            "line": 38,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3724,
+            "excerpt": ".texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.htm",
+            "line": 42,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.07627,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06557,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.09677
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5.67,
+      "influence": 0.41976,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.16049,
+        "anthropic_claude_with_search_latest": 0.06349,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.41976,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.41976
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.16049
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.06349
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cdc.gov",
+      "link": "cdc.gov",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1498,
+        "anthropic_claude_with_search_latest": 647,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 647,
+            "excerpt": "lood-pressure), normal blood pressure is less than 120/80 mm Hg.\n\n## Blood Pressure Categories\n\nThe [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/bloodpressure/) defines these stages:\n\n- **Normal**: Less than 120/80\n- **Elevated**: 120-129 systolic and less th",
+            "line": 15,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1498,
+            "excerpt": "g to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Sy",
+            "line": 14,
+            "column": 276,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2905,
+            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-",
+            "line": 30,
+            "column": 171,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3913,
+            "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure](https://my.clev",
+            "line": 44,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.0339,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 9.5,
+      "influence": 0.24791,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.28054,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.24791,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.24791
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.28054
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
       "link": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
       "linkType": "hlt",
@@ -13153,9 +13472,9 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3265,
-            "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings\n4. https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/\n5. https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6",
-            "line": 37,
+            "appearanceOrder": 3513,
+            "excerpt": "tps://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings)\n\n4. [www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/](https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/)\n\n5. [www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure](https",
+            "line": 40,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -13165,23 +13484,23 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04651,
+      "mentionsAsPercent": 0.0339,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
+        "perplexity_with_search_latest": 0.06557,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
+        "perplexity_with_search_latest": 8
       },
-      "appearanceOrder": 7,
-      "influence": 0.85819,
+      "appearanceOrder": 8,
+      "influence": 0.45378,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.85819,
+      "weightedInfluence": 0.45378,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13191,13 +13510,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.85819
+          "value": 0.45378
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13269,7 +13588,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13309,7 +13628,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3783,
+        "perplexity_with_search_latest": 4506,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -13318,9 +13637,9 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 3783,
-            "excerpt": "ayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974\n10. https://www.youtube.com/watch?v=mjTMZ_sm0LQ\n11. https://www.who.int/news-room/fact-sheets/detail/hypertension",
-            "line": 43,
+            "appearanceOrder": 4506,
+            "excerpt": "oclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974)\n\n10. [www.youtube.com/watch](https://www.youtube.com/watch?v=mjTMZ_sm0LQ)\n\n11. [www.who.int/news-room/fact-sheets/detail/hypertension](https://www.who.int/news-room/fact-sh",
+            "line": 52,
             "column": 5,
             "captureDate": "2025-10-10"
           }
@@ -13330,23 +13649,23 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01163,
+      "mentionsAsPercent": 0.00847,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01923,
+        "perplexity_with_search_latest": 0.01639,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 16
+        "perplexity_with_search_latest": 18
       },
-      "appearanceOrder": 16,
-      "influence": 0.15745,
+      "appearanceOrder": 18,
+      "influence": 0.08466,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15745,
+      "weightedInfluence": 0.08466,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13356,13 +13675,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.15745
+          "value": 0.08466
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 16
+          "value": 18
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13434,7 +13753,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 16
+            "value": 18
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13465,8 +13784,549 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "www.cdc.gov",
-      "link": "www.cdc.gov",
+      "value": "validatebp.org",
+      "link": "validatebp.org",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3078,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3078,
+            "excerpt": "-blood-pressure-tests) provides guidance on selecting validated devices. Look for monitors with the [Validated Device Listing](https://www.validatebp.org/) seal.\n\n**Tips for accurate readings:**\n- Measure at the same time daily\n- Sit quietly for 5 minute",
+            "line": 73,
+            "column": 218,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00847,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.09205,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.09205,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.09205
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "worldhypertensionleague.org",
+      "link": "worldhypertensionleague.org",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4163,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4163,
+            "excerpt": "rces\n\n- [Blood Pressure UK](https://www.bloodpressureuk.org/) - Educational resources and support\n- [World Hypertension League](https://www.worldhypertensionleague.org/) - Global advocacy and information\n- [MedlinePlus: High Blood Pressure](https://medlineplus.gov/hig",
+            "line": 104,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00847,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03846,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 16
+      },
+      "appearanceOrder": 16,
+      "influence": 0.08798,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08798,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08798
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "yalemedicine.org/conditions/hypertension",
+      "link": "yalemedicine.org/conditions/hypertension",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1425,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1837
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1837,
+            "excerpt": "nd genetics. Control over these factors can help manage and prevent hypertension, as highlighted by [Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension).\n\n5. **Management and Prevention**: Lifestyle changes play a crucial role in managing blood pressu",
+            "line": 9,
+            "column": 269,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5195,
+            "excerpt": "0 mmHg or higher, you may experience symptoms like headaches, heart palpitations or nosebleeds.\n\n4. [17 Things To Know About High Blood Pressure - Yale Medicine](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\nIf you do just one thing to improve your health this year, it could be to gain control over your",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5448,
+            "excerpt": "ng to improve your health this year, it could be to gain control over your blood pressure. Cases of [high blood pressure](https://www.yalemedicine.org/conditions/hypertension) ﻿, or hypertension—a silent, but dangerous condition—have skyrocketed over the past decade. It’s e",
+            "line": 31,
+            "column": 123,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1425,
+            "excerpt": "lth issues because it forces the heart to work harder, potentially leading to damage over time[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[6]](https://www.cdc.gov/high-blood-pressure/index.html)[[7]](https://my.clevelandclinic.org/healt",
+            "line": 14,
+            "column": 203,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1836,
+            "excerpt": "ial for diagnosis. Monitoring should be done over time to confirm high blood pressure readings[[2]](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)[[7]](https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure).\n\n## Tr",
+            "line": 17,
+            "column": 168,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3187,
+            "excerpt": "ttps://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410)\n\n2. [www.yalemedicine.org/news/high-blood-pressure-hypertension](https://www.yalemedicine.org/news/high-blood-pressure-hypertension)\n\n3. [www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings](htt",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.05085,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.09677
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.31188,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.13968,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.31188,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.31188
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.13968
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cdc.gov/high-blood-pressure/index.html",
+      "link": "cdc.gov/high-blood-pressure/index.html",
       "linkType": "hlt",
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
@@ -13499,15 +14359,15 @@ window.AppData20251010 = {
           },
           {
             "appearanceOrder": 2905,
-            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# Citations\n\n1. https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-caus",
+            "excerpt": "can Heart Association](https://www.heart.org/), [Mayo Clinic](https://www.mayoclinic.org/), and the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/).\n\n# CITATIONS\n\n1. [www.mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-",
             "line": 30,
             "column": 171,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3472,
-            "excerpt": ". https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
-            "line": 39,
+            "appearanceOrder": 3913,
+            "excerpt": "https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure](https://my.clev",
+            "line": 44,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -13517,24 +14377,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04651,
+      "mentionsAsPercent": 0.0339,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "perplexity_with_search_latest": 0.04918,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 11,
-        "anthropic_claude_with_search_latest": 7
+        "perplexity_with_search_latest": 13,
+        "anthropic_claude_with_search_latest": 8
       },
-      "appearanceOrder": 9,
-      "influence": 0.45624,
+      "appearanceOrder": 10.5,
+      "influence": 0.24016,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.27181,
+        "anthropic_claude_with_search_latest": 0.27281,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.45624,
+      "weightedInfluence": 0.24016,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13544,13 +14404,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.45624
+          "value": 0.24016
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9
+          "value": 10.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13603,7 +14463,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.27181
+            "value": 0.27281
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -13622,13 +14482,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 11
+            "value": 13
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 8
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -13657,7 +14517,7 @@ window.AppData20251010 = {
       "link": "index.html",
       "linkType": "oth",
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -13678,51 +14538,58 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 3512,
-            "excerpt": "/high-blood-pressure/the-facts-about-high-blood-pressure\n6. https://www.cdc.gov/high-blood-pressure/index.html\n7. https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure\n8. https://",
-            "line": 39,
-            "column": 44,
+            "appearanceOrder": 3946,
+            "excerpt": "opics/high-blood-pressure/the-facts-about-high-blood-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/43",
+            "line": 44,
+            "column": 37,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3998,
+            "excerpt": "-pressure)\n\n6. [www.cdc.gov/high-blood-pressure/index.html](https://www.cdc.gov/high-blood-pressure/index.html)\n\n7. [my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure](https://my.clev",
+            "line": 44,
+            "column": 89,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 2,
+      "mentions": 3,
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02326,
+      "mentionsAsPercent": 0.02542,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03846,
+        "perplexity_with_search_latest": 0.04918,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
+        "perplexity_with_search_latest": 14
       },
-      "appearanceOrder": 12,
-      "influence": 0.34785,
+      "appearanceOrder": 14,
+      "influence": 0.27616,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.34785,
+      "weightedInfluence": 0.27616,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.34785
+          "value": 0.27616
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13744,7 +14611,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13794,7 +14661,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 14
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13811,12 +14678,177 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 2
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "www.who.int",
+      "link": "www.who.int",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4580,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4580,
+            "excerpt": "essure/art-20046974)\n\n10. [www.youtube.com/watch](https://www.youtube.com/watch?v=mjTMZ_sm0LQ)\n\n11. [www.who.int/news-room/fact-sheets/detail/hypertension](https://www.who.int/news-room/fact-sheets/detail/hypertension)",
+            "line": 54,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00847,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01639,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.08319,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08319,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08319
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-10",
@@ -13829,50 +14861,50 @@ window.AppData20251010 = {
       "type": "linkType",
       "code": "hlt",
       "value": "Health & Medical",
-      "mentions": 76,
+      "mentions": 98,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 46,
-        "anthropic_claude_with_search_latest": 21,
-        "openai_chatgpt_with_search_latest": 9
+        "perplexity_with_search_latest": 51,
+        "anthropic_claude_with_search_latest": 22,
+        "openai_chatgpt_with_search_latest": 25
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.88462,
-        "anthropic_claude_with_search_latest": 0.875,
-        "openai_chatgpt_with_search_latest": 0.9
+        "perplexity_with_search_latest": 0.83607,
+        "anthropic_claude_with_search_latest": 0.84615,
+        "openai_chatgpt_with_search_latest": 0.80645
       },
-      "mentionsAsPercent": 0.88372,
-      "appearanceOrder": 8,
+      "mentionsAsPercent": 0.83051,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
+        "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 5
       },
-      "influence": 7.378099999999999,
+      "influence": 6.311330000000001,
       "influenceByModel": {
-        "perplexity_with_search_latest": 6.70759,
-        "anthropic_claude_with_search_latest": 5.2640400000000005,
-        "openai_chatgpt_with_search_latest": 7
+        "perplexity_with_search_latest": 7.67652,
+        "anthropic_claude_with_search_latest": 4.201299999999999,
+        "openai_chatgpt_with_search_latest": 8
       },
-      "weightedInfluence": 7.378099999999999,
+      "weightedInfluence": 6.311330000000001,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 76
+          "value": 98
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7.378099999999999
+          "value": 6.311330000000001
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 8
+          "value": 9
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13894,19 +14926,19 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 46
+            "value": 51
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 21
+            "value": 22
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 9
+            "value": 25
           }
         ]
       },
@@ -13919,19 +14951,19 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6.70759
+            "value": 7.67652
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5.2640400000000005
+            "value": 4.201299999999999
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 8
           }
         ]
       },
@@ -13944,7 +14976,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 8
+            "value": 9
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13956,17 +14988,17 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 5
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 76,
+      "mentions_change": 98,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 76
+          "mentions": 98
         }
       ],
       "lastSeen": "2025-10-10",
@@ -13977,44 +15009,44 @@ window.AppData20251010 = {
       "type": "linkType",
       "code": "aca",
       "value": "Academic",
-      "mentions": 5,
+      "mentions": 14,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 6
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.1
+        "perplexity_with_search_latest": 0.09836,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.19355
       },
-      "mentionsAsPercent": 0.05814,
+      "mentionsAsPercent": 0.11864,
       "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
+        "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": 15,
-        "openai_chatgpt_with_search_latest": 8
+        "openai_chatgpt_with_search_latest": 10
       },
-      "influence": 0.43434,
+      "influence": 0.8166899999999999,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.20952,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "perplexity_with_search_latest": 0.27937,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 2
       },
-      "weightedInfluence": 0.43434,
+      "weightedInfluence": 0.8166899999999999,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 5
+          "value": 14
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.43434
+          "value": 0.8166899999999999
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14042,19 +15074,19 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 3
+            "value": 6
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 6
           }
         ]
       },
@@ -14067,19 +15099,19 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.20952
+            "value": 0.27937
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -14092,7 +15124,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 8
+            "value": 10
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -14104,17 +15136,17 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 8
+            "value": 10
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 5,
+      "mentions_change": 14,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 5
+          "mentions": 14
         }
       ],
       "lastSeen": "2025-10-10",
@@ -14125,9 +15157,9 @@ window.AppData20251010 = {
       "type": "linkType",
       "code": "oth",
       "value": "Other",
-      "mentions": 2,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -14135,40 +15167,40 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03846,
+        "perplexity_with_search_latest": 0.04918,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.02326,
-      "appearanceOrder": 12,
+      "mentionsAsPercent": 0.02542,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12,
+        "perplexity_with_search_latest": 14,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.34785,
+      "influence": 0.27616,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.34785,
+      "weightedInfluence": 0.27616,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.34785
+          "value": 0.27616
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -14190,7 +15222,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -14240,7 +15272,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 14
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -14257,12 +15289,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 2
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
@@ -14284,23 +15316,23 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01163,
-      "appearanceOrder": 12,
+      "mentionsAsPercent": 0.00847,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 13,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.17396,
+      "influence": 0.09447,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.17396,
+      "weightedInfluence": 0.09447,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14310,13 +15342,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.17396
+          "value": 0.09447
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 12
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -14394,7 +15426,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -14432,23 +15464,23 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01163,
-      "appearanceOrder": 16,
+      "mentionsAsPercent": 0.00847,
+      "appearanceOrder": 17,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 17,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.15745,
+      "influence": 0.08624,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15745,
+      "weightedInfluence": 0.08624,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14458,13 +15490,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.15745
+          "value": 0.08624
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 16
+          "value": 17
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -14542,7 +15574,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 16
+            "value": 17
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -14579,24 +15611,24 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01923,
+        "perplexity_with_search_latest": 0.01639,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01163,
-      "appearanceOrder": 16,
+      "mentionsAsPercent": 0.00847,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 16,
+        "perplexity_with_search_latest": 18,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.15745,
+      "influence": 0.08466,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15745,
+      "weightedInfluence": 0.08466,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14606,13 +15638,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.15745
+          "value": 0.08466
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 16
+          "value": 18
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -14684,7 +15716,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 16
+            "value": 18
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -14722,16 +15754,16 @@ window.AppData20251010 = {
       "link": "https://heart.org",
       "linkType": "hlt",
       "linkTypeName": "Health & Medical",
-      "mentions": 28,
+      "mentions": 45,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 16,
-        "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 20,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 15
       },
       "sources": [
         {
           "link": "heart.org/en/health-topics/high-blood-pressure",
-          "mentions": 7,
+          "mentions": 9,
           "appearanceOrder": 1.67,
           "appearanceOrderByModel": {
             "perplexity_with_search_latest": 3,
@@ -14741,19 +15773,19 @@ window.AppData20251010 = {
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 3
           },
-          "influence": 0.7848,
+          "influence": 1,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.13968,
-            "anthropic_claude_with_search_latest": 0.09523,
+            "perplexity_with_search_latest": 0.09312,
+            "anthropic_claude_with_search_latest": 0.06348,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.7848
+          "weightedInfluence": 1
         },
         {
           "link": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
-          "mentions": 7,
+          "mentions": 9,
           "appearanceOrder": 2.67,
           "appearanceOrderByModel": {
             "perplexity_with_search_latest": 4,
@@ -14763,19 +15795,19 @@ window.AppData20251010 = {
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 3
           },
-          "influence": 0.54365,
+          "influence": 0.65802,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.19069,
-            "anthropic_claude_with_search_latest": 0.09522,
+            "perplexity_with_search_latest": 0.12712,
+            "anthropic_claude_with_search_latest": 0.06348,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.54365
+          "weightedInfluence": 0.65802
         },
         {
           "link": "heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure",
-          "mentions": 7,
+          "mentions": 9,
           "appearanceOrder": 3.67,
           "appearanceOrderByModel": {
             "perplexity_with_search_latest": 5,
@@ -14785,19 +15817,19 @@ window.AppData20251010 = {
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 3
           },
-          "influence": 0.45004,
+          "influence": 0.53218,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.21612,
-            "anthropic_claude_with_search_latest": 0.09525,
+            "perplexity_with_search_latest": 0.14408,
+            "anthropic_claude_with_search_latest": 0.0635,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.45004
+          "weightedInfluence": 0.53218
         },
         {
-          "link": "heart.org",
-          "mentions": 7,
+          "link": "heart.org/en/health-topics/heart-attack/about-heart-attacks",
+          "mentions": 9,
           "appearanceOrder": 4.67,
           "appearanceOrderByModel": {
             "perplexity_with_search_latest": 6,
@@ -14807,24 +15839,46 @@ window.AppData20251010 = {
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 3
           },
-          "influence": 0.39732,
+          "influence": 0.46382,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.23104,
-            "anthropic_claude_with_search_latest": 0.09524,
+            "perplexity_with_search_latest": 0.15403,
+            "anthropic_claude_with_search_latest": 0.06349,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.39732
+          "weightedInfluence": 0.46382
+        },
+        {
+          "link": "heart.org",
+          "mentions": 9,
+          "appearanceOrder": 5.67,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 7,
+            "anthropic_claude_with_search_latest": 5,
+            "openai_chatgpt_with_search_latest": 5
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 4,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.41976,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.16049,
+            "anthropic_claude_with_search_latest": 0.06349,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.41976
         }
       ],
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.30769,
-        "anthropic_claude_with_search_latest": 0.33333,
-        "openai_chatgpt_with_search_latest": 0.4
+        "perplexity_with_search_latest": 0.32787,
+        "anthropic_claude_with_search_latest": 0.38462,
+        "openai_chatgpt_with_search_latest": 0.48387
       },
       "appearanceOrder": 1.67,
       "appearanceOrderByModel": {
@@ -14832,14 +15886,14 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.32558,
-      "influence": 2.1758100000000002,
+      "mentionsAsPercent": 0.38136,
+      "influence": 3.07378,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.77753,
-        "anthropic_claude_with_search_latest": 0.38094,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 0.67884,
+        "anthropic_claude_with_search_latest": 0.31744,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "weightedInfluence": 2.1758100000000002
+      "weightedInfluence": 3.07378
     },
     {
       "type": "linkDomain",
@@ -14848,80 +15902,80 @@ window.AppData20251010 = {
       "link": "https://mayoclinic.org",
       "linkType": "hlt",
       "linkTypeName": "Health & Medical",
-      "mentions": 18,
+      "mentions": 22,
       "mentionsByModel": {
         "perplexity_with_search_latest": 12,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 8
       },
       "sources": [
         {
           "link": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
-          "mentions": 9,
-          "appearanceOrder": 5.67,
+          "mentions": 11,
+          "appearanceOrder": 6.33,
           "appearanceOrderByModel": {
             "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 10,
-            "openai_chatgpt_with_search_latest": 6
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 2
-          },
-          "influence": 1,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.58821,
-            "anthropic_claude_with_search_latest": 0.01931,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 1
-        },
-        {
-          "link": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
-          "mentions": 9,
-          "appearanceOrder": 6.67,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 2,
             "anthropic_claude_with_search_latest": 11,
             "openai_chatgpt_with_search_latest": 7
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 6,
             "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 2
+            "openai_chatgpt_with_search_latest": 4
           },
-          "influence": 0.74356,
+          "influence": 0.73286,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.39659,
+            "perplexity_with_search_latest": 0.62858,
             "anthropic_claude_with_search_latest": 0.01991,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.74356
+          "weightedInfluence": 0.73286
+        },
+        {
+          "link": "mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20046974",
+          "mentions": 11,
+          "appearanceOrder": 7.33,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 2,
+            "anthropic_claude_with_search_latest": 12,
+            "openai_chatgpt_with_search_latest": 8
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.58238,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.41905,
+            "anthropic_claude_with_search_latest": 0.02038,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.58238
         }
       ],
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.23077,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.4
+        "perplexity_with_search_latest": 0.19672,
+        "anthropic_claude_with_search_latest": 0.07692,
+        "openai_chatgpt_with_search_latest": 0.25806
       },
-      "appearanceOrder": 5.67,
+      "appearanceOrder": 6.33,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.2093,
-      "influence": 1.74356,
+      "mentionsAsPercent": 0.18644,
+      "influence": 1.31524,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.9848,
-        "anthropic_claude_with_search_latest": 0.039220000000000005,
+        "perplexity_with_search_latest": 1.04763,
+        "anthropic_claude_with_search_latest": 0.04029,
         "openai_chatgpt_with_search_latest": 2
       },
-      "weightedInfluence": 1.74356
+      "weightedInfluence": 1.31524
     },
     {
       "type": "linkDomain",
@@ -14940,30 +15994,9 @@ window.AppData20251010 = {
         {
           "link": "cdc.gov/bloodpressure",
           "mentions": 4,
-          "appearanceOrder": 7,
+          "appearanceOrder": 8.5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 9,
-            "anthropic_claude_with_search_latest": 5
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 3,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.49679,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0.29204,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.49679
-        },
-        {
-          "link": "cdc.gov",
-          "mentions": 4,
-          "appearanceOrder": 8,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 10,
+            "perplexity_with_search_latest": 11,
             "anthropic_claude_with_search_latest": 6
           },
           "mentionsByModel": {
@@ -14971,20 +16004,20 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.47454,
+          "influence": 0.25701,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0.28003,
+            "anthropic_claude_with_search_latest": 0.29022,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.47454
+          "weightedInfluence": 0.25701
         },
         {
-          "link": "www.cdc.gov",
+          "link": "cdc.gov",
           "mentions": 4,
-          "appearanceOrder": 9,
+          "appearanceOrder": 9.5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 11,
+            "perplexity_with_search_latest": 12,
             "anthropic_claude_with_search_latest": 7
           },
           "mentionsByModel": {
@@ -14992,36 +16025,136 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.45624,
+          "influence": 0.24791,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0.27181,
+            "anthropic_claude_with_search_latest": 0.28054,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.45624
+          "weightedInfluence": 0.24791
+        },
+        {
+          "link": "cdc.gov/high-blood-pressure/index.html",
+          "mentions": 4,
+          "appearanceOrder": 10.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 13,
+            "anthropic_claude_with_search_latest": 8
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 3,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.24016,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0.27281,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.24016
         }
       ],
       "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.17308,
-        "anthropic_claude_with_search_latest": 0.125,
+        "perplexity_with_search_latest": 0.14754,
+        "anthropic_claude_with_search_latest": 0.11538,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 8.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
-        "anthropic_claude_with_search_latest": 5
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.13953,
-      "influence": 1.42757,
+      "mentionsAsPercent": 0.10169,
+      "influence": 0.7450800000000001,
       "influenceByModel": {
         "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0.8438800000000001,
+        "anthropic_claude_with_search_latest": 0.8435699999999999,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1.42757
+      "weightedInfluence": 0.7450800000000001
+    },
+    {
+      "type": "linkDomain",
+      "code": "yalemedicine.org",
+      "value": "yalemedicine.org",
+      "link": "https://yalemedicine.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 12,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "sources": [
+        {
+          "link": "yalemedicine.org/news/high-blood-pressure-hypertension",
+          "mentions": 6,
+          "appearanceOrder": 9,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 9,
+            "openai_chatgpt_with_search_latest": 9
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 3,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.32478,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.13969,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.32478
+        },
+        {
+          "link": "yalemedicine.org/conditions/hypertension",
+          "mentions": 6,
+          "appearanceOrder": 10,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 10,
+            "openai_chatgpt_with_search_latest": 10
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 3,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.31188,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.13968,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.31188
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.09836,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.19355
+      },
+      "appearanceOrder": 9,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 9
+      },
+      "mentionsAsPercent": 0.10169,
+      "influence": 0.63666,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.27937,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "weightedInfluence": 0.63666
     },
     {
       "type": "linkDomain",
@@ -15040,44 +16173,44 @@ window.AppData20251010 = {
         {
           "link": "texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension",
           "mentions": 4,
-          "appearanceOrder": 7,
+          "appearanceOrder": 8,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 7
+            "perplexity_with_search_latest": 8
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.85819,
+          "influence": 0.45378,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.85819
+          "weightedInfluence": 0.45378
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07692,
+        "perplexity_with_search_latest": 0.06557,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
+        "perplexity_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.04651,
-      "influence": 0.85819,
+      "mentionsAsPercent": 0.0339,
+      "influence": 0.45378,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.85819
+      "weightedInfluence": 0.45378
     },
     {
       "type": "linkDomain",
@@ -15096,30 +16229,9 @@ window.AppData20251010 = {
         {
           "link": "nhlbi.nih.gov/health/high-blood-pressure",
           "mentions": 4,
-          "appearanceOrder": 11,
+          "appearanceOrder": 12.5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 14,
-            "anthropic_claude_with_search_latest": 8
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 3,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.2777,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.39682,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.2777
-        },
-        {
-          "link": "nhlbi.nih.gov/health/high-blood-pressure/treatment",
-          "mentions": 4,
-          "appearanceOrder": 12,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 15,
+            "perplexity_with_search_latest": 16,
             "anthropic_claude_with_search_latest": 9
           },
           "mentionsByModel": {
@@ -15127,36 +16239,57 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 3,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.2678,
+          "influence": 0.14819,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.40619,
+            "perplexity_with_search_latest": 0.39726,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.2678
+          "weightedInfluence": 0.14819
+        },
+        {
+          "link": "nhlbi.nih.gov/health/high-blood-pressure/treatment",
+          "mentions": 4,
+          "appearanceOrder": 13.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 17,
+            "anthropic_claude_with_search_latest": 10
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 3,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.1436,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.40571,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.1436
         }
       ],
       "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03846,
-        "anthropic_claude_with_search_latest": 0.25,
+        "perplexity_with_search_latest": 0.03279,
+        "anthropic_claude_with_search_latest": 0.23077,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 12.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 14,
-        "anthropic_claude_with_search_latest": 8
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.09302,
-      "influence": 0.5455,
+      "mentionsAsPercent": 0.0678,
+      "influence": 0.29179,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.80301,
+        "perplexity_with_search_latest": 0.80297,
         "anthropic_claude_with_search_latest": 2,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.5455
+      "weightedInfluence": 0.29179
     },
     {
       "type": "linkDomain",
@@ -15165,54 +16298,54 @@ window.AppData20251010 = {
       "link": "https://index.html",
       "linkType": "oth",
       "linkTypeName": "Other",
-      "mentions": 2,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "sources": [
         {
           "link": "index.html",
-          "mentions": 2,
-          "appearanceOrder": 12,
+          "mentions": 3,
+          "appearanceOrder": 14,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 12
+            "perplexity_with_search_latest": 14
           },
           "mentionsByModel": {
-            "perplexity_with_search_latest": 2,
+            "perplexity_with_search_latest": 3,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.34785,
+          "influence": 0.27616,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.34785
+          "weightedInfluence": 0.27616
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03846,
+        "perplexity_with_search_latest": 0.04918,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
+        "perplexity_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.02326,
-      "influence": 0.34785,
+      "mentionsAsPercent": 0.02542,
+      "influence": 0.27616,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.34785
+      "weightedInfluence": 0.27616
     },
     {
       "type": "linkDomain",
@@ -15221,114 +16354,56 @@ window.AppData20251010 = {
       "link": "https://my.clevelandclinic.org",
       "linkType": "hlt",
       "linkTypeName": "Health & Medical",
-      "mentions": 4,
+      "mentions": 5,
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
           "link": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
-          "mentions": 4,
-          "appearanceOrder": 9,
+          "mentions": 5,
+          "appearanceOrder": 10.5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 13,
-            "openai_chatgpt_with_search_latest": 5
+            "perplexity_with_search_latest": 15,
+            "openai_chatgpt_with_search_latest": 6
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 3,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 2
           },
-          "influence": 0.29369,
+          "influence": 0.25855,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.14225,
+            "perplexity_with_search_latest": 0.14708,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.29369
+          "weightedInfluence": 0.25855
         }
       ],
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
+        "perplexity_with_search_latest": 0.04918,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
+        "openai_chatgpt_with_search_latest": 0.06452
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 10.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13,
-        "openai_chatgpt_with_search_latest": 5
+        "perplexity_with_search_latest": 15,
+        "openai_chatgpt_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.04651,
-      "influence": 0.29369,
+      "mentionsAsPercent": 0.04237,
+      "influence": 0.25855,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.14225,
+        "perplexity_with_search_latest": 0.14708,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.29369
-    },
-    {
-      "type": "linkDomain",
-      "code": "yalemedicine.org",
-      "value": "yalemedicine.org",
-      "link": "https://yalemedicine.org",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
-      "mentions": 4,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "yalemedicine.org/news/high-blood-pressure-hypertension",
-          "mentions": 4,
-          "appearanceOrder": 8,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 8,
-            "openai_chatgpt_with_search_latest": 8
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 3,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.27342,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.20952,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.27342
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05769,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrder": 8,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "mentionsAsPercent": 0.04651,
-      "influence": 0.27342,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.20952,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.27342
+      "weightedInfluence": 0.25855
     },
     {
       "type": "linkDomain",
@@ -15347,22 +16422,22 @@ window.AppData20251010 = {
         {
           "link": "fda.gov/medical-devices/home-use-tests/home-use-blood-pressure-tests",
           "mentions": 1,
-          "appearanceOrder": 12,
+          "appearanceOrder": 13,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 12
+            "anthropic_claude_with_search_latest": 13
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.17396,
+          "influence": 0.09447,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.17396
+          "weightedInfluence": 0.09447
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -15370,29 +16445,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
+        "anthropic_claude_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.17396,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.09447,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.17396
+      "weightedInfluence": 0.09447
     },
     {
       "type": "linkDomain",
       "code": "validatebp.org",
       "value": "validatebp.org",
       "link": "https://validatebp.org",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -15403,22 +16478,22 @@ window.AppData20251010 = {
         {
           "link": "validatebp.org",
           "mentions": 1,
-          "appearanceOrder": 13,
+          "appearanceOrder": 14,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 13
+            "anthropic_claude_with_search_latest": 14
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.16903,
+          "influence": 0.09205,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.16903
+          "weightedInfluence": 0.09205
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -15426,21 +16501,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 13
+        "anthropic_claude_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.16903,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.09205,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16903
+      "weightedInfluence": 0.09205
     },
     {
       "type": "linkDomain",
@@ -15459,22 +16534,22 @@ window.AppData20251010 = {
         {
           "link": "bloodpressureuk.org",
           "mentions": 1,
-          "appearanceOrder": 14,
+          "appearanceOrder": 15,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 14
+            "anthropic_claude_with_search_latest": 15
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.16475,
+          "influence": 0.08992,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.16475
+          "weightedInfluence": 0.08992
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -15482,21 +16557,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 15,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 14
+        "anthropic_claude_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.16475,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.08992,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16475
+      "weightedInfluence": 0.08992
     },
     {
       "type": "linkDomain",
@@ -15515,22 +16590,22 @@ window.AppData20251010 = {
         {
           "link": "worldhypertensionleague.org",
           "mentions": 1,
-          "appearanceOrder": 15,
+          "appearanceOrder": 16,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 15
+            "anthropic_claude_with_search_latest": 16
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.16092,
+          "influence": 0.08798,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.16092
+          "weightedInfluence": 0.08798
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -15538,21 +16613,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 16,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 15
+        "anthropic_claude_with_search_latest": 16
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.16092,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.08798,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16092
+      "weightedInfluence": 0.08798
     },
     {
       "type": "linkDomain",
@@ -15571,22 +16646,22 @@ window.AppData20251010 = {
         {
           "link": "medlineplus.gov/highbloodpressure.html",
           "mentions": 1,
-          "appearanceOrder": 16,
+          "appearanceOrder": 17,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 16
+            "anthropic_claude_with_search_latest": 17
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.15745,
+          "influence": 0.08624,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.15745
+          "weightedInfluence": 0.08624
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -15594,21 +16669,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03846,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 16,
+      "appearanceOrder": 17,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 16
+        "anthropic_claude_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.15745,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.08624,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15745
+      "weightedInfluence": 0.08624
     },
     {
       "type": "linkDomain",
@@ -15627,59 +16702,115 @@ window.AppData20251010 = {
         {
           "link": "youtube.com/watch?v=mjTMZ_sm0LQ",
           "mentions": 1,
-          "appearanceOrder": 16,
+          "appearanceOrder": 18,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 16
+            "perplexity_with_search_latest": 18
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.15745,
+          "influence": 0.08466,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.15745
+          "weightedInfluence": 0.08466
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01923,
+        "perplexity_with_search_latest": 0.01639,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 16,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 16
+        "perplexity_with_search_latest": 18
       },
-      "mentionsAsPercent": 0.01163,
-      "influence": 0.15745,
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.08466,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15745
+      "weightedInfluence": 0.08466
+    },
+    {
+      "type": "linkDomain",
+      "code": "who.int",
+      "value": "who.int",
+      "link": "https://who.int",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "www.who.int",
+          "mentions": 1,
+          "appearanceOrder": 19,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 19
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.08319,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.08319
+        }
+      ],
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01639,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": 19,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 19
+      },
+      "mentionsAsPercent": 0.00847,
+      "influence": 0.08319,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08319
     }
   ],
   "totalDates": [
     "2025-10-10"
   ],
-  "totalDataPoints": 100,
+  "totalDataPoints": 103,
   "totalTimeSaved": "9",
   "totalCounts": {
     "bots": 3,
     "linkTypes": 6,
     "products": 0,
-    "organizations": 10,
+    "organizations": 9,
     "people": 0,
     "places": 0,
-    "links": 21,
+    "links": 24,
     "keywords": 45,
     "events": 0
   },
@@ -15701,7 +16832,7 @@ window.AppData20251010 = {
     "organizations": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 8
+        "count": 7
       },
       {
         "id": "openai_chatgpt_with_search_latest",
@@ -15743,15 +16874,15 @@ window.AppData20251010 = {
     "links": [
       {
         "id": "perplexity_with_search_latest",
-        "count": 16
+        "count": 19
       },
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 16
+        "count": 17
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 8
+        "count": 10
       }
     ],
     "keywords": [
@@ -15761,11 +16892,11 @@ window.AppData20251010 = {
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 21
+        "count": 20
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 18
+        "count": 17
       }
     ],
     "events": [
@@ -15786,6 +16917,10 @@ window.AppData20251010 = {
       {
         "id": "perplexity_with_search_latest",
         "count": 1
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 1
       }
     ]
   },
@@ -15794,7 +16929,7 @@ window.AppData20251010 = {
     "organizations": [
       {
         "id": "999",
-        "count": 10
+        "count": 9
       }
     ],
     "people": [],
@@ -15802,13 +16937,17 @@ window.AppData20251010 = {
     "links": [
       {
         "id": "999",
-        "count": 21
+        "count": 24
       }
     ],
     "keywords": [
       {
         "id": "999",
-        "count": 45
+        "count": 44
+      },
+      {
+        "id": "-9999",
+        "count": 1
       }
     ],
     "events": [],

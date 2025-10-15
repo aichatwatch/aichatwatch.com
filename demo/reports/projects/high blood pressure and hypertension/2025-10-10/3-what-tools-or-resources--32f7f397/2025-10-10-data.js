@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What tools or resources are essential for high blood pressure and hypertension?",
   "report_date": "2025-10-10",
   "report_question_id": "3-what-tools-or-resources--32f7f397",
-  "report_created_at": "Oct 14, 2025, 5:53:31 PM",
+  "report_created_at": "Oct 15, 2025, 9:00:58 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -27,6 +27,12 @@ window.AppData20251010 = {
     {
       "value": "Omron Healthcare",
       "type": "product",
+      "sources": [
+        {
+          "url": "omron.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -54,10 +60,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -185,11 +191,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.omron.com/"
     },
     {
       "value": "Withings BPM Connect",
       "type": "product",
+      "sources": [
+        {
+          "url": "withings.com/us/en/bpm-connect",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -217,10 +230,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -348,11 +361,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.withings.com/us/en/bpm-connect"
     },
     {
       "value": "QardioArm",
       "type": "product",
+      "sources": [
+        {
+          "url": "getqardio.com/qardioarm-blood-pressure-monitor",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -380,10 +400,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -511,11 +531,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.getqardio.com/qardioarm-blood-pressure-monitor/"
     },
     {
       "value": "iHealth Track",
       "type": "product",
+      "sources": [
+        {
+          "url": "ihealthlabs.com/fitness-devices/wireless-blood-pressure-monitor",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -543,10 +570,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -674,11 +701,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://ihealthlabs.com/fitness-devices/wireless-blood-pressure-monitor/"
     },
     {
       "value": "MyFitnessPal",
       "type": "product",
+      "sources": [
+        {
+          "url": "myfitnesspal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -706,10 +740,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -837,11 +871,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.myfitnesspal.com/"
     },
     {
       "value": "Omron Connect",
       "type": "product",
+      "sources": [
+        {
+          "url": "omronhealthcare.com/omron-connect",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -869,10 +910,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1000,11 +1041,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.omronhealthcare.com/omron-connect/"
     },
     {
       "value": "Blood Pressure Monitor by Cardiograph",
       "type": "product",
+      "sources": [
+        {
+          "url": "cardiographapp.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1032,10 +1080,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1163,11 +1211,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://cardiographapp.com/"
     },
     {
       "value": "Hello Heart",
       "type": "product",
+      "sources": [
+        {
+          "url": "helloheart.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1195,10 +1250,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1326,11 +1381,22 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.helloheart.com/"
     },
     {
       "value": "Apple Health",
       "type": "product",
+      "sources": [
+        {
+          "url": "apple.com/ios/health",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "google.com/fit",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1358,10 +1424,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1489,11 +1555,22 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.apple.com/ios/health/"
     },
     {
       "value": "Google Fit",
       "type": "product",
+      "sources": [
+        {
+          "url": "google.com/fit",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "apple.com/ios/health",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1521,10 +1598,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1652,11 +1729,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.google.com/fit/"
     },
     {
       "value": "Cronometer",
       "type": "product",
+      "sources": [
+        {
+          "url": "cronometer.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1684,336 +1768,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.27024,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.27024,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.27024
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 12
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "Yazio",
-      "type": "product",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1987,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1987,
-            "excerpt": "king\n- **[Cronometer](https://cronometer.com/)** - Detailed nutrient tracking including sodium\n- **[Yazio](https://www.yazio.com/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medic",
-            "line": 32,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 13
-      },
-      "appearanceOrder": 13,
-      "influence": 0.26265,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.26265,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.26265
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 13
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 13
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "DASH Diet Cookbook",
-      "type": "product",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1747,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1747,
-            "excerpt": "style/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resource on Amaz",
-            "line": 28,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -2141,11 +1899,188 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://cronometer.com/"
+    },
+    {
+      "value": "Yazio",
+      "type": "product",
+      "sources": [
+        {
+          "url": "yazio.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1987,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1987,
+            "excerpt": "king\n- **[Cronometer](https://cronometer.com/)** - Detailed nutrient tracking including sodium\n- **[Yazio](https://www.yazio.com/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medic",
+            "line": 32,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.27024,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.27024,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.27024
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.yazio.com/"
     },
     {
       "value": "Nu-Salt",
       "type": "product",
+      "sources": [
+        {
+          "url": "nusalt.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2173,23 +2108,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 26
+        "anthropic_claude_with_search_latest": 31
       },
-      "appearanceOrder": 26,
-      "influence": 0.21031,
+      "appearanceOrder": 31,
+      "influence": 0.2,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.21031,
+      "weightedInfluence": 0.2,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2199,13 +2134,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.21031
+          "value": 0.2
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 26
+          "value": 31
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2283,7 +2218,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 26
+            "value": 31
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2304,11 +2239,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://nusalt.com/"
     },
     {
       "value": "Mrs. Dash",
       "type": "product",
+      "sources": [
+        {
+          "url": "mrsdash.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2336,23 +2278,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 27
+        "anthropic_claude_with_search_latest": 32
       },
-      "appearanceOrder": 27,
-      "influence": 0.20801,
+      "appearanceOrder": 32,
+      "influence": 0.19824,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.20801,
+      "weightedInfluence": 0.19824,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2362,13 +2304,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.20801
+          "value": 0.19824
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 27
+          "value": 32
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2446,7 +2388,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 27
+            "value": 32
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2467,11 +2409,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.mrsdash.com/"
     },
     {
       "value": "The Blood Pressure Solution by Dr. Marlene Merritt",
       "type": "product",
+      "sources": [
+        {
+          "url": "amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2499,23 +2448,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 28
+        "anthropic_claude_with_search_latest": 33
       },
-      "appearanceOrder": 28,
-      "influence": 0.20585,
+      "appearanceOrder": 33,
+      "influence": 0.19656,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.20585,
+      "weightedInfluence": 0.19656,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2525,13 +2474,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.20585
+          "value": 0.19656
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 28
+          "value": 33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2609,7 +2558,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 28
+            "value": 33
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2630,11 +2579,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034"
     },
     {
       "value": "Lower Your Blood Pressure Naturally by Dr. Sarah Brewer",
       "type": "product",
+      "sources": [
+        {
+          "url": "amazon.com/Lower-Your-Blood-Pressure-Naturally/dp/1787831930",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2662,23 +2618,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 29
+        "anthropic_claude_with_search_latest": 34
       },
-      "appearanceOrder": 29,
-      "influence": 0.2038,
+      "appearanceOrder": 34,
+      "influence": 0.19496,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2038,
+      "weightedInfluence": 0.19496,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -2688,13 +2644,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2038
+          "value": 0.19496
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 29
+          "value": 34
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2772,7 +2728,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 29
+            "value": 34
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2793,11 +2749,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.amazon.com/Lower-Your-Blood-Pressure-Naturally/dp/1787831930"
     },
     {
-      "value": "K Health",
+      "value": "SilverSneakers",
       "type": "product",
+      "sources": [
+        {
+          "url": "silversneakers.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2805,15 +2768,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3836,
+        "anthropic_claude_with_search_latest": 3084,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3836,
-            "excerpt": "m/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://",
-            "line": 62,
+            "appearanceOrder": 3084,
+            "excerpt": "ternational guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fi",
+            "line": 49,
             "column": 7,
             "captureDate": "2025-10-10"
           }
@@ -2825,10 +2788,180 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.26265,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.26265,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.26265
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.silversneakers.com/"
+    },
+    {
+      "value": "Fitbit",
+      "type": "product",
+      "sources": [
+        {
+          "url": "fitbit.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3176,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3176,
+            "excerpt": "s\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](h",
+            "line": 50,
+            "column": 7,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -2956,11 +3089,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.fitbit.com/"
     },
     {
-      "value": "PlushCare",
+      "value": "Peloton Digital",
       "type": "product",
+      "sources": [
+        {
+          "url": "onepeloton.com/app",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -2968,15 +3108,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3925,
+        "anthropic_claude_with_search_latest": 3264,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3925,
-            "excerpt": "cine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](htt",
-            "line": 63,
+            "appearanceOrder": 3264,
+            "excerpt": "grams\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - C",
+            "line": 51,
             "column": 7,
             "captureDate": "2025-10-10"
           }
@@ -2988,10 +3128,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3119,11 +3259,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.onepeloton.com/app"
     },
     {
-      "value": "Doctor on Demand",
+      "value": "Headspace",
       "type": "product",
+      "sources": [
+        {
+          "url": "headspace.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3131,16 +3278,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4013,
+        "anthropic_claude_with_search_latest": 3545,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4013,
-            "excerpt": "ement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication M",
-            "line": 64,
-            "column": 7,
+            "appearanceOrder": 3545,
+            "excerpt": "search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)**",
+            "line": 55,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -3151,10 +3298,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3282,11 +3429,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.headspace.com/"
     },
     {
-      "value": "GoodRx",
+      "value": "Calm",
       "type": "product",
+      "sources": [
+        {
+          "url": "calm.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3294,15 +3448,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4144,
+        "anthropic_claude_with_search_latest": 3624,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4144,
-            "excerpt": "octorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pil",
-            "line": 67,
+            "appearanceOrder": 3624,
+            "excerpt": "ress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.brea",
+            "line": 56,
             "column": 6,
             "captureDate": "2025-10-10"
           }
@@ -3314,10 +3468,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3445,11 +3599,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.calm.com/"
     },
     {
-      "value": "Pillpack by Amazon",
+      "value": "Breathwrk",
       "type": "product",
+      "sources": [
+        {
+          "url": "breathwrk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3457,15 +3618,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4215,
+        "anthropic_claude_with_search_latest": 3701,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4215,
-            "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohea",
-            "line": 68,
+            "appearanceOrder": 3701,
+            "excerpt": "d mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Service",
+            "line": 57,
             "column": 6,
             "captureDate": "2025-10-10"
           }
@@ -3477,10 +3638,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3608,11 +3769,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.breathwrk.com/"
     },
     {
-      "value": "Mango Health",
+      "value": "K Health",
       "type": "product",
+      "sources": [
+        {
+          "url": "khealth.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3620,16 +3788,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4299,
+        "anthropic_claude_with_search_latest": 3836,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4299,
-            "excerpt": "ion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Press",
-            "line": 69,
-            "column": 6,
+            "appearanceOrder": 3836,
+            "excerpt": "m/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://",
+            "line": 62,
+            "column": 7,
             "captureDate": "2025-10-10"
           }
         ],
@@ -3640,10 +3808,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3771,11 +3939,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.khealth.com/"
     },
     {
-      "value": "Blood Pressure UK Forums",
+      "value": "PlushCare",
       "type": "product",
+      "sources": [
+        {
+          "url": "plushcare.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3783,15 +3958,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4400,
+        "anthropic_claude_with_search_latest": 3925,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4400,
-            "excerpt": "ango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association",
-            "line": 73,
+            "appearanceOrder": 3925,
+            "excerpt": "cine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](htt",
+            "line": 63,
             "column": 7,
             "captureDate": "2025-10-10"
           }
@@ -3803,10 +3978,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -3934,11 +4109,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://plushcare.com/"
     },
     {
-      "value": "American Heart Association Support Network",
+      "value": "Doctor on Demand",
       "type": "product",
+      "sources": [
+        {
+          "url": "doctorondemand.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3946,15 +4128,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4497,
+        "anthropic_claude_with_search_latest": 4013,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4497,
-            "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://ww",
-            "line": 74,
+            "appearanceOrder": 4013,
+            "excerpt": "ement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication M",
+            "line": 64,
             "column": 7,
             "captureDate": "2025-10-10"
           }
@@ -3966,10 +4148,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -4097,11 +4279,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.doctorondemand.com/"
     },
     {
-      "value": "Reddit r/hypertension",
+      "value": "GoodRx",
       "type": "product",
+      "sources": [
+        {
+          "url": "goodrx.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4109,16 +4298,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4606,
+        "anthropic_claude_with_search_latest": 4144,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4606,
-            "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hy",
-            "line": 75,
-            "column": 7,
+            "appearanceOrder": 4144,
+            "excerpt": "octorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pil",
+            "line": 67,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -4129,10 +4318,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -4260,11 +4449,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.goodrx.com/"
     },
     {
-      "value": "Inspire Hypertension Community",
+      "value": "Pillpack by Amazon",
       "type": "product",
+      "sources": [
+        {
+          "url": "pillpack.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4272,16 +4468,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4717,
+        "anthropic_claude_with_search_latest": 4215,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4717,
-            "excerpt": "pertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare",
-            "line": 76,
-            "column": 7,
+            "appearanceOrder": 4215,
+            "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohea",
+            "line": 68,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -4292,10 +4488,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -4423,11 +4619,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.pillpack.com/"
     },
     {
-      "value": "Welch Allyn",
+      "value": "Mango Health",
       "type": "product",
+      "sources": [
+        {
+          "url": "mangohealth.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4435,15 +4638,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4864,
+        "anthropic_claude_with_search_latest": 4299,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4864,
-            "excerpt": "pire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporati",
-            "line": 80,
+            "appearanceOrder": 4299,
+            "excerpt": "ion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Press",
+            "line": 69,
             "column": 6,
             "captureDate": "2025-10-10"
           }
@@ -4455,10 +4658,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -4586,11 +4789,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.mangohealth.com/"
     },
     {
-      "value": "American Diagnostic Corporation (ADC)",
+      "value": "Blood Pressure UK Forums",
       "type": "product",
+      "sources": [
+        {
+          "url": "bloodpressureuk.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4598,16 +4808,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4946,
+        "anthropic_claude_with_search_latest": 4400,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4946,
-            "excerpt": "Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reductio",
-            "line": 81,
-            "column": 6,
+            "appearanceOrder": 4400,
+            "excerpt": "ango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association",
+            "line": 73,
+            "column": 7,
             "captureDate": "2025-10-10"
           }
         ],
@@ -4618,10 +4828,10 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercent": 0.02941,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.02941,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -4749,17 +4959,894 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.bloodpressureuk.org/"
+    },
+    {
+      "value": "American Heart Association Support Network",
+      "type": "product",
+      "sources": [
+        {
+          "url": "supportnetwork.heart.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4497,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4497,
+            "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://ww",
+            "line": 74,
+            "column": 7,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 26
+      },
+      "appearanceOrder": 26,
+      "influence": 0.21031,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.21031,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.21031
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 26
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 26
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://supportnetwork.heart.org/"
+    },
+    {
+      "value": "Reddit r/hypertension",
+      "type": "product",
+      "sources": [
+        {
+          "url": "reddit.com/r/hypertension",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4606,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4606,
+            "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hy",
+            "line": 75,
+            "column": 7,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 27
+      },
+      "appearanceOrder": 27,
+      "influence": 0.20801,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.20801,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.20801
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 27
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 27
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.reddit.com/r/hypertension/"
+    },
+    {
+      "value": "Inspire Hypertension Community",
+      "type": "product",
+      "sources": [
+        {
+          "url": "inspire.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4717,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4717,
+            "excerpt": "pertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare",
+            "line": 76,
+            "column": 7,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 28
+      },
+      "appearanceOrder": 28,
+      "influence": 0.20585,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.20585,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.20585
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 28
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 28
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.inspire.com/"
+    },
+    {
+      "value": "Welch Allyn",
+      "type": "product",
+      "sources": [
+        {
+          "url": "welchallyn.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4864,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4864,
+            "excerpt": "pire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporati",
+            "line": 80,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 29
+      },
+      "appearanceOrder": 29,
+      "influence": 0.2038,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.2038,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.2038
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 29
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 29
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.welchallyn.com/"
+    },
+    {
+      "value": "American Diagnostic Corporation (ADC)",
+      "type": "product",
+      "sources": [
+        {
+          "url": "adctoday.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4946,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4946,
+            "excerpt": "Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reductio",
+            "line": 81,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.02941,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 30
+      },
+      "appearanceOrder": 30,
+      "influence": 0.20185,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.20185,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.20185
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 30
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 30
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.adctoday.com/"
     }
   ],
   "organizations": [
     {
       "value": "American Heart Association",
       "type": "organization",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "supportnetwork.heart.org",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "targetbp.org/tools-downloads",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2468,
@@ -4790,6 +5877,20 @@ window.AppData20251010 = {
             "line": 4,
             "column": 10,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4739,
+            "excerpt": "fact sheets, podcasts, webinars, and videos, along with handouts you can give your patients. ©2025 American Heart Association, Inc. All rights reserved. Unauthorized use prohibited. The American Heart Association is a qualifi",
+            "line": 26,
+            "column": 255,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4826,
+            "excerpt": "ients. ©2025 American Heart Association, Inc. All rights reserved. Unauthorized use prohibited. The American Heart Association is a qualified 501(c)(3) tax-exempt organization. The content on the Target: BP Website is provided",
+            "line": 26,
+            "column": 342,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -4809,45 +5910,45 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 5,
+      "mentions": 7,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.25,
+      "mentionsAsPercent": 0.24138,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.25,
         "anthropic_claude_with_search_latest": 0.22222,
-        "openai_chatgpt_with_search_latest": 0.33333
+        "openai_chatgpt_with_search_latest": 0.25
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 1
       },
-      "appearanceOrder": 2.33,
-      "influence": 0.8417,
+      "appearanceOrder": 2,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.05288,
-        "anthropic_claude_with_search_latest": 0.03077,
+        "perplexity_with_search_latest": 0.0705,
+        "anthropic_claude_with_search_latest": 0.04762,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.8417,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 5
+          "value": 7
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.8417
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2.33
+          "value": 2
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -4881,7 +5982,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -4894,13 +5995,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.05288
+            "value": 0.0705
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03077
+            "value": 0.04762
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4925,7 +6026,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4936,25 +6037,44 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 5,
+      "mentions_change": 7,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 5
+          "mentions": 7
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.heart.org/en/health-topics/high-blood-pressure"
     },
     {
       "value": "CDC",
       "type": "organization",
+      "sources": [
+        {
+          "url": "cdc.gov/bloodpressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "millionhearts.hhs.gov/tools-protocols/tools.html",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1299,
@@ -4977,6 +6097,27 @@ window.AppData20251010 = {
             "excerpt": "nmental and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit",
             "line": 11,
             "column": 10,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5744,
+            "excerpt": "asier, including webinars, model policies, toolkits, databases, fact sheets, and more. Developed by CDC’s Division for Heart Disease and Stroke Prevention, data highlights and a logic model describe the",
+            "line": 30,
+            "column": 574,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6012,
+            "excerpt": "er in the United States who have hypertension.\n\n4. [Hypertension Management Program (HMP) Toolkit - CDC](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n- Improve the quality of care",
+            "line": 32,
+            "column": 53,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6489,
+            "excerpt": "serve populations at higher risk of hypertension. This includes patients without health insurance. CDC's Division for Heart Disease and Stroke Prevention (DHDSP) developed a guidance document called the",
+            "line": 34,
+            "column": 404,
             "captureDate": "2025-10-10"
           }
         ],
@@ -5010,19 +6151,19 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5564,
-            "excerpt": "ol-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/ma",
-            "line": 34,
-            "column": 16,
+            "appearanceOrder": 5814,
+            "excerpt": "gement-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp",
+            "line": 37,
+            "column": 9,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 10,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.35,
+      "mentionsAsPercent": 0.34483,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.625,
         "anthropic_claude_with_search_latest": 0.11111,
@@ -5030,27 +6171,27 @@ window.AppData20251010 = {
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 4
       },
       "appearanceOrder": 3,
-      "influence": 1,
+      "influence": 0.83968,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.41906,
-        "anthropic_claude_with_search_latest": 0.02764,
+        "perplexity_with_search_latest": 0.4865,
+        "anthropic_claude_with_search_latest": 0.03572,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.83968,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 10
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 0.83968
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5090,7 +6231,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 4
           }
         ]
       },
@@ -5103,13 +6244,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.41906
+            "value": 0.4865
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.02764
+            "value": 0.03572
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5134,32 +6275,43 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 3
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 10,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 7
+          "mentions": 10
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.cdc.gov/bloodpressure/"
     },
     {
       "value": "Mayo Clinic",
       "type": "organization",
+      "sources": [
+        {
+          "url": "mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -5194,23 +6346,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.1,
+      "mentionsAsPercent": 0.06897,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.22222,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 2
       },
-      "appearanceOrder": 3,
-      "influence": 0.81318,
+      "appearanceOrder": 2,
+      "influence": 0.48456,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.81318,
+      "weightedInfluence": 0.48456,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5220,13 +6372,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.81318
+          "value": 0.48456
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 2
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5304,7 +6456,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 3
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5325,11 +6477,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456"
     },
     {
       "value": "Cleveland Clinic",
       "type": "organization",
+      "sources": [
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5357,23 +6516,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05,
+      "mentionsAsPercent": 0.03448,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.11111,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 5
       },
-      "appearanceOrder": 6,
-      "influence": 0.28967,
+      "appearanceOrder": 5,
+      "influence": 0.14857,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.28967,
+      "weightedInfluence": 0.14857,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5383,13 +6542,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.28967
+          "value": 0.14857
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6
+          "value": 5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5467,7 +6626,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 5
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5488,11 +6647,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure"
     },
     {
       "value": "National Heart, Lung, and Blood Institute",
       "type": "organization",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/education/dash-eating-plan",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5520,170 +6686,7 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.11111,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 2
-      },
-      "appearanceOrder": 2,
-      "influence": 0.51304,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.51304,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.51304
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "value": "British Hypertension Society",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 698,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 698,
-            "excerpt": "Resources:**\n- **[STRIDE BP](https://www.stridebp.org/)** - Database of validated BP monitors\n- **[British Hypertension Society (BHS)](https://bihsoc.org/bp-monitors/)** - List of approved monitors\n\n## Tracking & Management App",
-            "line": 13,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05,
+      "mentionsAsPercent": 0.03448,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.11111,
@@ -5693,13 +6696,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.81318,
+      "influence": 0.384,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.81318,
+      "weightedInfluence": 0.384,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5709,7 +6712,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.81318
+          "value": 0.384
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5814,11 +6817,18 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.nhlbi.nih.gov/education/dash-eating-plan"
     },
     {
       "value": "European Society of Hypertension",
       "type": "organization",
+      "sources": [
+        {
+          "url": "eshonline.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5846,7 +6856,7 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05,
+      "mentionsAsPercent": 0.03448,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.11111,
@@ -5856,13 +6866,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 7
       },
       "appearanceOrder": 7,
-      "influence": 0.27106,
+      "influence": 0.12799,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.27106,
+      "weightedInfluence": 0.12799,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -5872,7 +6882,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.27106
+          "value": 0.12799
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5977,15 +6987,376 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://www.eshonline.org/"
+    },
+    {
+      "value": "American College of Cardiology",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-High-Blood-Pressure-in-Adults",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2728,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2728,
+            "excerpt": "4314-hypertension-high-blood-pressure)** - Expert medical information\n\n### Clinical Guidelines\n- **[American College of Cardiology (ACC)](https://www.acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-Hig",
+            "line": 43,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03448,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.11111,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.13678,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.13678,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.13678
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://www.acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-High-Blood-Pressure-in-Adults"
+    },
+    {
+      "value": "Target: BP",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "targetbp.org/tools-downloads",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 565
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 565,
+            "excerpt": "sure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloads/) initiative provides tools for improving blood pressure mana",
+            "line": 7,
+            "column": 11,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4434,
+            "excerpt": "-/media/Files/Health-Topics/High-Blood-Pressure/BP-Raisers.pdf?sc_lang=en)\n\n2. [Tools & Resources - Target:BP](https://targetbp.org/tools-downloads/)\n\nThese tools and resources are designed to help your practi",
+            "line": 24,
+            "column": 25,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4922,
+            "excerpt": "The American Heart Association is a qualified 501(c)(3) tax-exempt organization. The content on the Target: BP Website is provided for informational purposes only and is not intended as medical advice, or as a",
+            "line": 26,
+            "column": 438,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 3,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.10345,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.25
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.72683,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.72683,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.72683
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0,
+      "link": "https://targetbp.org/tools-downloads/"
     },
     {
       "value": "Million Hearts",
       "type": "organization",
+      "sources": [
+        {
+          "url": "millionhearts.hhs.gov/tools-protocols/tools.html",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 4055,
@@ -6001,6 +7372,13 @@ window.AppData20251010 = {
             "line": 8,
             "column": 11,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5095,
+            "excerpt": "intended as medical advice, or as a substitute for the medical advice of a physician.\n\n3. [Tools | Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html)\n\nUse standardized treatment protocols t",
+            "line": 28,
+            "column": 13,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6013,44 +7391,44 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 2,
+      "mentions": 3,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.1,
+      "mentionsAsPercent": 0.10345,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.125,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.33333
+        "openai_chatgpt_with_search_latest": 0.16667
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 3
       },
-      "appearanceOrder": 2.5,
-      "influence": 0.49459,
+      "appearanceOrder": 3,
+      "influence": 0.35074,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.03321,
+        "perplexity_with_search_latest": 0.08382,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.49459,
+      "weightedInfluence": 0.35074,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.49459
+          "value": 0.35074
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2.5
+          "value": 3
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6084,7 +7462,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -6097,7 +7475,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.03321
+            "value": 0.08382
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6134,22 +7512,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 2
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0
+      "volatility": 0,
+      "link": "https://millionhearts.hhs.gov/tools-protocols/tools.html"
     }
   ],
   "persons": [],
@@ -6157,10 +7536,40 @@ window.AppData20251010 = {
     {
       "value": "high blood pressure",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/bloodpressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 20,
         "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 8
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 43,
@@ -6205,6 +7614,27 @@ window.AppData20251010 = {
             "line": 4,
             "column": 96,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2118,
+            "excerpt": "ers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pre",
+            "line": 20,
+            "column": 10,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2511,
+            "excerpt": "n arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Press",
+            "line": 22,
+            "column": 250,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2815,
+            "excerpt": "iles/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Abo",
+            "line": 22,
+            "column": 554,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6245,15 +7675,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 25,
+      "mentions": 31,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.2809,
+      "mentionsAsPercent": 0.27434,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.42553,
+        "perplexity_with_search_latest": 0.37736,
         "anthropic_claude_with_search_latest": 0.10345,
-        "openai_chatgpt_with_search_latest": 0.15385
+        "openai_chatgpt_with_search_latest": 0.25806
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -6261,23 +7691,23 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.81105,
+      "influence": 0.80197,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.61112,
-        "anthropic_claude_with_search_latest": 0.07501,
+        "perplexity_with_search_latest": 0.41469,
+        "anthropic_claude_with_search_latest": 0.0509,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.81105,
+      "weightedInfluence": 0.80197,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 25
+          "value": 31
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.81105
+          "value": 0.80197
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6317,7 +7747,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 8
           }
         ]
       },
@@ -6330,13 +7760,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.61112
+            "value": 0.41469
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.07501
+            "value": 0.0509
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6372,29 +7802,115 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 25,
+      "mentions_change": 31,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 25
+          "mentions": 31
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "elevated blood pressure,cardiovascular health,arterial pressure",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "hypertension",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "bihsoc.org/bp-monitors",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "google.com/fit",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/diseases-conditions/high-blood-pressure/symptoms-causes/syc-20373410",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eshonline.org",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "plushcare.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "reddit.com/r/hypertension",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "inspire.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "millionhearts.hhs.gov/tools-protocols/tools.html",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "phti.org/assessment/digital-hypertension-management-solutions",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "emblemhealth.com/providers/news/hypertension-control-resources",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "resolvetosavelives.org/blood-pressure-control/six-steps",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "nature.com/articles/s41371-021-00612-6",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 24,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 7
+        "openai_chatgpt_with_search_latest": 19
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 64,
@@ -6514,15 +8030,15 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 41,
+      "mentions": 53,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.46067,
+      "mentionsAsPercent": 0.46903,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.51064,
+        "perplexity_with_search_latest": 0.45283,
         "anthropic_claude_with_search_latest": 0.34483,
-        "openai_chatgpt_with_search_latest": 0.53846
+        "openai_chatgpt_with_search_latest": 0.6129
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
@@ -6540,7 +8056,7 @@ window.AppData20251010 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 41
+          "value": 53
         }
       ],
       "influenceTrendVals": [
@@ -6586,7 +8102,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 19
           }
         ]
       },
@@ -6641,91 +8157,115 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 41,
+      "mentions_change": 53,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 41
+          "mentions": 53
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "high blood pressure,arterial hypertension,pressure issues",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "home monitoring equipment",
+      "value": "home monitoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
+        "perplexity_with_search_latest": 3082,
         "anthropic_claude_with_search_latest": 71,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 1450
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
             "appearanceOrder": 71,
-            "excerpt": "# Essential Tools and Resources for High Blood Pressure Management\n\n## Home Monitoring Equipment\n\n### Blood Pressure Monitors\n1. **[Omron Healthcare](https://www.omron.com/)** - Industry-leading h",
+            "excerpt": "# Essential Tools and Resources for High Blood Pressure Management\n\n## Home Monitoring Equipment\n\n### Blood Pressure Monitors\n1. **[Omron Healthcare](https://www.omron.com/)** - Industry",
             "line": 3,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1450,
+            "excerpt": "es comprehensive resources for health care organizations to control hypertension effectively.\n\n4. **Home Monitoring Devices**:\n   - Regular monitoring at home with a reliable blood pressure monitor can be crucial in",
+            "line": 13,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3082,
+            "excerpt": "ood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitoring devices at no cost, ongoing support, and integration with electronic health records to improve bloo",
+            "line": 15,
+            "column": 85,
+            "captureDate": "2025-10-10"
+          }
+        ]
       },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.02655,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
+        "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.03226
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 2
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "appearanceOrder": 2,
-      "influence": 0.10235,
+      "appearanceOrder": 4.67,
+      "influence": 0.03502,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "perplexity_with_search_latest": 0.12147,
+        "anthropic_claude_with_search_latest": 0.19887,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.10235,
+      "weightedInfluence": 0.03502,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.10235
+          "value": 0.03502
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 4.67
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 3
         }
       ],
       "mentionsTrend": 999,
@@ -6733,15 +8273,15 @@ window.AppData20251010 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
+        "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6753,45 +8293,45 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
+        "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 0.12147
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.19887
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
+        "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6803,39 +8343,49 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 1
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "home health devices,personal monitoring tools,remote health equipment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "blood pressure monitors",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "millionhearts.hhs.gov/tools-protocols/tools.html",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "nature.com/articles/s41371-021-00612-6",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 320,
         "anthropic_claude_with_search_latest": 102,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 6839
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
@@ -6847,7 +8397,15 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 6839,
+            "excerpt": "hey need to implement the HMP and improve hypertension control among their patients.\n\n5. [Top-Rated Blood Pressure Monitors You Can Trust](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+            "line": 36,
+            "column": 15,
+            "captureDate": "2025-10-10"
+          }
+        ],
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 320,
@@ -6865,50 +8423,51 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.03371,
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.0354,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04255,
+        "perplexity_with_search_latest": 0.03774,
         "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.03226
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 3
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 6
       },
-      "appearanceOrder": 3.5,
-      "influence": 0.12483,
+      "appearanceOrder": 5.33,
+      "influence": 0.03437,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.4753,
-        "openai_chatgpt_with_search_latest": 0
+        "perplexity_with_search_latest": 0.31011,
+        "anthropic_claude_with_search_latest": 0.19057,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.12483,
+      "weightedInfluence": 0.03437,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 4
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12483
+          "value": 0.03437
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3.5
+          "value": 5.33
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "mentionsTrend": 999,
@@ -6918,7 +8477,7 @@ window.AppData20251010 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -6936,45 +8495,45 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.31011
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.4753
+            "value": 0.19057
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 7
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6986,30 +8545,27 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 6
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
+      "mentions_change": 4,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 3
+          "mentions": 4
         }
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "blood pressure gauges,hypertension monitors,pressure measurement devices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "tracking apps",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -7154,182 +8710,29 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "health tracking software,wellness apps,fitness monitoring applications",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "dietary resources",
+      "value": "DASH diet",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1356,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1356,
-            "excerpt": "/ **[Google Fit](https://www.google.com/fit/)** - Integrate BP data with overall health metrics\n\n## Dietary Resources\n\n### DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Insti",
-            "line": 23,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.06278,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.06278,
-      "mentionsTrendVals": [
+      "sources": [
         {
-          "date": "2025-10-10",
-          "value": 1
+          "url": "google.com/fit",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "nhlbi.nih.gov/education/dash-eating-plan",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873",
+          "bots": "anthropic_claude_with_search_latest"
         }
       ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.06278
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "nutrition guides,healthy eating resources,dietary plans",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": " DASH diet",
-      "type": "keyword",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 5,
@@ -7337,44 +8740,44 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1378,
+        "anthropic_claude_with_search_latest": 1379,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1378,
-            "excerpt": "://www.google.com/fit/)** - Integrate BP data with overall health metrics\n\n## Dietary Resources\n\n### DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Die",
+            "appearanceOrder": 1379,
+            "excerpt": "//www.google.com/fit/)** - Integrate BP data with overall health metrics\n\n## Dietary Resources\n\n### DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Die",
             "line": 25,
-            "column": 4,
+            "column": 5,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 1477,
-            "excerpt": "# DASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clini",
+            "appearanceOrder": 1480,
+            "excerpt": "ASH Diet (Dietary Approaches to Stop Hypertension)\n- **[National Heart, Lung, and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clini",
             "line": 26,
-            "column": 47,
+            "column": 50,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 1557,
+            "appearanceOrder": 1558,
             "excerpt": "and Blood Institute - DASH Diet](https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-",
             "line": 26,
-            "column": 127,
+            "column": 128,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 1590,
-            "excerpt": "(https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet",
+            "appearanceOrder": 1591,
+            "excerpt": "https://www.nhlbi.nih.gov/education/dash-eating-plan)** - Official DASH diet guide\n- **[Mayo Clinic DASH Diet Guide](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet",
             "line": 27,
-            "column": 17,
+            "column": 18,
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 1746,
-            "excerpt": "estyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resourc",
+            "appearanceOrder": 1747,
+            "excerpt": "style/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456)** - Comprehensive overview\n- **[DASH Diet Cookbook](https://www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resourc",
             "line": 28,
-            "column": 5,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -7385,23 +8788,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05618,
+      "mentionsAsPercent": 0.04425,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.17241,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 5
       },
-      "appearanceOrder": 6,
-      "influence": 0.28891,
+      "appearanceOrder": 5,
+      "influence": 0.1602,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.28891,
+      "weightedInfluence": 0.1602,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -7411,13 +8814,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.28891
+          "value": 0.1602
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6
+          "value": 5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7495,7 +8898,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 5
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7516,15 +8919,17 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "heart-healthy diet,nutrition plan,low sodium diet",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "medical organizations",
+      "value": "medical support services",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "breathwrk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -7532,16 +8937,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2087,
+        "anthropic_claude_with_search_latest": 3787,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2087,
-            "excerpt": "Yazio](https://www.yazio.com/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high",
-            "line": 36,
-            "column": 5,
+            "appearanceOrder": 3787,
+            "excerpt": "rovement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP man",
+            "line": 59,
+            "column": 4,
             "captureDate": "2025-10-10"
           }
         ],
@@ -7552,508 +8957,7 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.05407,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.05407,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.05407
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 7
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "healthcare associations,medical societies,clinical organizations",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "clinical guidelines",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2703,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2703,
-            "excerpt": "inic.org/health/diseases/4314-hypertension-high-blood-pressure)** - Expert medical information\n\n### Clinical Guidelines\n- **[American College of Cardiology (ACC)](https://www.acc.org/Latest-in-Cardiology/Articles/2017/1",
-            "line": 42,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.05114,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.05114,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.05114
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "treatment protocols,healthcare standards,clinical practices",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "exercise programs",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3060,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3060,
-            "excerpt": "w.eshonline.org/)** - International guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[F",
-            "line": 48,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
-      },
-      "appearanceOrder": 9,
-      "influence": 0.04882,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.04882,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.04882
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 9
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "fitness routines,workout plans,exercise regimens",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "stress management",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3522,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3522,
-            "excerpt": "ww.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://w",
-            "line": 54,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
+      "mentionsAsPercent": 0.00885,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03448,
@@ -8063,13 +8967,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.04689,
+      "influence": 0.02392,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04689,
+      "weightedInfluence": 0.02392,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8079,7 +8983,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04689
+          "value": 0.02392
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8184,15 +9088,17 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "anxiety reduction,stress relief techniques,mindfulness practices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "telemedicine",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "breathwrk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -8220,7 +9126,7 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
+      "mentionsAsPercent": 0.00885,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03448,
@@ -8230,13 +9136,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.04522,
+      "influence": 0.02309,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04522,
+      "weightedInfluence": 0.02309,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -8246,7 +9152,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04522
+          "value": 0.02309
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8351,15 +9257,698 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "virtual healthcare,online medical consultations,digital doctor visits",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "pharmacy management",
+      "value": "exercise programs",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eshonline.org",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3060,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3060,
+            "excerpt": "w.eshonline.org/)** - International guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[F",
+            "line": 48,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.02611,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02611,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02611
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "stress management",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3522,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3522,
+            "excerpt": "ww.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://w",
+            "line": 54,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.02493,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02493,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02493
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "community support",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "mangohealth.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4375,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4375,
+            "excerpt": "n delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2",
+            "line": 71,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.02177,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02177,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02177
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "patient education",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 175,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 175,
+            "excerpt": "n) include **accurate blood pressure measurement devices**, **standardized treatment protocols**, **patient education materials**, and **digital health solutions** for self-monitoring and medication management.\n\nKey e",
+            "line": 1,
+            "column": 176,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2377,
+            "excerpt": "anagement-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education and Lifestyle Support Materials**: Resources from organizations like the American Heart Association",
+            "line": 13,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0177,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03774,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.08282,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.08282,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08282
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "validated devices",
+      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -8504,248 +10093,92 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "medication management,pharmaceutical care,drug therapy oversight",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "community support",
+      "value": "healthcare providers",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "inspire.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4375,
-        "openai_chatgpt_with_search_latest": -1
+        "anthropic_claude_with_search_latest": 4836,
+        "openai_chatgpt_with_search_latest": 2001
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4375,
-            "excerpt": "n delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2",
-            "line": 71,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.04383,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.04383,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.04383
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 12
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "local support groups,community resources,peer support networks",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "professional equipment",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4808,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4808,
-            "excerpt": "es\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade B",
+            "appearanceOrder": 4836,
+            "excerpt": "n Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American D",
             "line": 78,
-            "column": 4,
+            "column": 32,
             "captureDate": "2025-10-10"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2001,
+            "excerpt": "o symptoms yet carries significant health risks.\n\nBy making use of these resources, individuals and healthcare providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find Hig",
+            "line": 16,
+            "column": 51,
+            "captureDate": "2025-10-10"
+          }
+        ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.0177,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.03226
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 13
+        "anthropic_claude_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "appearanceOrder": 13,
-      "influence": 0.04263,
+      "appearanceOrder": 9.5,
+      "influence": 0.03129,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0.08999,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04263,
+      "weightedInfluence": 0.03129,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.04263
+          "value": 0.03129
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 13
+          "value": 9.5
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 2
         }
       ],
       "mentionsTrend": 999,
@@ -8755,7 +10188,7 @@ window.AppData20251010 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8773,14 +10206,14 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8792,187 +10225,20 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.08999
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 13
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "clinical instruments,medical devices,professional-grade tools",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "salt reduction",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5072,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 5072,
-            "excerpt": "ation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https:/",
-            "line": 85,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 14
-      },
-      "appearanceOrder": 14,
-      "influence": 0.0415,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.0415,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.0415
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 14
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -8990,348 +10256,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "sodium reduction,low salt intake,salt-free diet",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "educational materials",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 143
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 143,
-            "excerpt": "on effectively involves using a variety of tools and resources. Here are some essential ones:\n\n1. **Educational Materials**:\n   - The American Heart Association offers a wealth of resources to help understand and manage h",
-            "line": 3,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.07692
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.08114,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.08114,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.08114
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "learning resources,educational content,training materials",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "interactive tools",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 520
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 520,
-            "excerpt": "ww.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloads/) initiative provides t",
-            "line": 6,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 750,
-            "excerpt": "oving blood pressure management in clinical settings. These include webinars, podcasts, videos, and interactive tools aimed at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-proto",
-            "line": 7,
-            "column": 196,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02247,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.15385
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 4,
-      "influence": 0.13973,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.13973,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.13973
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
+            "value": 5
           }
         ]
       },
@@ -9346,182 +10271,12 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "engagement tools,interactive resources,participatory platforms",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "management toolkits",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1046
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1046,
-            "excerpt": "r clinicians, focusing on environmental and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure",
-            "line": 10,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.07692
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.06278,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.06278,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.06278
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "management resources,toolkits for health,healthcare strategies",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "digital health solutions",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
@@ -9549,23 +10304,23 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01124,
+      "mentionsAsPercent": 0.00885,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.02128,
+        "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3
+        "perplexity_with_search_latest": 4
       },
-      "appearanceOrder": 3,
-      "influence": 0.08114,
+      "appearanceOrder": 4,
+      "influence": 0.03568,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08114,
+      "weightedInfluence": 0.03568,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -9575,13 +10330,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.08114
+          "value": 0.03568
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3
+          "value": 4
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9653,7 +10408,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 3
+            "value": 4
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -9680,11 +10435,866 @@ window.AppData20251010 = {
       ],
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
-      "volatility": 0,
-      "similar": "e-health solutions,technology in healthcare,digital wellness tools",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "lifestyle changes",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 990
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 990,
+            "excerpt": "gn offers standardized treatment protocols and guides for clinicians, focusing on environmental and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Managemen",
+            "line": 8,
+            "column": 192,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.03226
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.04139,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.04139,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04139
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "self-monitoring",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 243,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 243,
+            "excerpt": "rdized treatment protocols**, **patient education materials**, and **digital health solutions** for self-monitoring and medication management.\n\nKey elements are:\n\n- **Validated Blood Pressure Monitors**: Home blood",
+            "line": 1,
+            "column": 244,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01887,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.03204,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03204,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03204
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "medication management",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "doctorondemand.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "phti.org/assessment/digital-hypertension-management-solutions",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 263,
+        "anthropic_claude_with_search_latest": 4117,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4117,
+            "excerpt": "or on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](htt",
+            "line": 66,
+            "column": 16,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 263,
+            "excerpt": "tocols**, **patient education materials**, and **digital health solutions** for self-monitoring and medication management.\n\nKey elements are:\n\n- **Validated Blood Pressure Monitors**: Home blood pressure monitors—preferab",
+            "line": 1,
+            "column": 264,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2067,
+            "excerpt": "*Digital Hypertension Management Solutions**: These include connected blood pressure cuffs, virtual medication management teams, educational content, reminders, and coaching delivered digitally to support patient self-car",
+            "line": 11,
+            "column": 104,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02655,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03774,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 9,
+      "influence": 0.04968,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.3107,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.04968,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04968
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.3107
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "clinical guidelines",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2703,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2703,
+            "excerpt": "inic.org/health/diseases/4314-hypertension-high-blood-pressure)** - Expert medical information\n\n### Clinical Guidelines\n- **[American College of Cardiology (ACC)](https://www.acc.org/Latest-in-Cardiology/Articles/2017/1",
+            "line": 42,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.02761,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02761,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02761
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "value": "nutrition tracking",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1873,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1873,
+            "excerpt": "//www.amazon.com/DASH-Diet-Weight-Lower-Pressure/dp/1623159873)** - Popular resource on Amazon\n\n### Nutrition Tracking\n- **[Cronometer](https://cronometer.com/)** - Detailed nutrient tracking including sodium\n- **[Yazi",
+            "line": 30,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00885,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03448,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.02949,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02949,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02949
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     }
   ],
   "places": [],
@@ -9725,23 +11335,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.66665,
+      "influence": 0.08346,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.66665,
+      "weightedInfluence": 0.08346,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -9751,7 +11361,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.66665
+          "value": 0.08346
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9893,23 +11503,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.42059,
+      "influence": 0.05265,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.42059,
+      "weightedInfluence": 0.05265,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -9919,7 +11529,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.42059
+          "value": 0.05265
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10061,23 +11671,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.28709,
+      "influence": 0.03595,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.28709,
+      "weightedInfluence": 0.03595,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10087,7 +11697,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.28709
+          "value": 0.03595
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10229,23 +11839,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.25787,
+      "influence": 0.03228,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.25787,
+      "weightedInfluence": 0.03228,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10255,7 +11865,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.25787
+          "value": 0.03228
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10394,23 +12004,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.23748,
+      "influence": 0.02973,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23748,
+      "weightedInfluence": 0.02973,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10420,7 +12030,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.23748
+          "value": 0.02973
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10562,23 +12172,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
       "appearanceOrder": 8,
-      "influence": 0.2103,
+      "influence": 0.02633,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2103,
+      "weightedInfluence": 0.02633,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10588,7 +12198,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2103
+          "value": 0.02633
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10727,23 +12337,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.2007,
+      "influence": 0.02513,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2007,
+      "weightedInfluence": 0.02513,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10753,7 +12363,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2007
+          "value": 0.02513
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10895,9 +12505,9 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5729,
-            "excerpt": "/www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.co",
-            "line": 36,
+            "appearanceOrder": 6149,
+            "excerpt": "ww.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program)\n\n6. [www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients](https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)\n\n7. [www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742](https://www.ahajournals.org/doi/10",
+            "line": 41,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -10907,24 +12517,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02609,
+      "mentionsAsPercent": 0.00833,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 10,
-        "perplexity_with_search_latest": 10
+        "perplexity_with_search_latest": 13
       },
-      "appearanceOrder": 10,
-      "influence": 0.33641,
+      "appearanceOrder": 11.5,
+      "influence": 0.03883,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.34074,
+        "anthropic_claude_with_search_latest": 0.43765,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.33641,
+      "weightedInfluence": 0.03883,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -10934,13 +12544,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.33641
+          "value": 0.03883
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 10
+          "value": 11.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10993,7 +12603,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.34074
+            "value": 0.43765
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11012,7 +12622,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 10
+            "value": 13
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -11087,23 +12697,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02609,
+      "mentionsAsPercent": 0.00833,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.04688,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.52529,
+      "influence": 0.06576,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.52529,
+      "weightedInfluence": 0.06576,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -11113,7 +12723,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.52529
+          "value": 0.06576
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11255,23 +12865,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.16668,
+      "influence": 0.02086,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16668,
+      "weightedInfluence": 0.02086,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -11281,7 +12891,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.16668
+          "value": 0.02086
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11399,7 +13009,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 15
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2777,
@@ -11429,6 +13039,34 @@ window.AppData20251010 = {
             "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
             "line": 4,
             "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
             "captureDate": "2025-10-10"
           }
         ],
@@ -11462,53 +13100,53 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 6135,
-            "excerpt": "10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11. https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control",
-            "line": 41,
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
             "column": 5,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 9,
+      "mentions": 23,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.07826,
+      "mentionsAsPercent": 0.06389,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.125
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 16,
-        "perplexity_with_search_latest": 12,
+        "perplexity_with_search_latest": 15,
         "openai_chatgpt_with_search_latest": 1
       },
-      "appearanceOrder": 9.67,
-      "influence": 0.71543,
+      "appearanceOrder": 10.67,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.05662,
+        "perplexity_with_search_latest": 0.0449,
         "anthropic_claude_with_search_latest": 0.01164,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.71543,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9
+          "value": 23
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.71543
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9.67
+          "value": 10.67
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11542,7 +13180,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 15
           }
         ]
       },
@@ -11555,7 +13193,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.05662
+            "value": 0.0449
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -11580,7 +13218,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 12
+            "value": 15
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -11597,12 +13235,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 9,
+      "mentions_change": 23,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 9
+          "mentions": 23
         }
       ],
       "lastSeen": "2025-10-10",
@@ -11648,23 +13286,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01739,
+      "mentionsAsPercent": 0.00556,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.36029,
+      "influence": 0.04511,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.36029,
+      "weightedInfluence": 0.04511,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -11674,7 +13312,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.36029
+          "value": 0.04511
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11816,1361 +13454,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 20
-      },
-      "appearanceOrder": 20,
-      "influence": 0.1518,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1518,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.1518
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 20
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 20
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "silversneakers.com",
-      "link": "silversneakers.com",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3083,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3083,
-            "excerpt": "nternational guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking",
-            "line": 49,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 21
-      },
-      "appearanceOrder": 21,
-      "influence": 0.14952,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14952,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14952
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 21
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 21
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "onepeloton.com/app",
-      "link": "onepeloton.com/app",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3263,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3263,
-            "excerpt": "ograms\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension",
-            "line": 51,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 23
-      },
-      "appearanceOrder": 23,
-      "influence": 0.14538,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14538,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14538
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 23
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 23
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
-      "link": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
-      "linkType": "smp",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3367,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3367,
-            "excerpt": "oton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension](https://www.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Med",
-            "line": 52,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 24
-      },
-      "appearanceOrder": 24,
-      "influence": 0.14358,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14358,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14358
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 24
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 24
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "calm.com",
-      "link": "calm.com",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3623,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3623,
-            "excerpt": "tress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathi",
-            "line": 56,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 25
-      },
-      "appearanceOrder": 25,
-      "influence": 0.14184,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14184,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14184
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 25
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 25
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "breathwrk.com",
-      "link": "breathwrk.com",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3700,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3700,
-            "excerpt": "nd mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K",
-            "line": 57,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 26
-      },
-      "appearanceOrder": 26,
-      "influence": 0.14022,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14022,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14022
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 26
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 26
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "khealth.com",
-      "link": "khealth.com",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3835,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3835,
-            "excerpt": "om/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online",
-            "line": 62,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 27
-      },
-      "appearanceOrder": 27,
-      "influence": 0.13866,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.13866,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.13866
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 27
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 27
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "plushcare.com",
-      "link": "plushcare.com",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3924,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3924,
-            "excerpt": "icine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.",
-            "line": 63,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 28
-      },
-      "appearanceOrder": 28,
-      "influence": 0.13722,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.13722,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.13722
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 28
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 28
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "doctorondemand.com",
-      "link": "doctorondemand.com",
-      "linkType": "hlt",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4012,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4012,
-            "excerpt": "gement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://ww",
-            "line": 64,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 29
       },
       "appearanceOrder": 29,
-      "influence": 0.13584,
+      "influence": 0.01701,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13584,
+      "weightedInfluence": 0.01701,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13180,7 +13480,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.13584
+          "value": 0.01701
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13289,9 +13589,12 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "goodrx.com",
-      "link": "goodrx.com",
+      "value": "silversneakers.com",
+      "link": "silversneakers.com",
       "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -13299,16 +13602,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4143,
+        "anthropic_claude_with_search_latest": 3083,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4143,
-            "excerpt": "doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medicatio",
-            "line": 67,
-            "column": 5,
+            "appearanceOrder": 3083,
+            "excerpt": "nternational guidelines and research\n\n## Lifestyle & Exercise Resources\n\n### Exercise Programs\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking",
+            "line": 49,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -13319,23 +13622,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 30
       },
       "appearanceOrder": 30,
-      "influence": 0.13458,
+      "influence": 0.01685,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13458,
+      "weightedInfluence": 0.01685,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13345,7 +13648,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.13458
+          "value": 0.01685
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13454,8 +13757,8 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "pillpack.com",
-      "link": "pillpack.com",
+      "value": "onepeloton.com/app",
+      "link": "onepeloton.com/app",
       "linkType": "hlt",
       "sources": {
         "linkType": "AI"
@@ -13467,16 +13770,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4214,
+        "anthropic_claude_with_search_latest": 3263,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4214,
-            "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication re",
-            "line": 68,
-            "column": 5,
+            "appearanceOrder": 3263,
+            "excerpt": "ograms\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension",
+            "line": 51,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -13487,23 +13790,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 31
+        "anthropic_claude_with_search_latest": 32
       },
-      "appearanceOrder": 31,
-      "influence": 0.13332,
+      "appearanceOrder": 32,
+      "influence": 0.01655,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13332,
+      "weightedInfluence": 0.01655,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13513,13 +13816,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.13332
+          "value": 0.01655
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 31
+          "value": 32
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13597,7 +13900,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 31
+            "value": 32
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -13622,12 +13925,9 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "bloodpressureuk.org",
-      "link": "bloodpressureuk.org",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
+      "link": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
+      "linkType": "smp",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -13635,15 +13935,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4399,
+        "anthropic_claude_with_search_latest": 3367,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4399,
-            "excerpt": "Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportne",
-            "line": 73,
+            "appearanceOrder": 3367,
+            "excerpt": "oton Digital](https://www.onepeloton.com/app)** - Guided workouts including low-impact options\n4. **[YouTube - Cardio exercises for hypertension](https://www.youtube.com/results?search_query=cardio+exercises+for+hypertension)** - Free workout videos\n\n### Stress Management\n- **[Headspace](https://www.headspace.com/)** - Med",
+            "line": 52,
             "column": 6,
             "captureDate": "2025-10-10"
           }
@@ -13655,23 +13955,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 33
       },
       "appearanceOrder": 33,
-      "influence": 0.13104,
+      "influence": 0.01641,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13104,
+      "weightedInfluence": 0.01641,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13681,7 +13981,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.13104
+          "value": 0.01641
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13790,9 +14090,12 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "reddit.com/r/hypertension",
-      "link": "reddit.com/r/hypertension",
-      "linkType": "frm",
+      "value": "calm.com",
+      "link": "calm.com",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -13800,16 +14103,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4605,
+        "anthropic_claude_with_search_latest": 3623,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4605,
-            "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspir",
-            "line": 75,
-            "column": 6,
+            "appearanceOrder": 3623,
+            "excerpt": "tress Management\n- **[Headspace](https://www.headspace.com/)** - Meditation and mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathi",
+            "line": 56,
+            "column": 5,
             "captureDate": "2025-10-10"
           }
         ],
@@ -13820,23 +14123,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 35
+        "anthropic_claude_with_search_latest": 34
       },
-      "appearanceOrder": 35,
-      "influence": 0.12894,
+      "appearanceOrder": 34,
+      "influence": 0.01628,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12894,
+      "weightedInfluence": 0.01628,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -13846,7 +14149,175 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12894
+          "value": 0.01628
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 34
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 34
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "breathwrk.com",
+      "link": "breathwrk.com",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3700,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3700,
+            "excerpt": "nd mindfulness app\n- **[Calm](https://www.calm.com/)** - Stress reduction and sleep improvement\n- **[Breathwrk](https://www.breathwrk.com/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K",
+            "line": 57,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 35
+      },
+      "appearanceOrder": 35,
+      "influence": 0.01614,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01614,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01614
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13955,8 +14426,8 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "welchallyn.com",
-      "link": "welchallyn.com",
+      "value": "khealth.com",
+      "link": "khealth.com",
       "linkType": "hlt",
       "sources": {
         "linkType": "AI"
@@ -13968,16 +14439,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4863,
+        "anthropic_claude_with_search_latest": 3835,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4863,
-            "excerpt": "spire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoda",
-            "line": 80,
-            "column": 5,
+            "appearanceOrder": 3835,
+            "excerpt": "om/)** - Breathing exercises proven to lower BP\n\n## Medical Support Services\n\n### Telemedicine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online",
+            "line": 62,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -13988,23 +14459,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 37
+        "anthropic_claude_with_search_latest": 36
       },
-      "appearanceOrder": 37,
-      "influence": 0.12702,
+      "appearanceOrder": 36,
+      "influence": 0.01603,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12702,
+      "weightedInfluence": 0.01603,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14014,7 +14485,175 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12702
+          "value": 0.01603
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 36
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 36
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "plushcare.com",
+      "link": "plushcare.com",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3924,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3924,
+            "excerpt": "icine\n1. **[K Health](https://www.khealth.com/)** - AI-powered primary care with BP management\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.",
+            "line": 63,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 37
+      },
+      "appearanceOrder": 37,
+      "influence": 0.01589,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01589,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01589
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14123,12 +14762,9 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "adctoday.com",
-      "link": "adctoday.com",
+      "value": "doctorondemand.com",
+      "link": "doctorondemand.com",
       "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -14136,16 +14772,16 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4945,
+        "anthropic_claude_with_search_latest": 4012,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4945,
-            "excerpt": "e Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://n",
-            "line": 81,
-            "column": 5,
+            "appearanceOrder": 4012,
+            "excerpt": "gement\n2. **[PlushCare](https://plushcare.com/)** - Online doctors for hypertension management\n3. **[Doctor on Demand](https://www.doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://ww",
+            "line": 64,
+            "column": 6,
             "captureDate": "2025-10-10"
           }
         ],
@@ -14156,23 +14792,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 38
       },
       "appearanceOrder": 38,
-      "influence": 0.12612,
+      "influence": 0.0158,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12612,
+      "weightedInfluence": 0.0158,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14182,7 +14818,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12612
+          "value": 0.0158
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14291,12 +14927,9 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "nusalt.com",
-      "link": "nusalt.com",
-      "linkType": "foo",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "goodrx.com",
+      "link": "goodrx.com",
+      "linkType": "hlt",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -14304,15 +14937,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5091,
+        "anthropic_claude_with_search_latest": 4143,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 5091,
-            "excerpt": "//www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free s",
-            "line": 86,
+            "appearanceOrder": 4143,
+            "excerpt": "doctorondemand.com/)** - Virtual visits for BP monitoring\n\n### Pharmacy & Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medicatio",
+            "line": 67,
             "column": 5,
             "captureDate": "2025-10-10"
           }
@@ -14324,23 +14957,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 39
       },
       "appearanceOrder": 39,
-      "influence": 0.12528,
+      "influence": 0.01568,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12528,
+      "weightedInfluence": 0.01568,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14350,7 +14983,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12528
+          "value": 0.01568
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14459,9 +15092,9 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
-      "value": "mrsdash.com",
-      "link": "mrsdash.com",
-      "linkType": "foo",
+      "value": "pillpack.com",
+      "link": "pillpack.com",
+      "linkType": "hlt",
       "sources": {
         "linkType": "AI"
       },
@@ -14472,15 +15105,15 @@ window.AppData20251010 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5167,
+        "anthropic_claude_with_search_latest": 4214,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 5167,
-            "excerpt": "### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt]",
-            "line": 87,
+            "appearanceOrder": 4214,
+            "excerpt": "& Medication Management\n- **[GoodRx](https://www.goodrx.com/)** - Compare BP medication prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication re",
+            "line": 68,
             "column": 5,
             "captureDate": "2025-10-10"
           }
@@ -14492,23 +15125,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 40
       },
       "appearanceOrder": 40,
-      "influence": 0.12444,
+      "influence": 0.01559,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12444,
+      "weightedInfluence": 0.01559,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14518,7 +15151,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.12444
+          "value": 0.01559
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14627,6 +15260,1011 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
+      "value": "bloodpressureuk.org",
+      "link": "bloodpressureuk.org",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4399,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4399,
+            "excerpt": "Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportne",
+            "line": 73,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 42
+      },
+      "appearanceOrder": 42,
+      "influence": 0.01537,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01537,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01537
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 42
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 42
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "reddit.com/r/hypertension",
+      "link": "reddit.com/r/hypertension",
+      "linkType": "frm",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4605,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4605,
+            "excerpt": "Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspir",
+            "line": 75,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 44
+      },
+      "appearanceOrder": 44,
+      "influence": 0.0152,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0152,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0152
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 44
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 44
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "welchallyn.com",
+      "link": "welchallyn.com",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4863,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4863,
+            "excerpt": "spire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoda",
+            "line": 80,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 46
+      },
+      "appearanceOrder": 46,
+      "influence": 0.01503,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01503,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01503
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 46
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 46
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "adctoday.com",
+      "link": "adctoday.com",
+      "linkType": "foo",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4945,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4945,
+            "excerpt": "e Providers)\n\n- **[Welch Allyn](https://www.welchallyn.com/)** - Professional-grade BP monitors\n- **[American Diagnostic Corporation (ADC)](https://www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://n",
+            "line": 81,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 47
+      },
+      "appearanceOrder": 47,
+      "influence": 0.01493,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01493,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01493
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 47
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 47
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "nusalt.com",
+      "link": "nusalt.com",
+      "linkType": "foo",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5091,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5091,
+            "excerpt": "//www.adctoday.com/)** - Clinical diagnostic equipment\n\n## Additional Tools\n\n### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free s",
+            "line": 86,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 48
+      },
+      "appearanceOrder": 48,
+      "influence": 0.01486,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01486,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01486
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 48
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 48
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "mrsdash.com",
+      "link": "mrsdash.com",
+      "linkType": "foo",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5167,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5167,
+            "excerpt": "### Salt Reduction\n- **[Nu-Salt](https://nusalt.com/)** - Salt substitute (potassium chloride)\n- **[Mrs. Dash](https://www.mrsdash.com/)** - Salt-free seasoning blends\n\n### Books\n- **[The Blood Pressure Solution by Dr. Marlene Merritt]",
+            "line": 87,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 49
+      },
+      "appearanceOrder": 49,
+      "influence": 0.01478,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01478,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01478
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 49
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 49
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034",
       "link": "amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034",
       "linkType": "tch",
@@ -14671,23 +16309,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02609,
+      "mentionsAsPercent": 0.00833,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.04688,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 14
       },
       "appearanceOrder": 14,
-      "influence": 0.51191,
+      "influence": 0.06409,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.51191,
+      "weightedInfluence": 0.06409,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -14697,7 +16335,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.51191
+          "value": 0.06409
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14815,7 +16453,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 15
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2777,
@@ -14845,6 +16483,34 @@ window.AppData20251010 = {
             "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
             "line": 4,
             "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
             "captureDate": "2025-10-10"
           }
         ],
@@ -14878,53 +16544,53 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 6135,
-            "excerpt": "10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11. https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control",
-            "line": 41,
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
             "column": 5,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 9,
+      "mentions": 23,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.07826,
+      "mentionsAsPercent": 0.06389,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.125
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 17,
-        "perplexity_with_search_latest": 13,
+        "perplexity_with_search_latest": 16,
         "openai_chatgpt_with_search_latest": 2
       },
-      "appearanceOrder": 10.67,
-      "influence": 0.51803,
+      "appearanceOrder": 11.67,
+      "influence": 0.63884,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.08722,
+        "perplexity_with_search_latest": 0.06964,
         "anthropic_claude_with_search_latest": 0.01809,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.51803,
+      "weightedInfluence": 0.63884,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 9
+          "value": 23
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.51803
+          "value": 0.63884
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 10.67
+          "value": 11.67
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -14958,7 +16624,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 15
           }
         ]
       },
@@ -14971,7 +16637,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.08722
+            "value": 0.06964
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -14996,7 +16662,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 13
+            "value": 16
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -15013,12 +16679,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 9,
+      "mentions_change": 23,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 9
+          "mentions": 23
         }
       ],
       "lastSeen": "2025-10-10",
@@ -15033,7 +16699,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 528,
@@ -15048,6 +16714,13 @@ window.AppData20251010 = {
             "excerpt": "e include webinars, podcasts, videos, and interactive tools aimed at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
             "line": 8,
             "column": 10,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5086,
+            "excerpt": "nd is not intended as medical advice, or as a substitute for the medical advice of a physician.\n\n3. [Tools | Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html)\n\nUse standardized treatment protocols to improve hypertension care delivery and patients’ blood pr",
+            "line": 28,
+            "column": 4,
             "captureDate": "2025-10-10"
           }
         ],
@@ -15082,51 +16755,51 @@ window.AppData20251010 = {
           },
           {
             "appearanceOrder": 5274,
-            "excerpt": "tension diagnosis, treatment, patient self-management, and clinical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-card",
+            "excerpt": "tension diagnosis, treatment, patient self-management, and clinical care delivery.\n\n# CITATIONS\n\n1. [millionhearts.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)\n\n2. [www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovas",
             "line": 31,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 6,
+      "mentions": 7,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.05217,
+      "mentionsAsPercent": 0.01944,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
+        "perplexity_with_search_latest": 0.04386,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0.01099
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 12
       },
-      "appearanceOrder": 2.5,
-      "influence": 0.81478,
+      "appearanceOrder": 6.5,
+      "influence": 0.10958,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.40542,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0.24078
       },
-      "weightedInfluence": 0.81478,
+      "weightedInfluence": 0.10958,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6
+          "value": 7
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.81478
+          "value": 0.10958
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2.5
+          "value": 6.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -15160,7 +16833,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -15173,7 +16846,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.40542
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -15185,7 +16858,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.24078
           }
         ]
       },
@@ -15210,17 +16883,17 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 12
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 6,
+      "mentions_change": 7,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 6
+          "mentions": 7
         }
       ],
       "lastSeen": "2025-10-10",
@@ -15235,7 +16908,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1287,
@@ -15258,6 +16931,27 @@ window.AppData20251010 = {
             "excerpt": "l and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
             "line": 11,
             "column": 16,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5963,
+            "excerpt": "pes of treatments for adults age 18 years and older in the United States who have hypertension.\n\n4. [Hypertension Management Program (HMP) Toolkit - CDC](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n- Improve the quality of care for the patients they serve. - Reduce the number of patients with u",
+            "line": 32,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7127,
+            "excerpt": "(https://www.ncoa.org/article/the-top-10-most-common-chronic-conditions-in-older-adults/) affecting [nearly half of adults](https://www.cdc.gov/nchs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.",
+            "line": 38,
+            "column": 162,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7272,
+            "excerpt": "chs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.cdc.gov/high-blood-pressure/about/index.html) of having a stroke, heart attack, vision loss, and kidney disease. **2** In most cases, hypertensi",
+            "line": 38,
+            "column": 307,
             "captureDate": "2025-10-10"
           }
         ],
@@ -15284,53 +16978,53 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5552,
-            "excerpt": "ension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
-            "line": 34,
+            "appearanceOrder": 5809,
+            "excerpt": "-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n5. [www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-progr",
+            "line": 37,
             "column": 4,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 6,
+      "mentions": 9,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.05217,
+      "mentionsAsPercent": 0.025,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0678,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0.125
+        "perplexity_with_search_latest": 0.03509,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0.02198
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 19,
+        "anthropic_claude_with_search_latest": 26,
         "perplexity_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": 6
+        "openai_chatgpt_with_search_latest": 14
       },
-      "appearanceOrder": 10,
-      "influence": 0.36269,
+      "appearanceOrder": 15,
+      "influence": 0.08881,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.15168,
-        "anthropic_claude_with_search_latest": 0.01546,
+        "perplexity_with_search_latest": 0.67868,
+        "anthropic_claude_with_search_latest": 0.07339,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.36269,
+      "weightedInfluence": 0.08881,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6
+          "value": 9
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.36269
+          "value": 0.08881
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 10
+          "value": 15
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -15364,7 +17058,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 4
           }
         ]
       },
@@ -15377,13 +17071,13 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.15168
+            "value": 0.67868
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.01546
+            "value": 0.07339
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -15408,23 +17102,23 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 19
+            "value": 26
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 14
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 6,
+      "mentions_change": 9,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 6
+          "mentions": 9
         }
       ],
       "lastSeen": "2025-10-10",
@@ -15442,7 +17136,7 @@ window.AppData20251010 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -15458,47 +17152,68 @@ window.AppData20251010 = {
             "line": 14,
             "column": 193,
             "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6828,
+            "excerpt": "resources they need to implement the HMP and improve hypertension control among their patients.\n\n5. [Top-Rated Blood Pressure Monitors You Can Trust](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/)\n\nHigh blood pressure, or [hypertension, is a common condition](https://www.ncoa.org/article/the-to",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6990,
+            "excerpt": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/)\n\nHigh blood pressure, or [hypertension, is a common condition](https://www.ncoa.org/article/the-top-10-most-common-chronic-conditions-in-older-adults/) affecting [nearly half of adults](https://www.cdc.gov/nchs/products/databriefs/db511.htm) nationwi",
+            "line": 38,
+            "column": 25,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7751,
+            "excerpt": "you get more accurate readings and track your response to treatment. Used together with methods to [lower your blood pressure](https://www.ncoa.org/article/how-to-lower-blood-pressure/), a monitor for home use can help protect your health.",
+            "line": 38,
+            "column": 786,
+            "captureDate": "2025-10-10"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 4,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0.02198
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 8
+        "openai_chatgpt_with_search_latest": 18
       },
-      "appearanceOrder": 8,
-      "influence": 0.2103,
+      "appearanceOrder": 18,
+      "influence": 0.07858,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.2103,
+      "weightedInfluence": 0.07858,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 1
+          "value": 4
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.2103
+          "value": 0.07858
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 8
+          "value": 18
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -15532,7 +17247,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 4
           }
         ]
       },
@@ -15582,17 +17297,2109 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
+            "value": 18
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf",
+      "link": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18,
+        "perplexity_with_search_latest": 17,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 12.67,
+      "influence": 0.51045,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.08613,
+        "anthropic_claude_with_search_latest": 0.02242,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.51045,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.51045
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.08613
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02242
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 17
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf",
+      "link": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 19,
+        "perplexity_with_search_latest": 18,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 13.67,
+      "influence": 0.44231,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.09815,
+        "anthropic_claude_with_search_latest": 0.02558,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.44231,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.44231
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 13.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.09815
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02558
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-rainbow-chart-English.pdf",
+      "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-rainbow-chart-English.pdf",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 20,
+        "perplexity_with_search_latest": 19,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 14.67,
+      "influence": 0.39912,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.10742,
+        "anthropic_claude_with_search_latest": 0.02801,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.39912,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.39912
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.10742
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02801
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/BP-Readings-Chart-Simplifed-Chinese.pdf?sc_lang=en",
+      "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/BP-Readings-Chart-Simplifed-Chinese.pdf?sc_lang=en",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 21,
+        "perplexity_with_search_latest": 20,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 15.67,
+      "influence": 0.36884,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.11479,
+        "anthropic_claude_with_search_latest": 0.02999,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.36884,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.36884
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 15.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.11479
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.02999
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 21
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Infographic-Spanish.pdf",
+      "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Infographic-Spanish.pdf",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 22,
+        "perplexity_with_search_latest": 21,
+        "openai_chatgpt_with_search_latest": 7
+      },
+      "appearanceOrder": 16.67,
+      "influence": 0.34617,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.12082,
+        "anthropic_claude_with_search_latest": 0.03159,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.34617,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.34617
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 16.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.12082
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03159
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 21
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 22
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Simp-Chinese.pdf?sc_lang=en",
+      "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Simp-Chinese.pdf?sc_lang=en",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 23,
+        "perplexity_with_search_latest": 22,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "appearanceOrder": 17.67,
+      "influence": 0.32841,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.12584,
+        "anthropic_claude_with_search_latest": 0.03293,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.32841,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.32841
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.12584
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03293
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 22
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 23
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
             "value": 8
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 23,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 1
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "targetbp.org/tools-downloads",
+      "link": "targetbp.org/tools-downloads",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 7126,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 564
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 564,
+            "excerpt": "ssure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloads/) initiative provides tools for improving blood pressure management in clinical settings. These incl",
+            "line": 7,
+            "column": 10,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4413,
+            "excerpt": "ttps://www.heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/BP-Raisers.pdf?sc_lang=en)\n\n2. [Tools & Resources - Target:BP](https://targetbp.org/tools-downloads/)\n\nThese tools and resources are designed to help your practice improve blood pressure control for a",
+            "line": 24,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 7126,
+            "excerpt": "/www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosavelives.org/blood-pressure-control/six-steps/](https://resolvetosavelives.org/blo",
+            "line": 53,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.00833,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.00877,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 26,
+        "openai_chatgpt_with_search_latest": 11
+      },
+      "appearanceOrder": 18.5,
+      "influence": 0.04154,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.16914,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.04154,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04154
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.16914
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 26
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 11
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cdc.gov/nchs/products/databriefs/db511.htm",
+      "link": "cdc.gov/nchs/products/databriefs/db511.htm",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1287,
+        "anthropic_claude_with_search_latest": 2263,
+        "openai_chatgpt_with_search_latest": 1084
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2263,
+            "excerpt": "](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.",
+            "line": 38,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1084,
+            "excerpt": "l and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+            "line": 11,
+            "column": 16,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5963,
+            "excerpt": "pes of treatments for adults age 18 years and older in the United States who have hypertension.\n\n4. [Hypertension Management Program (HMP) Toolkit - CDC](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n- Improve the quality of care for the patients they serve. - Reduce the number of patients with u",
+            "line": 32,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7127,
+            "excerpt": "(https://www.ncoa.org/article/the-top-10-most-common-chronic-conditions-in-older-adults/) affecting [nearly half of adults](https://www.cdc.gov/nchs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.",
+            "line": 38,
+            "column": 162,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7272,
+            "excerpt": "chs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.cdc.gov/high-blood-pressure/about/index.html) of having a stroke, heart attack, vision loss, and kidney disease. **2** In most cases, hypertensi",
+            "line": 38,
+            "column": 307,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1287,
+            "excerpt": "ment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+            "line": 7,
+            "column": 437,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3235,
+            "excerpt": "and integration with electronic health records to improve blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+            "line": 15,
+            "column": 238,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4746,
+            "excerpt": "ssment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+            "line": 24,
+            "column": 48,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5809,
+            "excerpt": "-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n5. [www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-progr",
+            "line": 37,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.025,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03509,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0.02198
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 27,
+        "perplexity_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "appearanceOrder": 16,
+      "influence": 0.08557,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.6397,
+        "anthropic_claude_with_search_latest": 0.07437,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.08557,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08557
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.6397
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.07437
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 27
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "ncoa.org/article/how-to-lower-blood-pressure",
+      "link": "ncoa.org/article/how-to-lower-blood-pressure",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1669
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1669,
+            "excerpt": "aging hypertension. For guidance on choosing the best device, you can consult resources such as the [National Council on Aging’s guide](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/), which reviews top-rated monitors for home use. This is especially important since hypertension of",
+            "line": 14,
+            "column": 193,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6828,
+            "excerpt": "resources they need to implement the HMP and improve hypertension control among their patients.\n\n5. [Top-Rated Blood Pressure Monitors You Can Trust](https://www.ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/)\n\nHigh blood pressure, or [hypertension, is a common condition](https://www.ncoa.org/article/the-to",
+            "line": 36,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6990,
+            "excerpt": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors/)\n\nHigh blood pressure, or [hypertension, is a common condition](https://www.ncoa.org/article/the-top-10-most-common-chronic-conditions-in-older-adults/) affecting [nearly half of adults](https://www.cdc.gov/nchs/products/databriefs/db511.htm) nationwi",
+            "line": 38,
+            "column": 25,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7751,
+            "excerpt": "you get more accurate readings and track your response to treatment. Used together with methods to [lower your blood pressure](https://www.ncoa.org/article/how-to-lower-blood-pressure/), a monitor for home use can help protect your health.",
+            "line": 38,
+            "column": 786,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 4,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.02198
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.07724,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.07724,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07724
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 19
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
         }
       ],
       "lastSeen": "2025-10-10",
@@ -15643,9 +19450,9 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5478,
-            "excerpt": "art-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/ma",
-            "line": 33,
+            "appearanceOrder": 5668,
+            "excerpt": "t-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)\n\n3. [phti.org/assessment/digital-hypertension-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pr",
+            "line": 35,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -15655,23 +19462,23 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03478,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0678,
+        "perplexity_with_search_latest": 0.03509,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 12
       },
-      "appearanceOrder": 9,
-      "influence": 0.80272,
+      "appearanceOrder": 12,
+      "influence": 0.09021,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.80272,
+      "weightedInfluence": 0.09021,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -15681,7 +19488,2638 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.80272
+          "value": 0.09021
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
+      "link": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1722,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1722,
+            "excerpt": "are providers and practice staff to reduce measurement errors that could lead to mismanagement[[2]](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)[[10]](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure).",
+            "line": 9,
+            "column": 294,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4233,
+            "excerpt": "s://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-ma",
+            "line": 22,
+            "column": 45,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5387,
+            "excerpt": "s.hhs.gov/tools-protocols/tools.html](https://millionhearts.hhs.gov/tools-protocols/tools.html)\n\n2. [www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)\n\n3. [phti.org/assessment/digital-hypertension-management-solutions/](https://phti.org/assessment/d",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00833,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02632,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.07236,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07236,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07236
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
+      "link": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
+      "linkType": "fin",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3308,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3308,
+            "excerpt": "control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program).\n\nIn summary, managing hypertension effectively involves a combination of **accurate measurement t",
+            "line": 15,
+            "column": 311,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5942,
+            "excerpt": "hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n5. [www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program)\n\n6. [www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-pati",
+            "line": 39,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00556,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 25
+      },
+      "appearanceOrder": 25,
+      "influence": 0.03551,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03551,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03551
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 25
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 25
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
+      "link": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 782,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 782,
+            "excerpt": "ng continuous and less stressful measurements to improve detection and personalized management[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Standardized Treatment Protocols and Clinical Support Tools**: Protocols help clinicians del",
+            "line": 5,
+            "column": 477,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2304,
+            "excerpt": "cess to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education and Lifestyle Support Materials**: Resources from organizations like the A",
+            "line": 11,
+            "column": 341,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6360,
+            "excerpt": ".nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)\n\n7. [www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742)\n\n8. [www.emblemhealth.com/providers/news/hypertension-control-resources](https://www.emblemhealth.",
+            "line": 43,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00833,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02632,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.10783,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.10783,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.10783
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "nature.com/articles/s41371-021-00612-6",
+      "link": "nature.com/articles/s41371-021-00612-6",
+      "linkType": "aca",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 591,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 591,
+            "excerpt": "cking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering continuous and less stressful measurements to improve de",
+            "line": 5,
+            "column": 286,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3853,
+            "excerpt": "ocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 17,
+            "column": 439,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6640,
+            "excerpt": "-control-resources](https://www.emblemhealth.com/providers/news/hypertension-control-resources)\n\n9. [www.nature.com/articles/s41371-021-00612-6](https://www.nature.com/articles/s41371-021-00612-6)\n\n10. [edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure](https://",
+            "line": 47,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00833,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02632,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.12518,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12518,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.12518
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+      "link": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 24,
+        "perplexity_with_search_latest": 23,
+        "openai_chatgpt_with_search_latest": 9
+      },
+      "appearanceOrder": 18.67,
+      "influence": 0.31404,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.13013,
+        "anthropic_claude_with_search_latest": 0.03409,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.31404,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.31404
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 18.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.13013
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03409
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 23
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 24
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "omronhealthcare.com/omron-connect",
+      "link": "omronhealthcare.com/omron-connect",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 918,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 918,
+            "excerpt": "ment Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp",
+            "line": 18,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.02781,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02781,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.02781
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "fitbit.com",
+      "link": "fitbit.com",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3175,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3175,
+            "excerpt": "ms\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com",
+            "line": 50,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 31
+      },
+      "appearanceOrder": 31,
+      "influence": 0.0167,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0167,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0167
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 31
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 31
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "mangohealth.com",
+      "link": "mangohealth.com",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4298,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4298,
+            "excerpt": "tion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.blo",
+            "line": 69,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 41
+      },
+      "appearanceOrder": 41,
+      "influence": 0.01547,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01547,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01547
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 41
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 41
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "supportnetwork.heart.org",
+      "link": "supportnetwork.heart.org",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4496,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4496,
+            "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - C",
+            "line": 74,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 43
+      },
+      "appearanceOrder": 43,
+      "influence": 0.01528,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01528,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01528
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 43
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 43
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "inspire.com",
+      "link": "inspire.com",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 4716,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 4716,
+            "excerpt": "ypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch All",
+            "line": 76,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 45
+      },
+      "appearanceOrder": 45,
+      "influence": 0.01511,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01511,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01511
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 45
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 45
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html",
+      "link": "principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2264
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2264,
+            "excerpt": "://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/community-bp/0/frontdoor.html) \\| [Hablemos sobre presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/",
+            "line": 22,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2389,
+            "excerpt": "ressure e-Learning Module](https://www.principledtechnologies.com/community-bp/0/frontdoor.html) \\| [Hablemos sobre presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-b",
+            "line": 22,
+            "column": 128,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00556,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.038,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.038,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.038
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/Consequences-of-High-Blood-Pressure-infographic.pdf",
+      "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/Consequences-of-High-Blood-Pressure-infographic.pdf",
+      "linkType": "hlt",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2777,
+        "anthropic_claude_with_search_latest": 2114,
+        "openai_chatgpt_with_search_latest": 404
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2114,
+            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
+            "line": 37,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4564,
+            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
+            "line": 74,
+            "column": 74,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 404,
+            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
+            "line": 4,
+            "column": 237,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2112,
+            "excerpt": "providers can better manage hypertension and mitigate its associated health risks.\n\n# CITATIONS\n\n1. [Find High Blood Pressure Tools and Resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n- [Let's Talk About Blood Pressure e-Learning Module](https://www.principledtechnologies.com/comm",
+            "line": 20,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2502,
+            "excerpt": "re presión arterial](https://www.principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html) - [What Is High Blood Pressure? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Ans",
+            "line": 22,
+            "column": 241,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2642,
+            "excerpt": "ps://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf) \\| [¿Qué es la presión arterial alta? (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/A",
+            "line": 22,
+            "column": 381,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2814,
+            "excerpt": "Files/Health-Topics/Answers-by-Heart/Answers-by-Heart-SPANISH/What-Is-HighBloodPressure_Span.pdf) - [High Blood Pressure and Black People (PDF)](https://www.heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf) - [High Blood Pressure and Stroke (PDF)](https://www.heart.org/-/media/Stroke-Files/Lets-Talk-Abou",
+            "line": 22,
+            "column": 553,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2777,
+            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
+            "line": 13,
+            "column": 405,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2885,
+            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
+            "line": 13,
+            "column": 513,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3911,
+            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
+            "line": 17,
+            "column": 497,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4929,
+            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
+            "line": 25,
+            "column": 57,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6924,
+            "excerpt": "e](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosaveliv",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 23,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.06389,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03125,
+        "openai_chatgpt_with_search_latest": 0.08242
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 25,
+        "perplexity_with_search_latest": 24,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrder": 19.67,
+      "influence": 0.3021,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.13379,
+        "anthropic_claude_with_search_latest": 0.03505,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.3021,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 23
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.3021
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.13379
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.03505
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 24
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 25
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 23,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 23
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cdc.gov/high-blood-pressure/about/index.html",
+      "link": "cdc.gov/high-blood-pressure/about/index.html",
+      "linkType": "hlt",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1287,
+        "anthropic_claude_with_search_latest": 2263,
+        "openai_chatgpt_with_search_latest": 1084
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2263,
+            "excerpt": "](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressure/)** - Prevention and management guidelines\n3. **[Mayo Clinic - Hypertension](https://www.mayoclinic.",
+            "line": 38,
+            "column": 6,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1084,
+            "excerpt": "l and lifestyle changes to encourage healthier living. \n\n3. **Management Toolkits**:\n   - The CDC's [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
+            "line": 11,
+            "column": 16,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5963,
+            "excerpt": "pes of treatments for adults age 18 years and older in the United States who have hypertension.\n\n4. [Hypertension Management Program (HMP) Toolkit - CDC](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n- Improve the quality of care for the patients they serve. - Reduce the number of patients with u",
+            "line": 32,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7127,
+            "excerpt": "(https://www.ncoa.org/article/the-top-10-most-common-chronic-conditions-in-older-adults/) affecting [nearly half of adults](https://www.cdc.gov/nchs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.",
+            "line": 38,
+            "column": 162,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7272,
+            "excerpt": "chs/products/databriefs/db511.htm) nationwide. **1** Uncontrolled or undetected high blood pressure [increases the risk](https://www.cdc.gov/high-blood-pressure/about/index.html) of having a stroke, heart attack, vision loss, and kidney disease. **2** In most cases, hypertensi",
+            "line": 38,
+            "column": 307,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1287,
+            "excerpt": "ment, and patient communication[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Compete",
+            "line": 7,
+            "column": 437,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3235,
+            "excerpt": "and integration with electronic health records to improve blood pressure control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-manageme",
+            "line": 15,
+            "column": 238,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4746,
+            "excerpt": "ssment/digital-hypertension-management-solutions/)  \n- CDC Hypertension Management Program Toolkit: [cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-p",
+            "line": 24,
+            "column": 48,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5809,
+            "excerpt": "-management-solutions/](https://phti.org/assessment/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n5. [www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-progr",
+            "line": 37,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 9,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.025,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03509,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0.02198
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 28,
+        "perplexity_with_search_latest": 7,
+        "openai_chatgpt_with_search_latest": 16
+      },
+      "appearanceOrder": 17,
+      "influence": 0.08292,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.61182,
+        "anthropic_claude_with_search_latest": 0.0752,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.08292,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08292
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.61182
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.0752
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 28
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "resolvetosavelives.org/blood-pressure-control/six-steps",
+      "link": "resolvetosavelives.org/blood-pressure-control/six-steps",
+      "linkType": "chr",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1361,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1361,
+            "excerpt": "rotocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Competency Resources**: Accurate blood pressure measurement requires proper tec",
+            "line": 7,
+            "column": 511,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7202,
+            "excerpt": "-tools--resources)\n\n12. [targetbp.org/tools-downloads/](https://targetbp.org/tools-downloads/)\n\n13. [resolvetosavelives.org/blood-pressure-control/six-steps/](https://resolvetosavelives.org/blood-pressure-control/six-steps/)\n\n14. [www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood",
+            "line": 55,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00556,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.05025,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05025,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05025
         }
       ],
       "appearanceOrderTrendVals": [
@@ -15709,7 +22147,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -15776,1391 +22214,12 @@ window.AppData20251010 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "omronhealthcare.com/omron-connect/)**",
-      "link": "omronhealthcare.com/omron-connect/)**",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 918,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 918,
-            "excerpt": "ment Apps\n\n1. **[MyFitnessPal](https://www.myfitnesspal.com/)** - Track sodium intake and diet\n2. **[Omron Connect](https://www.omronhealthcare.com/omron-connect/)** - Sync and track BP readings\n3. **[Blood Pressure Monitor by Cardiograph](https://cardiographapp",
-            "line": 18,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.22224,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.22224,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.22224
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 7
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "fitbit.com/)**",
-      "link": "fitbit.com/)**",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3175,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3175,
-            "excerpt": "ms\n1. **[SilverSneakers](https://www.silversneakers.com/)** - Senior-friendly fitness programs\n2. **[Fitbit](https://www.fitbit.com/)** - Activity tracking with heart rate monitoring\n3. **[Peloton Digital](https://www.onepeloton.com",
-            "line": 50,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 22
-      },
-      "appearanceOrder": 22,
-      "influence": 0.14736,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14736,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.14736
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 22
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 22
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "mangohealth.com/)**",
-      "link": "mangohealth.com/)**",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4298,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4298,
-            "excerpt": "tion prices\n- **[Pillpack by Amazon](https://www.pillpack.com/)** - Medication delivery service\n- **[Mango Health](https://www.mangohealth.com/)** - Medication reminder app\n\n## Community Support\n\n1. **[Blood Pressure UK Forums](https://www.blo",
-            "line": 69,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 32
-      },
-      "appearanceOrder": 32,
-      "influence": 0.13218,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.13218,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.13218
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 32
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 32
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "supportnetwork.heart.org/)**",
-      "link": "supportnetwork.heart.org/)**",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4496,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4496,
-            "excerpt": "**[Blood Pressure UK Forums](https://www.bloodpressureuk.org/)** - UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** - C",
-            "line": 74,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 34
-      },
-      "appearanceOrder": 34,
-      "influence": 0.12996,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.12996,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.12996
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 34
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 34
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "inspire.com/)**",
-      "link": "inspire.com/)**",
-      "linkType": "frm",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4716,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4716,
-            "excerpt": "ypertension](https://www.reddit.com/r/hypertension/)** - Community discussions and experiences\n4. **[Inspire Hypertension Community](https://www.inspire.com/)** - Patient support platform\n\n## Professional Equipment (For Healthcare Providers)\n\n- **[Welch All",
-            "line": 76,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 36
-      },
-      "appearanceOrder": 36,
-      "influence": 0.12798,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.12798,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.12798
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 36
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 36
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
-      "link": "ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 782,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 782,
-            "excerpt": "ng continuous and less stressful measurements to improve detection and personalized management[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Standardized Treatment Protocols and Clinical Support Tools**: Protocols help clinicians del",
-            "line": 5,
-            "column": 477,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2304,
-            "excerpt": "cess to treatment[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[7]](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742).\n\n- **Patient Education and Lifestyle Support Materials**: Resources from organizations like the A",
-            "line": 11,
-            "column": 341,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 5838,
-            "excerpt": "ww.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature",
-            "line": 37,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02609,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4
-      },
-      "appearanceOrder": 4,
-      "influence": 0.86134,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.86134,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.86134
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "resolvetosavelives.org/blood-pressure-control/six-steps",
-      "link": "resolvetosavelives.org/blood-pressure-control/six-steps",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1361,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1361,
-            "excerpt": "rotocols/tools.html)[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[13]](https://resolvetosavelives.org/blood-pressure-control/six-steps/).\n\n- **Training and Competency Resources**: Accurate blood pressure measurement requires proper tec",
-            "line": 7,
-            "column": 511,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 6282,
-            "excerpt": "od-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control/six-steps/\n14. https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-",
-            "line": 43,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01739,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.44441,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.44441,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.44441
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
       "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
           "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
-      "link": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
-      "linkType": "hlt",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1722,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1722,
-            "excerpt": "are providers and practice staff to reduce measurement errors that could lead to mismanagement[[2]](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)[[10]](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure).",
-            "line": 9,
-            "column": 294,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 4233,
-            "excerpt": "s://millionhearts.hhs.gov/tools-protocols/tools.html)  \n- MaineHealth Hypertension Control Toolkit: [mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit](https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)  \n- Digital Hypertension Management Solutions (PHTI): [phti.org/assessment/digital-hypertension-ma",
-            "line": 22,
-            "column": 45,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 5334,
-            "excerpt": "linical care delivery.\n\n# Citations\n\n1. https://millionhearts.hhs.gov/tools-protocols/tools.html\n2. https://www.mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit\n3. https://phti.org/assessment/digital-hypertension-management-solutions/\n4. https://www.cdc.gov/hi",
-            "line": 32,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02609,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.63089,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.63089,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.63089
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-10",
@@ -17202,9 +22261,9 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5729,
-            "excerpt": "/www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients\n7. https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742\n8. https://www.emblemhealth.co",
-            "line": 36,
+            "appearanceOrder": 6149,
+            "excerpt": "ww.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program)\n\n6. [www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients](https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)\n\n7. [www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.14742](https://www.ahajournals.org/doi/10",
+            "line": 41,
             "column": 4,
             "captureDate": "2025-10-10"
           }
@@ -17214,24 +22273,24 @@ window.AppData20251010 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02609,
+      "mentionsAsPercent": 0.00833,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 11,
-        "perplexity_with_search_latest": 11
+        "perplexity_with_search_latest": 14
       },
-      "appearanceOrder": 11,
-      "influence": 0.32465,
+      "appearanceOrder": 12.5,
+      "influence": 0.03777,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.34057,
+        "anthropic_claude_with_search_latest": 0.43311,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.32465,
+      "weightedInfluence": 0.03777,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -17241,13 +22300,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.32465
+          "value": 0.03777
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 11
+          "value": 12.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -17300,7 +22359,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.34057
+            "value": 0.43311
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -17314,227 +22373,6 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 11
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
-      "link": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
-      "linkType": "chr",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2777,
-        "anthropic_claude_with_search_latest": 2114,
-        "openai_chatgpt_with_search_latest": 404
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2114,
-            "excerpt": "m/)** - Food diary with BP focus features\n\n## Educational Resources\n\n### Medical Organizations\n1. **[American Heart Association - High Blood Pressure](https://www.heart.org/en/health-topics/high-blood-pressure)** - Comprehensive BP information\n2. **[CDC - High Blood Pressure](https://www.cdc.gov/bloodpressur",
-            "line": 37,
-            "column": 6,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 4564,
-            "excerpt": "UK-based support community\n2. **[American Heart Association Support Network](https://supportnetwork.heart.org/)** - Peer support groups\n3. **[Reddit r/hypertension](https://www.reddit.com/r/hypertension/)** -",
-            "line": 74,
-            "column": 74,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 404,
-            "excerpt": "ning modules, infographics, and handouts available in multiple languages. Check out their resources [here](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources).\n\n2. **Interactive Tools and Protocols**:\n   - The [Target: BP](https://targetbp.org/tools-downloa",
-            "line": 4,
-            "column": 237,
-            "captureDate": "2025-10-10"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2777,
-            "excerpt": "hlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients)[[11]](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
-            "line": 13,
-            "column": 405,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 2885,
-            "excerpt": "www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n- **Hypertension Management Programs**: Structured programs offer coordinated care, home monitor",
-            "line": 13,
-            "column": 513,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3911,
-            "excerpt": "-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure).\n\n**Links to key resources:**\n\n- Million Hearts® Tools: [millionhearts.hhs.gov/tools-protocols/too",
-            "line": 17,
-            "column": 497,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 4929,
-            "excerpt": "lood-pressure/hcp/hmp-toolkit/index.html)  \n- American Heart Association High Blood Pressure Tools: [heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources](https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources)\n\nThese resources collectively support improved hypertension diagnosis, treatment, patient self-man",
-            "line": 25,
-            "column": 57,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 6135,
-            "excerpt": "10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11. https://www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources\n12. https://targetbp.org/tools-downloads/\n13. https://resolvetosavelives.org/blood-pressure-control",
-            "line": 41,
-            "column": 5,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 9,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.07826,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 18,
-        "perplexity_with_search_latest": 14,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 11.67,
-      "influence": 0.44519,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.10727,
-        "anthropic_claude_with_search_latest": 0.02242,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.44519,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.44519
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 11.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.10727
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.02242
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -17546,186 +22384,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 18
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 9,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 9
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "nature.com/articles/s41371-021-00612-6",
-      "link": "nature.com/articles/s41371-021-00612-6",
-      "linkType": "aca",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 591,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 591,
-            "excerpt": "cking outside clinical settings[[1]](https://millionhearts.hhs.gov/tools-protocols/tools.html)[[9]](https://www.nature.com/articles/s41371-021-00612-6). Wearable monitors are emerging, offering continuous and less stressful measurements to improve de",
-            "line": 5,
-            "column": 286,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 3853,
-            "excerpt": "ocols/tools.html)[[3]](https://phti.org/assessment/digital-hypertension-management-solutions/)[[9]](https://www.nature.com/articles/s41371-021-00612-6)[[14]](https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-hi",
-            "line": 17,
-            "column": 439,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 5985,
-            "excerpt": "NSIONAHA.120.14742\n8. https://www.emblemhealth.com/providers/news/hypertension-control-resources\n9. https://www.nature.com/articles/s41371-021-00612-6\n10. https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure\n11.",
-            "line": 39,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02609,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 1,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 1,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -17742,181 +22401,6 @@ window.AppData20251010 = {
         {
           "date": "2025-10-10",
           "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
-      "link": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
-      "linkType": "fin",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3308,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 3308,
-            "excerpt": "control and adherence[[4]](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)[[5]](https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program).\n\nIn summary, managing hypertension effectively involves a combination of **accurate measurement t",
-            "line": 15,
-            "column": 311,
-            "captureDate": "2025-10-10"
-          },
-          {
-            "appearanceOrder": 5622,
-            "excerpt": "sion-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program\n6. https://www.nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications",
-            "line": 35,
-            "column": 4,
-            "captureDate": "2025-10-10"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01739,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15
-      },
-      "appearanceOrder": 15,
-      "influence": 0.33335,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.33335,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.33335
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 15
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 15
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-10",
@@ -17958,23 +22442,23 @@ window.AppData20251010 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.33335,
+      "influence": 0.04173,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.33335,
+      "weightedInfluence": 0.04173,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -17984,7 +22468,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.33335
+          "value": 0.04173
         }
       ],
       "appearanceOrderTrendVals": [
@@ -18549,13 +23033,643 @@ window.AppData20251010 = {
     },
     {
       "type": "link",
+      "value": "sure-and-stroke.pdf",
+      "link": "sure-and-stroke.pdf",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "sh.pdf",
+      "link": "sh.pdf",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "raphic-trad-chinese.pdf",
+      "link": "raphic-trad-chinese.pdf",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "bp-raisers.pdf",
+      "link": "bp-raisers.pdf",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4382
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4382,
+            "excerpt": "se your blood pressure (PDF)](https://www.heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/BP-Raisers.pdf?sc_lang=en)\n\n2. [Tools & Resources - Target:BP](https://targetbp.org/tools-downloads/)\n\nThese tools",
+            "line": 22,
+            "column": 2121,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00278,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.00549
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.01871,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.01871,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01871
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 21
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "index.html",
       "link": "index.html",
       "linkType": "oth",
       "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
+        "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1343,
@@ -18570,6 +23684,20 @@ window.AppData20251010 = {
             "excerpt": "s [Hypertension Management Program Toolkit](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html) is designed to improve patient care, especially among populations at high risk of hypertension, in",
             "line": 11,
             "column": 114,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6073,
+            "excerpt": "ion Management Program (HMP) Toolkit - CDC](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n- Improve the quality of care for the patients they serve. - Reduce the number of patients with u",
+            "line": 32,
+            "column": 114,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 7339,
+            "excerpt": "r undetected high blood pressure [increases the risk](https://www.cdc.gov/high-blood-pressure/about/index.html) of having a stroke, heart attack, vision loss, and kidney disease. **2** In most cases, hypertensi",
+            "line": 38,
+            "column": 374,
             "captureDate": "2025-10-10"
           }
         ],
@@ -18603,52 +23731,52 @@ window.AppData20251010 = {
             "captureDate": "2025-10-10"
           },
           {
-            "appearanceOrder": 5608,
-            "excerpt": "gital-hypertension-management-solutions/\n4. https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html\n5. https://www.fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-",
-            "line": 34,
-            "column": 60,
+            "appearanceOrder": 5858,
+            "excerpt": "nt/digital-hypertension-management-solutions/)\n\n4. [www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html](https://www.cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html)\n\n5. [www.fepblue.org/manage-yo",
+            "line": 37,
+            "column": 53,
             "captureDate": "2025-10-10"
           }
         ]
       },
-      "mentions": 6,
+      "mentions": 9,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.05217,
+      "mentionsAsPercent": 0.025,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
+        "perplexity_with_search_latest": 0.05263,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0.01648
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 7
+        "perplexity_with_search_latest": 8,
+        "openai_chatgpt_with_search_latest": 17
       },
-      "appearanceOrder": 6.5,
-      "influence": 0.38939,
+      "appearanceOrder": 12.5,
+      "influence": 0.07701,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.18657,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0.84648
       },
-      "weightedInfluence": 0.38939,
+      "weightedInfluence": 0.07701,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6
+          "value": 9
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.38939
+          "value": 0.07701
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 6.5
+          "value": 12.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -18670,7 +23798,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 5
+            "value": 6
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18682,7 +23810,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -18695,7 +23823,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.18657
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18707,7 +23835,7 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.84648
           }
         ]
       },
@@ -18720,7 +23848,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 6
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18732,17 +23860,17 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 7
+            "value": 17
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 6,
+      "mentions_change": 9,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-10",
-          "mentions": 6
+          "mentions": 9
         }
       ],
       "lastSeen": "2025-10-10",
@@ -18753,14 +23881,11 @@ window.AppData20251010 = {
       "type": "link",
       "value": "tools.html",
       "link": "tools.html",
-      "linkType": "dev",
-      "sources": {
-        "linkType": "AI"
-      },
+      "linkType": "oth",
       "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
+        "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 574,
@@ -18775,6 +23900,13 @@ window.AppData20251010 = {
             "excerpt": "d at healthcare practices.\n   - The [Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html) campaign offers standardized treatment protocols and guides for clinicians, focusing on environmen",
             "line": 8,
             "column": 74,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5158,
+            "excerpt": "advice of a physician.\n\n3. [Tools | Million Hearts®](https://millionhearts.hhs.gov/tools-protocols/tools.html)\n\nUse standardized treatment protocols to improve hypertension care delivery and patients’ blood pr",
+            "line": 28,
+            "column": 76,
             "captureDate": "2025-10-10"
           }
         ],
@@ -18816,44 +23948,44 @@ window.AppData20251010 = {
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 9,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.06087,
+      "mentionsAsPercent": 0.025,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
+        "perplexity_with_search_latest": 0.0614,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0.01099
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 5
+        "openai_chatgpt_with_search_latest": 13
       },
-      "appearanceOrder": 3.5,
-      "influence": 0.65039,
+      "appearanceOrder": 7.5,
+      "influence": 0.1001,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.34172,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0.26492
       },
-      "weightedInfluence": 0.65039,
+      "weightedInfluence": 0.1001,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 7
+          "value": 9
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.65039
+          "value": 0.1001
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 3.5
+          "value": 7.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -18872,354 +24004,6 @@ window.AppData20251010 = {
         "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.34172
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 7,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 7
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    }
-  ],
-  "linkTypes": [
-    {
-      "type": "linkType",
-      "code": "hlt",
-      "value": "Health & Medical",
-      "mentions": 46,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 17,
-        "anthropic_claude_with_search_latest": 27,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.28814,
-        "anthropic_claude_with_search_latest": 0.5625,
-        "openai_chatgpt_with_search_latest": 0.25
-      },
-      "mentionsAsPercent": 0.4,
-      "appearanceOrder": 20,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
-        "anthropic_claude_with_search_latest": 21,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "influence": 6.01317,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 3.2389,
-        "anthropic_claude_with_search_latest": 21.71486,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "weightedInfluence": 6.01317,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 46
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 6.01317
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 20
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 17
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 27
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3.2389
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 21.71486
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 9
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 21
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 46,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 46
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "aca",
-      "value": "Academic",
-      "mentions": 24,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 18,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.30508,
-        "anthropic_claude_with_search_latest": 0.08333,
-        "openai_chatgpt_with_search_latest": 0.25
-      },
-      "mentionsAsPercent": 0.2087,
-      "appearanceOrder": 8,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 14,
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "influence": 4.44387,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 4.05662,
-        "anthropic_claude_with_search_latest": 2.01164,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "weightedInfluence": 4.44387,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 24
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 4.44387
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 18
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4.05662
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2.01164
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
@@ -19229,290 +24013,44 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 14
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 24,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 24
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "tch",
-      "value": "Tech Companies",
-      "mentions": 8,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.16667,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.06957,
-      "appearanceOrder": 9,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 1.90455,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 1.90455,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1.90455
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
             "value": 0
           }
         ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 8
-          }
-        ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 9
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 8
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "dev",
-      "value": "Developer Tools",
-      "mentions": 8,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "mentionsAsPercent": 0.06957,
-      "appearanceOrder": 6,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "influence": 0.86069,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.34172,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.86069,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.86069
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 6
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
+            "value": 2
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0.34172
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 1
+            "value": 0.26492
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
@@ -19525,309 +24063,13 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 8
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "reg",
-      "value": "Regulatory (US)",
-      "mentions": 6,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "mentionsAsPercent": 0.05217,
-      "appearanceOrder": 3,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "influence": 0.81478,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.40542,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.81478,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 6
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.81478
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.40542
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
             "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 6,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 6
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "chr",
-      "value": "Charity & Non-profit",
-      "mentions": 9,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0.04167,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "mentionsAsPercent": 0.07826,
-      "appearanceOrder": 12,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 14,
-        "anthropic_claude_with_search_latest": 18,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "influence": 0.44519,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.10727,
-        "anthropic_claude_with_search_latest": 0.02242,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.44519,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 9
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.44519
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.10727
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.02242
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 14
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 18
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 3
+            "value": 13
           }
         ]
       },
@@ -19845,185 +24087,61 @@ window.AppData20251010 = {
       "volatility": 0
     },
     {
-      "type": "linkType",
-      "code": "oth",
-      "value": "Other",
-      "mentions": 6,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "mentionsAsPercent": 0.05217,
-      "appearanceOrder": 7,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 7
-      },
-      "influence": 0.38939,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.18657,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.38939,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 6
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 0.38939
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-10",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0.18657
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-10",
-            "value": 7
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 6,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-10",
-          "mentions": 6
-        }
-      ],
-      "lastSeen": "2025-10-10",
-      "firstSeen": "2025-10-10",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "fin",
-      "value": "Financial Services",
-      "mentions": 2,
+      "type": "link",
+      "value": "edhub.ama-assn.org",
+      "link": "edhub.ama-assn.org",
+      "linkType": "oth",
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.01739,
-      "appearanceOrder": 15,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1870,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.33335,
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1870,
+            "excerpt": "care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit)[[10]](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure).\n\n- **Digital Hypertension Management Solutions**: These include connected blood pressure cuffs, v",
+            "line": 9,
+            "column": 442,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6742,
+            "excerpt": "ww.nature.com/articles/s41371-021-00612-6](https://www.nature.com/articles/s41371-021-00612-6)\n\n10. [edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure](https://edhub.ama-assn.org/pages/3-tools-for-students-to-accurately-measure-blood-pressure)\n\n11. [www.heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.00556,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.04657,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.33335,
+      "weightedInfluence": 0.04657,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -20033,13 +24151,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.33335
+          "value": 0.04657
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 15
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -20111,7 +24229,7 @@ window.AppData20251010 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 15
+            "value": 11
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -20139,39 +24257,781 @@ window.AppData20251010 = {
       "lastSeen": "2025-10-10",
       "firstSeen": "2025-10-10",
       "volatility": 0
+    }
+  ],
+  "linkTypes": [
+    {
+      "type": "linkType",
+      "code": "hlt",
+      "value": "Health & Medical",
+      "mentions": 264,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 74,
+        "anthropic_claude_with_search_latest": 41,
+        "openai_chatgpt_with_search_latest": 149
+      },
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.64912,
+        "anthropic_claude_with_search_latest": 0.64063,
+        "openai_chatgpt_with_search_latest": 0.81868
+      },
+      "mentionsAsPercent": 0.73333,
+      "appearanceOrder": 22,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 25,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "influence": 4.48506,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 6.08605,
+        "anthropic_claude_with_search_latest": 18.351469999999996,
+        "openai_chatgpt_with_search_latest": 13
+      },
+      "weightedInfluence": 4.48506,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 264
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4.48506
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 74
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 41
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 149
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6.08605
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 18.351469999999996
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 25
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 264,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 264
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkType",
-      "code": "frm",
-      "value": "Forums",
-      "mentions": 2,
+      "code": "aca",
+      "value": "Academic",
+      "mentions": 46,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 16,
+        "anthropic_claude_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 24
+      },
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.14035,
+        "anthropic_claude_with_search_latest": 0.09375,
+        "openai_chatgpt_with_search_latest": 0.13187
+      },
+      "mentionsAsPercent": 0.12778,
+      "appearanceOrder": 19,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": 28,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "influence": 1.57743,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 3.0449,
+        "anthropic_claude_with_search_latest": 4.01164,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "weightedInfluence": 1.57743,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 46
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1.57743
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 24
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3.0449
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4.01164
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 28
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 46,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 46
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "tch",
+      "value": "Tech Companies",
+      "mentions": 12,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.15625,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "mentionsAsPercent": 0.03333,
+      "appearanceOrder": 14,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 13,
+        "openai_chatgpt_with_search_latest": 20
+      },
+      "influence": 0.32094999999999996,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.32094999999999996,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 12
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.32094999999999996
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 20
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 12,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 12
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "oth",
+      "value": "Other",
+      "mentions": 20,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 15,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.13158,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.02747
+      },
+      "mentionsAsPercent": 0.05556,
+      "appearanceOrder": 10,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 15
+      },
+      "influence": 0.22368,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1.1114
+      },
+      "weightedInfluence": 0.22368,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 20
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22368
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1.1114
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 20,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 20
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "reg",
+      "value": "Regulatory (US)",
+      "mentions": 7,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04386,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "mentionsAsPercent": 0.01944,
+      "appearanceOrder": 7,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 12
+      },
+      "influence": 0.10958,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.24078
+      },
+      "weightedInfluence": 0.10958,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.10958
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.24078
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 12
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 7,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 7
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "chr",
+      "value": "Charity & Non-profit",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "bots": "anthropic_claude_with_search_latest",
+      "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01739,
-      "appearanceOrder": 36,
+      "mentionsAsPercent": 0.00556,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 36,
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.25692000000000004,
+      "influence": 0.05025,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.25692000000000004,
+      "weightedInfluence": 0.05025,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -20181,13 +25041,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.25692000000000004
+          "value": 0.05025
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 36
+          "value": 9
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -20201,21 +25061,21 @@ window.AppData20251010 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20226,21 +25086,21 @@ window.AppData20251010 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 0
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20251,21 +25111,21 @@ window.AppData20251010 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": -1
+            "value": 9
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 36
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20292,10 +25152,10 @@ window.AppData20251010 = {
       "type": "linkType",
       "code": "foo",
       "value": "Food & Dining",
-      "mentions": 2,
+      "mentions": 3,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 0
       },
       "bots": "anthropic_claude_with_search_latest",
@@ -20303,39 +25163,39 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.04688,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01739,
-      "appearanceOrder": 40,
+      "mentionsAsPercent": 0.00833,
+      "appearanceOrder": 48,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 40,
+        "anthropic_claude_with_search_latest": 48,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.24972,
+      "influence": 0.04457,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.24972,
+      "weightedInfluence": 0.04457,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.24972
+          "value": 0.04457
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 40
+          "value": 48
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -20363,7 +25223,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20388,7 +25248,7 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 2
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20413,7 +25273,155 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 40
+            "value": 48
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "fin",
+      "value": "Financial Services",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "mentionsAsPercent": 0.00556,
+      "appearanceOrder": 25,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 25,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "influence": 0.03551,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03551,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03551
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 25
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 25
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20451,23 +25459,23 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.0087,
+      "mentionsAsPercent": 0.00278,
       "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": 6,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.23748,
+      "influence": 0.02973,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23748,
+      "weightedInfluence": 0.02973,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -20477,7 +25485,7 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.23748
+          "value": 0.02973
         }
       ],
       "appearanceOrderTrendVals": [
@@ -20586,8 +25594,8 @@ window.AppData20251010 = {
     },
     {
       "type": "linkType",
-      "code": "smp",
-      "value": "Social Media",
+      "code": "dev",
+      "value": "Developer Tools",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -20599,23 +25607,23 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.0087,
-      "appearanceOrder": 24,
+      "mentionsAsPercent": 0.00278,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 24,
+        "anthropic_claude_with_search_latest": 8,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.14358,
+      "influence": 0.02633,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14358,
+      "weightedInfluence": 0.02633,
       "mentionsTrendVals": [
         {
           "date": "2025-10-10",
@@ -20625,13 +25633,13 @@ window.AppData20251010 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 0.14358
+          "value": 0.02633
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-10",
-          "value": 24
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -20709,7 +25717,303 @@ window.AppData20251010 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-10",
-            "value": 24
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "smp",
+      "value": "Social Media",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "mentionsAsPercent": 0.00278,
+      "appearanceOrder": 33,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 33,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "influence": 0.01641,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01641,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.01641
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 33
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "frm",
+      "value": "Forums",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.01563,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "mentionsAsPercent": 0.00278,
+      "appearanceOrder": 44,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 44,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "influence": 0.0152,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0152,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0152
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 44
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 44
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -20741,102 +26045,436 @@ window.AppData20251010 = {
       "link": "https://heart.org",
       "linkType": "aca",
       "linkTypeName": "Academic",
-      "mentions": 27,
+      "mentions": 230,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 18,
-        "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 3
+        "perplexity_with_search_latest": 60,
+        "anthropic_claude_with_search_latest": 20,
+        "openai_chatgpt_with_search_latest": 150
       },
       "sources": [
         {
           "link": "heart.org/en/health-topics/high-blood-pressure",
-          "mentions": 9,
-          "appearanceOrder": 9.67,
+          "mentions": 23,
+          "appearanceOrder": 10.67,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 16,
-            "perplexity_with_search_latest": 12,
+            "perplexity_with_search_latest": 15,
             "openai_chatgpt_with_search_latest": 1
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 6,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 15
           },
-          "influence": 0.71543,
+          "influence": 1,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.05662,
+            "perplexity_with_search_latest": 0.0449,
             "anthropic_claude_with_search_latest": 0.01164,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.71543
+          "weightedInfluence": 1
         },
         {
           "link": "heart.org/en/health-topics/high-blood-pressure/find-high-blood-pressure-tools--resources",
-          "mentions": 9,
-          "appearanceOrder": 10.67,
+          "mentions": 23,
+          "appearanceOrder": 11.67,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 17,
-            "perplexity_with_search_latest": 13,
+            "perplexity_with_search_latest": 16,
             "openai_chatgpt_with_search_latest": 2
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 6,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 15
           },
-          "influence": 0.51803,
+          "influence": 0.63884,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.08722,
+            "perplexity_with_search_latest": 0.06964,
             "anthropic_claude_with_search_latest": 0.01809,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.51803
+          "weightedInfluence": 0.63884
         },
         {
-          "link": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
-          "mentions": 9,
-          "appearanceOrder": 11.67,
+          "link": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-Is-High-Blood-Pressure.pdf",
+          "mentions": 23,
+          "appearanceOrder": 12.67,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 18,
-            "perplexity_with_search_latest": 14,
+            "perplexity_with_search_latest": 17,
             "openai_chatgpt_with_search_latest": 3
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 6,
             "anthropic_claude_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 15
           },
-          "influence": 0.44519,
+          "influence": 0.51045,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.10727,
+            "perplexity_with_search_latest": 0.08613,
             "anthropic_claude_with_search_latest": 0.02242,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.44519
+          "weightedInfluence": 0.51045
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/Answers-by-Heart/What-About-African-Americans-and-HBP.pdf",
+          "mentions": 23,
+          "appearanceOrder": 13.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 19,
+            "perplexity_with_search_latest": 18,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.44231,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.09815,
+            "anthropic_claude_with_search_latest": 0.02558,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.44231
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-rainbow-chart-English.pdf",
+          "mentions": 23,
+          "appearanceOrder": 14.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 20,
+            "perplexity_with_search_latest": 19,
+            "openai_chatgpt_with_search_latest": 5
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.39912,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.10742,
+            "anthropic_claude_with_search_latest": 0.02801,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.39912
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/BP-Readings-Chart-Simplifed-Chinese.pdf?sc_lang=en",
+          "mentions": 23,
+          "appearanceOrder": 15.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 21,
+            "perplexity_with_search_latest": 20,
+            "openai_chatgpt_with_search_latest": 6
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.36884,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.11479,
+            "anthropic_claude_with_search_latest": 0.02999,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.36884
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Infographic-Spanish.pdf",
+          "mentions": 23,
+          "appearanceOrder": 16.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 22,
+            "perplexity_with_search_latest": 21,
+            "openai_chatgpt_with_search_latest": 7
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.34617,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.12082,
+            "anthropic_claude_with_search_latest": 0.03159,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.34617
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/HBP-Consequences-Simp-Chinese.pdf?sc_lang=en",
+          "mentions": 23,
+          "appearanceOrder": 17.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 23,
+            "perplexity_with_search_latest": 22,
+            "openai_chatgpt_with_search_latest": 8
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.32841,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.12584,
+            "anthropic_claude_with_search_latest": 0.03293,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.32841
+        },
+        {
+          "link": "heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure",
+          "mentions": 23,
+          "appearanceOrder": 18.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 24,
+            "perplexity_with_search_latest": 23,
+            "openai_chatgpt_with_search_latest": 9
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.31404,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.13013,
+            "anthropic_claude_with_search_latest": 0.03409,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.31404
+        },
+        {
+          "link": "heart.org/-/media/Files/Health-Topics/High-Blood-Pressure/Consequences-of-High-Blood-Pressure-infographic.pdf",
+          "mentions": 23,
+          "appearanceOrder": 19.67,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 25,
+            "perplexity_with_search_latest": 24,
+            "openai_chatgpt_with_search_latest": 10
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "influence": 0.3021,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.13379,
+            "anthropic_claude_with_search_latest": 0.03505,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.3021
         }
       ],
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.30508,
-        "anthropic_claude_with_search_latest": 0.125,
-        "openai_chatgpt_with_search_latest": 0.375
+        "perplexity_with_search_latest": 0.52632,
+        "anthropic_claude_with_search_latest": 0.3125,
+        "openai_chatgpt_with_search_latest": 0.82418
       },
-      "appearanceOrder": 9.67,
+      "appearanceOrder": 10.67,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12,
+        "perplexity_with_search_latest": 15,
         "anthropic_claude_with_search_latest": 16,
         "openai_chatgpt_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.23478,
-      "influence": 1.67865,
+      "mentionsAsPercent": 0.63889,
+      "influence": 4.65028,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.25111,
-        "anthropic_claude_with_search_latest": 0.05215,
+        "perplexity_with_search_latest": 1.0316100000000001,
+        "anthropic_claude_with_search_latest": 0.26939,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "weightedInfluence": 4.65028
+    },
+    {
+      "type": "linkDomain",
+      "code": "cdc.gov",
+      "value": "cdc.gov",
+      "link": "https://cdc.gov",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentions": 27,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 12
+      },
+      "sources": [
+        {
+          "link": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
+          "mentions": 9,
+          "appearanceOrder": 15,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 26,
+            "perplexity_with_search_latest": 5,
+            "openai_chatgpt_with_search_latest": 14
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 4,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.08881,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.67868,
+            "anthropic_claude_with_search_latest": 0.07339,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.08881
+        },
+        {
+          "link": "cdc.gov/nchs/products/databriefs/db511.htm",
+          "mentions": 9,
+          "appearanceOrder": 16,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 27,
+            "perplexity_with_search_latest": 6,
+            "openai_chatgpt_with_search_latest": 15
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 4,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.08557,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.6397,
+            "anthropic_claude_with_search_latest": 0.07437,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.08557
+        },
+        {
+          "link": "cdc.gov/high-blood-pressure/about/index.html",
+          "mentions": 9,
+          "appearanceOrder": 17,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 28,
+            "perplexity_with_search_latest": 7,
+            "openai_chatgpt_with_search_latest": 16
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 4,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.08292,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.61182,
+            "anthropic_claude_with_search_latest": 0.0752,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.08292
+        }
+      ],
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.10526,
+        "anthropic_claude_with_search_latest": 0.04688,
+        "openai_chatgpt_with_search_latest": 0.06593
+      },
+      "appearanceOrder": 15,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 26,
+        "openai_chatgpt_with_search_latest": 14
+      },
+      "mentionsAsPercent": 0.075,
+      "influence": 0.2573,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1.9302,
+        "anthropic_claude_with_search_latest": 0.22296,
         "openai_chatgpt_with_search_latest": 3
       },
-      "weightedInfluence": 1.67865
+      "weightedInfluence": 0.2573
+    },
+    {
+      "type": "linkDomain",
+      "code": "ncoa.org",
+      "value": "ncoa.org",
+      "link": "https://ncoa.org",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 8,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "sources": [
+        {
+          "link": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
+          "mentions": 4,
+          "appearanceOrder": 18,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 18
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.07858,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.07858
+        },
+        {
+          "link": "ncoa.org/article/how-to-lower-blood-pressure",
+          "mentions": 4,
+          "appearanceOrder": 19,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 19
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.07724,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.07724
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.04396
+      },
+      "appearanceOrder": 18,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 18
+      },
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.15582000000000001,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "weightedInfluence": 0.15582000000000001
     },
     {
       "type": "linkDomain",
@@ -20864,13 +26502,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 3,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.52529,
+          "influence": 0.06576,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.52529
+          "weightedInfluence": 0.06576
         },
         {
           "link": "amazon.com/Blood-Pressure-Solution-Marlene-Merritt/dp/0996406034",
@@ -20884,13 +26522,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 3,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.51191,
+          "influence": 0.06409,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.51191
+          "weightedInfluence": 0.06409
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20898,21 +26536,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.09375,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 13,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.05217,
-      "influence": 1.0372,
+      "mentionsAsPercent": 0.01667,
+      "influence": 0.12985,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1.0372
+      "weightedInfluence": 0.12985
     },
     {
       "type": "linkDomain",
@@ -20940,20 +26578,20 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 1,
+          "influence": 0.12518,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 1
+          "weightedInfluence": 0.12518
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
+        "perplexity_with_search_latest": 0.02632,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -20961,14 +26599,72 @@ window.AppData20251010 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.02609,
-      "influence": 1,
+      "mentionsAsPercent": 0.00833,
+      "influence": 0.12518,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1
+      "weightedInfluence": 0.12518
+    },
+    {
+      "type": "linkDomain",
+      "code": "millionhearts.hhs.gov",
+      "value": "millionhearts.hhs.gov",
+      "link": "https://millionhearts.hhs.gov",
+      "linkType": "reg",
+      "linkTypeName": "Regulatory (US)",
+      "mentions": 7,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "millionhearts.hhs.gov/tools-protocols/tools.html",
+          "mentions": 7,
+          "appearanceOrder": 6.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 12
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 5,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.10958,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0.24078
+          },
+          "weightedInfluence": 0.10958
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04386,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "appearanceOrder": 6.5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 12
+      },
+      "mentionsAsPercent": 0.01944,
+      "influence": 0.10958,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.24078
+      },
+      "weightedInfluence": 0.10958
     },
     {
       "type": "linkDomain",
@@ -20996,20 +26692,20 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.86134,
+          "influence": 0.10783,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.86134
+          "weightedInfluence": 0.10783
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
+        "perplexity_with_search_latest": 0.02632,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -21017,72 +26713,72 @@ window.AppData20251010 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.02609,
-      "influence": 0.86134,
+      "mentionsAsPercent": 0.00833,
+      "influence": 0.10783,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.86134
+      "weightedInfluence": 0.10783
     },
     {
       "type": "linkDomain",
-      "code": "millionhearts.hhs.gov",
-      "value": "millionhearts.hhs.gov",
-      "link": "https://millionhearts.hhs.gov",
-      "linkType": "reg",
-      "linkTypeName": "Regulatory (US)",
-      "mentions": 6,
+      "code": "tools.html",
+      "value": "tools.html",
+      "link": "https://tools.html",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentions": 9,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
+        "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
-          "link": "millionhearts.hhs.gov/tools-protocols/tools.html",
-          "mentions": 6,
-          "appearanceOrder": 2.5,
+          "link": "tools.html",
+          "mentions": 9,
+          "appearanceOrder": 7.5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 4
+            "perplexity_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 13
           },
           "mentionsByModel": {
-            "perplexity_with_search_latest": 5,
+            "perplexity_with_search_latest": 7,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 2
           },
-          "influence": 0.81478,
+          "influence": 0.1001,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.40542,
+            "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 0.26492
           },
-          "weightedInfluence": 0.81478
+          "weightedInfluence": 0.1001
         }
       ],
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
+        "perplexity_with_search_latest": 0.0614,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0.01099
       },
-      "appearanceOrder": 2.5,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.05217,
-      "influence": 0.81478,
+      "mentionsAsPercent": 0.025,
+      "influence": 0.1001,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.40542,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0.26492
       },
-      "weightedInfluence": 0.81478
+      "weightedInfluence": 0.1001
     },
     {
       "type": "linkDomain",
@@ -21101,44 +26797,44 @@ window.AppData20251010 = {
         {
           "link": "phti.org/assessment/digital-hypertension-management-solutions",
           "mentions": 4,
-          "appearanceOrder": 9,
+          "appearanceOrder": 12,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 9
+            "perplexity_with_search_latest": 12
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 4,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.80272,
+          "influence": 0.09021,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.80272
+          "weightedInfluence": 0.09021
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0678,
+        "perplexity_with_search_latest": 0.03509,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.03478,
-      "influence": 0.80272,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.09021,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.80272
+      "weightedInfluence": 0.09021
     },
     {
       "type": "linkDomain",
@@ -21166,13 +26862,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.66665,
+          "influence": 0.08346,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.66665
+          "weightedInfluence": 0.08346
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21180,21 +26876,79 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 1,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.66665,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.08346,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.66665
+      "weightedInfluence": 0.08346
+    },
+    {
+      "type": "linkDomain",
+      "code": "index.html",
+      "value": "index.html",
+      "link": "https://index.html",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentions": 9,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "sources": [
+        {
+          "link": "index.html",
+          "mentions": 9,
+          "appearanceOrder": 12.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 8,
+            "openai_chatgpt_with_search_latest": 17
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.07701,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0.84648
+          },
+          "weightedInfluence": 0.07701
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01648
+      },
+      "appearanceOrder": 12.5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 8,
+        "openai_chatgpt_with_search_latest": 17
+      },
+      "mentionsAsPercent": 0.025,
+      "influence": 0.07701,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.84648
+      },
+      "weightedInfluence": 0.07701
     },
     {
       "type": "linkDomain",
@@ -21213,125 +26967,67 @@ window.AppData20251010 = {
         {
           "link": "nhlbi.nih.gov/education/dash-eating-plan",
           "mentions": 3,
-          "appearanceOrder": 10,
+          "appearanceOrder": 11.5,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 10,
-            "perplexity_with_search_latest": 10
+            "perplexity_with_search_latest": 13
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 2,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.33641,
+          "influence": 0.03883,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0.34074,
+            "anthropic_claude_with_search_latest": 0.43765,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.33641
+          "weightedInfluence": 0.03883
         },
         {
           "link": "nhlbi.nih.gov/health-topics/education-and-awareness/high-blood-pressure/publications-patients",
           "mentions": 3,
-          "appearanceOrder": 11,
+          "appearanceOrder": 12.5,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 11,
-            "perplexity_with_search_latest": 11
+            "perplexity_with_search_latest": 14
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 2,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.32465,
+          "influence": 0.03777,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0.34057,
+            "anthropic_claude_with_search_latest": 0.43311,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.32465
+          "weightedInfluence": 0.03777
         }
       ],
       "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0678,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "perplexity_with_search_latest": 0.03509,
+        "anthropic_claude_with_search_latest": 0.03125,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 11.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": 13,
         "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.05217,
-      "influence": 0.66106,
+      "mentionsAsPercent": 0.01667,
+      "influence": 0.0766,
       "influenceByModel": {
         "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0.68131,
+        "anthropic_claude_with_search_latest": 0.87076,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.66106
-    },
-    {
-      "type": "linkDomain",
-      "code": "tools.html",
-      "value": "tools.html",
-      "link": "https://tools.html",
-      "linkType": "dev",
-      "linkTypeName": "Developer Tools",
-      "mentions": 7,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "tools.html",
-          "mentions": 7,
-          "appearanceOrder": 3.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 5
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.65039,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.34172,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.65039
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10169,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "appearanceOrder": 3.5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "mentionsAsPercent": 0.06087,
-      "influence": 0.65039,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.34172,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.65039
+      "weightedInfluence": 0.0766
     },
     {
       "type": "linkDomain",
@@ -21350,100 +27046,44 @@ window.AppData20251010 = {
         {
           "link": "mainehealth.org/care-services/heart-care-cardiovascular-care/provider-resources-cardiovascular-care/hypertension-control-toolkit",
           "mentions": 3,
-          "appearanceOrder": 8,
+          "appearanceOrder": 10,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 8
+            "perplexity_with_search_latest": 10
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 3,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.63089,
+          "influence": 0.07236,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.63089
+          "weightedInfluence": 0.07236
         }
       ],
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05085,
+        "perplexity_with_search_latest": 0.02632,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
+        "perplexity_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.02609,
-      "influence": 0.63089,
+      "mentionsAsPercent": 0.00833,
+      "influence": 0.07236,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.63089
-    },
-    {
-      "type": "linkDomain",
-      "code": "resolvetosavelives.org",
-      "value": "resolvetosavelives.org",
-      "link": "https://resolvetosavelives.org",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
-      "mentions": 2,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "sources": [
-        {
-          "link": "resolvetosavelives.org/blood-pressure-control/six-steps",
-          "mentions": 2,
-          "appearanceOrder": 7,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 7
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 2,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.44441,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.44441
-        }
-      ],
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrder": 7,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "mentionsAsPercent": 0.01739,
-      "influence": 0.44441,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.44441
+      "weightedInfluence": 0.07236
     },
     {
       "type": "linkDomain",
@@ -21471,13 +27111,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.42059,
+          "influence": 0.05265,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.42059
+          "weightedInfluence": 0.05265
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21485,139 +27125,133 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.42059,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.05265,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.42059
+      "weightedInfluence": 0.05265
     },
     {
       "type": "linkDomain",
-      "code": "index.html",
-      "value": "index.html",
-      "link": "https://index.html",
+      "code": "resolvetosavelives.org",
+      "value": "resolvetosavelives.org",
+      "link": "https://resolvetosavelives.org",
+      "linkType": "chr",
+      "linkTypeName": "Charity & Non-profit",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "resolvetosavelives.org/blood-pressure-control/six-steps",
+          "mentions": 2,
+          "appearanceOrder": 9,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 9
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 2,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.05025,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.05025
+        }
+      ],
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": 9,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9
+      },
+      "mentionsAsPercent": 0.00556,
+      "influence": 0.05025,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05025
+    },
+    {
+      "type": "linkDomain",
+      "code": "edhub.ama-assn.org",
+      "value": "edhub.ama-assn.org",
+      "link": "https://edhub.ama-assn.org",
       "linkType": "oth",
       "linkTypeName": "Other",
-      "mentions": 6,
+      "mentions": 2,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
+        "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0
       },
       "sources": [
         {
-          "link": "index.html",
-          "mentions": 6,
-          "appearanceOrder": 6.5,
+          "link": "edhub.ama-assn.org",
+          "mentions": 2,
+          "appearanceOrder": 11,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 6,
-            "openai_chatgpt_with_search_latest": 7
+            "perplexity_with_search_latest": 11
           },
           "mentionsByModel": {
-            "perplexity_with_search_latest": 5,
+            "perplexity_with_search_latest": 2,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.38939,
+          "influence": 0.04657,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.18657,
+            "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.38939
+          "weightedInfluence": 0.04657
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08475,
+        "perplexity_with_search_latest": 0.01754,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
+        "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6.5,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 7
+        "perplexity_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.05217,
-      "influence": 0.38939,
+      "mentionsAsPercent": 0.00556,
+      "influence": 0.04657,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.18657,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.38939
-    },
-    {
-      "type": "linkDomain",
-      "code": "cdc.gov",
-      "value": "cdc.gov",
-      "link": "https://cdc.gov",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
-      "mentions": 6,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "cdc.gov/high-blood-pressure/hcp/hmp-toolkit/index.html",
-          "mentions": 6,
-          "appearanceOrder": 10,
-          "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 19,
-            "perplexity_with_search_latest": 5,
-            "openai_chatgpt_with_search_latest": 6
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 4,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.36269,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.15168,
-            "anthropic_claude_with_search_latest": 0.01546,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.36269
-        }
-      ],
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0678,
-        "anthropic_claude_with_search_latest": 0.02083,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "appearanceOrder": 10,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 19,
-        "openai_chatgpt_with_search_latest": 6
-      },
-      "mentionsAsPercent": 0.05217,
-      "influence": 0.36269,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.15168,
-        "anthropic_claude_with_search_latest": 0.01546,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.36269
+      "weightedInfluence": 0.04657
     },
     {
       "type": "linkDomain",
@@ -21645,13 +27279,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 2,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.36029,
+          "influence": 0.04511,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.36029
+          "weightedInfluence": 0.04511
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21659,77 +27293,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04167,
+        "anthropic_claude_with_search_latest": 0.03125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 12,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.01739,
-      "influence": 0.36029,
+      "mentionsAsPercent": 0.00556,
+      "influence": 0.04511,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.36029
-    },
-    {
-      "type": "linkDomain",
-      "code": "fepblue.org",
-      "value": "fepblue.org",
-      "link": "https://fepblue.org",
-      "linkType": "fin",
-      "linkTypeName": "Financial Services",
-      "mentions": 2,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "sources": [
-        {
-          "link": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
-          "mentions": 2,
-          "appearanceOrder": 15,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 15
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 2,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.33335,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 1,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.33335
-        }
-      ],
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0339,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrder": 15,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15
-      },
-      "mentionsAsPercent": 0.01739,
-      "influence": 0.33335,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.33335
+      "weightedInfluence": 0.04511
     },
     {
       "type": "linkDomain",
@@ -21757,13 +27335,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.33335,
+          "influence": 0.04173,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.33335
+          "weightedInfluence": 0.04173
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21771,21 +27349,135 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 3,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.33335,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.04173,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.33335
+      "weightedInfluence": 0.04173
+    },
+    {
+      "type": "linkDomain",
+      "code": "targetbp.org",
+      "value": "targetbp.org",
+      "link": "https://targetbp.org",
+      "linkType": "hlt",
+      "linkTypeName": "Health & Medical",
+      "mentions": 3,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "targetbp.org/tools-downloads",
+          "mentions": 3,
+          "appearanceOrder": 18.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 26,
+            "openai_chatgpt_with_search_latest": 11
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.04154,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.16914,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.04154
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.00877,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "appearanceOrder": 18.5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 26,
+        "openai_chatgpt_with_search_latest": 11
+      },
+      "mentionsAsPercent": 0.00833,
+      "influence": 0.04154,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.16914,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.04154
+    },
+    {
+      "type": "linkDomain",
+      "code": "principledtechnologies.com",
+      "value": "principledtechnologies.com",
+      "link": "https://principledtechnologies.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "principledtechnologies.com/TalkAboutBP-Spanish/0/frontdoor.html",
+          "mentions": 2,
+          "appearanceOrder": 20,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 20
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.038,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.038
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01099
+      },
+      "appearanceOrder": 20,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 20
+      },
+      "mentionsAsPercent": 0.00556,
+      "influence": 0.038,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.038
     },
     {
       "type": "linkDomain",
@@ -21813,13 +27505,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.28709,
+          "influence": 0.03595,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.28709
+          "weightedInfluence": 0.03595
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21827,21 +27519,77 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 4,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.28709,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.03595,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.28709
+      "weightedInfluence": 0.03595
+    },
+    {
+      "type": "linkDomain",
+      "code": "fepblue.org",
+      "value": "fepblue.org",
+      "link": "https://fepblue.org",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "fepblue.org/manage-your-health/managing-specific-conditions/hypertension-management-program",
+          "mentions": 2,
+          "appearanceOrder": 25,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 25
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 2,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.03551,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.03551
+        }
+      ],
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01754,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": 25,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 25
+      },
+      "mentionsAsPercent": 0.00556,
+      "influence": 0.03551,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03551
     },
     {
       "type": "linkDomain",
@@ -21869,13 +27617,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.25787,
+          "influence": 0.03228,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.25787
+          "weightedInfluence": 0.03228
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21883,21 +27631,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 5,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.25787,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.03228,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.25787
+      "weightedInfluence": 0.03228
     },
     {
       "type": "linkDomain",
@@ -21925,13 +27673,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.23748,
+          "influence": 0.02973,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.23748
+          "weightedInfluence": 0.02973
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21939,29 +27687,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.23748,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.02973,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23748
+      "weightedInfluence": 0.02973
     },
     {
       "type": "linkDomain",
       "code": "omronhealthcare.com",
       "value": "omronhealthcare.com",
       "link": "https://omronhealthcare.com",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -21970,7 +27718,7 @@ window.AppData20251010 = {
       },
       "sources": [
         {
-          "link": "omronhealthcare.com/omron-connect/)**",
+          "link": "omronhealthcare.com/omron-connect",
           "mentions": 1,
           "appearanceOrder": 7,
           "appearanceOrderByModel": {
@@ -21981,13 +27729,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.22224,
+          "influence": 0.02781,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.22224
+          "weightedInfluence": 0.02781
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -21995,21 +27743,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 7,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.22224,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.02781,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.22224
+      "weightedInfluence": 0.02781
     },
     {
       "type": "linkDomain",
@@ -22037,13 +27785,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.2103,
+          "influence": 0.02633,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.2103
+          "weightedInfluence": 0.02633
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22051,77 +27799,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 8,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.2103,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.02633,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2103
-    },
-    {
-      "type": "linkDomain",
-      "code": "ncoa.org",
-      "value": "ncoa.org",
-      "link": "https://ncoa.org",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "ncoa.org/product-resources/home-health/best-home-blood-pressure-monitors",
-          "mentions": 1,
-          "appearanceOrder": 8,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 8
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.2103,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.2103
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.125
-      },
-      "appearanceOrder": 8,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.2103,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.2103
+      "weightedInfluence": 0.02633
     },
     {
       "type": "linkDomain",
@@ -22149,13 +27841,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.2007,
+          "influence": 0.02513,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.2007
+          "weightedInfluence": 0.02513
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22163,21 +27855,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 9,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.2007,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.02513,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2007
+      "weightedInfluence": 0.02513
     },
     {
       "type": "linkDomain",
@@ -22205,13 +27897,13 @@ window.AppData20251010 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.16668,
+          "influence": 0.02086,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.16668
+          "weightedInfluence": 0.02086
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22219,21 +27911,77 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 15,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.16668,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.02086,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16668
+      "weightedInfluence": 0.02086
+    },
+    {
+      "type": "linkDomain",
+      "code": "bp-raisers.pdf",
+      "value": "bp-raisers.pdf",
+      "link": "https://bp-raisers.pdf",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "sources": [
+        {
+          "link": "bp-raisers.pdf",
+          "mentions": 1,
+          "appearanceOrder": 21,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 21
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "influence": 0.01871,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.01871
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.00549
+      },
+      "appearanceOrder": 21,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 21
+      },
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01871,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.01871
     },
     {
       "type": "linkDomain",
@@ -22252,22 +28000,22 @@ window.AppData20251010 = {
         {
           "link": "acc.org/Latest-in-Cardiology/Articles/2017/11/08/11/47/Mon-5pm-Guideline-for-High-Blood-Pressure-in-Adults",
           "mentions": 1,
-          "appearanceOrder": 20,
+          "appearanceOrder": 29,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 20
+            "anthropic_claude_with_search_latest": 29
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1518,
+          "influence": 0.01701,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1518
+          "weightedInfluence": 0.01701
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22275,21 +28023,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 20,
+      "appearanceOrder": 29,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 20
+        "anthropic_claude_with_search_latest": 29
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.1518,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01701,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1518
+      "weightedInfluence": 0.01701
     },
     {
       "type": "linkDomain",
@@ -22308,22 +28056,22 @@ window.AppData20251010 = {
         {
           "link": "silversneakers.com",
           "mentions": 1,
-          "appearanceOrder": 21,
+          "appearanceOrder": 30,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 21
+            "anthropic_claude_with_search_latest": 30
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14952,
+          "influence": 0.01685,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14952
+          "weightedInfluence": 0.01685
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22331,29 +28079,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 21,
+      "appearanceOrder": 30,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 21
+        "anthropic_claude_with_search_latest": 30
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14952,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01685,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14952
+      "weightedInfluence": 0.01685
     },
     {
       "type": "linkDomain",
       "code": "fitbit.com",
       "value": "fitbit.com",
       "link": "https://fitbit.com",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -22362,24 +28110,24 @@ window.AppData20251010 = {
       },
       "sources": [
         {
-          "link": "fitbit.com/)**",
+          "link": "fitbit.com",
           "mentions": 1,
-          "appearanceOrder": 22,
+          "appearanceOrder": 31,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 22
+            "anthropic_claude_with_search_latest": 31
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14736,
+          "influence": 0.0167,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14736
+          "weightedInfluence": 0.0167
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22387,21 +28135,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 22,
+      "appearanceOrder": 31,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 22
+        "anthropic_claude_with_search_latest": 31
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14736,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.0167,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14736
+      "weightedInfluence": 0.0167
     },
     {
       "type": "linkDomain",
@@ -22420,22 +28168,22 @@ window.AppData20251010 = {
         {
           "link": "onepeloton.com/app",
           "mentions": 1,
-          "appearanceOrder": 23,
+          "appearanceOrder": 32,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 23
+            "anthropic_claude_with_search_latest": 32
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14538,
+          "influence": 0.01655,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14538
+          "weightedInfluence": 0.01655
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22443,21 +28191,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 23,
+      "appearanceOrder": 32,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 23
+        "anthropic_claude_with_search_latest": 32
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14538,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01655,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14538
+      "weightedInfluence": 0.01655
     },
     {
       "type": "linkDomain",
@@ -22476,22 +28224,22 @@ window.AppData20251010 = {
         {
           "link": "youtube.com/results?search_query=cardio+exercises+for+hypertension",
           "mentions": 1,
-          "appearanceOrder": 24,
+          "appearanceOrder": 33,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 24
+            "anthropic_claude_with_search_latest": 33
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14358,
+          "influence": 0.01641,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14358
+          "weightedInfluence": 0.01641
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22499,21 +28247,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 24,
+      "appearanceOrder": 33,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 24
+        "anthropic_claude_with_search_latest": 33
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14358,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01641,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14358
+      "weightedInfluence": 0.01641
     },
     {
       "type": "linkDomain",
@@ -22532,22 +28280,22 @@ window.AppData20251010 = {
         {
           "link": "calm.com",
           "mentions": 1,
-          "appearanceOrder": 25,
+          "appearanceOrder": 34,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 25
+            "anthropic_claude_with_search_latest": 34
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14184,
+          "influence": 0.01628,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14184
+          "weightedInfluence": 0.01628
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22555,21 +28303,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 25,
+      "appearanceOrder": 34,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 25
+        "anthropic_claude_with_search_latest": 34
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14184,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01628,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14184
+      "weightedInfluence": 0.01628
     },
     {
       "type": "linkDomain",
@@ -22588,22 +28336,22 @@ window.AppData20251010 = {
         {
           "link": "breathwrk.com",
           "mentions": 1,
-          "appearanceOrder": 26,
+          "appearanceOrder": 35,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 26
+            "anthropic_claude_with_search_latest": 35
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14022,
+          "influence": 0.01614,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14022
+          "weightedInfluence": 0.01614
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22611,21 +28359,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 26,
+      "appearanceOrder": 35,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 26
+        "anthropic_claude_with_search_latest": 35
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.14022,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01614,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14022
+      "weightedInfluence": 0.01614
     },
     {
       "type": "linkDomain",
@@ -22644,22 +28392,22 @@ window.AppData20251010 = {
         {
           "link": "khealth.com",
           "mentions": 1,
-          "appearanceOrder": 27,
+          "appearanceOrder": 36,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 27
+            "anthropic_claude_with_search_latest": 36
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13866,
+          "influence": 0.01603,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13866
+          "weightedInfluence": 0.01603
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22667,21 +28415,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 27,
+      "appearanceOrder": 36,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 27
+        "anthropic_claude_with_search_latest": 36
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13866,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01603,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13866
+      "weightedInfluence": 0.01603
     },
     {
       "type": "linkDomain",
@@ -22700,22 +28448,22 @@ window.AppData20251010 = {
         {
           "link": "plushcare.com",
           "mentions": 1,
-          "appearanceOrder": 28,
+          "appearanceOrder": 37,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 28
+            "anthropic_claude_with_search_latest": 37
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13722,
+          "influence": 0.01589,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13722
+          "weightedInfluence": 0.01589
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22723,21 +28471,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 28,
+      "appearanceOrder": 37,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 28
+        "anthropic_claude_with_search_latest": 37
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13722,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01589,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13722
+      "weightedInfluence": 0.01589
     },
     {
       "type": "linkDomain",
@@ -22756,22 +28504,22 @@ window.AppData20251010 = {
         {
           "link": "doctorondemand.com",
           "mentions": 1,
-          "appearanceOrder": 29,
+          "appearanceOrder": 38,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 29
+            "anthropic_claude_with_search_latest": 38
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13584,
+          "influence": 0.0158,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13584
+          "weightedInfluence": 0.0158
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22779,21 +28527,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 29,
+      "appearanceOrder": 38,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 29
+        "anthropic_claude_with_search_latest": 38
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13584,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.0158,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13584
+      "weightedInfluence": 0.0158
     },
     {
       "type": "linkDomain",
@@ -22812,22 +28560,22 @@ window.AppData20251010 = {
         {
           "link": "goodrx.com",
           "mentions": 1,
-          "appearanceOrder": 30,
+          "appearanceOrder": 39,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 30
+            "anthropic_claude_with_search_latest": 39
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13458,
+          "influence": 0.01568,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13458
+          "weightedInfluence": 0.01568
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22835,21 +28583,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 30,
+      "appearanceOrder": 39,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 30
+        "anthropic_claude_with_search_latest": 39
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13458,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01568,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13458
+      "weightedInfluence": 0.01568
     },
     {
       "type": "linkDomain",
@@ -22868,22 +28616,22 @@ window.AppData20251010 = {
         {
           "link": "pillpack.com",
           "mentions": 1,
-          "appearanceOrder": 31,
+          "appearanceOrder": 40,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 31
+            "anthropic_claude_with_search_latest": 40
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13332,
+          "influence": 0.01559,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13332
+          "weightedInfluence": 0.01559
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22891,21 +28639,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 31,
+      "appearanceOrder": 40,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 31
+        "anthropic_claude_with_search_latest": 40
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13332,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01559,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13332
+      "weightedInfluence": 0.01559
     },
     {
       "type": "linkDomain",
@@ -22922,24 +28670,24 @@ window.AppData20251010 = {
       },
       "sources": [
         {
-          "link": "mangohealth.com/)**",
+          "link": "mangohealth.com",
           "mentions": 1,
-          "appearanceOrder": 32,
+          "appearanceOrder": 41,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 32
+            "anthropic_claude_with_search_latest": 41
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13218,
+          "influence": 0.01547,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13218
+          "weightedInfluence": 0.01547
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -22947,21 +28695,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 32,
+      "appearanceOrder": 41,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 32
+        "anthropic_claude_with_search_latest": 41
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13218,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01547,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13218
+      "weightedInfluence": 0.01547
     },
     {
       "type": "linkDomain",
@@ -22980,22 +28728,22 @@ window.AppData20251010 = {
         {
           "link": "bloodpressureuk.org",
           "mentions": 1,
-          "appearanceOrder": 33,
+          "appearanceOrder": 42,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 33
+            "anthropic_claude_with_search_latest": 42
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13104,
+          "influence": 0.01537,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13104
+          "weightedInfluence": 0.01537
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23003,29 +28751,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 33,
+      "appearanceOrder": 42,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 33
+        "anthropic_claude_with_search_latest": 42
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.13104,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01537,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13104
+      "weightedInfluence": 0.01537
     },
     {
       "type": "linkDomain",
       "code": "supportnetwork.heart.org",
       "value": "supportnetwork.heart.org",
       "link": "https://supportnetwork.heart.org",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -23034,24 +28782,24 @@ window.AppData20251010 = {
       },
       "sources": [
         {
-          "link": "supportnetwork.heart.org/)**",
+          "link": "supportnetwork.heart.org",
           "mentions": 1,
-          "appearanceOrder": 34,
+          "appearanceOrder": 43,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 34
+            "anthropic_claude_with_search_latest": 43
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12996,
+          "influence": 0.01528,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12996
+          "weightedInfluence": 0.01528
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23059,21 +28807,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 34,
+      "appearanceOrder": 43,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 34
+        "anthropic_claude_with_search_latest": 43
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12996,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01528,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12996
+      "weightedInfluence": 0.01528
     },
     {
       "type": "linkDomain",
@@ -23092,22 +28840,22 @@ window.AppData20251010 = {
         {
           "link": "reddit.com/r/hypertension",
           "mentions": 1,
-          "appearanceOrder": 35,
+          "appearanceOrder": 44,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 35
+            "anthropic_claude_with_search_latest": 44
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12894,
+          "influence": 0.0152,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12894
+          "weightedInfluence": 0.0152
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23115,29 +28863,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 35,
+      "appearanceOrder": 44,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 35
+        "anthropic_claude_with_search_latest": 44
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12894,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.0152,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12894
+      "weightedInfluence": 0.0152
     },
     {
       "type": "linkDomain",
       "code": "inspire.com",
       "value": "inspire.com",
       "link": "https://inspire.com",
-      "linkType": "frm",
-      "linkTypeName": "Forums",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -23146,24 +28894,24 @@ window.AppData20251010 = {
       },
       "sources": [
         {
-          "link": "inspire.com/)**",
+          "link": "inspire.com",
           "mentions": 1,
-          "appearanceOrder": 36,
+          "appearanceOrder": 45,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 36
+            "anthropic_claude_with_search_latest": 45
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12798,
+          "influence": 0.01511,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12798
+          "weightedInfluence": 0.01511
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23171,21 +28919,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 36,
+      "appearanceOrder": 45,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 36
+        "anthropic_claude_with_search_latest": 45
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12798,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01511,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12798
+      "weightedInfluence": 0.01511
     },
     {
       "type": "linkDomain",
@@ -23204,22 +28952,22 @@ window.AppData20251010 = {
         {
           "link": "welchallyn.com",
           "mentions": 1,
-          "appearanceOrder": 37,
+          "appearanceOrder": 46,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 37
+            "anthropic_claude_with_search_latest": 46
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12702,
+          "influence": 0.01503,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12702
+          "weightedInfluence": 0.01503
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23227,29 +28975,29 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 37,
+      "appearanceOrder": 46,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 37
+        "anthropic_claude_with_search_latest": 46
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12702,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01503,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12702
+      "weightedInfluence": 0.01503
     },
     {
       "type": "linkDomain",
       "code": "adctoday.com",
       "value": "adctoday.com",
       "link": "https://adctoday.com",
-      "linkType": "hlt",
-      "linkTypeName": "Health & Medical",
+      "linkType": "foo",
+      "linkTypeName": "Food & Dining",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -23260,22 +29008,22 @@ window.AppData20251010 = {
         {
           "link": "adctoday.com",
           "mentions": 1,
-          "appearanceOrder": 38,
+          "appearanceOrder": 47,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 38
+            "anthropic_claude_with_search_latest": 47
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12612,
+          "influence": 0.01493,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12612
+          "weightedInfluence": 0.01493
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23283,21 +29031,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 38,
+      "appearanceOrder": 47,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 38
+        "anthropic_claude_with_search_latest": 47
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12612,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01493,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12612
+      "weightedInfluence": 0.01493
     },
     {
       "type": "linkDomain",
@@ -23316,22 +29064,22 @@ window.AppData20251010 = {
         {
           "link": "nusalt.com",
           "mentions": 1,
-          "appearanceOrder": 39,
+          "appearanceOrder": 48,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 39
+            "anthropic_claude_with_search_latest": 48
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12528,
+          "influence": 0.01486,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12528
+          "weightedInfluence": 0.01486
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23339,21 +29087,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 39,
+      "appearanceOrder": 48,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 39
+        "anthropic_claude_with_search_latest": 48
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12528,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01486,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12528
+      "weightedInfluence": 0.01486
     },
     {
       "type": "linkDomain",
@@ -23372,22 +29120,22 @@ window.AppData20251010 = {
         {
           "link": "mrsdash.com",
           "mentions": 1,
-          "appearanceOrder": 40,
+          "appearanceOrder": 49,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 40
+            "anthropic_claude_with_search_latest": 49
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12444,
+          "influence": 0.01478,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12444
+          "weightedInfluence": 0.01478
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -23395,21 +29143,21 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.02083,
+        "anthropic_claude_with_search_latest": 0.01563,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 40,
+      "appearanceOrder": 49,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 40
+        "anthropic_claude_with_search_latest": 49
       },
-      "mentionsAsPercent": 0.0087,
-      "influence": 0.12444,
+      "mentionsAsPercent": 0.00278,
+      "influence": 0.01478,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12444
+      "weightedInfluence": 0.01478
     },
     {
       "type": "linkDomain",
@@ -23542,21 +29290,153 @@ window.AppData20251010 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "sure-and-stroke.pdf",
+      "value": "sure-and-stroke.pdf",
+      "link": "https://sure-and-stroke.pdf",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "sure-and-stroke.pdf",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "sh.pdf",
+      "value": "sh.pdf",
+      "link": "https://sh.pdf",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "sh.pdf",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "raphic-trad-chinese.pdf",
+      "value": "raphic-trad-chinese.pdf",
+      "link": "https://raphic-trad-chinese.pdf",
+      "linkType": "aca",
+      "linkTypeName": "Academic",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "raphic-trad-chinese.pdf",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
     }
   ],
   "totalDates": [
     "2025-10-10"
   ],
-  "totalDataPoints": 175,
-  "totalTimeSaved": "15",
+  "totalDataPoints": 205,
+  "totalTimeSaved": "18",
   "totalCounts": {
     "bots": 3,
     "linkTypes": 12,
-    "products": 29,
-    "organizations": 8,
+    "products": 34,
+    "organizations": 9,
     "people": 0,
     "places": 0,
-    "links": 53,
+    "links": 70,
     "keywords": 20,
     "events": 0
   },
@@ -23564,7 +29444,7 @@ window.AppData20251010 = {
     "products": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 29
+        "count": 34
       },
       {
         "id": "perplexity_with_search_latest",
@@ -23581,11 +29461,11 @@ window.AppData20251010 = {
         "count": 7
       },
       {
-        "id": "perplexity_with_search_latest",
-        "count": 3
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 4
       },
       {
-        "id": "openai_chatgpt_with_search_latest",
+        "id": "perplexity_with_search_latest",
         "count": 3
       }
     ],
@@ -23620,15 +29500,15 @@ window.AppData20251010 = {
     "links": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 40
+        "count": 49
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 15
+        "count": 26
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 8
+        "count": 21
       }
     ],
     "keywords": [
@@ -23637,12 +29517,12 @@ window.AppData20251010 = {
         "count": 14
       },
       {
-        "id": "openai_chatgpt_with_search_latest",
-        "count": 5
+        "id": "perplexity_with_search_latest",
+        "count": 8
       },
       {
-        "id": "perplexity_with_search_latest",
-        "count": 4
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 6
       }
     ],
     "events": [
@@ -23670,13 +29550,13 @@ window.AppData20251010 = {
     "products": [
       {
         "id": "999",
-        "count": 29
+        "count": 34
       }
     ],
     "organizations": [
       {
         "id": "999",
-        "count": 8
+        "count": 9
       }
     ],
     "people": [],
@@ -23684,11 +29564,11 @@ window.AppData20251010 = {
     "links": [
       {
         "id": "999",
-        "count": 50
+        "count": 64
       },
       {
         "id": "-9999",
-        "count": 3
+        "count": 6
       }
     ],
     "keywords": [

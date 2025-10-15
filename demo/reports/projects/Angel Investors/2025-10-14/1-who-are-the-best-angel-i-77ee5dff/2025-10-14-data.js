@@ -2,7 +2,7 @@ window.AppData20251014 = {
   "report_question": "Who are the best angel investors in the world?",
   "report_date": "2025-10-14",
   "report_question_id": "1-who-are-the-best-angel-i-77ee5dff",
-  "report_created_at": "Oct 14, 2025, 5:52:26 PM",
+  "report_created_at": "Oct 15, 2025, 8:59:19 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -28,6 +28,16 @@ window.AppData20251014 = {
     {
       "value": "Andreessen Horowitz",
       "type": "organization",
+      "sources": [
+        {
+          "url": "a16z.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -63,10 +73,10 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0625,
+      "mentionsAsPercent": 0.07407,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05882,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "perplexity_with_search_latest": 0.1,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -74,13 +84,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 1
       },
       "appearanceOrder": 3,
-      "influence": 0.31504,
+      "influence": 0.43012,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.56743,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.31504,
+      "weightedInfluence": 0.43012,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -90,7 +100,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.31504
+          "value": 0.43012
         }
       ],
       "appearanceOrderTrendVals": [
@@ -201,6 +211,32 @@ window.AppData20251014 = {
     {
       "value": "AngelList",
       "type": "organization",
+      "sources": [
+        {
+          "url": "angellist.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "angel.co/naval",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 2,
@@ -250,10 +286,10 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.125,
+      "mentionsAsPercent": 0.14815,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11765,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "perplexity_with_search_latest": 0.2,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -261,13 +297,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.73247,
+      "influence": 1,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.68178,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.73247,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -277,7 +313,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.73247
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
@@ -388,6 +424,12 @@ window.AppData20251014 = {
     {
       "value": "SV Angel",
       "type": "organization",
+      "sources": [
+        {
+          "url": "svangel.com",
+          "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -423,24 +465,24 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0625,
+      "mentionsAsPercent": 0.07407,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05882,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "perplexity_with_search_latest": 0.1,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
+        "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 3
       },
-      "appearanceOrder": 6,
-      "influence": 0.2041,
+      "appearanceOrder": 4.5,
+      "influence": 0.31125,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.88307,
-        "anthropic_claude_with_search_latest": 1,
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.95676,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2041,
+      "weightedInfluence": 0.31125,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -450,13 +492,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.2041
+          "value": 0.31125
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 6
+          "value": 4.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -503,13 +545,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.88307
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0.95676
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -528,7 +570,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 9
+            "value": 6
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -561,6 +603,16 @@ window.AppData20251014 = {
     {
       "value": "PayPal",
       "type": "organization",
+      "sources": [
+        {
+          "url": "paypal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "palantir.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 2,
@@ -603,10 +655,10 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.09375,
+      "mentionsAsPercent": 0.11111,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05882,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "perplexity_with_search_latest": 0.1,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -614,13 +666,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 2.5,
-      "influence": 0.56002,
+      "influence": 0.76455,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.58743,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.56002,
+      "weightedInfluence": 0.76455,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -630,7 +682,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.56002
+          "value": 0.76455
         }
       ],
       "appearanceOrderTrendVals": [
@@ -741,6 +793,16 @@ window.AppData20251014 = {
     {
       "value": "Palantir",
       "type": "organization",
+      "sources": [
+        {
+          "url": "palantir.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "paypal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -768,23 +830,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
+      "mentionsAsPercent": 0.03704,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.22455,
+      "influence": 0.30657,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.22455,
+      "weightedInfluence": 0.30657,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -794,7 +856,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.22455
+          "value": 0.30657
         }
       ],
       "appearanceOrderTrendVals": [
@@ -905,6 +967,12 @@ window.AppData20251014 = {
     {
       "value": "LinkedIn",
       "type": "organization",
+      "sources": [
+        {
+          "url": "linkedin.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -939,23 +1007,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0625,
+      "mentionsAsPercent": 0.07407,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.41353,
+      "influence": 0.56457,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.41353,
+      "weightedInfluence": 0.56457,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -965,7 +1033,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.41353
+          "value": 0.56457
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1074,83 +1142,80 @@ window.AppData20251014 = {
       "link": "https://www.linkedin.com/"
     },
     {
-      "value": "Lowercase Capital",
+      "value": "Greylock Partners",
       "type": "organization",
+      "sources": [
+        {
+          "url": "greylock.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1651,
-        "anthropic_claude_with_search_latest": 1303,
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1020,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1303,
-            "excerpt": ". Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n###",
-            "line": 28,
-            "column": 13,
+            "appearanceOrder": 1020,
+            "excerpt": "ttps://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https://greylock.com/).\n\n## Other Notable Angel Investors\n\n### 6. **Elad Gil**\nVP at Twitter, inve",
+            "line": 20,
+            "column": 127,
             "captureDate": "2025-10-14"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1651,
-            "excerpt": "w.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Instagram, building a venture empire with a strong med",
-            "line": 9,
-            "column": 31,
-            "captureDate": "2025-10-14"
-          }
-        ]
+        "perplexity_with_search_latest": []
       },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.0625,
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03704,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05882,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 7
       },
-      "appearanceOrder": 5,
-      "influence": 0.26565,
+      "appearanceOrder": 7,
+      "influence": 0.26418,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.45428,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.26565,
+      "weightedInfluence": 0.26418,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.26565
+          "value": 0.26418
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 5
+          "value": 7
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 1
         }
       ],
       "mentionsTrend": 999,
@@ -1158,7 +1223,7 @@ window.AppData20251014 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -1166,7 +1231,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -1183,7 +1248,7 @@ window.AppData20251014 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -1191,13 +1256,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.45428
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -1208,7 +1273,7 @@ window.AppData20251014 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -1216,7 +1281,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -1233,170 +1298,6 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://lowercasecapital.com/"
-    },
-    {
-      "value": "Wellville",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1462,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1462,
-            "excerpt": "vestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **D",
-            "line": 31,
-            "column": 23,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.18313,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.18313,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.18313
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
       "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
@@ -1408,339 +1309,17 @@ window.AppData20251014 = {
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "https://wellville.net/"
-    },
-    {
-      "value": "500 Startups",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1597,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1597,
-            "excerpt": "Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invested in over 2,000 companies including Credit Karma, Twilio, and Wildfire.",
-            "line": 34,
-            "column": 13,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
-      },
-      "appearanceOrder": 9,
-      "influence": 0.17475,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.17475,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.17475
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 9
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://500.co/"
-    },
-    {
-      "value": "DST Global",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1939,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1939,
-            "excerpt": "ast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **",
-            "line": 42,
-            "column": 13,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
-      },
-      "appearanceOrder": 10,
-      "influence": 0.1678,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1678,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.1678
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 10
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 10
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://dst-global.com/"
+      "link": "https://greylock.com/"
     },
     {
       "value": "Horizons Ventures",
       "type": "organization",
+      "sources": [
+        {
+          "url": "horizonsventures.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1768,187 +1347,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
+      "mentionsAsPercent": 0.03704,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
-      },
-      "appearanceOrder": 11,
-      "influence": 0.16193,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.16193,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.16193
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 11
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://www.horizonsventures.com/"
-    },
-    {
-      "value": "SoftBank",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2225,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2225,
-            "excerpt": ", invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key R",
-            "line": 48,
-            "column": 13,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.15687,
+      "influence": 0.21417,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15687,
+      "weightedInfluence": 0.21417,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -1958,7 +1373,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.15687
+          "value": 0.21417
         }
       ],
       "appearanceOrderTrendVals": [
@@ -2064,24 +1479,390 @@ window.AppData20251014 = {
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
+      "link": "https://www.horizonsventures.com/"
+    },
+    {
+      "value": "SoftBank",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "softbank.jp/en",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2225,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2225,
+            "excerpt": ", invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key R",
+            "line": 48,
+            "column": 13,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03704,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.0625,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.20815,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.20815,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.20815
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "link": "https://www.softbank.jp/en/"
+    },
+    {
+      "value": "500 Startups",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "500.co",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1597,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1597,
+            "excerpt": "Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invested in over 2,000 companies including Credit Karma, Twilio, and Wildfire.",
+            "line": 34,
+            "column": 13,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03704,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.0625,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.22907,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.22907,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.22907
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
+      "link": "https://500.co/"
     },
     {
       "value": "Y Combinator",
       "type": "organization",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "ycombinator.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2331,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 4170
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4170,
+            "excerpt": "the world](https://www.areteindex.com/angels/)\n\nPaul is the Co-Founder and serves as a Partner for Y Combinator. Kevin Moore is an Angel Investor from United States of America. Prominent investment areas are Foo",
+            "line": 29,
+            "column": 52,
+            "captureDate": "2025-10-14"
+          }
+        ],
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 2331,
@@ -2113,49 +1894,50 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.125,
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.18519,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.23529,
+        "perplexity_with_search_latest": 0.4,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4
+        "perplexity_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "appearanceOrder": 4,
-      "influence": 1,
+      "appearanceOrder": 2.5,
+      "influence": 0.89171,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0.09024,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.89171,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 0.89171
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 4
+          "value": 2.5
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 2
         }
       ],
       "mentionsTrend": 999,
@@ -2165,7 +1947,7 @@ window.AppData20251014 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -2183,20 +1965,20 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0.09024
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -2208,14 +1990,14 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -2228,6 +2010,193 @@ window.AppData20251014 = {
           {
             "date": "2025-10-14",
             "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
+      "link": "https://www.ycombinator.com"
+    },
+    {
+      "value": "Lowercase Capital",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "lowercasecapital.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1651,
+        "anthropic_claude_with_search_latest": 1303,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1303,
+            "excerpt": ". Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n###",
+            "line": 28,
+            "column": 13,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1651,
+            "excerpt": "w.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Instagram, building a venture empire with a strong med",
+            "line": 9,
+            "column": 31,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.07407,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.1,
+        "anthropic_claude_with_search_latest": 0.0625,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 5.5,
+      "influence": 0.35908,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.43032,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.35908,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.35908
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.43032
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2238,66 +2207,72 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 4
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "https://www.ycombinator.com"
+      "link": "https://lowercasecapital.com/"
     },
     {
-      "value": "Mark Cuban Companies",
+      "value": "Wellville",
       "type": "organization",
+      "sources": [
+        {
+          "url": "wellville.net",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4580,
-        "anthropic_claude_with_search_latest": -1,
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1462,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
+        "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4580,
-            "excerpt": "ngel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycomb",
-            "line": 29,
-            "column": 16,
+            "appearanceOrder": 1462,
+            "excerpt": "vestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **D",
+            "line": 31,
+            "column": 23,
             "captureDate": "2025-10-14"
           }
-        ]
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
       },
       "mentions": 1,
-      "bots": "perplexity_with_search_latest",
+      "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03125,
+      "mentionsAsPercent": 0.03704,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.05882,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 9
       },
-      "appearanceOrder": 10,
-      "influence": 0.1678,
+      "appearanceOrder": 9,
+      "influence": 0.23858,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1678,
+      "weightedInfluence": 0.23858,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -2307,13 +2282,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1678
+          "value": 0.23858
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 10
+          "value": 9
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2327,21 +2302,21 @@ window.AppData20251014 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2352,21 +2327,21 @@ window.AppData20251014 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2377,21 +2352,21 @@ window.AppData20251014 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 9
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2413,78 +2388,77 @@ window.AppData20251014 = {
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "https://markcubancompanies.com"
+      "link": "https://wellville.net/"
     },
     {
-      "value": "Tech Coast Angels",
+      "value": "DST Global",
       "type": "organization",
+      "sources": [
+        {
+          "url": "dst-global.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3639,
-        "anthropic_claude_with_search_latest": -1,
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1939,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
+        "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3639,
-            "excerpt": "ital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-quality angel inves",
-            "line": 21,
-            "column": 87,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 4761,
-            "excerpt": "nator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https:/",
-            "line": 32,
-            "column": 3,
+            "appearanceOrder": 1939,
+            "excerpt": "ast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **",
+            "line": 42,
+            "column": 13,
             "captureDate": "2025-10-14"
           }
-        ]
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
       },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0625,
+      "mentionsAsPercent": 0.03704,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11765,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.0625,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 11
       },
-      "appearanceOrder": 6,
-      "influence": 0.41353,
+      "appearanceOrder": 11,
+      "influence": 0.22106,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.41353,
+      "weightedInfluence": 0.22106,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.41353
+          "value": 0.22106
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 6
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2498,21 +2472,21 @@ window.AppData20251014 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 2
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2523,21 +2497,21 @@ window.AppData20251014 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2548,21 +2522,21 @@ window.AppData20251014 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 6
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -2573,370 +2547,46 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 2
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "techcoastangels.com"
-    },
-    {
-      "value": "Golden Seeds",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3658,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 3658,
-            "excerpt": "tartup founders looking to connect with experienced angel investors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-quality angel investors across in",
-            "line": 21,
-            "column": 106,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 4839,
-            "excerpt": "tps://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://ww",
-            "line": 33,
-            "column": 3,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0625,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11765,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.38699,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.38699,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.38699
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "goldenseeds.com"
-    },
-    {
-      "value": "New York Angels",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3676,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 3676,
-            "excerpt": "oking to connect with experienced angel investors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-quality angel investors across industries and geograph",
-            "line": 21,
-            "column": 124,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 4904,
-            "excerpt": "tps://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# Citations\n\n1. https://eqvista.com/top-100-ac",
-            "line": 34,
-            "column": 3,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.0625,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11765,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.36623,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.36623,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.36623
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "newyorkangels.com"
+      "link": "https://dst-global.com/"
     }
   ],
   "persons": [
     {
       "value": "Marc Andreessen",
       "type": "person",
+      "sources": [
+        {
+          "url": "a16z.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 3352,
@@ -2960,6 +2610,20 @@ window.AppData20251014 = {
             "line": 3,
             "column": 239,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2273,
+            "excerpt": "024!) based on what matters—the success of their portfolio. Some of the angels on this list such as Marc Andreessen and Chris Sacca are well-known, while others are sure to surprise you! Ready to jump in? Let's go!",
+            "line": 17,
+            "column": 411,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4789,
+            "excerpt": "24!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-know",
+            "line": 33,
+            "column": 270,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": [
@@ -2972,45 +2636,45 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 3,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.08108,
+      "mentionsAsPercent": 0.12195,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04762,
+        "perplexity_with_search_latest": 0.05,
         "anthropic_claude_with_search_latest": 0.07692,
-        "openai_chatgpt_with_search_latest": 0.33333
+        "openai_chatgpt_with_search_latest": 0.375
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
+        "perplexity_with_search_latest": 8,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 1
       },
-      "appearanceOrder": 3.67,
-      "influence": 0.37459,
+      "appearanceOrder": 3.33,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.01577,
+        "perplexity_with_search_latest": 0.01652,
         "anthropic_claude_with_search_latest": 0.07143,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.37459,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.37459
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3.67
+          "value": 3.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -3044,7 +2708,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -3057,7 +2721,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.01577
+            "value": 0.01652
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -3082,7 +2746,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 9
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -3099,25 +2763,48 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 3
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      }
+      "link": "https://a16z.com/author/marc-andreessen/"
     },
     {
       "value": "Naval Ravikant",
       "type": "person",
+      "sources": [
+        {
+          "url": "angellist.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "angel.co/naval",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 1,
@@ -3167,9 +2854,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.10811,
+      "mentionsAsPercent": 0.09756,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14286,
+        "perplexity_with_search_latest": 0.15,
         "anthropic_claude_with_search_latest": 0.07692,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -3178,13 +2865,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.66485,
+      "influence": 0.6418,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.45452,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.66485,
+      "weightedInfluence": 0.6418,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -3194,7 +2881,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.66485
+          "value": 0.6418
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3299,15 +2986,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://navalravikant.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Ron Conway",
       "type": "person",
+      "sources": [
+        {
+          "url": "svangel.com",
+          "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 1,
@@ -3357,9 +3046,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.10811,
+      "mentionsAsPercent": 0.09756,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14286,
+        "perplexity_with_search_latest": 0.15,
         "anthropic_claude_with_search_latest": 0.07692,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -3368,13 +3057,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 2,
-      "influence": 1,
+      "influence": 0.96531,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0.22726,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.96531,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -3384,7 +3073,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 0.96531
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3489,15 +3178,21 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://twitter.com/naval",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Peter Thiel",
       "type": "person",
+      "sources": [
+        {
+          "url": "paypal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "palantir.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3525,7 +3220,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -3535,13 +3230,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.18215,
+      "influence": 0.17583,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.18215,
+      "weightedInfluence": 0.17583,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -3551,7 +3246,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.18215
+          "value": 0.17583
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3661,6 +3356,12 @@ window.AppData20251014 = {
     {
       "value": "Reid Hoffman",
       "type": "person",
+      "sources": [
+        {
+          "url": "linkedin.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3688,7 +3389,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -3698,13 +3399,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.16361,
+      "influence": 0.15795,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16361,
+      "weightedInfluence": 0.15795,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -3714,7 +3415,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.16361
+          "value": 0.15795
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3819,15 +3520,12 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://peterthiel.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Elad Gil",
       "type": "person",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3855,7 +3553,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -3865,13 +3563,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.15065,
+      "influence": 0.14543,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15065,
+      "weightedInfluence": 0.14543,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -3881,7 +3579,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.15065
+          "value": 0.14543
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3986,19 +3684,37 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://reidhoffman.org",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Chris Sacca",
       "type": "person",
+      "sources": [
+        {
+          "url": "lowercasecapital.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 169,
@@ -4022,6 +3738,20 @@ window.AppData20251014 = {
             "line": 3,
             "column": 259,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2293,
+            "excerpt": "matters—the success of their portfolio. Some of the angels on this list such as Marc Andreessen and Chris Sacca are well-known, while others are sure to surprise you! Ready to jump in? Let's go! Top Angel Invest",
+            "line": 17,
+            "column": 431,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4853,
+            "excerpt": "of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-known, while others are sure to surprise you! What do you think",
+            "line": 33,
+            "column": 334,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": [
@@ -4041,15 +3771,15 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 4,
+      "mentions": 6,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.10811,
+      "mentionsAsPercent": 0.14634,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.09524,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0.07692,
-        "openai_chatgpt_with_search_latest": 0.33333
+        "openai_chatgpt_with_search_latest": 0.375
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
@@ -4057,23 +3787,23 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 4,
-      "influence": 0.28537,
+      "influence": 0.67763,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.08302,
         "anthropic_claude_with_search_latest": 0.03774,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.28537,
+      "weightedInfluence": 0.67763,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 4
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.28537
+          "value": 0.67763
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4113,7 +3843,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -4168,25 +3898,36 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 4
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0,
-      "link": "https://twitter.com/sacca",
-      "sources": {
-        "link": "AI"
-      }
+      "link": "https://chrissacca.com/"
     },
     {
       "value": "Esther Dyson",
       "type": "person",
+      "sources": [
+        {
+          "url": "wellville.net",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -4222,9 +3963,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.05405,
+      "mentionsAsPercent": 0.04878,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04762,
+        "perplexity_with_search_latest": 0.05,
         "anthropic_claude_with_search_latest": 0.07692,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -4233,13 +3974,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 8
       },
       "appearanceOrder": 7.5,
-      "influence": 0.13906,
+      "influence": 0.13424,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.77487,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13906,
+      "weightedInfluence": 0.13424,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -4249,7 +3990,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.13906
+          "value": 0.13424
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4354,15 +4095,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://estherdyson.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Dave McClure",
       "type": "person",
+      "sources": [
+        {
+          "url": "500.co",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4390,7 +4133,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -4400,13 +4143,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.12732,
+      "influence": 0.1229,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12732,
+      "weightedInfluence": 0.1229,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -4416,7 +4159,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.12732
+          "value": 0.1229
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4521,15 +4264,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://twitter.com/davemcclure",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Jason Calacanis",
       "type": "person",
+      "sources": [
+        {
+          "url": "launch.co",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4557,7 +4302,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -4567,13 +4312,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.12226,
+      "influence": 0.11802,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12226,
+      "weightedInfluence": 0.11802,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -4583,7 +4328,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.12226
+          "value": 0.11802
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4688,15 +4433,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://calacanis.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Yuri Milner",
       "type": "person",
+      "sources": [
+        {
+          "url": "dst-global.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4724,7 +4471,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -4734,13 +4481,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.11798,
+      "influence": 0.11388,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11798,
+      "weightedInfluence": 0.11388,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -4750,7 +4497,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.11798
+          "value": 0.11388
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4855,15 +4602,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://twitter.com/yurimilner",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Li Ka-shing",
       "type": "person",
+      "sources": [
+        {
+          "url": "horizonsventures.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -4891,7 +4640,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -4901,13 +4650,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.1143,
+      "influence": 0.11033,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1143,
+      "weightedInfluence": 0.11033,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -4917,7 +4666,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1143
+          "value": 0.11033
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5022,15 +4771,17 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://www.ckgsb.edu.cn/en/faculty/li-ka-shing",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Masayoshi Son",
       "type": "person",
+      "sources": [
+        {
+          "url": "softbank.jp/en",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5058,7 +4809,7 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.02439,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07692,
@@ -5068,13 +4819,13 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.11108,
+      "influence": 0.10722,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11108,
+      "weightedInfluence": 0.10722,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -5084,7 +4835,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.11108
+          "value": 0.10722
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5189,178 +4940,29 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://twitter.com/MasayoshiSon",
-      "sources": {
-        "link": "AI"
-      }
-    },
-    {
-      "value": "Kevin Moore",
-      "type": "person",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1467
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1467,
-            "excerpt": "r [TOP active angel investors list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.\n\nThese resources are useful for startups l",
-            "line": 9,
-            "column": 126,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.33333
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.21147,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.21147,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.21147
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
       "volatility": 0
     },
     {
       "value": "Mark Cuban",
       "type": "person",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "markcubancompanies.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 0,
@@ -5409,9 +5011,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.10811,
+      "mentionsAsPercent": 0.09756,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.19048,
+        "perplexity_with_search_latest": 0.2,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -5419,13 +5021,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.72861,
+      "influence": 0.70333,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.72861,
+      "weightedInfluence": 0.70333,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -5435,7 +5037,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.72861
+          "value": 0.70333
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5546,6 +5148,16 @@ window.AppData20251014 = {
     {
       "value": "Paul Buchheit",
       "type": "person",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "ycombinator.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
@@ -5587,9 +5199,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.08108,
+      "mentionsAsPercent": 0.07317,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14286,
+        "perplexity_with_search_latest": 0.15,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -5597,13 +5209,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.49085,
+      "influence": 0.47383,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.49085,
+      "weightedInfluence": 0.47383,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -5613,7 +5225,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.49085
+          "value": 0.47383
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5718,15 +5330,21 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://paulbuchheit.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Sam Altman",
       "type": "person",
+      "sources": [
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openai.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
@@ -5768,9 +5386,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.08108,
+      "mentionsAsPercent": 0.07317,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14286,
+        "perplexity_with_search_latest": 0.15,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -5778,13 +5396,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.45197,
+      "influence": 0.43627,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.45197,
+      "weightedInfluence": 0.43627,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -5794,7 +5412,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.45197
+          "value": 0.43627
         }
       ],
       "appearanceOrderTrendVals": [
@@ -5899,75 +5517,84 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://twitter.com/sama",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Chris Adelsbach",
+      "value": "Kevin Moore",
       "type": "person",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2956,
+        "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 1467
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
+        "openai_chatgpt_with_search_latest": [
           {
-            "appearanceOrder": 2956,
-            "excerpt": "ngel investors include **Esther Dyson**, known for her focus on innovation and social impact, and **Chris Adelsbach**, a prominent fintech investor in Europe recognized for early investments in companies like Atom B",
-            "line": 17,
-            "column": 122,
+            "appearanceOrder": 1467,
+            "excerpt": "r [TOP active angel investors list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.\n\nThese resources are useful for startups l",
+            "line": 9,
+            "column": 126,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4184,
+            "excerpt": "tps://www.areteindex.com/angels/)\n\nPaul is the Co-Founder and serves as a Partner for Y Combinator. Kevin Moore is an Angel Investor from United States of America. Prominent investment areas are Food and Beverag",
+            "line": 29,
+            "column": 66,
             "captureDate": "2025-10-14"
           }
-        ]
+        ],
+        "perplexity_with_search_latest": []
       },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02703,
+      "mentionsAsPercent": 0.04878,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04762,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.25
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
+        "openai_chatgpt_with_search_latest": 3
       },
-      "appearanceOrder": 8,
-      "influence": 0.13343,
+      "appearanceOrder": 3,
+      "influence": 0.40827,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.13343,
+      "weightedInfluence": 0.40827,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.13343
+          "value": 0.40827
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 8
+          "value": 3
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5981,15 +5608,15 @@ window.AppData20251014 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6001,20 +5628,20 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 2
           }
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6026,20 +5653,20 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 8
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6051,36 +5678,98 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 3
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 1
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "link": "https://chrisadelsbach.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "keywords": [
     {
       "value": "angel investors",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "a16z.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "greylock.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "dst-global.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "angellist.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "lennysnewsletter.com/p/top-angel-investors-in-the-us",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "startupsavant.com/best-angel-investor-groups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 30,
         "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 10
+        "openai_chatgpt_with_search_latest": 32
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 11,
@@ -6200,15 +5889,15 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 46,
+      "mentions": 68,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.38017,
+      "mentionsAsPercent": 0.33333,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.4,
-        "anthropic_claude_with_search_latest": 0.3,
-        "openai_chatgpt_with_search_latest": 0.38462
+        "perplexity_with_search_latest": 0.32258,
+        "anthropic_claude_with_search_latest": 0.21429,
+        "openai_chatgpt_with_search_latest": 0.38554
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -6226,7 +5915,7 @@ window.AppData20251014 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 46
+          "value": 68
         }
       ],
       "influenceTrendVals": [
@@ -6272,7 +5961,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 32
           }
         ]
       },
@@ -6327,29 +6016,628 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 46,
+      "mentions_change": 68,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 46
+          "mentions": 68
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "private investors,seed funding,angel funding",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "successful",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "a16z.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "angellist.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 58,
+        "anthropic_claude_with_search_latest": 63,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 63,
+            "excerpt": "# Best Angel Investors in the World\n\nHere are some of the most successful and influential angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**",
+            "line": 3,
+            "column": 27,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 302,
+            "excerpt": "owitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n### 2. **Naval Ravikant**\nFounder of [AngelList](https://www.angellist.com/). Invested i",
+            "line": 8,
+            "column": 130,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 58,
+            "excerpt": "The **best angel investors in the world**—noted for their successful track records, influence, and expertise—include names such as **Ron Conway**, **Naval Ravikant**, *",
+            "line": 1,
+            "column": 59,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0.07143,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.02619,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.29327,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.02619,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.02619
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.29327
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "influence",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 84,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 84,
+            "excerpt": "The **best angel investors in the world**—noted for their successful track records, influence, and expertise—include names such as **Ron Conway**, **Naval Ravikant**, **Chris Sacca**, **Mark Cu",
+            "line": 1,
+            "column": 85,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.01654,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01654,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01654
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "venture capital",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3289,
+        "anthropic_claude_with_search_latest": 2690,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2690,
+            "excerpt": ") - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their track records, the quality of compa",
+            "line": 55,
+            "column": 60,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3289,
+            "excerpt": "i/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top angel investors also operate venture capital firms or have crossed into VC investing (e.g., Marc Andreessen of Andreessen Horowitz), their angel",
+            "line": 19,
+            "column": 45,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3528,
+            "excerpt": "ly influential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech",
+            "line": 19,
+            "column": 284,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5280,
+            "excerpt": "he-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. [dealroom.net/blog/top-venture-capital-firms](https://dealroom.net/blog/top-venture-capital-firms)\n\n4. [rocketdevs.com/blog/top-angel-inve",
+            "line": 42,
+            "column": 27,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01961,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03226,
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 22,
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 16,
+      "influence": 0.01879,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.74309,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01879,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01879
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.74309
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 22
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
     },
     {
       "value": "startups",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "angellist.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "greylock.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "500.co",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "dst-global.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "startupsavant.com/best-angel-investor-groups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 16,
         "anthropic_claude_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 8
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 282,
@@ -6415,6 +6703,20 @@ window.AppData20251014 = {
             "line": 11,
             "column": 32,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2540,
+            "excerpt": "you think of when you think about the \"top angel investors?\"\n\n2. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\nThe start",
+            "line": 19,
+            "column": 38,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2985,
+            "excerpt": "nd this, a steady injection of funds is required for the company to innovate and grow. This is when startups find angel investors. In this article, we will take a deeper look into this category of investors a",
+            "line": 21,
+            "column": 347,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6455,45 +6757,45 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 24,
+      "mentions": 29,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.19835,
+      "mentionsAsPercent": 0.14216,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.21333,
-        "anthropic_claude_with_search_latest": 0.25,
-        "openai_chatgpt_with_search_latest": 0.11538
+        "perplexity_with_search_latest": 0.17204,
+        "anthropic_claude_with_search_latest": 0.17857,
+        "openai_chatgpt_with_search_latest": 0.09639
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 7
       },
-      "appearanceOrder": 3.67,
-      "influence": 0.19985,
+      "appearanceOrder": 5.33,
+      "influence": 0.10433,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.70501,
-        "anthropic_claude_with_search_latest": 0.37556,
+        "perplexity_with_search_latest": 0.47756,
+        "anthropic_claude_with_search_latest": 0.35706,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.19985,
+      "weightedInfluence": 0.10433,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 24
+          "value": 29
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.19985
+          "value": 0.10433
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3.67
+          "value": 5.33
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6527,7 +6829,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 8
           }
         ]
       },
@@ -6540,13 +6842,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.70501
+            "value": 0.47756
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.37556
+            "value": 0.35706
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6565,7 +6867,207 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 2
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 29,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 29
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "portfolio",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "crunchbase.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1231,
+        "anthropic_claude_with_search_latest": 2528,
+        "openai_chatgpt_with_search_latest": 126
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2528,
+            "excerpt": "nvestors\n- [Crunchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB",
+            "line": 53,
+            "column": 92,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2819,
+            "excerpt": "esting trends\n\nThese investors are known for their track records, the quality of companies in their portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic",
+            "line": 57,
+            "column": 86,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 126,
+            "excerpt": "n the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and articles that featur",
+            "line": 1,
+            "column": 127,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 583,
+            "excerpt": "l-known investors like Marc Andreessen and Chris Sacca, focusing on the success of their investment portfolios rather than just their fame or number of investments.\n\n2. **Eqvista** - Their [Top 100 Active Ange",
+            "line": 3,
+            "column": 316,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2222,
+            "excerpt": "of 50 of the top angel investors (now updated for 2024!) based on what matters—the success of their portfolio. Some of the angels on this list such as Marc Andreessen and Chris Sacca are well-known, while othe",
+            "line": 17,
+            "column": 360,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4737,
+            "excerpt": "of 50 of the top angel investors (now updated for 2024!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/",
+            "line": 33,
+            "column": 218,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5190,
+            "excerpt": "ve made, or whether they graced the cover of Forbes. This list focused on the success rate of their portfolio, which we think is a much better indicator of who are the top angel investors.",
+            "line": 33,
+            "column": 671,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1231,
+            "excerpt": "should-know).\n  \n- **Naval Ravikant**, co-founder of AngelList, is famous for his diversified angel portfolio and thought leadership on startup investing and entrepreneurship, investing actively across sectors",
+            "line": 7,
+            "column": 84,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.03922,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0.07143,
+        "openai_chatgpt_with_search_latest": 0.06024
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 8,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 7.67,
+      "influence": 0.06721,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.0241,
+        "anthropic_claude_with_search_latest": 0.09608,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.06721,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06721
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -6577,34 +7079,545 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 7
+            "value": 5
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.0241
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.09608
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 24,
+      "mentions_change": 8,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 24
+          "mentions": 8
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "new ventures,startup companies,emerging businesses",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "mentorship",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 425,
+        "anthropic_claude_with_search_latest": 2890,
+        "openai_chatgpt_with_search_latest": 1248
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2890,
+            "excerpt": "uality of companies in their portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
+            "line": 57,
+            "column": 157,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1248,
+            "excerpt": "List](https://rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index",
+            "line": 7,
+            "column": 246,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1682,
+            "excerpt": "ng to find suitable angel investors who not only offer financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for",
+            "line": 11,
+            "column": 146,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3928,
+            "excerpt": "nvestors who primarily focus on returns, angel investors often play a more personal role, providing mentorship and guidance. They’re also known as private investors, informal investors, or seed funders.\n\n4. [TO",
+            "line": 25,
+            "column": 531,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 425,
+            "excerpt": "ram, and Airbnb, and have become iconic figures in startup investing due to their keen judgment and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs",
+            "line": 1,
+            "column": 426,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 940,
+            "excerpt": "has early investments in Google, PayPal, Twitter, and Square. His approach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-inv",
+            "line": 5,
+            "column": 163,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3953,
+            "excerpt": ".\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen, mentorship, and ability to spot transformational startups, significantly shaping the global startup ecosystem*",
+            "line": 23,
+            "column": 98,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.03431,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03226,
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0.03614
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.02925,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.24739,
+        "anthropic_claude_with_search_latest": 0.11757,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.02925,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.02925
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.24739
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.11757
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 7,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 7
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "guidance",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2929,
+        "openai_chatgpt_with_search_latest": 1263
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2929,
+            "excerpt": ", and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
+            "line": 57,
+            "column": 196,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1263,
+            "excerpt": "rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [T",
+            "line": 7,
+            "column": 261,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1707,
+            "excerpt": "investors who not only offer financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.beta",
+            "line": 11,
+            "column": 171,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3943,
+            "excerpt": "imarily focus on returns, angel investors often play a more personal role, providing mentorship and guidance. They’re also known as private investors, informal investors, or seed funders.\n\n4. [TOP active ange",
+            "line": 25,
+            "column": 546,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 4,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01961,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0.03614
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrder": 12,
+      "influence": 0.02734,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.11248,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.02734,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.02734
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.11248
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
     },
     {
       "value": "investment",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "paypal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "horizonsventures.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "altar.io/most-active-angels-vcs-for-seed-startup-investments",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 5
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 850,
@@ -6649,6 +7662,20 @@ window.AppData20251014 = {
             "line": 9,
             "column": 142,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4258,
+            "excerpt": "Partner for Y Combinator. Kevin Moore is an Angel Investor from United States of America. Prominent investment areas are Food and Beverage, Commerce and Shopping, Sales and Marketing and has invested in startup",
+            "line": 29,
+            "column": 140,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5073,
+            "excerpt": "ou think about the \"top angel investors?\" Perhaps you think about their Twitter followers, how many investments they've made, or whether they graced the cover of Forbes. This list focused on the success rate of",
+            "line": 33,
+            "column": 554,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": [
@@ -6681,432 +7708,264 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5709,
-            "excerpt": "famous-angel-investors-you-should-know\n11. https://altar.io/most-active-angels-vcs-for-seed-startup-investments/\n12. https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6",
-            "line": 48,
-            "column": 62,
+            "appearanceOrder": 6293,
+            "excerpt": "p-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider",
+            "line": 58,
+            "column": 55,
             "captureDate": "2025-10-14"
           }
         ]
       },
-      "mentions": 10,
+      "mentions": 12,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.08264,
+      "mentionsAsPercent": 0.05882,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06667,
-        "anthropic_claude_with_search_latest": 0.1,
-        "openai_chatgpt_with_search_latest": 0.11538
+        "perplexity_with_search_latest": 0.05376,
+        "anthropic_claude_with_search_latest": 0.07143,
+        "openai_chatgpt_with_search_latest": 0.06024
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 5
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 6
       },
-      "appearanceOrder": 4.67,
-      "influence": 0.09737,
+      "appearanceOrder": 7,
+      "influence": 0.05526,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.11645,
-        "anthropic_claude_with_search_latest": 0.08841,
+        "perplexity_with_search_latest": 0.18136,
+        "anthropic_claude_with_search_latest": 0.16548,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.09737,
+      "weightedInfluence": 0.05526,
       "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 10
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.09737
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 4.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.11645
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.08841
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 10,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 10
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "capital,financial backing,monetary support",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "mentorship",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 425,
-        "anthropic_claude_with_search_latest": 2890,
-        "openai_chatgpt_with_search_latest": 1248
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2890,
-            "excerpt": "uality of companies in their portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
-            "line": 57,
-            "column": 157,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1248,
-            "excerpt": "List](https://rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index",
-            "line": 7,
-            "column": 246,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 1682,
-            "excerpt": "ng to find suitable angel investors who not only offer financial support but also add value through mentorship and strategic guidance.",
-            "line": 11,
-            "column": 146,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 425,
-            "excerpt": "ram, and Airbnb, and have become iconic figures in startup investing due to their keen judgment and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs",
-            "line": 1,
-            "column": 426,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 940,
-            "excerpt": "has early investments in Google, PayPal, Twitter, and Square. His approach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-inv",
-            "line": 5,
-            "column": 163,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 3953,
-            "excerpt": ".\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen, mentorship, and ability to spot transformational startups, significantly shaping the global startup ecosystem*",
-            "line": 23,
-            "column": 98,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 6,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.04959,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0.07692
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "appearanceOrder": 6.33,
-      "influence": 0.05789,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.16609,
-        "anthropic_claude_with_search_latest": 0.05949,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.05789,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 6
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.05789
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 6.33
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.16609
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.05949
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 8
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 6,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 6
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "coaching,advising,training",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "funding",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3478,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 3478,
-            "excerpt": "sen Horowitz), their angel investments remain highly influential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to",
-            "line": 19,
-            "column": 234,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01333,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.02069,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.02069,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.02069
-        }
-      ],
-      "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
           "value": 12
         }
       ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05526
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.18136
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.16548
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 12,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 12
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "sectors",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1333,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1494
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1494,
+            "excerpt": "rs list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.\n\nThese resources are useful for startups looking to find suitable",
+            "line": 9,
+            "column": 153,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1333,
+            "excerpt": "rtfolio and thought leadership on startup investing and entrepreneurship, investing actively across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs",
+            "line": 7,
+            "column": 186,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2674,
+            "excerpt": "ombinator and CEO of OpenAI, invests in groundbreaking tech companies across AI, health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider",
+            "line": 15,
+            "column": 142,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02151,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 14
+      },
+      "appearanceOrder": 14,
+      "influence": 0.00994,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.44712,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00994,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00994
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
         }
       ],
       "mentionsTrend": 999,
@@ -7116,13 +7975,13 @@ window.AppData20251014 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -7134,13 +7993,616 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.44712
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "exit rates",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "betaboom.com/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 106
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 106,
+            "excerpt": "st angel investors in the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and a",
+            "line": 1,
+            "column": 107,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 367,
+            "excerpt": "1. **Beta Boom** - The site provides a comprehensive list of the [Top 50 Angel Investors Ranked by Exit Rates](https://www.betaboom.com/magazine/article/top-angel-investors), updated for 2025. This list includ",
+            "line": 3,
+            "column": 100,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1768,
+            "excerpt": "value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nTop Angel Inves",
+            "line": 15,
+            "column": 38,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1973,
+            "excerpt": "Investors According to Data - Now Updated for 2024 Find the most effective angel investors based on exit rates and founder satisfaction—not just those with the biggest names or checkbooks. Looking for the best",
+            "line": 17,
+            "column": 111,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4433,
+            "excerpt": "rketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best a",
+            "line": 31,
+            "column": 38,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 5,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02451,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.06024
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.10437,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10437,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.10437
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "founder satisfaction",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "betaboom.com/magazine/article/top-angel-investors",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 159
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 159,
+            "excerpt": "ned by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and articles that feature top angel investors for 2025:\n\n1. **Beta B",
+            "line": 1,
+            "column": 160,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1988,
+            "excerpt": "ding to Data - Now Updated for 2024 Find the most effective angel investors based on exit rates and founder satisfaction—not just those with the biggest names or checkbooks. Looking for the best angel investors? We've co",
+            "line": 17,
+            "column": 126,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0098,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.0241
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.0256,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.0256,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0256
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "tech",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "forbes.com/midas",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "startupsavant.com/best-angel-investor-groups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "techcoastangels.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2371,
+        "anthropic_claude_with_search_latest": 2616,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2616,
+            "excerpt": "s and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel inve",
+            "line": 54,
+            "column": 78,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2371,
+            "excerpt": ").\n\n- **Paul Buchheit**, creator of Gmail and co-founder of Y Combinator, is known for investing in tech and enterprise software startups with over 150 investments and nearly 80 exits[[1]](https://eqvista",
+            "line": 13,
+            "column": 97,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2629,
+            "excerpt": ").\n\n- **Sam Altman**, former president of Y Combinator and CEO of OpenAI, invests in groundbreaking tech companies across AI, health, and energy sectors with a track record of support for startups like Re",
+            "line": 15,
+            "column": 97,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2990,
+            "excerpt": "son**, known for her focus on innovation and social impact, and **Chris Adelsbach**, a prominent fintech investor in Europe recognized for early investments in companies like Atom Bank and Monese[[1]](htt",
+            "line": 17,
+            "column": 156,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3639,
+            "excerpt": "ital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-qualit",
+            "line": 21,
+            "column": 87,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4761,
+            "excerpt": "nator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds",
+            "line": 32,
+            "column": 3,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 7,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.03431,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06452,
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 18,
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 13.5,
+      "influence": 0.03739,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.36364,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.03739,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.03739
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
@@ -7153,7 +8615,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 0.36364
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7165,20 +8627,20 @@ window.AppData20251014 = {
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 12
+            "value": 18
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 9
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7189,32 +8651,38 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 7,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 1
+          "mentions": 7
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "capital raising,financial support,investment sources",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "entrepreneurship",
+      "value": "innovation",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1289,
+        "perplexity_with_search_latest": 2920,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -7223,10 +8691,10 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 1289,
-            "excerpt": "List, is famous for his diversified angel portfolio and thought leadership on startup investing and entrepreneurship, investing actively across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for",
-            "line": 7,
-            "column": 142,
+            "appearanceOrder": 2920,
+            "excerpt": "tors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation and social impact, and **Chris Adelsbach**, a prominent fintech investor in Europe recognized for e",
+            "line": 17,
+            "column": 86,
             "captureDate": "2025-10-14"
           }
         ]
@@ -7235,23 +8703,23 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01333,
+        "perplexity_with_search_latest": 0.01075,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
+        "perplexity_with_search_latest": 21
       },
-      "appearanceOrder": 8,
-      "influence": 0.02418,
+      "appearanceOrder": 21,
+      "influence": 0.00742,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02418,
+      "weightedInfluence": 0.00742,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -7261,13 +8729,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.02418
+          "value": 0.00742
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 8
+          "value": 21
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7339,7 +8807,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 8
+            "value": 21
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -7366,15 +8834,198 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "business ownership,enterprise development,startup culture",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "disruptive startups",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2034,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2034,
+            "excerpt": "an**, entrepreneur and owner of the Dallas Mavericks, is an active angel investor known for backing disruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc",
+            "line": 11,
+            "column": 113,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.00794,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.00794,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00794
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 17
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
     },
     {
       "value": "Silicon Valley",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "paypal.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 1,
@@ -7438,24 +9089,24 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.05785,
+      "mentionsAsPercent": 0.03431,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08,
-        "anthropic_claude_with_search_latest": 0.05,
+        "perplexity_with_search_latest": 0.06452,
+        "anthropic_claude_with_search_latest": 0.03571,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 3
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 4
       },
-      "appearanceOrder": 3.5,
-      "influence": 0.15744,
+      "appearanceOrder": 6,
+      "influence": 0.05033,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.33002,
+        "anthropic_claude_with_search_latest": 0.3876,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15744,
+      "weightedInfluence": 0.05033,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -7465,13 +9116,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.15744
+          "value": 0.05033
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3.5
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -7524,7 +9175,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.33002
+            "value": 0.3876
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7543,13 +9194,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 4
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -7570,1290 +9221,12 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "tech hub,innovation center,startup ecosystem",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "venture capital",
+      "value": "investment strategies",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3289,
-        "anthropic_claude_with_search_latest": 2690,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2690,
-            "excerpt": ") - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their track records, the quality of compa",
-            "line": 55,
-            "column": 60,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 3289,
-            "excerpt": "i/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top angel investors also operate venture capital firms or have crossed into VC investing (e.g., Marc Andreessen of Andreessen Horowitz), their angel",
-            "line": 19,
-            "column": 45,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 3528,
-            "excerpt": "ly influential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech",
-            "line": 19,
-            "column": 284,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5160,
-            "excerpt": ". https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us\n3. https://dealroom.net/blog/top-venture-capital-firms\n4. https://rocketdevs.com/blog/top-angel-investors-list\n5. https://waveup.com/blog/top-angel-",
-            "line": 40,
-            "column": 34,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.03306,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 11,
-        "anthropic_claude_with_search_latest": 7
-      },
-      "appearanceOrder": 9,
-      "influence": 0.05433,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.67982,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.05433,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.05433
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.67982
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 11
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "private equity,investment firms,capital investment",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "portfolio companies",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 126
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 126,
-            "excerpt": "n the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and articles that feature top ange",
-            "line": 1,
-            "column": 127,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.03846
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 4,
-      "influence": 0.033,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.033,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.033
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "investment firms,portfolio startups,company investments",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "exit rates",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 106
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 106,
-            "excerpt": "st angel investors in the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and a",
-            "line": 1,
-            "column": 107,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 367,
-            "excerpt": "1. **Beta Boom** - The site provides a comprehensive list of the [Top 50 Angel Investors Ranked by Exit Rates](https://www.betaboom.com/magazine/article/top-angel-investors), updated for 2025. This list includ",
-            "line": 3,
-            "column": 100,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01653,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.07692
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.07664,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.07664,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.07664
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "exit strategy,liquidation rates,return on investment",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "success rate",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 88
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 88,
-            "excerpt": "The best angel investors in the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some promi",
-            "line": 1,
-            "column": 89,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.03846
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "appearanceOrder": 2,
-      "influence": 0.04837,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.04837,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.04837
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "achievement rate,success metrics,performance indicators",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "investments",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 850,
-        "anthropic_claude_with_search_latest": 605,
-        "openai_chatgpt_with_search_latest": 635
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 605,
-            "excerpt": "Founder of [SV Angel](https://svangel.com/). Known as the \"Godfather of Silicon Valley,\" with early investments in Google, Facebook, PayPal, Twitter, and Airbnb.\n\n### 4. **Peter Thiel**\nCo-founder of [PayPal](ht",
-            "line": 14,
-            "column": 101,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 1983,
-            "excerpt": "al Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Horizons Ventures](htt",
-            "line": 42,
-            "column": 57,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 635,
-            "excerpt": "ca, focusing on the success of their investment portfolios rather than just their fame or number of investments.\n\n2. **Eqvista** - Their [Top 100 Active Angel Investors List for Startups](https://eqvista.com/top",
-            "line": 3,
-            "column": 368,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 850,
-            "excerpt": "es of top angel investors:\n\n- **Ron Conway**, known as the \"Godfather of Silicon Valley,\" has early investments in Google, PayPal, Twitter, and Square. His approach heavily emphasizes close mentorship and levera",
-            "line": 5,
-            "column": 73,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 2423,
-            "excerpt": "nder of Y Combinator, is known for investing in tech and enterprise software startups with over 150 investments and nearly 80 exits[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/).\n\n-",
-            "line": 13,
-            "column": 149,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 3035,
-            "excerpt": "social impact, and **Chris Adelsbach**, a prominent fintech investor in Europe recognized for early investments in companies like Atom Bank and Monese[[1]](https://eqvista.com/top-100-active-angel-investors-list",
-            "line": 17,
-            "column": 201,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 3405,
-            "excerpt": "firms or have crossed into VC investing (e.g., Marc Andreessen of Andreessen Horowitz), their angel investments remain highly influential, often leading the way for further funding rounds[[3]](https://dealroom.n",
-            "line": 19,
-            "column": 161,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5709,
-            "excerpt": "famous-angel-investors-you-should-know\n11. https://altar.io/most-active-angels-vcs-for-seed-startup-investments/\n12. https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6\n1",
-            "line": 48,
-            "column": 62,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 8,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.06612,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06667,
-        "anthropic_claude_with_search_latest": 0.1,
-        "openai_chatgpt_with_search_latest": 0.03846
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": 6
-      },
-      "appearanceOrder": 5.67,
-      "influence": 0.04696,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.34915,
-        "anthropic_claude_with_search_latest": 0.25854,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.04696,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.04696
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 5.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.34915
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.25854
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 6
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 8
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "financial contributions,capital influx,asset allocation",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "network",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 973,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 973,
-            "excerpt": "PayPal, Twitter, and Square. His approach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www",
-            "line": 5,
-            "column": 196,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 3720,
-            "excerpt": "stors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-quality angel investors across industries and geographies[[6]](https://startupsavant.com/b",
-            "line": 21,
-            "column": 168,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01653,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.02667,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.05108,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.05108,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.05108
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "connections,networking,community",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "guidance",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2929,
-        "openai_chatgpt_with_search_latest": 1263
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2929,
-            "excerpt": ", and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
-            "line": 57,
-            "column": 196,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1263,
-            "excerpt": "rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [T",
-            "line": 7,
-            "column": 261,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 1707,
-            "excerpt": "investors who not only offer financial support but also add value through mentorship and strategic guidance.",
-            "line": 11,
-            "column": 171,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 3,
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02479,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0.07692
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": 9
-      },
-      "appearanceOrder": 9,
-      "influence": 0.0446,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05957,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.0446,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.0446
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0.05957
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 9
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 9
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "advice,mentorship,assistance",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "strategy",
-      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -8998,22 +9371,36 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "planning,approach,tactics",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "innovation",
+      "value": "high-profile",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2920,
+        "perplexity_with_search_latest": 269,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -9022,10 +9409,10 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 2920,
-            "excerpt": "tors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation and social impact, and **Chris Adelsbach**, a prominent fintech investor in Europe recognized for e",
-            "line": 17,
-            "column": 86,
+            "appearanceOrder": 269,
+            "excerpt": "Chris Sacca**, **Mark Cuban**, **Paul Buchheit**, and **Sam Altman**. These individuals have backed high-profile startups like Google, Twitter, Uber, Instagram, and Airbnb, and have become iconic figures in start",
+            "line": 1,
+            "column": 270,
             "captureDate": "2025-10-14"
           }
         ]
@@ -9034,23 +9421,23 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01333,
+        "perplexity_with_search_latest": 0.01075,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10
+        "perplexity_with_search_latest": 5
       },
-      "appearanceOrder": 10,
-      "influence": 0.02214,
+      "appearanceOrder": 5,
+      "influence": 0.0128,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02214,
+      "weightedInfluence": 0.0128,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -9060,13 +9447,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.02214
+          "value": 0.0128
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 10
+          "value": 5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9138,7 +9525,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 5
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -9165,22 +9552,205 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "creativity,advancement,novelty",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "disruptive startups",
+      "value": "backing",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2026,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1332
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1332,
+            "excerpt": "ts the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [TOP active angel investors list](https://www.areteindex.com/angels/)",
+            "line": 7,
+            "column": 330,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2026,
+            "excerpt": "Mark Cuban**, entrepreneur and owner of the Dallas Mavericks, is an active angel investor known for backing disruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]",
+            "line": 11,
+            "column": 105,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.0098,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 16,
+        "openai_chatgpt_with_search_latest": 12
+      },
+      "appearanceOrder": 14,
+      "influence": 0.0088,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.20182,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.0088,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0088
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.20182
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "expertise",
+      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2034,
+        "perplexity_with_search_latest": 99,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -9189,10 +9759,10 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 2034,
-            "excerpt": "an**, entrepreneur and owner of the Dallas Mavericks, is an active angel investor known for backing disruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc",
-            "line": 11,
-            "column": 113,
+            "appearanceOrder": 99,
+            "excerpt": "The **best angel investors in the world**—noted for their successful track records, influence, and expertise—include names such as **Ron Conway**, **Naval Ravikant**, **Chris Sacca**, **Mark Cuban**, **Paul B",
+            "line": 1,
+            "column": 100,
             "captureDate": "2025-10-14"
           }
         ]
@@ -9201,23 +9771,23 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01333,
+        "perplexity_with_search_latest": 0.01075,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 4
       },
-      "appearanceOrder": 9,
-      "influence": 0.02306,
+      "appearanceOrder": 4,
+      "influence": 0.01424,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02306,
+      "weightedInfluence": 0.01424,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -9227,13 +9797,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.02306
+          "value": 0.01424
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 9
+          "value": 4
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9300,6 +9870,642 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "network",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "startupsavant.com/best-angel-investor-groups",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 973,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 973,
+            "excerpt": "PayPal, Twitter, and Square. His approach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www",
+            "line": 5,
+            "column": 196,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3720,
+            "excerpt": "stors, groups like Tech Coast Angels, Golden Seeds, and New York Angels provide access to organized networks of high-quality angel investors across industries and geographies[[6]](https://startupsavant.com/b",
+            "line": 21,
+            "column": 168,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0098,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.02151,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.01845,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.01845,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01845
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "capital",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "lowercasecapital.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "dealroom.net/blog/top-venture-capital-firms",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1661,
+        "anthropic_claude_with_search_latest": 1313,
+        "openai_chatgpt_with_search_latest": 3658
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1313,
+            "excerpt": "nd advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n###",
+            "line": 28,
+            "column": 23,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2698,
+            "excerpt": "al ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their track records, the quality of compa",
+            "line": 55,
+            "column": 68,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2874,
+            "excerpt": "k records, the quality of companies in their portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
+            "line": 57,
+            "column": 141,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 3658,
+            "excerpt": "l investors are very much earthbound. An angel investor is a high-net-worth individual who provides capital to startups in their early stages, often in exchange for equity. This is why getting access to an a",
+            "line": 25,
+            "column": 261,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1661,
+            "excerpt": ".com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Instagram, building a venture empire with a strong med",
+            "line": 9,
+            "column": 41,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3297,
+            "excerpt": "op-10-famous-angel-investors-you-should-know).\n\nWhile many top angel investors also operate venture capital firms or have crossed into VC investing (e.g., Marc Andreessen of Andreessen Horowitz), their angel",
+            "line": 19,
+            "column": 53,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3536,
+            "excerpt": "ential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech",
+            "line": 19,
+            "column": 292,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5288,
+            "excerpt": "ttps://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. [dealroom.net/blog/top-venture-capital-firms](https://dealroom.net/blog/top-venture-capital-firms)\n\n4. [rocketdevs.com/blog/top-angel-inve",
+            "line": 42,
+            "column": 35,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.03922,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04301,
+        "anthropic_claude_with_search_latest": 0.10714,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15,
+        "anthropic_claude_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 19
+      },
+      "appearanceOrder": 13.33,
+      "influence": 0.01336,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.54884,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0.56798
+      },
+      "weightedInfluence": 0.01336,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01336
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13.33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.54884
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.56798
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 19
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "early stage",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 705,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2716
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2716,
+            "excerpt": "s-list-for-startups/)\n\nThe startup marketplace by design is mostly cash-strapped, especially in its early stages. Founders [start a company](https://eqvista.com/start-your-start-up/) pooling in resources from pe",
+            "line": 21,
+            "column": 78,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3687,
+            "excerpt": "thbound. An angel investor is a high-net-worth individual who provides capital to startups in their early stages, often in exchange for equity. This is why getting access to an angel investors list is important.",
+            "line": 25,
+            "column": 290,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 705,
+            "excerpt": "cles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles of top angel investors:\n\n- **Ron Conway**, known as the \"Godfat",
+            "line": 1,
+            "column": 706,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2800,
+            "excerpt": "d of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her",
+            "line": 15,
+            "column": 268,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3923,
+            "excerpt": "om/best-angel-investor-groups).\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen, mentorship, and ability to spot transformational startups, significantly shaping",
+            "line": 23,
+            "column": 68,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5978,
+            "excerpt": "com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)",
+            "line": 54,
+            "column": 43,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.04301,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.0241
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 18
+      },
+      "appearanceOrder": 13.5,
+      "influence": 0.01978,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.5718,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.01978,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01978
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.5718
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9317,37 +10523,51 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 18
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 1
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "game-changing startups,innovative companies,breakthrough ventures",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "early-stage investing",
+      "value": "entrepreneurship",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "openvc.app/investor-lists/angel-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 3923,
+        "perplexity_with_search_latest": 1289,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -9356,10 +10576,10 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 3923,
-            "excerpt": "om/best-angel-investor-groups).\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen, mentorship, and ability to spot transformational startups, significantly shaping the global",
-            "line": 23,
-            "column": 68,
+            "appearanceOrder": 1289,
+            "excerpt": "List, is famous for his diversified angel portfolio and thought leadership on startup investing and entrepreneurship, investing actively across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for",
+            "line": 7,
+            "column": 142,
             "captureDate": "2025-10-14"
           }
         ]
@@ -9368,9 +10588,9 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.00826,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01333,
+        "perplexity_with_search_latest": 0.01075,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -9378,13 +10598,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.02013,
+      "influence": 0.00868,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02013,
+      "weightedInfluence": 0.00868,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -9394,7 +10614,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.02013
+          "value": 0.00868
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9499,15 +10719,190 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "seed funding,initial investment,early investment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "international investors",
+      "value": "support",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2705,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1647
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1647,
+            "excerpt": "urces are useful for startups looking to find suitable angel investors who not only offer financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Invest",
+            "line": 11,
+            "column": 111,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2705,
+            "excerpt": "vests in groundbreaking tech companies across AI, health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-",
+            "line": 15,
+            "column": 173,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.0098,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 20,
+        "openai_chatgpt_with_search_latest": 16
+      },
+      "appearanceOrder": 18,
+      "influence": 0.00799,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.20771,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00799,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00799
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.20771
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 16
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "investment trends",
+      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -9652,77 +11047,88 @@ window.AppData20251014 = {
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "global investors,foreign capital,international funding",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "top investors",
+      "value": "financial backing",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 1322
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1322,
+            "excerpt": "e highlights the personal mentorship and guidance often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [TOP active angel investors list](https://www.areteindex.com/angels/)",
+            "line": 7,
+            "column": 320,
+            "captureDate": "2025-10-14"
+          }
+        ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.01205
       },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.00922,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00922,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0
+          "value": 0.00922
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": -1
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0
+          "value": 1
         }
       ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9740,14 +11146,14 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9765,14 +11171,14 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -9790,34 +11196,205 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 11
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 0
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "leading investors,top financiers,renowned backers",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "personal role",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 3903
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 3903,
+            "excerpt": "ke traditional business investors who primarily focus on returns, angel investors often play a more personal role, providing mentorship and guidance. They’re also known as private investors, informal investors, or",
+            "line": 25,
+            "column": 506,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.00754,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00754,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00754
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 20
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
     },
     {
       "value": "resources",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -9841,42 +11418,247 @@ window.AppData20251014 = {
             "line": 11,
             "column": 7,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2810,
+            "excerpt": "n its early stages. Founders [start a company](https://eqvista.com/start-your-start-up/) pooling in resources from personal savings and donations from family and friends. Beyond this, a steady injection of fun",
+            "line": 21,
+            "column": 172,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
+      "mentions": 3,
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.01653,
+      "mentionsAsPercent": 0.01471,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0.03846
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0.0241
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 7,
+        "openai_chatgpt_with_search_latest": 15
       },
-      "appearanceOrder": 8,
-      "influence": 0.02249,
+      "appearanceOrder": 11,
+      "influence": 0.01618,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.14665,
+        "anthropic_claude_with_search_latest": 0.2541,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.02249,
+      "weightedInfluence": 0.01618,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.02249
+          "value": 0.01618
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.2541
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "market",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1060
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1060,
+            "excerpt": "ese investors play beyond just financing.\n\n3. **RocketDevs** - They offer insights into the current market's most active and influential investors in their [Top 100+ Active Angel Investors List](https://roc",
+            "line": 7,
+            "column": 58,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2651,
+            "excerpt": "025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\nThe startup marketplace by design is mostly cash-strapped, especially in its early stages. Founders [start a company](",
+            "line": 21,
+            "column": 13,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3518,
+            "excerpt": "ted, we’ve curated a list of some of the most active and influential angel investors in the current market. Despite the celestial name, angel investors are very much earthbound. An angel investor is a high-",
+            "line": 25,
+            "column": 121,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4331,
+            "excerpt": "ates of America. Prominent investment areas are Food and Beverage, Commerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit",
+            "line": 29,
+            "column": 213,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 4,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01961,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.04819
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.04176,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.04176,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.04176
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9888,7 +11670,7 @@ window.AppData20251014 = {
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 1
         }
       ],
       "mentionsTrend": 999,
@@ -9897,7 +11679,7 @@ window.AppData20251014 = {
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
@@ -9910,19 +11692,19 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 4
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
@@ -9935,7 +11717,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.14665
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -9947,7 +11729,7 @@ window.AppData20251014 = {
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
@@ -9960,45 +11742,38 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 6
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 8
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 4,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 2
+          "mentions": 4
         }
       ],
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
-      "volatility": 0,
-      "similar": "tools,materials,information",
-      "sources": {
-        "similar": "AI"
-      }
-    }
-  ],
-  "places": [],
-  "events": [],
-  "links": [
+      "volatility": 0
+    },
     {
-      "type": "link",
-      "value": "a16z.com",
-      "link": "a16z.com",
-      "linkType": "fin",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "connections",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -10006,16 +11781,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 187,
+        "anthropic_claude_with_search_latest": 2902,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 187,
-            "excerpt": "al angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**\nCo-founder of [Andreessen Horowitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n##",
-            "line": 8,
-            "column": 15,
+            "appearanceOrder": 2902,
+            "excerpt": "mpanies in their portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
+            "line": 57,
+            "column": 169,
             "captureDate": "2025-10-14"
           }
         ],
@@ -10026,23 +11801,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.0049,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.03571,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 1
+        "anthropic_claude_with_search_latest": 12
       },
-      "appearanceOrder": 1,
-      "influence": 0.4,
+      "appearanceOrder": 12,
+      "influence": 0.00893,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.4,
+      "weightedInfluence": 0.00893,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -10052,13 +11827,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.4
+          "value": 0.00893
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 12
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10136,7 +11911,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 12
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10153,6 +11928,2305 @@ window.AppData20251014 = {
         {
           "date": "2025-10-14",
           "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "tech companies",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2629,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2629,
+            "excerpt": ").\n\n- **Sam Altman**, former president of Y Combinator and CEO of OpenAI, invests in groundbreaking tech companies across AI, health, and energy sectors with a track record of support for startups like Reddit and S",
+            "line": 15,
+            "column": 97,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.00765,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.00765,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00765
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "food and beverage",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4279
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4279,
+            "excerpt": "tor. Kevin Moore is an Angel Investor from United States of America. Prominent investment areas are Food and Beverage, Commerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.",
+            "line": 29,
+            "column": 161,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.00742,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00742,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00742
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 21
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "commerce",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4298
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4298,
+            "excerpt": "an Angel Investor from United States of America. Prominent investment areas are Food and Beverage, Commerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50",
+            "line": 29,
+            "column": 180,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 22
+      },
+      "appearanceOrder": 22,
+      "influence": 0.00731,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00731,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00731
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 22
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "sales and marketing",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4321
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4321,
+            "excerpt": "United States of America. Prominent investment areas are Food and Beverage, Commerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Ra",
+            "line": 29,
+            "column": 203,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 23
+      },
+      "appearanceOrder": 23,
+      "influence": 0.00722,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00722,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00722
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 23
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "notable investors",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "global ecosystem",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "incubator",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "active investors",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "investment sectors",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "areteindex.com/angels",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1483
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1483,
+            "excerpt": "gel investors list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.\n\nThese resources are useful for startups looking to find suitable",
+            "line": 9,
+            "column": 142,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 13
+      },
+      "appearanceOrder": 13,
+      "influence": 0.00868,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00868,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00868
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "portfolio companies",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 126
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 126,
+            "excerpt": "n the world are typically determined by factors such as their success rate, the exit rates of their portfolio companies, and overall founder satisfaction. Here are some prominent lists and articles that feature top ange",
+            "line": 1,
+            "column": 127,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.01424,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.01424,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.01424
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "startup ecosystem",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "rocketdevs.com/blog/top-angel-investors-list",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "business.com/articles/silicon-valleys-most-well-known-investors",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "clarify.ai/blog/top-10-famous-angel-investors-you-should-know",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4045,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4045,
+            "excerpt": "acumen, mentorship, and ability to spot transformational startups, significantly shaping the global startup ecosystem**[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketde",
+            "line": 23,
+            "column": 190,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.0049,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01075,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 23
+      },
+      "appearanceOrder": 23,
+      "influence": 0.00722,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.00722,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00722
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 23
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "strategic guidance",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "cbinsights.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2919,
+        "openai_chatgpt_with_search_latest": 1697
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2919,
+            "excerpt": "portfolios, and their ability to add value beyond just capital through mentorship, connections, and strategic guidance.",
+            "line": 57,
+            "column": 186,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1697,
+            "excerpt": "able angel investors who not only offer financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.beta",
+            "line": 11,
+            "column": 161,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.0098,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03571,
+        "openai_chatgpt_with_search_latest": 0.01205
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 13,
+        "openai_chatgpt_with_search_latest": 17
+      },
+      "appearanceOrder": 15,
+      "influence": 0.00799,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.41709,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.00799,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.00799
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.41709
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 17
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "value": "seed funding",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    }
+  ],
+  "places": [],
+  "events": [],
+  "links": [
+    {
+      "type": "link",
+      "value": "a16z.com",
+      "link": "a16z.com",
+      "linkType": "fin",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 187,
+        "openai_chatgpt_with_search_latest": 4788
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 187,
+            "excerpt": "al angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**\nCo-founder of [Andreessen Horowitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n##",
+            "line": 8,
+            "column": 15,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4788,
+            "excerpt": "024!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-known, while others are sure to surprise you!",
+            "line": 33,
+            "column": 269,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02222,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 3.5,
+      "influence": 0.09978,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.40104,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.09978,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.09978
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.40104
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-14",
@@ -10201,23 +14275,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02632,
+      "mentionsAsPercent": 0.02222,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.10526,
+        "anthropic_claude_with_search_latest": 0.1,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 2
+        "anthropic_claude_with_search_latest": 3
       },
-      "appearanceOrder": 2,
-      "influence": 0.50474,
+      "appearanceOrder": 3,
+      "influence": 0.25,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.50474,
+      "weightedInfluence": 0.25,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -10227,13 +14301,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.50474
+          "value": 0.25
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2
+          "value": 3
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10311,7 +14385,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 2
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10374,24 +14448,24 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02632,
+      "mentionsAsPercent": 0.02222,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 4,
         "perplexity_with_search_latest": 11
       },
-      "appearanceOrder": 7,
-      "influence": 0.13405,
+      "appearanceOrder": 7.5,
+      "influence": 0.07938,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.46772,
+        "perplexity_with_search_latest": 0.54288,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13405,
+      "weightedInfluence": 0.07938,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -10401,13 +14475,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.13405
+          "value": 0.07938
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 7
+          "value": 7.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10454,7 +14528,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.46772
+            "value": 0.54288
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10485,7 +14559,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -10540,188 +14614,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 4
-      },
-      "appearanceOrder": 4,
-      "influence": 0.17226,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.17226,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.17226
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "linkedin.com",
-      "link": "linkedin.com",
-      "linkType": "smp",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 908,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 908,
-            "excerpt": "Facebook and invested in SpaceX, LinkedIn, Yelp, and Stripe.\n\n### 5. **Reid Hoffman**\nCo-founder of [LinkedIn](https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https",
-            "line": 20,
-            "column": 15,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.15475,
+      "influence": 0.09673,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15475,
+      "weightedInfluence": 0.09673,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -10731,7 +14640,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.15475
+          "value": 0.09673
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10840,12 +14749,9 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "greylock.com",
-      "link": "greylock.com",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "linkedin.com",
+      "link": "linkedin.com",
+      "linkType": "smp",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -10853,16 +14759,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1019,
+        "anthropic_claude_with_search_latest": 908,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1019,
-            "excerpt": "https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https://greylock.com/).\n\n## Other Notable Angel Investors\n\n### 6. **Elad Gil**\nVP at Twitter, invested in Airbnb, Coinbas",
+            "appearanceOrder": 908,
+            "excerpt": "Facebook and invested in SpaceX, LinkedIn, Yelp, and Stripe.\n\n### 5. **Reid Hoffman**\nCo-founder of [LinkedIn](https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https",
             "line": 20,
-            "column": 126,
+            "column": 15,
             "captureDate": "2025-10-14"
           }
         ],
@@ -10873,23 +14779,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.1425,
+      "influence": 0.08905,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1425,
+      "weightedInfluence": 0.08905,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -10899,7 +14805,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1425
+          "value": 0.08905
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11008,9 +14914,9 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "blog.eladgil.com",
-      "link": "blog.eladgil.com",
-      "linkType": "blg",
+      "value": "greylock.com",
+      "link": "greylock.com",
+      "linkType": "tch",
       "sources": {
         "linkType": "AI"
       },
@@ -11021,16 +14927,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1225,
+        "anthropic_claude_with_search_latest": 1019,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1225,
-            "excerpt": "witter, invested in Airbnb, Coinbase, Instacart, Pinterest, Square, and Stripe. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early inves",
-            "line": 25,
-            "column": 108,
+            "appearanceOrder": 1019,
+            "excerpt": "https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https://greylock.com/).\n\n## Other Notable Angel Investors\n\n### 6. **Elad Gil**\nVP at Twitter, invested in Airbnb, Coinbas",
+            "line": 20,
+            "column": 126,
             "captureDate": "2025-10-14"
           }
         ],
@@ -11041,23 +14947,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 7
       },
       "appearanceOrder": 7,
-      "influence": 0.13334,
+      "influence": 0.08332,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13334,
+      "weightedInfluence": 0.08332,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -11067,7 +14973,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.13334
+          "value": 0.08332
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11176,9 +15082,9 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "wellville.net",
-      "link": "wellville.net",
-      "linkType": "aca",
+      "value": "blog.eladgil.com",
+      "link": "blog.eladgil.com",
+      "linkType": "blg",
       "sources": {
         "linkType": "AI"
       },
@@ -11189,16 +15095,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1461,
+        "anthropic_claude_with_search_latest": 1225,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1461,
-            "excerpt": "nvestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of",
-            "line": 31,
-            "column": 22,
+            "appearanceOrder": 1225,
+            "excerpt": "witter, invested in Airbnb, Coinbase, Instacart, Pinterest, Square, and Stripe. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early inves",
+            "line": 25,
+            "column": 108,
             "captureDate": "2025-10-14"
           }
         ],
@@ -11209,23 +15115,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 8
       },
-      "appearanceOrder": 9,
-      "influence": 0.12042,
+      "appearanceOrder": 8,
+      "influence": 0.07888,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12042,
+      "weightedInfluence": 0.07888,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -11235,13 +15141,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.12042
+          "value": 0.07888
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 9
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11319,7 +15225,175 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 9
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "wellville.net",
+      "link": "wellville.net",
+      "linkType": "aca",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1461,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1461,
+            "excerpt": "nvestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of",
+            "line": 31,
+            "column": 22,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.07228,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07228,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07228
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11377,191 +15451,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
-      },
-      "appearanceOrder": 11,
-      "influence": 0.11158,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.11158,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.11158
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 11
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "launch.co",
-      "link": "launch.co",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1748,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1748,
-            "excerpt": "000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason Calacanis**\nFounder of [LAUNCH](https://launch.co/). Early investor in Uber, Robinhood, and Calm. Host of the podcast \"This Week in Startups.\"\n\n## Int",
-            "line": 37,
-            "column": 12,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.1081,
+      "influence": 0.06755,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1081,
+      "weightedInfluence": 0.06755,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -11571,7 +15477,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1081
+          "value": 0.06755
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11680,9 +15586,12 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "dst-global.com",
-      "link": "dst-global.com",
-      "linkType": "nws",
+      "value": "launch.co",
+      "link": "launch.co",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -11690,15 +15599,15 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1938,
+        "anthropic_claude_with_search_latest": 1748,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1938,
-            "excerpt": "cast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Ho",
-            "line": 42,
+            "appearanceOrder": 1748,
+            "excerpt": "000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason Calacanis**\nFounder of [LAUNCH](https://launch.co/). Early investor in Uber, Robinhood, and Calm. Host of the podcast \"This Week in Startups.\"\n\n## Int",
+            "line": 37,
             "column": 12,
             "captureDate": "2025-10-14"
           }
@@ -11710,23 +15619,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.10506,
+      "influence": 0.06565,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10506,
+      "weightedInfluence": 0.06565,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -11736,7 +15645,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.10506
+          "value": 0.06565
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11845,12 +15754,9 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "horizonsventures.com",
-      "link": "horizonsventures.com",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "dst-global.com",
+      "link": "dst-global.com",
+      "linkType": "nws",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -11858,16 +15764,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2071,
+        "anthropic_claude_with_search_latest": 1938,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2071,
-            "excerpt": "om/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Horizons Ventures](https://www.horizonsventures.com/), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of",
-            "line": 45,
-            "column": 9,
+            "appearanceOrder": 1938,
+            "excerpt": "cast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Ho",
+            "line": 42,
+            "column": 12,
             "captureDate": "2025-10-14"
           }
         ],
@@ -11878,23 +15784,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 14
       },
       "appearanceOrder": 14,
-      "influence": 0.10237,
+      "influence": 0.064,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10237,
+      "weightedInfluence": 0.064,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -11904,7 +15810,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.10237
+          "value": 0.064
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12013,8 +15919,8 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "softbank.jp/en",
-      "link": "softbank.jp/en",
+      "value": "horizonsventures.com",
+      "link": "horizonsventures.com",
       "linkType": "tch",
       "sources": {
         "linkType": "AI"
@@ -12026,16 +15932,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2224,
+        "anthropic_claude_with_search_latest": 2071,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2224,
-            "excerpt": "), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https",
-            "line": 48,
-            "column": 12,
+            "appearanceOrder": 2071,
+            "excerpt": "om/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Horizons Ventures](https://www.horizonsventures.com/), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of",
+            "line": 45,
+            "column": 9,
             "captureDate": "2025-10-14"
           }
         ],
@@ -12046,23 +15952,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.1,
+      "influence": 0.0625,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1,
+      "weightedInfluence": 0.0625,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -12072,7 +15978,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1
+          "value": 0.0625
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12181,8 +16087,8 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "crunchbase.com",
-      "link": "crunchbase.com",
+      "value": "softbank.jp/en",
+      "link": "softbank.jp/en",
       "linkType": "tch",
       "sources": {
         "linkType": "AI"
@@ -12194,16 +16100,16 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2439,
+        "anthropic_claude_with_search_latest": 2224,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2439,
-            "excerpt": "es\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes",
-            "line": 53,
-            "column": 3,
+            "appearanceOrder": 2224,
+            "excerpt": "), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https",
+            "line": 48,
+            "column": 12,
             "captureDate": "2025-10-14"
           }
         ],
@@ -12214,23 +16120,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 16
       },
       "appearanceOrder": 16,
-      "influence": 0.09786,
+      "influence": 0.06117,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09786,
+      "weightedInfluence": 0.06117,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -12240,7 +16146,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.09786
+          "value": 0.06117
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12349,9 +16255,12 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "forbes.com/midas",
-      "link": "forbes.com/midas",
-      "linkType": "nws",
+      "value": "crunchbase.com",
+      "link": "crunchbase.com",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -12359,15 +16268,15 @@ window.AppData20251014 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2541,
+        "anthropic_claude_with_search_latest": 2439,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2541,
-            "excerpt": "runchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on",
-            "line": 54,
+            "appearanceOrder": 2439,
+            "excerpt": "es\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes",
+            "line": 53,
             "column": 3,
             "captureDate": "2025-10-14"
           }
@@ -12379,23 +16288,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 17
       },
       "appearanceOrder": 17,
-      "influence": 0.09594,
+      "influence": 0.05995,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09594,
+      "weightedInfluence": 0.05995,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -12405,7 +16314,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.09594
+          "value": 0.05995
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12514,6 +16423,171 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
+      "value": "forbes.com/midas",
+      "link": "forbes.com/midas",
+      "linkType": "nws",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2541,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2541,
+            "excerpt": "runchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on",
+            "line": 54,
+            "column": 3,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 18
+      },
+      "appearanceOrder": 18,
+      "influence": 0.05885,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05885,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05885
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "betaboom.com/magazine/article/top-angel-investors",
       "link": "betaboom.com/magazine/article/top-angel-investors",
       "linkType": "tch",
@@ -12523,7 +16597,7 @@ window.AppData20251014 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 4
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -12539,41 +16613,62 @@ window.AppData20251014 = {
             "line": 3,
             "column": 66,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1734,
+            "excerpt": "er financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nTop Angel Investors According to Data - Now Updated for 2024 Find the most effective angel invest",
+            "line": 15,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4399,
+            "excerpt": "ommerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4520,
+            "excerpt": "rs Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We've compiled a list of 50 of the top angel investors (now updated for 2024!) based on what matt",
+            "line": 33,
+            "column": 1,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 4,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.04444,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.23529
       },
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.4,
+      "influence": 1,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.4,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 4
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.4
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12613,7 +16708,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 4
           }
         ]
       },
@@ -12668,12 +16763,12 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 4,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 1
+          "mentions": 4
         }
       ],
       "lastSeen": "2025-10-14",
@@ -12691,7 +16786,7 @@ window.AppData20251014 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 441,
@@ -12706,6 +16801,20 @@ window.AppData20251014 = {
             "excerpt": "investment portfolios rather than just their fame or number of investments.\n\n2. **Eqvista** - Their [Top 100 Active Angel Investors List for Startups](https://eqvista.com/top-100-active-angel-investors-list-for-startups/) is another resource for identifying prominent angel investors. This list discusses why startups of",
             "line": 5,
             "column": 24,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2506,
+            "excerpt": "s in the U.S. by Exit Rate What do you think of when you think about the \"top angel investors?\"\n\n2. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\nThe startup marketplace by design is mostly cash-strapped, especially in its early stages. Founde",
+            "line": 19,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2739,
+            "excerpt": "The startup marketplace by design is mostly cash-strapped, especially in its early stages. Founders [start a company](https://eqvista.com/start-your-start-up/) pooling in resources from personal savings and donations from family and friends. Beyond this, a s",
+            "line": 21,
+            "column": 101,
             "captureDate": "2025-10-14"
           }
         ],
@@ -12747,44 +16856,44 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 8,
+      "mentions": 10,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.10526,
+      "mentionsAsPercent": 0.11111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.13208,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.17647
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 3,
+        "perplexity_with_search_latest": 1
       },
-      "appearanceOrder": 1.5,
-      "influence": 0.6937,
+      "appearanceOrder": 2,
+      "influence": 0.6132,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.33209,
+        "perplexity_with_search_latest": 0.55874,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.6937,
+      "weightedInfluence": 0.6132,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 8
+          "value": 10
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.6937
+          "value": 0.6132
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1.5
+          "value": 2
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -12818,7 +16927,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -12831,7 +16940,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.33209
+            "value": 0.55874
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -12868,17 +16977,17 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 2
+            "value": 3
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 8,
+      "mentions_change": 10,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 8
+          "mentions": 10
         }
       ],
       "lastSeen": "2025-10-14",
@@ -12896,7 +17005,7 @@ window.AppData20251014 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 517,
@@ -12911,6 +17020,13 @@ window.AppData20251014 = {
             "excerpt": "vs** - They offer insights into the current market's most active and influential investors in their [Top 100+ Active Angel Investors List](https://rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors,",
             "line": 7,
             "column": 114,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 3279,
+            "excerpt": "also have a detailed list of the **top 100 active angel investors** that will get you started.\n\n3. [Top 100+ Active Angel Investors List (2025) Blog | RocketDevs](https://rocketdevs.com/blog/top-angel-investors-list)\n\nTo help you get started, we’ve curated a list of some of the most active and influential angel in",
+            "line": 23,
+            "column": 4,
             "captureDate": "2025-10-14"
           }
         ],
@@ -12952,44 +17068,44 @@ window.AppData20251014 = {
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 8,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.09211,
+      "mentionsAsPercent": 0.08889,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.11321,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 4,
+        "perplexity_with_search_latest": 2
       },
-      "appearanceOrder": 2.5,
-      "influence": 0.42765,
+      "appearanceOrder": 3,
+      "influence": 0.34197,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.22663,
+        "perplexity_with_search_latest": 0.5262,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.42765,
+      "weightedInfluence": 0.34197,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 7
+          "value": 8
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.42765
+          "value": 0.34197
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 2.5
+          "value": 3
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13023,7 +17139,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -13036,7 +17152,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0.22663
+            "value": 0.5262
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -13073,17 +17189,17 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 8,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 7
+          "mentions": 8
         }
       ],
       "lastSeen": "2025-10-14",
@@ -13101,7 +17217,7 @@ window.AppData20251014 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -13117,47 +17233,54 @@ window.AppData20251014 = {
             "line": 9,
             "column": 28,
             "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4035,
+            "excerpt": "hip and guidance. They’re also known as private investors, informal investors, or seed funders.\n\n4. [TOP active angel investors list in the world](https://www.areteindex.com/angels/)\n\nPaul is the Co-Founder and serves as a Partner for Y Combinator. Kevin Moore is an Angel Investor",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-14"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.02222,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 5
       },
-      "appearanceOrder": 4,
-      "influence": 0.17226,
+      "appearanceOrder": 5,
+      "influence": 0.19342,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.17226,
+      "weightedInfluence": 0.19342,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.17226
+          "value": 0.19342
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 4
+          "value": 5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -13191,7 +17314,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -13241,17 +17364,383 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 4
+            "value": 5
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 1
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "betaboom.com/top-angel-investors",
+      "link": "betaboom.com/top-angel-investors",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 333
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 333,
+            "excerpt": "ure top angel investors for 2025:\n\n1. **Beta Boom** - The site provides a comprehensive list of the [Top 50 Angel Investors Ranked by Exit Rates](https://www.betaboom.com/magazine/article/top-angel-investors), updated for 2025. This list includes well-known investors like Marc Andreessen and Chris Sacca, f",
+            "line": 3,
+            "column": 66,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1734,
+            "excerpt": "er financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nTop Angel Investors According to Data - Now Updated for 2024 Find the most effective angel invest",
+            "line": 15,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4399,
+            "excerpt": "ommerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4520,
+            "excerpt": "rs Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We've compiled a list of 50 of the top angel investors (now updated for 2024!) based on what matt",
+            "line": 33,
+            "column": 1,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 4,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04444,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.23529
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.63092,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.63092,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.63092
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "a16z.com/author/marc-andreessen",
+      "link": "a16z.com/author/marc-andreessen",
+      "linkType": "fin",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 187,
+        "openai_chatgpt_with_search_latest": 4788
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 187,
+            "excerpt": "al angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**\nCo-founder of [Andreessen Horowitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n##",
+            "line": 8,
+            "column": 15,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4788,
+            "excerpt": "024!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-known, while others are sure to surprise you!",
+            "line": 33,
+            "column": 269,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.02222,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 7
+      },
+      "appearanceOrder": 4.5,
+      "influence": 0.0883,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.27037,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.0883,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0883
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.27037
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-14",
@@ -13293,7 +17782,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -13303,13 +17792,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.10506,
+      "influence": 0.06565,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10506,
+      "weightedInfluence": 0.06565,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -13319,7 +17808,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.10506
+          "value": 0.06565
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13458,7 +17947,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -13468,13 +17957,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.1,
+      "influence": 0.0625,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1,
+      "weightedInfluence": 0.0625,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -13484,7 +17973,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1
+          "value": 0.0625
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13615,7 +18104,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 4853,
-            "excerpt": "om)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# Citations\n\n1. https://e",
+            "excerpt": "om)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.",
             "line": 33,
             "column": 17,
             "captureDate": "2025-10-14"
@@ -13626,7 +18115,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -13636,13 +18125,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 17
       },
       "appearanceOrder": 17,
-      "influence": 0.09594,
+      "influence": 0.05995,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09594,
+      "weightedInfluence": 0.05995,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -13652,7 +18141,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.09594
+          "value": 0.05995
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13761,724 +18250,9 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "lowercasecapital.com",
-      "link": "lowercasecapital.com",
-      "linkType": "nws",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1302,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1302,
-            "excerpt": "e. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive f",
-            "line": 28,
-            "column": 12,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.12618,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.12618,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.12618
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "cbinsights.com",
-      "link": "cbinsights.com",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2633,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2633,
-            "excerpt": "olios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their trac",
-            "line": 55,
-            "column": 3,
-            "captureDate": "2025-10-14"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 18
-      },
-      "appearanceOrder": 18,
-      "influence": 0.09418,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.09418,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.09418
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 18
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 18
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
-      "link": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
-      "linkType": "nws",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 659,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 659,
-            "excerpt": "stors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles of top angel investors:\n\n- **Ron Conway**, known as the \"Godfather of Silicon Valle",
-            "line": 1,
-            "column": 660,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 2754,
-            "excerpt": "health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation",
-            "line": 15,
-            "column": 222,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5492,
-            "excerpt": "/angel-investors\n8. https://www.business.com/articles/silicon-valleys-most-well-known-investors/\n9. https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5\n10. https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know\n11. https://altar.io/",
-            "line": 46,
-            "column": 4,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5726,
-            "excerpt": "stors-you-should-know\n11. https://altar.io/most-active-angels-vcs-for-seed-startup-investments/\n12. https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6\n13. https://shoutex.com/blog/angel-investor-list",
-            "line": 49,
-            "column": 5,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07547,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.61898,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.61898,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.61898
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "business.com/articles/silicon-valleys-most-well-known-investors",
-      "link": "business.com/articles/silicon-valleys-most-well-known-investors",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 576,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 576,
-            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles",
-            "line": 1,
-            "column": 577,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 1541,
-            "excerpt": "com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Ins",
-            "line": 7,
-            "column": 394,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 2195,
-            "excerpt": "ngel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buchheit**, creator of Gmail and co-founder of Y Combinator, is known for investing in",
-            "line": 11,
-            "column": 274,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 4205,
-            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links",
-            "line": 23,
-            "column": 350,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5412,
-            "excerpt": "upsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/angel-investors\n8. https://www.business.com/articles/silicon-valleys-most-well-known-investors/\n9. https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5\n10. https://www.cl",
-            "line": 45,
-            "column": 4,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 5,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.06579,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.09434,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 1,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 1,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 5
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 5,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 5
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
       "value": "dealroom.net/blog/top-venture-capital-firms",
       "link": "dealroom.net/blog/top-venture-capital-firms",
-      "linkType": "aca",
+      "linkType": "tch",
       "sources": {
         "linkType": "AI"
       },
@@ -14504,9 +18278,9 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5130,
-            "excerpt": "investors-list-for-startups/\n2. https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us\n3. https://dealroom.net/blog/top-venture-capital-firms\n4. https://rocketdevs.com/blog/top-angel-investors-list\n5. https://waveup.com/blog/top-angel-invest",
-            "line": 40,
+            "appearanceOrder": 5257,
+            "excerpt": "op-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. [dealroom.net/blog/top-venture-capital-firms](https://dealroom.net/blog/top-venture-capital-firms)\n\n4. [rocketdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors",
+            "line": 42,
             "column": 4,
             "captureDate": "2025-10-14"
           }
@@ -14516,7 +18290,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02632,
+      "mentionsAsPercent": 0.02222,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.03774,
         "anthropic_claude_with_search_latest": 0,
@@ -14526,13 +18300,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.24083,
+      "influence": 0.15052,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.24083,
+      "weightedInfluence": 0.15052,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -14542,7 +18316,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.24083
+          "value": 0.15052
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14651,6 +18425,1404 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
+      "value": "waveup.com/blog/top-angel-investing-platforms",
+      "link": "waveup.com/blog/top-angel-investing-platforms",
+      "linkType": "dev",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5465,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5465,
+            "excerpt": "etdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n5. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-g",
+            "line": 46,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01887,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.05785,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05785,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "openvc.app/investor-lists/angel-investors",
+      "link": "openvc.app/investor-lists/angel-investors",
+      "linkType": "dev",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1481,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1481,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sac",
+            "line": 7,
+            "column": 334,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2135,
+            "excerpt": "isruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buch",
+            "line": 11,
+            "column": 214,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5679,
+            "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.co",
+            "line": 50,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 3,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.03333,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.0566,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.25,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.25,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.25
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+      "link": "businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5",
+      "linkType": "nws",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 659,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 659,
+            "excerpt": "stors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles of top angel investors:\n\n- **Ron Conway**, known as the \"Godfather of Silicon Valle",
+            "line": 1,
+            "column": 660,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2754,
+            "excerpt": "health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation",
+            "line": 15,
+            "column": 222,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5939,
+            "excerpt": "known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/bl",
+            "line": 54,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 6383,
+            "excerpt": "d-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+            "line": 60,
+            "column": 5,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04444,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.07547,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.38685,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.38685,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.38685
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "altar.io/most-active-angels-vcs-for-seed-startup-investments",
+      "link": "altar.io/most-active-angels-vcs-for-seed-startup-investments",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6243,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6243,
+            "excerpt": "rs-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https:",
+            "line": 58,
+            "column": 5,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01887,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 20
+      },
+      "appearanceOrder": 20,
+      "influence": 0.05692,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05692,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05692
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "shoutex.com/blog/angel-investor-list",
+      "link": "shoutex.com/blog/angel-investor-list",
+      "linkType": "oth",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6569,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6569,
+            "excerpt": "(https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+            "line": 62,
+            "column": 5,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01887,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 21
+      },
+      "appearanceOrder": 21,
+      "influence": 0.05605,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05605,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05605
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 21
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "lowercasecapital.com",
+      "link": "lowercasecapital.com",
+      "linkType": "nws",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1302,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1302,
+            "excerpt": "e. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive f",
+            "line": 28,
+            "column": 12,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.07525,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07525,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07525
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cbinsights.com",
+      "link": "cbinsights.com",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2633,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2633,
+            "excerpt": "olios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their trac",
+            "line": 55,
+            "column": 3,
+            "captureDate": "2025-10-14"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01111,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.05785,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05785,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 19
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "business.com/articles/silicon-valleys-most-well-known-investors",
+      "link": "business.com/articles/silicon-valleys-most-well-known-investors",
+      "linkType": "blg",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 576,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 576,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles",
+            "line": 1,
+            "column": 577,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 1541,
+            "excerpt": "com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Ins",
+            "line": 7,
+            "column": 394,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 2195,
+            "excerpt": "ngel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buchheit**, creator of Gmail and co-founder of Y Combinator, is known for investing in",
+            "line": 11,
+            "column": 274,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 4205,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links",
+            "line": 23,
+            "column": 350,
+            "captureDate": "2025-10-14"
+          },
+          {
+            "appearanceOrder": 5786,
+            "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessin",
+            "line": 52,
+            "column": 4,
+            "captureDate": "2025-10-14"
+          }
+        ]
+      },
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.05556,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.09434,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.625,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.625,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.625
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "startupsavant.com/best-angel-investor-groups",
       "link": "startupsavant.com/best-angel-investor-groups",
       "linkType": "blg",
@@ -14679,9 +19851,9 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5299,
-            "excerpt": "devs.com/blog/top-angel-investors-list\n5. https://waveup.com/blog/top-angel-investing-platforms/\n6. https://startupsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/angel-investors\n8. https://www.business.com/articles/silic",
-            "line": 43,
+            "appearanceOrder": 5574,
+            "excerpt": "om/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-in",
+            "line": 48,
             "column": 4,
             "captureDate": "2025-10-14"
           }
@@ -14691,7 +19863,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02632,
+      "mentionsAsPercent": 0.02222,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.03774,
         "anthropic_claude_with_search_latest": 0,
@@ -14701,13 +19873,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.23126,
+      "influence": 0.14452,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23126,
+      "weightedInfluence": 0.14452,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -14717,7 +19889,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.23126
+          "value": 0.14452
         }
       ],
       "appearanceOrderTrendVals": [
@@ -14872,9 +20044,9 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5574,
-            "excerpt": "own-investors/\n9. https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5\n10. https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know\n11. https://altar.io/most-active-angels-vcs-for-seed-startup-investments/\n12. https://www.businessi",
-            "line": 47,
+            "appearanceOrder": 6095,
+            "excerpt": "vestors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-",
+            "line": 56,
             "column": 5,
             "captureDate": "2025-10-14"
           }
@@ -14884,7 +20056,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.06579,
+      "mentionsAsPercent": 0.05556,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.09434,
         "anthropic_claude_with_search_latest": 0,
@@ -14894,13 +20066,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.71242,
+      "influence": 0.44525,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.71242,
+      "weightedInfluence": 0.44525,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -14910,7 +20082,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.71242
+          "value": 0.44525
         }
       ],
       "appearanceOrderTrendVals": [
@@ -15049,7 +20221,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -15059,13 +20231,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.1081,
+      "influence": 0.06755,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1081,
+      "weightedInfluence": 0.06755,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -15075,7 +20247,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.1081
+          "value": 0.06755
         }
       ],
       "appearanceOrderTrendVals": [
@@ -15184,173 +20356,19 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "techcoastangels.com)",
-      "link": "techcoastangels.com)",
+      "value": "techcoastangels.com",
+      "link": "techcoastangels.com",
       "linkType": "aca",
       "sources": {
         "linkType": "AI"
       },
       "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "waveup.com/blog/top-angel-investing-platforms",
-      "link": "waveup.com/blog/top-angel-investing-platforms",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 5241,
+        "perplexity_with_search_latest": 4780,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -15359,10 +20377,10 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 5241,
-            "excerpt": "lroom.net/blog/top-venture-capital-firms\n4. https://rocketdevs.com/blog/top-angel-investors-list\n5. https://waveup.com/blog/top-angel-investing-platforms/\n6. https://startupsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/an",
-            "line": 42,
-            "column": 4,
+            "appearanceOrder": 4780,
+            "excerpt": "r](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkange",
+            "line": 32,
+            "column": 22,
             "captureDate": "2025-10-14"
           }
         ]
@@ -15371,23 +20389,23 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 19
+        "perplexity_with_search_latest": 16
       },
-      "appearanceOrder": 19,
-      "influence": 0.09254,
+      "appearanceOrder": 16,
+      "influence": 0.06117,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09254,
+      "weightedInfluence": 0.06117,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -15397,13 +20415,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.09254
+          "value": 0.06117
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 19
+          "value": 16
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -15475,525 +20493,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 19
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "openvc.app/investor-lists/angel-investors",
-      "link": "openvc.app/investor-lists/angel-investors",
-      "linkType": "dev",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1481,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1481,
-            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sac",
-            "line": 7,
-            "column": 334,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 2135,
-            "excerpt": "isruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buch",
-            "line": 11,
-            "column": 214,
-            "captureDate": "2025-10-14"
-          },
-          {
-            "appearanceOrder": 5355,
-            "excerpt": ".com/blog/top-angel-investing-platforms/\n6. https://startupsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/angel-investors\n8. https://www.business.com/articles/silicon-valleys-most-well-known-investors/\n9. https://www.busi",
-            "line": 44,
-            "column": 4,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03947,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.0566,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.4,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.4,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.4
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "altar.io/most-active-angels-vcs-for-seed-startup-investments",
-      "link": "altar.io/most-active-angels-vcs-for-seed-startup-investments",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 5652,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 5652,
-            "excerpt": "-investors-2025-5\n10. https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know\n11. https://altar.io/most-active-angels-vcs-for-seed-startup-investments/\n12. https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6\n13",
-            "line": 48,
-            "column": 5,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 20
-      },
-      "appearanceOrder": 20,
-      "influence": 0.09107,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.09107,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.09107
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 20
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 20
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "shoutex.com/blog/angel-investor-list",
-      "link": "shoutex.com/blog/angel-investor-list",
-      "linkType": "dev",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 5823,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 5823,
-            "excerpt": "2. https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6\n13. https://shoutex.com/blog/angel-investor-list",
-            "line": 50,
-            "column": 5,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 21
-      },
-      "appearanceOrder": 21,
-      "influence": 0.0897,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.0897,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.0897
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 21
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 21
+            "value": 16
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -16211,23 +20711,23 @@ window.AppData20251014 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 11
       },
-      "appearanceOrder": 10,
-      "influence": 0.11562,
+      "appearanceOrder": 11,
+      "influence": 0.06972,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11562,
+      "weightedInfluence": 0.06972,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -16237,13 +20737,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.11562
+          "value": 0.06972
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 10
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -16321,7 +20821,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -16395,9 +20895,9 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5412,
-            "excerpt": "upsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/angel-investors\n8. https://www.business.com/articles/silicon-valleys-most-well-known-investors/\n9. https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5\n10. https://www.cl",
-            "line": 45,
+            "appearanceOrder": 5786,
+            "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessin",
+            "line": 52,
             "column": 4,
             "captureDate": "2025-10-14"
           }
@@ -16407,7 +20907,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.06579,
+      "mentionsAsPercent": 0.05556,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.09434,
         "anthropic_claude_with_search_latest": 0,
@@ -16417,13 +20917,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.86134,
+      "influence": 0.53835,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.86134,
+      "weightedInfluence": 0.53835,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -16433,7 +20933,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.86134
+          "value": 0.53835
         }
       ],
       "appearanceOrderTrendVals": [
@@ -16577,9 +21077,9 @@ window.AppData20251014 = {
             "captureDate": "2025-10-14"
           },
           {
-            "appearanceOrder": 5355,
-            "excerpt": ".com/blog/top-angel-investing-platforms/\n6. https://startupsavant.com/best-angel-investor-groups\n7. https://www.openvc.app/investor-lists/angel-investors\n8. https://www.business.com/articles/silicon-valleys-most-well-known-investors/\n9. https://www.busi",
-            "line": 44,
+            "appearanceOrder": 5679,
+            "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.co",
+            "line": 50,
             "column": 4,
             "captureDate": "2025-10-14"
           }
@@ -16589,7 +21089,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03947,
+      "mentionsAsPercent": 0.03333,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.0566,
         "anthropic_claude_with_search_latest": 0,
@@ -16599,13 +21099,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 8
       },
       "appearanceOrder": 8,
-      "influence": 0.37856,
+      "influence": 0.2366,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.37856,
+      "weightedInfluence": 0.2366,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -16615,7 +21115,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.37856
+          "value": 0.2366
         }
       ],
       "appearanceOrderTrendVals": [
@@ -16754,7 +21254,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -16764,13 +21264,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 14
       },
       "appearanceOrder": 14,
-      "influence": 0.10237,
+      "influence": 0.064,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10237,
+      "weightedInfluence": 0.064,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -16780,7 +21280,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.10237
+          "value": 0.064
         }
       ],
       "appearanceOrderTrendVals": [
@@ -16889,174 +21389,6 @@ window.AppData20251014 = {
     },
     {
       "type": "link",
-      "value": "techcoastangels.com",
-      "link": "techcoastangels.com",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4780,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 4780,
-            "excerpt": "r](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkange",
-            "line": 32,
-            "column": 22,
-            "captureDate": "2025-10-14"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 16
-      },
-      "appearanceOrder": 16,
-      "influence": 0.09786,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.09786,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 0.09786
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 16
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 16
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "link",
       "value": "www.newyorkangels.com",
       "link": "www.newyorkangels.com",
       "linkType": "aca",
@@ -17079,7 +21411,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 4921,
-            "excerpt": "stangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# Citations\n\n1. https://eqvista.com/top-100-active-angel-investors-list-for-startups/\n2. https://",
+            "excerpt": "stangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.c",
             "line": 34,
             "column": 20,
             "captureDate": "2025-10-14"
@@ -17090,7 +21422,7 @@ window.AppData20251014 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
         "anthropic_claude_with_search_latest": 0,
@@ -17100,13 +21432,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": 18
       },
       "appearanceOrder": 18,
-      "influence": 0.09418,
+      "influence": 0.05885,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09418,
+      "weightedInfluence": 0.05885,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -17116,7 +21448,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.09418
+          "value": 0.05885
         }
       ],
       "appearanceOrderTrendVals": [
@@ -17229,44 +21561,44 @@ window.AppData20251014 = {
       "type": "linkType",
       "code": "tch",
       "value": "Tech Companies",
-      "mentions": 27,
+      "mentions": 33,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 16,
+        "perplexity_with_search_latest": 12,
         "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 13
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.30189,
-        "anthropic_claude_with_search_latest": 0.42105,
-        "openai_chatgpt_with_search_latest": 0.75
+        "perplexity_with_search_latest": 0.22642,
+        "anthropic_claude_with_search_latest": 0.4,
+        "openai_chatgpt_with_search_latest": 0.76471
       },
-      "mentionsAsPercent": 0.35526,
+      "mentionsAsPercent": 0.36667,
       "appearanceOrder": 11,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12,
-        "anthropic_claude_with_search_latest": 12,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "influence": 3.80032,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 5.33209,
-        "anthropic_claude_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 13,
         "openai_chatgpt_with_search_latest": 3
       },
-      "weightedInfluence": 3.80032,
+      "influence": 3.4110200000000006,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 4.55874,
+        "anthropic_claude_with_search_latest": 7,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "weightedInfluence": 3.4110200000000006,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 27
+          "value": 33
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3.80032
+          "value": 3.4110200000000006
         }
       ],
       "appearanceOrderTrendVals": [
@@ -17294,7 +21626,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 16
+            "value": 12
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17306,7 +21638,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 13
           }
         ]
       },
@@ -17319,7 +21651,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 5.33209
+            "value": 4.55874
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17331,7 +21663,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ]
       },
@@ -17350,23 +21682,171 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 12
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 2
+            "value": 3
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 27,
+      "mentions_change": 33,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 27
+          "mentions": 33
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "blg",
+      "value": "Blogs",
+      "mentions": 13,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 12,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.22642,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "mentionsAsPercent": 0.14444,
+      "appearanceOrder": 6,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 8,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "influence": 1.3867500000000001,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 1.3867500000000001,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1.3867500000000001
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 13,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 13
         }
       ],
       "lastSeen": "2025-10-14",
@@ -17377,11 +21857,11 @@ window.AppData20251014 = {
       "type": "linkType",
       "code": "dev",
       "value": "Developer Tools",
-      "mentions": 14,
+      "mentions": 15,
       "mentionsByModel": {
         "perplexity_with_search_latest": 13,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
@@ -17389,38 +21869,38 @@ window.AppData20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.24528,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.11765
       },
-      "mentionsAsPercent": 0.18421,
-      "appearanceOrder": 10,
+      "mentionsAsPercent": 0.16667,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 4
       },
-      "influence": 1.2959100000000001,
+      "influence": 0.8864200000000001,
       "influenceByModel": {
-        "perplexity_with_search_latest": 3.22663,
+        "perplexity_with_search_latest": 3.5262000000000002,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 1.2959100000000001,
+      "weightedInfluence": 0.8864200000000001,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 14
+          "value": 15
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1.2959100000000001
+          "value": 0.8864200000000001
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 10
+          "value": 9
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -17454,7 +21934,7 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -17467,7 +21947,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3.22663
+            "value": 3.5262000000000002
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17492,7 +21972,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 9
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17504,165 +21984,17 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 14,
+      "mentions_change": 15,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 14
-        }
-      ],
-      "lastSeen": "2025-10-14",
-      "firstSeen": "2025-10-14",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "blg",
-      "value": "Blogs",
-      "mentions": 8,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13208,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.10526,
-      "appearanceOrder": 7,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 1.22594,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 1.22594,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 1.22594
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-14",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": 7
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-14",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-14",
-          "mentions": 8
+          "mentions": 15
         }
       ],
       "lastSeen": "2025-10-14",
@@ -17684,23 +22016,23 @@ window.AppData20251014 = {
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.07547,
-        "anthropic_claude_with_search_latest": 0.15789,
+        "anthropic_claude_with_search_latest": 0.15,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.09211,
-      "appearanceOrder": 11,
+      "mentionsAsPercent": 0.07778,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 13,
+        "anthropic_claude_with_search_latest": 14,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.94616,
+      "influence": 0.5849500000000001,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.94616,
+      "weightedInfluence": 0.5849500000000001,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -17710,13 +22042,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.94616
+          "value": 0.5849500000000001
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 11
+          "value": 12
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -17794,7 +22126,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 13
+            "value": 14
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -17835,20 +22167,20 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.07895,
+      "mentionsAsPercent": 0.06667,
       "appearanceOrder": 11,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 11,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.81242,
+      "influence": 0.5077499999999999,
       "influenceByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.81242,
+      "weightedInfluence": 0.5077499999999999,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -17858,7 +22190,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.81242
+          "value": 0.5077499999999999
         }
       ],
       "appearanceOrderTrendVals": [
@@ -17969,56 +22301,56 @@ window.AppData20251014 = {
       "type": "linkType",
       "code": "fin",
       "value": "Financial Services",
-      "mentions": 3,
+      "mentions": 6,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 2
       },
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.15789,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0.2,
+        "openai_chatgpt_with_search_latest": 0.11765
       },
-      "mentionsAsPercent": 0.03947,
-      "appearanceOrder": 5,
+      "mentionsAsPercent": 0.06667,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 7
       },
-      "influence": 0.68384,
+      "influence": 0.35235999999999995,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 2.67141,
+        "openai_chatgpt_with_search_latest": 2
       },
-      "weightedInfluence": 0.68384,
+      "weightedInfluence": 0.35235999999999995,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 3
+          "value": 6
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.68384
+          "value": 0.35235999999999995
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 5
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 1
+          "value": 2
         }
       ],
       "mentionsTrend": 999,
@@ -18028,7 +22360,7 @@ window.AppData20251014 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -18040,20 +22372,20 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 2
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -18065,20 +22397,20 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 2.67141
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 0
+            "value": 2
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -18096,17 +22428,17 @@ window.AppData20251014 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": -1
+            "value": 7
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 3
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-14",
@@ -18117,9 +22449,9 @@ window.AppData20251014 = {
       "type": "linkType",
       "code": "aca",
       "value": "Academic",
-      "mentions": 5,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
+        "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18127,40 +22459,40 @@ window.AppData20251014 = {
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07547,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "perplexity_with_search_latest": 0.03774,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.06579,
-      "appearanceOrder": 13,
+      "mentionsAsPercent": 0.03333,
+      "appearanceOrder": 15,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 14,
-        "anthropic_claude_with_search_latest": 9,
+        "perplexity_with_search_latest": 17,
+        "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.55329,
+      "influence": 0.19230000000000003,
       "influenceByModel": {
-        "perplexity_with_search_latest": 3,
+        "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.55329,
+      "weightedInfluence": 0.19230000000000003,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 5
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.55329
+          "value": 0.19230000000000003
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 13
+          "value": 15
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -18182,7 +22514,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 4
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18207,7 +22539,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18232,13 +22564,13 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 14
+            "value": 17
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 9
+            "value": 10
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -18249,12 +22581,12 @@ window.AppData20251014 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 5,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-14",
-          "mentions": 5
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-14",
@@ -18276,23 +22608,23 @@ window.AppData20251014 = {
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.03774,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.03947,
+      "mentionsAsPercent": 0.03333,
       "appearanceOrder": 10,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12,
-        "anthropic_claude_with_search_latest": 3,
+        "anthropic_claude_with_search_latest": 4,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.24215,
+      "influence": 0.14693,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1.46772,
+        "perplexity_with_search_latest": 1.54288,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.24215,
+      "weightedInfluence": 0.14693,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -18302,7 +22634,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.24215
+          "value": 0.14693
         }
       ],
       "appearanceOrderTrendVals": [
@@ -18355,7 +22687,7 @@ window.AppData20251014 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 1.46772
+            "value": 1.54288
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -18386,7 +22718,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 3
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -18424,23 +22756,23 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01316,
-      "appearanceOrder": 5,
+      "mentionsAsPercent": 0.01111,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 6,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.15475,
+      "influence": 0.08905,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15475,
+      "weightedInfluence": 0.08905,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -18450,13 +22782,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.15475
+          "value": 0.08905
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 5
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -18534,7 +22866,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 5
+            "value": 6
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -18572,23 +22904,23 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01316,
-      "appearanceOrder": 10,
+      "mentionsAsPercent": 0.01111,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 11,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.11562,
+      "influence": 0.06972,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11562,
+      "weightedInfluence": 0.06972,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -18598,13 +22930,13 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.11562
+          "value": 0.06972
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 10
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -18682,7 +23014,7 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-14",
-            "value": 10
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -18723,20 +23055,20 @@ window.AppData20251014 = {
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01316,
+      "mentionsAsPercent": 0.01111,
       "appearanceOrder": 14,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 14,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.10237,
+      "influence": 0.064,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10237,
+      "weightedInfluence": 0.064,
       "mentionsTrendVals": [
         {
           "date": "2025-10-14",
@@ -18746,7 +23078,7 @@ window.AppData20251014 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-14",
-          "value": 0.10237
+          "value": 0.064
         }
       ],
       "appearanceOrderTrendVals": [
@@ -18852,16 +23184,240 @@ window.AppData20251014 = {
       "lastSeen": "2025-10-14",
       "firstSeen": "2025-10-14",
       "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "oth",
+      "value": "Other",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.01887,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "mentionsAsPercent": 0.01111,
+      "appearanceOrder": 21,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 21,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "influence": 0.05605,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05605,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05605
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 21
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0
     }
   ],
   "linkDomains": [
     {
       "type": "linkDomain",
+      "code": "betaboom.com",
+      "value": "betaboom.com",
+      "link": "https://betaboom.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 8,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "sources": [
+        {
+          "link": "betaboom.com/magazine/article/top-angel-investors",
+          "mentions": 4,
+          "appearanceOrder": 1,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 1,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 1
+        },
+        {
+          "link": "betaboom.com/top-angel-investors",
+          "mentions": 4,
+          "appearanceOrder": 2,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "influence": 0.63092,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.63092
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.47059
+      },
+      "appearanceOrder": 1,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "mentionsAsPercent": 0.08889,
+      "influence": 1.6309200000000001,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "weightedInfluence": 1.6309200000000001
+    },
+    {
+      "type": "linkDomain",
       "code": "business.com",
       "value": "business.com",
       "link": "https://business.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
+      "linkType": "blg",
+      "linkTypeName": "Blogs",
       "mentions": 10,
       "mentionsByModel": {
         "perplexity_with_search_latest": 10,
@@ -18881,13 +23437,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 1,
+          "influence": 0.625,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 1
+          "weightedInfluence": 0.625
         },
         {
           "link": "www.business.com",
@@ -18901,13 +23457,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.86134,
+          "influence": 0.53835,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.86134
+          "weightedInfluence": 0.53835
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -18922,14 +23478,72 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.13158,
-      "influence": 1.86134,
+      "mentionsAsPercent": 0.11111,
+      "influence": 1.1633499999999999,
       "influenceByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1.86134
+      "weightedInfluence": 1.1633499999999999
+    },
+    {
+      "type": "linkDomain",
+      "code": "eqvista.com",
+      "value": "eqvista.com",
+      "link": "https://eqvista.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 10,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "sources": [
+        {
+          "link": "eqvista.com/top-100-active-angel-investors-list-for-startups",
+          "mentions": 10,
+          "appearanceOrder": 2,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 3,
+            "perplexity_with_search_latest": 1
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 7,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.6132,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.55874,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.6132
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.13208,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.17647
+      },
+      "appearanceOrder": 2,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "mentionsAsPercent": 0.11111,
+      "influence": 0.6132,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.55874,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.6132
     },
     {
       "type": "linkDomain",
@@ -18957,13 +23571,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.4,
+          "influence": 0.25,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.4
+          "weightedInfluence": 0.25
         },
         {
           "link": "www.openvc.app",
@@ -18977,13 +23591,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.37856,
+          "influence": 0.2366,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.37856
+          "weightedInfluence": 0.2366
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -18998,14 +23612,14 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.07895,
-      "influence": 0.77856,
+      "mentionsAsPercent": 0.06667,
+      "influence": 0.48660000000000003,
       "influenceByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.77856
+      "weightedInfluence": 0.48660000000000003
     },
     {
       "type": "linkDomain",
@@ -19033,13 +23647,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.71242,
+          "influence": 0.44525,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.71242
+          "weightedInfluence": 0.44525
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -19054,72 +23668,14 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.06579,
-      "influence": 0.71242,
+      "mentionsAsPercent": 0.05556,
+      "influence": 0.44525,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.71242
-    },
-    {
-      "type": "linkDomain",
-      "code": "eqvista.com",
-      "value": "eqvista.com",
-      "link": "https://eqvista.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
-      "mentions": 8,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "eqvista.com/top-100-active-angel-investors-list-for-startups",
-          "mentions": 8,
-          "appearanceOrder": 1.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 2
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 7,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.6937,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.33209,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.6937
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13208,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
-      },
-      "appearanceOrder": 1.5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "mentionsAsPercent": 0.10526,
-      "influence": 0.6937,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.33209,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.6937
+      "weightedInfluence": 0.44525
     },
     {
       "type": "linkDomain",
@@ -19147,13 +23703,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.61898,
+          "influence": 0.38685,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.61898
+          "weightedInfluence": 0.38685
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -19168,14 +23724,72 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.05263,
-      "influence": 0.61898,
+      "mentionsAsPercent": 0.04444,
+      "influence": 0.38685,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.61898
+      "weightedInfluence": 0.38685
+    },
+    {
+      "type": "linkDomain",
+      "code": "rocketdevs.com",
+      "value": "rocketdevs.com",
+      "link": "https://rocketdevs.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentions": 8,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "rocketdevs.com/blog/top-angel-investors-list",
+          "mentions": 8,
+          "appearanceOrder": 3,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 4,
+            "perplexity_with_search_latest": 2
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.34197,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.5262,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.34197
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.11321,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.11765
+      },
+      "appearanceOrder": 3,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "mentionsAsPercent": 0.08889,
+      "influence": 0.34197,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.5262,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.34197
     },
     {
       "type": "linkDomain",
@@ -19194,22 +23808,22 @@ window.AppData20251014 = {
         {
           "link": "angellist.com",
           "mentions": 2,
-          "appearanceOrder": 2,
+          "appearanceOrder": 3,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 2
+            "anthropic_claude_with_search_latest": 3
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 2,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.50474,
+          "influence": 0.25,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.50474
+          "weightedInfluence": 0.25
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19217,169 +23831,55 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.10526,
+        "anthropic_claude_with_search_latest": 0.1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 2,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 2
+        "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.02632,
-      "influence": 0.50474,
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.25,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.50474
+      "weightedInfluence": 0.25
     },
     {
       "type": "linkDomain",
-      "code": "rocketdevs.com",
-      "value": "rocketdevs.com",
-      "link": "https://rocketdevs.com",
-      "linkType": "dev",
-      "linkTypeName": "Developer Tools",
-      "mentions": 7,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "rocketdevs.com/blog/top-angel-investors-list",
-          "mentions": 7,
-          "appearanceOrder": 2.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 3
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.42765,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.22663,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.42765
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11321,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
-      },
-      "appearanceOrder": 2.5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "mentionsAsPercent": 0.09211,
-      "influence": 0.42765,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.22663,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.42765
-    },
-    {
-      "type": "linkDomain",
-      "code": "a16z.com",
-      "value": "a16z.com",
-      "link": "https://a16z.com",
-      "linkType": "fin",
-      "linkTypeName": "Financial Services",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "sources": [
-        {
-          "link": "a16z.com",
-          "mentions": 1,
-          "appearanceOrder": 1,
-          "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 1
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.4,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.4
-        }
-      ],
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrder": 1,
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 1
-      },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.4,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.4
-    },
-    {
-      "type": "linkDomain",
-      "code": "betaboom.com",
-      "value": "betaboom.com",
-      "link": "https://betaboom.com",
+      "code": "areteindex.com",
+      "value": "areteindex.com",
+      "link": "https://areteindex.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
-      "mentions": 1,
+      "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
-          "link": "betaboom.com/magazine/article/top-angel-investors",
-          "mentions": 1,
-          "appearanceOrder": 1,
+          "link": "areteindex.com/angels",
+          "mentions": 2,
+          "appearanceOrder": 5,
           "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 5
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 2
           },
-          "influence": 0.4,
+          "influence": 0.19342,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.4
+          "weightedInfluence": 0.19342
         }
       ],
       "bots": "openai_chatgpt_with_search_latest",
@@ -19388,28 +23888,107 @@ window.AppData20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
+        "openai_chatgpt_with_search_latest": 0.11765
       },
-      "appearanceOrder": 1,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.4,
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.19342,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.4
+      "weightedInfluence": 0.19342
+    },
+    {
+      "type": "linkDomain",
+      "code": "a16z.com",
+      "value": "a16z.com",
+      "link": "https://a16z.com",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentions": 4,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "a16z.com",
+          "mentions": 2,
+          "appearanceOrder": 3.5,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 6
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "influence": 0.09978,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0.40104,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.09978
+        },
+        {
+          "link": "a16z.com/author/marc-andreessen",
+          "mentions": 2,
+          "appearanceOrder": 4.5,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 7
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "influence": 0.0883,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0.27037,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.0883
+        }
+      ],
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.1,
+        "openai_chatgpt_with_search_latest": 0.11765
+      },
+      "appearanceOrder": 3.5,
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "mentionsAsPercent": 0.04444,
+      "influence": 0.18808,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.6714100000000001,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "weightedInfluence": 0.18808
     },
     {
       "type": "linkDomain",
       "code": "dealroom.net",
       "value": "dealroom.net",
       "link": "https://dealroom.net",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
       "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
@@ -19429,13 +24008,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.24083,
+          "influence": 0.15052,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.24083
+          "weightedInfluence": 0.15052
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -19450,14 +24029,14 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.02632,
-      "influence": 0.24083,
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.15052,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.24083
+      "weightedInfluence": 0.15052
     },
     {
       "type": "linkDomain",
@@ -19485,13 +24064,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.23126,
+          "influence": 0.14452,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.23126
+          "weightedInfluence": 0.14452
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -19506,14 +24085,14 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.02632,
-      "influence": 0.23126,
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.14452,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23126
+      "weightedInfluence": 0.14452
     },
     {
       "type": "linkDomain",
@@ -19532,22 +24111,22 @@ window.AppData20251014 = {
         {
           "link": "paypal.com",
           "mentions": 1,
-          "appearanceOrder": 4,
+          "appearanceOrder": 5,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 4
+            "anthropic_claude_with_search_latest": 5
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.17226,
+          "influence": 0.09673,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.17226
+          "weightedInfluence": 0.09673
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19555,77 +24134,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 4,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 4
+        "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.17226,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.09673,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.17226
-    },
-    {
-      "type": "linkDomain",
-      "code": "areteindex.com",
-      "value": "areteindex.com",
-      "link": "https://areteindex.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "areteindex.com/angels",
-          "mentions": 1,
-          "appearanceOrder": 4,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 4
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.17226,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.17226
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.25
-      },
-      "appearanceOrder": 4,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.17226,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.17226
+      "weightedInfluence": 0.09673
     },
     {
       "type": "linkDomain",
@@ -19644,22 +24167,22 @@ window.AppData20251014 = {
         {
           "link": "linkedin.com",
           "mentions": 1,
-          "appearanceOrder": 5,
+          "appearanceOrder": 6,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 5
+            "anthropic_claude_with_search_latest": 6
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.15475,
+          "influence": 0.08905,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.15475
+          "weightedInfluence": 0.08905
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19667,21 +24190,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.15475,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.08905,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15475
+      "weightedInfluence": 0.08905
     },
     {
       "type": "linkDomain",
@@ -19700,22 +24223,22 @@ window.AppData20251014 = {
         {
           "link": "greylock.com",
           "mentions": 1,
-          "appearanceOrder": 6,
+          "appearanceOrder": 7,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 6
+            "anthropic_claude_with_search_latest": 7
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1425,
+          "influence": 0.08332,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1425
+          "weightedInfluence": 0.08332
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19723,21 +24246,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.1425,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.08332,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1425
+      "weightedInfluence": 0.08332
     },
     {
       "type": "linkDomain",
@@ -19756,9 +24279,9 @@ window.AppData20251014 = {
         {
           "link": "svangel.com",
           "mentions": 2,
-          "appearanceOrder": 7,
+          "appearanceOrder": 7.5,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 3,
+            "anthropic_claude_with_search_latest": 4,
             "perplexity_with_search_latest": 11
           },
           "mentionsByModel": {
@@ -19766,13 +24289,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13405,
+          "influence": 0.07938,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.46772,
+            "perplexity_with_search_latest": 0.54288,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13405
+          "weightedInfluence": 0.07938
         }
       ],
       "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
@@ -19780,22 +24303,22 @@ window.AppData20251014 = {
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 11,
-        "anthropic_claude_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.02632,
-      "influence": 0.13405,
+      "mentionsAsPercent": 0.02222,
+      "influence": 0.07938,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.46772,
+        "perplexity_with_search_latest": 0.54288,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13405
+      "weightedInfluence": 0.07938
     },
     {
       "type": "linkDomain",
@@ -19814,22 +24337,22 @@ window.AppData20251014 = {
         {
           "link": "blog.eladgil.com",
           "mentions": 1,
-          "appearanceOrder": 7,
+          "appearanceOrder": 8,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 7
+            "anthropic_claude_with_search_latest": 8
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.13334,
+          "influence": 0.07888,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.13334
+          "weightedInfluence": 0.07888
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19837,21 +24360,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.13334,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.07888,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13334
+      "weightedInfluence": 0.07888
     },
     {
       "type": "linkDomain",
@@ -19870,22 +24393,22 @@ window.AppData20251014 = {
         {
           "link": "lowercasecapital.com",
           "mentions": 1,
-          "appearanceOrder": 8,
+          "appearanceOrder": 9,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 8
+            "anthropic_claude_with_search_latest": 9
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12618,
+          "influence": 0.07525,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12618
+          "weightedInfluence": 0.07525
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19893,21 +24416,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
+        "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.12618,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.07525,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12618
+      "weightedInfluence": 0.07525
     },
     {
       "type": "linkDomain",
@@ -19926,22 +24449,22 @@ window.AppData20251014 = {
         {
           "link": "wellville.net",
           "mentions": 1,
-          "appearanceOrder": 9,
+          "appearanceOrder": 10,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 9
+            "anthropic_claude_with_search_latest": 10
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12042,
+          "influence": 0.07228,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12042
+          "weightedInfluence": 0.07228
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -19949,21 +24472,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.12042,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.07228,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12042
+      "weightedInfluence": 0.07228
     },
     {
       "type": "linkDomain",
@@ -19982,22 +24505,22 @@ window.AppData20251014 = {
         {
           "link": "icio.us",
           "mentions": 1,
-          "appearanceOrder": 10,
+          "appearanceOrder": 11,
           "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 10
+            "anthropic_claude_with_search_latest": 11
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.11562,
+          "influence": 0.06972,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.11562
+          "weightedInfluence": 0.06972
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20005,21 +24528,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.11562,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06972,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11562
+      "weightedInfluence": 0.06972
     },
     {
       "type": "linkDomain",
@@ -20038,62 +24561,6 @@ window.AppData20251014 = {
         {
           "link": "500.co",
           "mentions": 1,
-          "appearanceOrder": 11,
-          "appearanceOrderByModel": {
-            "anthropic_claude_with_search_latest": 11
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0.11158,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "weightedInfluence": 0.11158
-        }
-      ],
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrder": 11,
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
-      },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.11158,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.11158
-    },
-    {
-      "type": "linkDomain",
-      "code": "launch.co",
-      "value": "launch.co",
-      "link": "https://launch.co",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "sources": [
-        {
-          "link": "launch.co",
-          "mentions": 1,
           "appearanceOrder": 12,
           "appearanceOrderByModel": {
             "anthropic_claude_with_search_latest": 12
@@ -20103,13 +24570,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1081,
+          "influence": 0.06755,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1081
+          "weightedInfluence": 0.06755
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20117,21 +24584,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 12,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.1081,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06755,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1081
+      "weightedInfluence": 0.06755
     },
     {
       "type": "linkDomain",
@@ -20159,13 +24626,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1081,
+          "influence": 0.06755,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1081
+          "weightedInfluence": 0.06755
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20180,22 +24647,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.1081,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06755,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1081
+      "weightedInfluence": 0.06755
     },
     {
       "type": "linkDomain",
-      "code": "dst-global.com",
-      "value": "dst-global.com",
-      "link": "https://dst-global.com",
-      "linkType": "nws",
-      "linkTypeName": "News Media",
+      "code": "launch.co",
+      "value": "launch.co",
+      "link": "https://launch.co",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -20204,7 +24671,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "dst-global.com",
+          "link": "launch.co",
           "mentions": 1,
           "appearanceOrder": 13,
           "appearanceOrderByModel": {
@@ -20215,13 +24682,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.10506,
+          "influence": 0.06565,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.10506
+          "weightedInfluence": 0.06565
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20229,21 +24696,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 13,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.10506,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06565,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10506
+      "weightedInfluence": 0.06565
     },
     {
       "type": "linkDomain",
@@ -20271,13 +24738,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.10506,
+          "influence": 0.06565,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.10506
+          "weightedInfluence": 0.06565
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20292,22 +24759,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.10506,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06565,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10506
+      "weightedInfluence": 0.06565
     },
     {
       "type": "linkDomain",
-      "code": "horizonsventures.com",
-      "value": "horizonsventures.com",
-      "link": "https://horizonsventures.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
+      "code": "dst-global.com",
+      "value": "dst-global.com",
+      "link": "https://dst-global.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -20316,7 +24783,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "horizonsventures.com",
+          "link": "dst-global.com",
           "mentions": 1,
           "appearanceOrder": 14,
           "appearanceOrderByModel": {
@@ -20327,13 +24794,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.10237,
+          "influence": 0.064,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.10237
+          "weightedInfluence": 0.064
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20341,21 +24808,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 14,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.10237,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.064,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10237
+      "weightedInfluence": 0.064
     },
     {
       "type": "linkDomain",
@@ -20383,13 +24850,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.10237,
+          "influence": 0.064,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.10237
+          "weightedInfluence": 0.064
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20404,20 +24871,20 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.10237,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.064,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10237
+      "weightedInfluence": 0.064
     },
     {
       "type": "linkDomain",
-      "code": "softbank.jp",
-      "value": "softbank.jp",
-      "link": "https://softbank.jp",
+      "code": "horizonsventures.com",
+      "value": "horizonsventures.com",
+      "link": "https://horizonsventures.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
       "mentions": 1,
@@ -20428,7 +24895,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "softbank.jp/en",
+          "link": "horizonsventures.com",
           "mentions": 1,
           "appearanceOrder": 15,
           "appearanceOrderByModel": {
@@ -20439,13 +24906,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1,
+          "influence": 0.0625,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1
+          "weightedInfluence": 0.0625
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20453,21 +24920,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 15,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.1,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.0625,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1
+      "weightedInfluence": 0.0625
     },
     {
       "type": "linkDomain",
@@ -20495,13 +24962,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.1,
+          "influence": 0.0625,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.1
+          "weightedInfluence": 0.0625
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20516,20 +24983,20 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.1,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.0625,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1
+      "weightedInfluence": 0.0625
     },
     {
       "type": "linkDomain",
-      "code": "crunchbase.com",
-      "value": "crunchbase.com",
-      "link": "https://crunchbase.com",
+      "code": "softbank.jp",
+      "value": "softbank.jp",
+      "link": "https://softbank.jp",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
       "mentions": 1,
@@ -20540,7 +25007,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "crunchbase.com",
+          "link": "softbank.jp/en",
           "mentions": 1,
           "appearanceOrder": 16,
           "appearanceOrderByModel": {
@@ -20551,13 +25018,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09786,
+          "influence": 0.06117,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09786
+          "weightedInfluence": 0.06117
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20565,21 +25032,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 16,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 16
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09786,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06117,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09786
+      "weightedInfluence": 0.06117
     },
     {
       "type": "linkDomain",
@@ -20607,13 +25074,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09786,
+          "influence": 0.06117,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09786
+          "weightedInfluence": 0.06117
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20628,22 +25095,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 16
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09786,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.06117,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09786
+      "weightedInfluence": 0.06117
     },
     {
       "type": "linkDomain",
-      "code": "forbes.com",
-      "value": "forbes.com",
-      "link": "https://forbes.com",
-      "linkType": "nws",
-      "linkTypeName": "News Media",
+      "code": "crunchbase.com",
+      "value": "crunchbase.com",
+      "link": "https://crunchbase.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -20652,7 +25119,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "forbes.com/midas",
+          "link": "crunchbase.com",
           "mentions": 1,
           "appearanceOrder": 17,
           "appearanceOrderByModel": {
@@ -20663,13 +25130,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09594,
+          "influence": 0.05995,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09594
+          "weightedInfluence": 0.05995
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20677,21 +25144,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 17,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09594,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05995,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09594
+      "weightedInfluence": 0.05995
     },
     {
       "type": "linkDomain",
@@ -20719,13 +25186,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09594,
+          "influence": 0.05995,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09594
+          "weightedInfluence": 0.05995
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20740,22 +25207,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09594,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05995,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09594
+      "weightedInfluence": 0.05995
     },
     {
       "type": "linkDomain",
-      "code": "cbinsights.com",
-      "value": "cbinsights.com",
-      "link": "https://cbinsights.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
+      "code": "forbes.com",
+      "value": "forbes.com",
+      "link": "https://forbes.com",
+      "linkType": "nws",
+      "linkTypeName": "News Media",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -20764,7 +25231,7 @@ window.AppData20251014 = {
       },
       "sources": [
         {
-          "link": "cbinsights.com",
+          "link": "forbes.com/midas",
           "mentions": 1,
           "appearanceOrder": 18,
           "appearanceOrderByModel": {
@@ -20775,13 +25242,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09418,
+          "influence": 0.05885,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09418
+          "weightedInfluence": 0.05885
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -20789,21 +25256,21 @@ window.AppData20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 18,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 18
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09418,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05885,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09418
+      "weightedInfluence": 0.05885
     },
     {
       "type": "linkDomain",
@@ -20831,13 +25298,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09418,
+          "influence": 0.05885,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09418
+          "weightedInfluence": 0.05885
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20852,22 +25319,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 18
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09418,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05885,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09418
+      "weightedInfluence": 0.05885
     },
     {
       "type": "linkDomain",
       "code": "waveup.com",
       "value": "waveup.com",
       "link": "https://waveup.com",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
@@ -20887,13 +25354,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09254,
+          "influence": 0.05785,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09254
+          "weightedInfluence": 0.05785
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20908,14 +25375,70 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 19
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09254,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05785,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09254
+      "weightedInfluence": 0.05785
+    },
+    {
+      "type": "linkDomain",
+      "code": "cbinsights.com",
+      "value": "cbinsights.com",
+      "link": "https://cbinsights.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "cbinsights.com",
+          "mentions": 1,
+          "appearanceOrder": 19,
+          "appearanceOrderByModel": {
+            "anthropic_claude_with_search_latest": 19
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.05785,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.05785
+        }
+      ],
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": 19,
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 19
+      },
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05785,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.05785
     },
     {
       "type": "linkDomain",
@@ -20943,13 +25466,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09107,
+          "influence": 0.05692,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09107
+          "weightedInfluence": 0.05692
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -20964,22 +25487,22 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 20
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.09107,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05692,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09107
+      "weightedInfluence": 0.05692
     },
     {
       "type": "linkDomain",
       "code": "shoutex.com",
       "value": "shoutex.com",
       "link": "https://shoutex.com",
-      "linkType": "dev",
-      "linkTypeName": "Developer Tools",
+      "linkType": "oth",
+      "linkTypeName": "Other",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
@@ -20999,13 +25522,13 @@ window.AppData20251014 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.0897,
+          "influence": 0.05605,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.0897
+          "weightedInfluence": 0.05605
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -21020,58 +25543,14 @@ window.AppData20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 21
       },
-      "mentionsAsPercent": 0.01316,
-      "influence": 0.0897,
+      "mentionsAsPercent": 0.01111,
+      "influence": 0.05605,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0897
-    },
-    {
-      "type": "linkDomain",
-      "code": "techcoastangels.com)",
-      "value": "techcoastangels.com)",
-      "link": "https://techcoastangels.com)",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
-      "mentions": 0,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "sources": [
-        {
-          "link": "techcoastangels.com)",
-          "mentions": 0,
-          "appearanceOrder": -1,
-          "appearanceOrderByModel": {},
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 0
-          },
-          "influence": 0,
-          "influenceByModel": {},
-          "weightedInfluence": 0
-        }
-      ],
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrder": -1,
-      "appearanceOrderByModel": {},
-      "mentionsAsPercent": 0,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0
+      "weightedInfluence": 0.05605
     },
     {
       "type": "linkDomain",
@@ -21121,17 +25600,17 @@ window.AppData20251014 = {
   "totalDates": [
     "2025-10-14"
   ],
-  "totalDataPoints": 153,
-  "totalTimeSaved": "13",
+  "totalDataPoints": 173,
+  "totalTimeSaved": "15",
   "totalCounts": {
     "bots": 3,
-    "linkTypes": 11,
+    "linkTypes": 12,
     "products": 0,
-    "organizations": 17,
+    "organizations": 14,
     "people": 0,
     "places": 0,
-    "links": 42,
-    "keywords": 21,
+    "links": 43,
+    "keywords": 44,
     "events": 0
   },
   "itemCountPerModel": {
@@ -21152,15 +25631,15 @@ window.AppData20251014 = {
     "organizations": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 12
+        "count": 13
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 10
+        "count": 6
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 0
+        "count": 1
       }
     ],
     "people": [
@@ -21198,25 +25677,25 @@ window.AppData20251014 = {
       },
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 18
+        "count": 19
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 4
+        "count": 7
       }
     ],
     "keywords": [
       {
         "id": "perplexity_with_search_latest",
-        "count": 13
+        "count": 23
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 10
+        "count": 23
       },
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 9
+        "count": 14
       }
     ],
     "events": [
@@ -21237,6 +25716,14 @@ window.AppData20251014 = {
       {
         "id": "perplexity_with_search_latest",
         "count": 1
+      },
+      {
+        "id": "anthropic_claude_with_search_latest",
+        "count": 1
+      },
+      {
+        "id": "openai_chatgpt_with_search_latest",
+        "count": 1
       }
     ]
   },
@@ -21245,7 +25732,7 @@ window.AppData20251014 = {
     "organizations": [
       {
         "id": "999",
-        "count": 17
+        "count": 14
       }
     ],
     "people": [],
@@ -21253,21 +25740,21 @@ window.AppData20251014 = {
     "links": [
       {
         "id": "999",
-        "count": 40
+        "count": 42
       },
       {
         "id": "-9999",
-        "count": 2
+        "count": 1
       }
     ],
     "keywords": [
       {
         "id": "999",
-        "count": 18
+        "count": 37
       },
       {
         "id": "-9999",
-        "count": 3
+        "count": 7
       }
     ],
     "events": [],
@@ -21278,7 +25765,7 @@ window.AppData20251014 = {
       },
       {
         "id": "999",
-        "count": 1
+        "count": 2
       }
     ]
   }

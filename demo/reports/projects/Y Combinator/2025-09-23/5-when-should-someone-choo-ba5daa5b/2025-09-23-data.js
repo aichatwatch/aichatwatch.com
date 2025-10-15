@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "When should someone choose Y Combinator over other options?",
   "report_date": "2025-09-23",
   "report_question_id": "5-when-should-someone-choo-ba5daa5b",
-  "report_created_at": "Oct 14, 2025, 5:55:55 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -959,11 +959,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://angel.co",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Sequoia Capital",
@@ -1126,11 +1122,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.sequoiacap.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Andreessen Horowitz",
@@ -1293,11 +1285,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Alchemist Accelerator",
@@ -2400,11 +2388,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://angel.co",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Sequoia Capital",
@@ -2567,11 +2551,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.sequoiacap.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Andreessen Horowitz",
@@ -2734,11 +2714,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Alchemist Accelerator",
@@ -3067,11 +3043,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://paulgraham.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Jessica Livingston",
@@ -3234,11 +3206,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://jessicalivingston.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "keywords": [
@@ -3403,11 +3371,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "brand awareness,brand visibility,market presence",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "network",
@@ -3707,11 +3671,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 6.5,
-      "similar": "connections,networking,relationships",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 6.5
     },
     {
       "value": "mentorship",
@@ -3934,11 +3894,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "coaching,advising,guidance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "funding",
@@ -4259,11 +4215,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 8.5,
-      "similar": "financial support,capital investment,monetary backing",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 8.5
     },
     {
       "value": "early-stage startup",
@@ -4449,11 +4401,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "startup phase,initial business,launching company",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "high growth potential",
@@ -4623,11 +4571,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "rapid growth,expansion potential,scalability",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "structured program",
@@ -4832,11 +4776,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0,
-      "similar": "organized program,systematic approach,structured course",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "rapid scaling",
@@ -4999,11 +4939,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "fast growth,quick scaling,accelerated expansion",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "alumni support",
@@ -5166,11 +5102,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "graduate network,former participant support,alumni resources",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "investor access",
@@ -5333,11 +5265,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "investor relations,capital access,funding opportunities",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Demo Day",
@@ -5544,11 +5472,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "pitch event,startup showcase,entrepreneur presentation",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "community",
@@ -5734,11 +5658,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "local network,community engagement,social group",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "government grants",
@@ -5901,11 +5821,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "government funding,state grants,public financial support",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "bootstrapping",
@@ -6138,11 +6054,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0.5,
-      "similar": "self-funding,personal investment,independent financing",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "venture capital",
@@ -6312,11 +6224,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "capital investment,investment funding,venture financing",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "equity dilution",
@@ -6479,11 +6387,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "ownership dilution,share reduction,stake decrease",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "control and autonomy",
@@ -6646,11 +6550,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "independence,freedom,decision-making power",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "location",
@@ -6820,11 +6720,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "geographic area,site,venue",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     }
   ],
   "places": [
@@ -7003,11 +6899,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.bayarea.gov",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Silicon Valley",
@@ -7226,11 +7118,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 1,
-      "link": "https://www.siliconvalley.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1
     }
   ],
   "events": [

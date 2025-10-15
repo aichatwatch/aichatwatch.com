@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-14T13:58:18.147Z
+// AUTO-GENERATED AGGREGATE: 2025-10-15T17:03:58.846Z
 // Aggregated from prompts: 1-what-are-the-best-y-comb-907eddd4, 2-what-are-the-top-alterna-c2491069, 3-how-does-y-combinator-co-a61f8da3, 4-what-makes-y-combinator--6e3ff816, 5-when-should-someone-choo-ba5daa5b
 window.AppDataAggregate20250923 = {
   "report_question": "Y Combinator",
   "report_date": "2025-09-23",
   "report_question_id": "1-what-are-the-best-y-comb-907eddd4",
-  "report_created_at": "Oct 14, 2025, 5:55:55 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -3932,10 +3932,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "link": "https://scale.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -5582,10 +5578,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.perplexity.ai",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -5803,10 +5795,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://hume.ai",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -8982,10 +8970,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://skydeck.berkeley.edu",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -10398,10 +10382,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0.5,
-      "link": "https://dreamit.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
@@ -11225,10 +11205,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://pear.vc",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
@@ -13017,10 +12993,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://yc.safe",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 0
       },
@@ -13212,10 +13184,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.sequoiacap.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -13417,10 +13385,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -18237,10 +18201,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://scale.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -19775,10 +19735,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.perplexity.ai",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -19996,10 +19952,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://hume.ai",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -24895,10 +24847,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://betaworks.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -25100,10 +25048,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://foundersfactory.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -26421,10 +26365,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.lsvp.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -26672,10 +26612,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "link": "https://www.sequoiacap.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -26877,10 +26813,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -27597,10 +27529,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://jessicalivingston.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -27804,10 +27732,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "personal opinion,top choices,preferred options",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -28076,10 +28000,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0.5,
-      "similar": "financial support,capital investment,monetary backing",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -28290,10 +28210,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "company assessment,asset evaluation,worth analysis",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -28573,10 +28489,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 1,
-      "similar": "creative advancement,technological progress,novel ideas",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3
       },
@@ -28807,10 +28719,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "market frontrunners,top companies,leading firms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -29021,10 +28929,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "e-commerce platform,online marketplace,digital storefront",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -29226,10 +29130,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "food delivery service,delivery platform,order app",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -29487,10 +29387,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "similar": "self-driving cars,driverless vehicles,automated transport",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -29759,10 +29655,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0.5,
-      "similar": "people management tech,HR software,workforce solutions",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -29995,10 +29887,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "employee benefits administration,benefits optimization,workplace perks",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3
       },
@@ -30202,10 +30090,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "startup incubator,entrepreneurship program,venture accelerator",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0
       },
@@ -30397,10 +30281,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "investment firms,portfolio businesses,company investments",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -30602,10 +30482,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "business directory,company listings,service directory",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -30791,10 +30667,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "data analysis tools,research databases,information platforms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0
       },
@@ -30986,10 +30858,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "training datasets for AI,AI learning data,artificial intelligence training resources",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -31191,10 +31059,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "web-based coding platform,online programming environment,code learning site",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -31396,10 +31260,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "employee management systems,workforce optimization,staff management tools",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -31601,10 +31461,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "team design collaboration,co-creation design tools,collaborative creative platforms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -31790,10 +31646,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "efficiency tools,productivity software,work optimization tools",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0
       },
@@ -31985,10 +31837,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "financial process automation,finance workflow automation,automated financial management",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -32190,10 +32038,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "intelligent scheduling software,smart calendar solutions,AI scheduling assistant",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -32395,10 +32239,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "AI research tools,automated research analysis,AI-driven insights",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -32600,10 +32440,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "empathetic AI,emotion-aware artificial intelligence,sensitive AI systems",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -32805,10 +32641,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "video production software,film editing tools,video content creation",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -33010,10 +32842,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "new Y Combinator startups,emerging companies from YC,YC-backed ventures",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -33224,10 +33052,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "business contact directory,company listings,corporate contact database",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -33503,10 +33327,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "entrepreneurial ventures,startup companies,new business initiatives",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 8
       },
@@ -33745,10 +33565,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "performance indicators,success benchmarks,achievement metrics",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0
       },
@@ -33949,10 +33765,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "significance,contribution,importance",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
@@ -34161,10 +33973,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "rate of growth,growth percentage,increase rate",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
@@ -38210,10 +38018,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "advanced technology,emerging tech,innovative tech",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 31
       },
@@ -38582,10 +38386,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "environmental technology,sustainable tech,green technology",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2,
         "3-how-does-y-combinator-co-a61f8da3": 7
@@ -38855,10 +38655,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "devices,technology products,electronics",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -39071,10 +38867,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "automation technology,AI robotics,robot technology",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
@@ -39294,10 +39086,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "fast-growing firms,rapidly scaling businesses,high-potential startups",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
@@ -39506,10 +39294,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "digital marketplaces,online platforms,e-commerce sites",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -40074,10 +39858,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 5,
-      "similar": "cloud software,subscription software,web-based applications",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 10,
         "3-how-does-y-combinator-co-a61f8da3": 14,
@@ -40674,10 +40454,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "medical technology,health innovation,healthcare technology",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 12
       },
@@ -40991,10 +40767,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "sustainable technology,eco-friendly tech,environmental solutions",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 6
       },
@@ -41291,10 +41063,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "scientific study,academic research,investigative research",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 7
       },
@@ -41571,10 +41339,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "startup tools,entrepreneur resources,business support",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 4
       },
@@ -41799,10 +41563,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "international groups,global networks,worldwide communities",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -42004,10 +41764,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "industry sectors,market segments,sector-specific",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -42285,10 +42041,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 1,
-      "similar": "review platforms,product comparison sites,ranking tools",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 3
       },
@@ -42546,10 +42298,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0.5,
-      "similar": "startup-friendly,entrepreneurial support,founder-oriented",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0
       },
@@ -42970,10 +42718,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "ownership stake,shareholding,capital interest",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 9,
         "3-how-does-y-combinator-co-a61f8da3": 11,
@@ -43392,10 +43136,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "funding strategy,financial approach,investment model",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -43581,10 +43321,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "technology sectors,tech domains,digital industries",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0
       },
@@ -43776,10 +43512,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "community impact,social change,positive influence",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -43965,10 +43697,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "growth strategies,expansion tactics,scaling methods",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0
       },
@@ -44482,10 +44210,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "connections,relationships,associations",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 10,
         "3-how-does-y-combinator-co-a61f8da3": 20,
@@ -44955,10 +44679,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "startup culture,entrepreneurial spirit,business innovation",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0
       },
@@ -45179,10 +44899,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "assistance,aid,help",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 4
       },
@@ -45418,10 +45134,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "international reach,global footprint,worldwide presence",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
@@ -45632,10 +45344,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "initial funding,seed capital,pre-seed investment",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0,
         "4-what-makes-y-combinator--6e3ff816": 1
@@ -45851,10 +45559,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "mentorship-focused,advisory-led,guide-oriented",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -46056,10 +45760,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "varied startups,mixed ventures,diverse businesses",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -46245,10 +45945,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "industry focus,niche specialization,sector expertise",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0
       },
@@ -46449,10 +46145,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "collaborative partnerships,corporate alliances,business collaborations",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
         "3-how-does-y-combinator-co-a61f8da3": 1
@@ -50215,10 +49907,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "regional emphasis,location-based strategy,area-specific focus",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 4
       },
@@ -50519,10 +50207,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "digital incubators,virtual startup programs,web-based accelerators",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 13
       },
@@ -50802,10 +50486,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "collaborative ventures,corporate alliances,business partnerships",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3
       },
@@ -51125,10 +50805,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 1,
-      "similar": "vibrant alumni network,strong graduate community,active alumni group",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3,
         "4-what-makes-y-combinator--6e3ff816": 4
@@ -51406,10 +51082,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "immediate funding,upfront capital,direct investment",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 2
       },
@@ -51620,10 +51292,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "post-program assistance,aftercare support,ongoing help",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -51825,10 +51493,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "marketing strategies,rapid growth techniques,scaling tactics",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -52030,10 +51694,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "client acquisition,customer growth,client onboarding",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -52257,10 +51917,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "capital raising,fund sourcing,financial fundraising",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3
       },
@@ -52480,10 +52136,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "sector-neutral,industry-agnostic,non-specific sector",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -52685,10 +52337,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "worldwide investor access,global funding opportunities,international investor network",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -52890,10 +52538,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "regional support,local assistance,area-specific help",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -53104,10 +52748,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "inclusive founders,underrepresented entrepreneurs,diverse entrepreneurs",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 2
       },
@@ -53316,10 +52956,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "global markets,international trade,foreign markets",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -53521,10 +53157,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "non-traditional funding sources,alternative financing options,creative funding methods",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -53710,10 +53342,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "immersive program,intensive training,focused curriculum",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0,
         "4-what-makes-y-combinator--6e3ff816": 0
@@ -53903,10 +53531,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "notable alumni,successful graduates,renowned participants",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -54165,10 +53789,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "similar": "exclusive,highly selective,discriminating",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 2
       },
@@ -54379,10 +53999,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "program timeline,course length,duration of program",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -54604,10 +54220,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "sector specialization,industry emphasis,focus area",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3
       },
@@ -54834,10 +54446,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "case studies,success narratives,achievement stories",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 2
       },
@@ -55046,10 +54654,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "testimonial sites,review websites,feedback platforms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -55235,10 +54839,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "networking opportunities,connection access,community engagement",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -55457,10 +55057,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "investment conditions,financial terms,capital agreements",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 4
       },
@@ -55683,10 +55279,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "course duration,length of program,program timeline",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
@@ -57729,10 +57321,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "professional connections,relationship building,network opportunities",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -57934,10 +57522,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "investment opportunity,funding agreement,financial deal",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -58123,10 +57707,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "high-growth startups,innovative companies,disruptive ventures",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 0
       },
@@ -58318,10 +57898,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "high-potential startups,expandable businesses,rapidly growing firms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -58523,10 +58099,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "team-oriented environment,cooperative culture,collaborative atmosphere",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -58728,10 +58300,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "founder pairing,entrepreneur matching,co-founder connection",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -58989,10 +58557,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "similar": "international presence,worldwide reach,global expansion",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -59194,10 +58758,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "regional programs,community-based initiatives,localized support",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -59399,10 +58959,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "complimentary resources,free software,open-source tools",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -59604,10 +59160,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "cohort size,participant number,batch capacity",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -59809,10 +59361,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "high-risk projects,ambitious goals,transformative ideas",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -60171,10 +59719,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "pitch event,showcase day,demonstration event",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 11,
         "5-when-should-someone-choo-ba5daa5b": 7
@@ -60538,10 +60082,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "uniform agreements,standard contracts,consistent terms",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 3
       },
@@ -60759,10 +60299,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "core values,fundamental beliefs,essential principles",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -60964,10 +60500,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "positive reputation,renowned status,trustworthy brand",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
@@ -61178,10 +60710,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "technical entrepreneurs,engineering founders,tech-savvy leaders",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 2
       },
@@ -61399,10 +60927,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "grant funding,non-equity financing,subsidized capital",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 2
       },
@@ -61611,10 +61135,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "brand awareness,brand visibility,market presence",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -61845,10 +61365,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "startup phase,initial business,launching company",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 4
       },
@@ -62082,10 +61598,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "rapid growth,expansion potential,scalability",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 2
       },
@@ -62334,10 +61846,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "similar": "organized program,systematic approach,structured course",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 0
       },
@@ -62529,10 +62037,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "fast growth,quick scaling,accelerated expansion",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -62734,10 +62238,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "graduate network,former participant support,alumni resources",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -62939,10 +62439,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "investor relations,capital access,funding opportunities",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -63173,10 +62669,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "local network,community engagement,social group",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 4
       },
@@ -63401,10 +62893,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "government funding,state grants,public financial support",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -63680,10 +63168,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0.5,
-      "similar": "self-funding,personal investment,independent financing",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 3
       },
@@ -63908,10 +63392,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "capital investment,investment funding,venture financing",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 2
       },
@@ -64120,10 +63600,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "ownership dilution,share reduction,stake decrease",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -64325,10 +63801,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "independence,freedom,decision-making power",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
@@ -64539,10 +64011,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "similar": "geographic area,site,venue",
-      "sources": {
-        "similar": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 2
       },
@@ -64818,10 +64286,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
       "volatility": 0,
-      "link": "https://www.siliconvalley.gov",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1,
         "5-when-should-someone-choo-ba5daa5b": 1
@@ -65065,10 +64529,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.bayarea.gov",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 3
       },
@@ -65419,10 +64879,6 @@ window.AppDataAggregate20250923 = {
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
       "volatility": 0,
-      "link": "https://www.demoday.com",
-      "sources": {
-        "link": "AI"
-      },
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3,
         "4-what-makes-y-combinator--6e3ff816": 11
@@ -75498,540 +74954,6 @@ window.AppDataAggregate20250923 = {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 19
         }
-      }
-    },
-    {
-      "type": "link",
-      "value": "doordash.com))",
-      "link": "doordash.com))",
-      "linkType": "foo",
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "or_meta_llama_3_3_70b": -1,
-        "or_google_gemini_2_0_flash_exp": -1,
-        "or_deepseek_chat_v3": -1
-      },
-      "excerptsByModel": {
-        "or_deepseek_chat_v3": [],
-        "or_google_gemini_2_0_flash_exp": [],
-        "or_meta_llama_3_3_70b": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-23",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-09-23",
-      "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": [],
-          "or_google_gemini_2_0_flash_exp": [],
-          "or_meta_llama_3_3_70b": []
-        }
-      },
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
-      }
-    },
-    {
-      "type": "link",
-      "value": "rappi.com))",
-      "link": "rappi.com))",
-      "linkType": "oth",
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "or_meta_llama_3_3_70b": -1,
-        "or_google_gemini_2_0_flash_exp": -1,
-        "or_deepseek_chat_v3": -1
-      },
-      "excerptsByModel": {
-        "or_deepseek_chat_v3": [],
-        "or_google_gemini_2_0_flash_exp": [],
-        "or_meta_llama_3_3_70b": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-23",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-09-23",
-      "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": [],
-          "or_google_gemini_2_0_flash_exp": [],
-          "or_meta_llama_3_3_70b": []
-        }
-      },
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
-      }
-    },
-    {
-      "type": "link",
-      "value": "gusto.com))",
-      "link": "gusto.com))",
-      "linkType": "fin",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "or_meta_llama_3_3_70b": -1,
-        "or_google_gemini_2_0_flash_exp": -1,
-        "or_deepseek_chat_v3": -1
-      },
-      "excerptsByModel": {
-        "or_deepseek_chat_v3": [],
-        "or_google_gemini_2_0_flash_exp": [],
-        "or_meta_llama_3_3_70b": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-23",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-09-23",
-      "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": [],
-          "or_google_gemini_2_0_flash_exp": [],
-          "or_meta_llama_3_3_70b": []
-        }
-      },
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
       }
     },
     {
@@ -96669,183 +95591,6 @@ window.AppDataAggregate20250923 = {
     },
     {
       "type": "linkType",
-      "code": "oth",
-      "value": "Other",
-      "mentions": 0,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "mentionsAsPercent": 0,
-      "appearanceOrder": 999,
-      "appearanceOrderByModel": {},
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 999
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-23",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999,
-        "or_deepseek_chat_v3": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-23",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-23",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-09-23",
-      "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0,
-        "5-when-should-someone-choo-ba5daa5b": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0,
-        "5-when-should-someone-choo-ba5daa5b": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        },
-        "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 999,
-        "5-when-should-someone-choo-ba5daa5b": 999
-      },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": -1,
-          "or_google_gemini_2_0_flash_exp": -1,
-          "or_deepseek_chat_v3": -1
-        },
-        "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": -1,
-          "or_google_gemini_2_0_flash_exp": -1,
-          "or_deepseek_chat_v3": -1
-        }
-      }
-    },
-    {
-      "type": "linkType",
       "code": "aca",
       "value": "Academic",
       "mentions": 1,
@@ -98051,6 +96796,170 @@ window.AppDataAggregate20250923 = {
         "5-when-should-someone-choo-ba5daa5b": {
           "or_meta_llama_3_3_70b": -1,
           "or_google_gemini_2_0_flash_exp": 15,
+          "or_deepseek_chat_v3": -1
+        }
+      }
+    },
+    {
+      "type": "linkType",
+      "code": "oth",
+      "value": "Other",
+      "mentions": 0,
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0
+      },
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0,
+        "or_google_gemini_2_0_flash_exp": 0,
+        "or_deepseek_chat_v3": 0
+      },
+      "mentionsAsPercent": 0,
+      "appearanceOrder": 999,
+      "appearanceOrderByModel": {},
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 999
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
+      "mentionsByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": 0
+      },
+      "influenceByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": 0
+      },
+      "mentionsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_meta_llama_3_3_70b": 0,
+          "or_google_gemini_2_0_flash_exp": 0,
+          "or_deepseek_chat_v3": 0
+        }
+      },
+      "appearanceOrderByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": 999
+      },
+      "excerptsByModelByPrompt": {},
+      "appearanceOrderByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_meta_llama_3_3_70b": -1,
+          "or_google_gemini_2_0_flash_exp": -1,
           "or_deepseek_chat_v3": -1
         }
       }
@@ -100990,198 +99899,6 @@ window.AppDataAggregate20250923 = {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_deepseek_chat_v3": 26
         }
-      }
-    },
-    {
-      "type": "linkDomain",
-      "code": "doordash.com))",
-      "value": "doordash.com))",
-      "link": "https://doordash.com))",
-      "linkType": "foo",
-      "linkTypeName": "Food & Dining",
-      "mentions": 0,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "sources": [
-        {
-          "link": "doordash.com))",
-          "mentions": 0,
-          "appearanceOrder": -1,
-          "appearanceOrderByModel": {},
-          "mentionsByModel": {
-            "or_meta_llama_3_3_70b": 0,
-            "or_google_gemini_2_0_flash_exp": 0,
-            "or_deepseek_chat_v3": 0
-          },
-          "influence": 0,
-          "influenceByModel": {},
-          "weightedInfluence": 0
-        }
-      ],
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrder": -1,
-      "appearanceOrderByModel": {},
-      "mentionsAsPercent": 0,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
-      }
-    },
-    {
-      "type": "linkDomain",
-      "code": "rappi.com))",
-      "value": "rappi.com))",
-      "link": "https://rappi.com))",
-      "linkType": "oth",
-      "linkTypeName": "Other",
-      "mentions": 0,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "sources": [
-        {
-          "link": "rappi.com))",
-          "mentions": 0,
-          "appearanceOrder": -1,
-          "appearanceOrderByModel": {},
-          "mentionsByModel": {
-            "or_meta_llama_3_3_70b": 0,
-            "or_google_gemini_2_0_flash_exp": 0,
-            "or_deepseek_chat_v3": 0
-          },
-          "influence": 0,
-          "influenceByModel": {},
-          "weightedInfluence": 0
-        }
-      ],
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrder": -1,
-      "appearanceOrderByModel": {},
-      "mentionsAsPercent": 0,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
-      }
-    },
-    {
-      "type": "linkDomain",
-      "code": "gusto.com))",
-      "value": "gusto.com))",
-      "link": "https://gusto.com))",
-      "linkType": "fin",
-      "linkTypeName": "Financial Services",
-      "mentions": 0,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "sources": [
-        {
-          "link": "gusto.com))",
-          "mentions": 0,
-          "appearanceOrder": -1,
-          "appearanceOrderByModel": {},
-          "mentionsByModel": {
-            "or_meta_llama_3_3_70b": 0,
-            "or_google_gemini_2_0_flash_exp": 0,
-            "or_deepseek_chat_v3": 0
-          },
-          "influence": 0,
-          "influenceByModel": {},
-          "weightedInfluence": 0
-        }
-      ],
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0
-      },
-      "appearanceOrder": -1,
-      "appearanceOrderByModel": {},
-      "mentionsAsPercent": 0,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0
-      },
-      "mentionsByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 0
-        }
-      },
-      "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": -1
-      },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": {}
       }
     },
     {
@@ -104279,8 +102996,8 @@ window.AppDataAggregate20250923 = {
     "2025-09-23",
     "2025-09-20"
   ],
-  "totalDataPoints": 457,
-  "totalTimeSaved": "17",
+  "totalDataPoints": 451,
+  "totalTimeSaved": "16",
   "totalCounts": {
     "products": 48,
     "organizations": 49,
@@ -104288,9 +103005,9 @@ window.AppDataAggregate20250923 = {
     "keywords": 154,
     "places": 2,
     "events": 2,
-    "links": 103,
+    "links": 100,
     "linkTypes": 22,
-    "linkDomains": 75,
+    "linkDomains": 72,
     "bots": 3
   },
   "itemCountPerModel": {
@@ -104509,7 +103226,7 @@ window.AppDataAggregate20250923 = {
       },
       {
         "id": "-9999",
-        "count": 8
+        "count": 5
       },
       {
         "id": "-1",
@@ -104525,7 +103242,7 @@ window.AppDataAggregate20250923 = {
     "linkDomains": [
       {
         "id": "-9999",
-        "count": 75
+        "count": 72
       }
     ]
   },

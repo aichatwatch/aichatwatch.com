@@ -2,7 +2,7 @@ window.AppData20251013 = {
   "report_question": "What regulations or compliance requirements affect Startups in Armenia?",
   "report_date": "2025-10-13",
   "report_question_id": "4-what-regulations-or-comp-46db07b0",
-  "report_created_at": "Oct 14, 2025, 5:52:44 PM",
+  "report_created_at": "Oct 15, 2025, 9:00:25 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -23,11 +23,11 @@ window.AppData20251013 = {
       "estimated_mau": 105000000
     }
   ],
-  "products": [],
-  "organizations": [
+  "products": [
     {
-      "value": "Ministry of Justice",
-      "type": "organization",
+      "value": "LLC (Limited Liability Company)",
+      "type": "product",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -35,16 +35,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 255,
+        "anthropic_claude_with_search_latest": 314,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 255,
-            "excerpt": "st register with the [State Register of Legal Entities](https://www.e-register.am/) operated by the Ministry of Justice. The most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startup",
-            "line": 6,
-            "column": 121,
+            "appearanceOrder": 314,
+            "excerpt": "ps://www.e-register.am/) operated by the Ministry of Justice. The most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startups\n- **CJSC (Closed Joint Stock Company)** - For larger ventures\n- **Ind",
+            "line": 8,
+            "column": 5,
             "captureDate": "2025-10-13"
           }
         ],
@@ -55,23 +55,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.79247,
+      "influence": 1,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.79247,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -81,7 +81,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.79247
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
@@ -186,76 +186,66 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.moj.am",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "State Revenue Committee",
-      "type": "organization",
+      "value": "CJSC (Closed Joint Stock Company)",
+      "type": "product",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 656,
+        "anthropic_claude_with_search_latest": 380,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 656,
-            "excerpt": "ps://www.e-register.am/).\n\n## Tax Compliance\n\n### Tax Registration\nStartups must register with the [State Revenue Committee (SRC)](https://www.petekamutner.am/), Armenia's tax authority.\n\n**Key Tax Requirements:**\n\n1. **Cor",
-            "line": 17,
-            "column": 34,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 824,
-            "excerpt": "a's tax authority.\n\n**Key Tax Requirements:**\n\n1. **Corporate Income Tax**: 18% flat rate (source: [State Revenue Committee](https://www.petekamutner.am/))\n2. **VAT**: 20% for businesses exceeding AMD 115 million annual tur",
-            "line": 21,
-            "column": 54,
+            "appearanceOrder": 380,
+            "excerpt": "most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startups\n- **CJSC (Closed Joint Stock Company)** - For larger ventures\n- **Individual Entrepreneur** - For solo founders\n\nRegistration can be done",
+            "line": 9,
+            "column": 5,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
+      "mentions": 1,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.10526,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 1,
+      "influence": 0.63093,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.63093,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 1
+          "value": 0.63093
         }
       ],
       "appearanceOrderTrendVals": [
@@ -289,7 +279,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 2
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -350,22 +340,27 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 2
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.petekamutner.am/"
+      "volatility": 0
     },
     {
-      "value": "Intellectual Property Agency of Armenia",
-      "type": "organization",
+      "value": "Micro-business Tax Regime",
+      "type": "product",
+      "sources": [
+        {
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -373,16 +368,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2576,
+        "anthropic_claude_with_search_latest": 1124,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2576,
-            "excerpt": "compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Available:**\n- Patents\n- Trademarks\n- Copyright\n- Industrial",
-            "line": 63,
-            "column": 42,
+            "appearanceOrder": 1124,
+            "excerpt": "al security contributions: Employer and employee contributions required\n\n### Special Tax Regimes\n\n**Micro-business Tax Regime**: Available for businesses with turnover under AMD 24 million annually - flat tax rates apply (sou",
+            "line": 29,
+            "column": 3,
             "captureDate": "2025-10-13"
           }
         ],
@@ -393,23 +388,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.39625,
+      "influence": 0.5,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.39625,
+      "weightedInfluence": 0.5,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -419,7 +414,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.39625
+          "value": 0.5
         }
       ],
       "appearanceOrderTrendVals": [
@@ -524,73 +519,71 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.aipa.am/"
+      "volatility": 0
     },
     {
-      "value": "Central Bank of Armenia",
-      "type": "organization",
+      "value": "IT industry support program",
+      "type": "product",
+      "sources": [
+        {
+          "url": "arlis.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2805,
+        "anthropic_claude_with_search_latest": 1341,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2805,
-            "excerpt": "ndustrial designs\n\n## Sector-Specific Regulations\n\n### Financial Services/FinTech\nRegulated by the [Central Bank of Armenia](https://www.cba.am/):\n- Banking licenses for financial intermediation\n- Payment services registrat",
-            "line": 74,
-            "column": 19,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 3474,
-            "excerpt": "ivities require special licenses from relevant authorities:\n\n- **Banking and Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](https://www.moh.am/)\n- **Educ",
-            "line": 96,
-            "column": 40,
+            "appearanceOrder": 1341,
+            "excerpt": "ply (source: [Armenia Tax Code](https://www.petekamutner.am/)).\n\n**IT Sector Benefits**: Under the [IT industry support program](https://www.arlis.am/), IT companies can benefit from:\n- 10% profit tax (reduced from 18%)\n- 0% in",
+            "line": 31,
+            "column": 36,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
+      "mentions": 1,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.10526,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.68261,
+      "influence": 0.43068,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.68261,
+      "weightedInfluence": 0.43068,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.68261
+          "value": 0.43068
         }
       ],
       "appearanceOrderTrendVals": [
@@ -624,7 +617,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 2
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -685,83 +678,86 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 2
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
       "volatility": 0,
-      "link": "https://www.cba.am/"
+      "link": "https://www.arlis.am/"
     },
     {
-      "value": "Ministry of Health",
-      "type": "organization",
+      "value": "Armenian National Interests Fund (ANIF)",
+      "type": "product",
+      "sources": [
+        {
+          "url": "anif.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "fast.foundation",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3061,
+        "anthropic_claude_with_search_latest": 4318,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3061,
-            "excerpt": "compliance\n- Know Your Customer (KYC) requirements\n\n### Food and Pharmaceuticals\nRegulated by the [Ministry of Health](https://www.moh.am/):\n- Health permits and certifications\n- Quality control standards\n- HACCP comp",
-            "line": 81,
-            "column": 19,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 3548,
-            "excerpt": "nd Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](https://www.moh.am/)\n- **Education Services**: [Ministry of Education, Science, Culture and Sports",
-            "line": 97,
-            "column": 29,
+            "appearanceOrder": 4318,
+            "excerpt": ".eif.am/) provides support to Armenian startups and can help navigate regulatory requirements.\n\n### Armenian National Interests Fund (ANIF)\nThe [ANIF](https://anif.am/) provides investment and support for startups.\n\n### FAST Foundation\nThe",
+            "line": 115,
+            "column": 5,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 2,
+      "mentions": 1,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.10526,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.61314,
+      "influence": 0.38685,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.61314,
+      "weightedInfluence": 0.38685,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 2
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.61314
+          "value": 0.38685
         }
       ],
       "appearanceOrderTrendVals": [
@@ -795,7 +791,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 2
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -856,22 +852,31 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 2,
+      "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 2
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.moh.am/"
+      "volatility": 0
     },
     {
-      "value": "Public Services Regulatory Commission",
-      "type": "organization",
+      "value": "Foundation for Armenian Science and Technology (FAST)",
+      "type": "product",
+      "sources": [
+        {
+          "url": "fast.foundation",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "anif.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -879,16 +884,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3717,
+        "anthropic_claude_with_search_latest": 4459,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3717,
-            "excerpt": "inistry of Education, Science, Culture and Sports](https://www.escs.am/)\n- **Telecommunications**: [Public Services Regulatory Commission](https://www.psrc.am/)\n\n## Foreign Investment Regulations\n\nFor startups with foreign founders or in",
-            "line": 99,
-            "column": 28,
+            "appearanceOrder": 4459,
+            "excerpt": "he [ANIF](https://anif.am/) provides investment and support for startups.\n\n### FAST Foundation\nThe [Foundation for Armenian Science and Technology (FAST)](https://www.fast.foundation/) supports tech startups and innovation.\n\n## Accounting and Reporting\n\n#",
+            "line": 119,
+            "column": 6,
             "captureDate": "2025-10-13"
           }
         ],
@@ -899,23 +904,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
+      "mentionsAsPercent": 0.16667,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.16667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.2823,
+      "influence": 0.35621,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.2823,
+      "weightedInfluence": 0.35621,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -925,7 +930,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.2823
+          "value": 0.35621
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1031,11 +1036,868 @@ window.AppData20251013 = {
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
       "volatility": 0,
-      "link": "https://www.psrc.am/"
+      "link": "https://www.fast.foundation/"
+    }
+  ],
+  "organizations": [
+    {
+      "value": "State Register of Legal Entities",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "e-register.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 177,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 177,
+            "excerpt": "s Registration and Legal Structure\n\n### Company Formation\nArmenian startups must register with the [State Register of Legal Entities](https://www.e-register.am/) operated by the Ministry of Justice. The most common legal forms are:",
+            "line": 6,
+            "column": 43,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 1,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0,
+      "link": "https://www.e-register.am/"
     },
     {
-      "value": "Enterprise Incubator Foundation",
+      "value": "Ministry of Justice",
       "type": "organization",
+      "sources": [
+        {
+          "url": "e-register.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 255,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 255,
+            "excerpt": "st register with the [State Register of Legal Entities](https://www.e-register.am/) operated by the Ministry of Justice. The most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startup",
+            "line": 6,
+            "column": 121,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.63092,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.63092,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.63092
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "value": "State Revenue Committee (SRC)",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 656,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 656,
+            "excerpt": "ps://www.e-register.am/).\n\n## Tax Compliance\n\n### Tax Registration\nStartups must register with the [State Revenue Committee (SRC)](https://www.petekamutner.am/), Armenia's tax authority.\n\n**Key Tax Requirements:**\n\n1. **Corporate I",
+            "line": 17,
+            "column": 34,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.5,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.5,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.5
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0,
+      "link": "https://www.petekamutner.am/"
+    },
+    {
+      "value": "State Social Security Service",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "ssss.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1873,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1873,
+            "excerpt": "on for employees\n- Workplace safety standards\n\n**Social Security Registration**: Register with the [State Social Security Service](https://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Per",
+            "line": 45,
+            "column": 54,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 4
+      },
+      "appearanceOrder": 4,
+      "influence": 0.43068,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.43068,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.43068
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0,
+      "link": "https://www.ssss.am/"
+    },
+    {
+      "value": "Intellectual Property Agency of Armenia",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "aipa.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2576,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2576,
+            "excerpt": "compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Available:**\n- Patents\n- Trademarks\n- Copyright\n- Industrial",
+            "line": 63,
+            "column": 42,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.09091,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.09091,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.38686,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.38686,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.38686
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0,
+      "link": "https://www.aipa.am/"
+    },
+    {
+      "value": "Central Bank of Armenia",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "cba.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -1043,23 +1905,23 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4131,
+        "anthropic_claude_with_search_latest": 2805,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4131,
-            "excerpt": ".am/)\n- Protected by bilateral investment treaties\n\n## Startup-Specific Support and Incentives\n\n### Enterprise Incubator Foundation (EIF)\nThe [Enterprise Incubator Foundation](https://www.eif.am/) provides support to Armenian start",
-            "line": 112,
-            "column": 5,
+            "appearanceOrder": 2805,
+            "excerpt": "ndustrial designs\n\n## Sector-Specific Regulations\n\n### Financial Services/FinTech\nRegulated by the [Central Bank of Armenia](https://www.cba.am/):\n- Banking licenses for financial intermediation\n- Payment services registrat",
+            "line": 74,
+            "column": 19,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 4174,
-            "excerpt": "reaties\n\n## Startup-Specific Support and Incentives\n\n### Enterprise Incubator Foundation (EIF)\nThe [Enterprise Incubator Foundation](https://www.eif.am/) provides support to Armenian startups and can help navigate regulatory requir",
-            "line": 113,
-            "column": 6,
+            "appearanceOrder": 3474,
+            "excerpt": "ivities require special licenses from relevant authorities:\n\n- **Banking and Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](https://www.moh.am/)\n- **Educ",
+            "line": 96,
+            "column": 40,
             "captureDate": "2025-10-13"
           }
         ],
@@ -1070,23 +1932,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.10526,
+      "mentionsAsPercent": 0.18182,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.18182,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 6
       },
-      "appearanceOrder": 7,
-      "influence": 0.52832,
+      "appearanceOrder": 6,
+      "influence": 0.71242,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.52832,
+      "weightedInfluence": 0.71242,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -1096,7 +1958,184 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.52832
+          "value": 0.71242
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0,
+      "link": "https://www.cba.am/"
+    },
+    {
+      "value": "Ministry of Health",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "moh.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 3061,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 3061,
+            "excerpt": "compliance\n- Know Your Customer (KYC) requirements\n\n### Food and Pharmaceuticals\nRegulated by the [Ministry of Health](https://www.moh.am/):\n- Health permits and certifications\n- Quality control standards\n- HACCP comp",
+            "line": 81,
+            "column": 19,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3548,
+            "excerpt": "nd Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](https://www.moh.am/)\n- **Education Services**: [Ministry of Education, Science, Culture and Sports",
+            "line": 97,
+            "column": 29,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.18182,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.18182,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.66666,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.66666,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.66666
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1202,11 +2241,17 @@ window.AppData20251013 = {
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
       "volatility": 0,
-      "link": "https://www.eif.am/"
+      "link": "https://www.moh.am/"
     },
     {
-      "value": "Armenian National Interests Fund",
+      "value": "Public Services Regulatory Commission",
       "type": "organization",
+      "sources": [
+        {
+          "url": "psrc.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1214,16 +2259,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4318,
+        "anthropic_claude_with_search_latest": 3717,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4318,
-            "excerpt": ".eif.am/) provides support to Armenian startups and can help navigate regulatory requirements.\n\n### Armenian National Interests Fund (ANIF)\nThe [ANIF](https://anif.am/) provides investment and support for startups.\n\n### FAST Foundat",
-            "line": 115,
-            "column": 5,
+            "appearanceOrder": 3717,
+            "excerpt": "inistry of Education, Science, Culture and Sports](https://www.escs.am/)\n- **Telecommunications**: [Public Services Regulatory Commission](https://www.psrc.am/)\n\n## Foreign Investment Regulations\n\nFor startups with foreign founders or in",
+            "line": 99,
+            "column": 28,
             "captureDate": "2025-10-13"
           }
         ],
@@ -1234,23 +2279,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
+      "mentionsAsPercent": 0.09091,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.09091,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
       "appearanceOrder": 8,
-      "influence": 0.24999,
+      "influence": 0.31546,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.24999,
+      "weightedInfluence": 0.31546,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -1260,7 +2305,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.24999
+          "value": 0.31546
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1366,14 +2411,17 @@ window.AppData20251013 = {
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
       "volatility": 0,
-      "link": "https://www.anif.am",
-      "sources": {
-        "link": "AI"
-      }
+      "link": "https://www.psrc.am/"
     },
     {
-      "value": "Foundation for Armenian Science and Technology",
+      "value": "Enterprise Incubator Foundation (EIF)",
       "type": "organization",
+      "sources": [
+        {
+          "url": "eif.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -1381,16 +2429,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4459,
+        "anthropic_claude_with_search_latest": 4131,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 4459,
-            "excerpt": "he [ANIF](https://anif.am/) provides investment and support for startups.\n\n### FAST Foundation\nThe [Foundation for Armenian Science and Technology (FAST)](https://www.fast.foundation/) supports tech startups and innovation.\n\n## Accounting and Rep",
-            "line": 119,
-            "column": 6,
+            "appearanceOrder": 4131,
+            "excerpt": ".am/)\n- Protected by bilateral investment treaties\n\n## Startup-Specific Support and Incentives\n\n### Enterprise Incubator Foundation (EIF)\nThe [Enterprise Incubator Foundation](https://www.eif.am/) provides support to Armenian startups and",
+            "line": 112,
+            "column": 5,
             "captureDate": "2025-10-13"
           }
         ],
@@ -1401,23 +2449,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
+      "mentionsAsPercent": 0.09091,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
+        "anthropic_claude_with_search_latest": 0.09091,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.23855,
+      "influence": 0.30102,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23855,
+      "weightedInfluence": 0.30102,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -1427,7 +2475,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.23855
+          "value": 0.30102
         }
       ],
       "appearanceOrderTrendVals": [
@@ -1532,700 +2580,36 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.fast.foundation/"
-    },
-    {
-      "value": "Chamber of Auditors",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 4815,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 4815,
-            "excerpt": "ards or IFRS\n- Annual audit required for companies exceeding certain thresholds\n- Regulated by the [Chamber of Auditors](https://www.audit.am/)\n\n## Contract and Commercial Law\n\nGoverned by Armenia's [Civil Code](https:/",
-            "line": 127,
-            "column": 21,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
-      },
-      "appearanceOrder": 10,
-      "influence": 0.22907,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.22907,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.22907
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 10
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 10
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.audit.am/"
-    },
-    {
-      "value": "Competition Protection Commission",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2839,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1679
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1679,
-            "excerpt": "et practices and ensure that economic competition is not stifled by anti-competitive practices. The Competition Protection Commission (CPC) administers these laws, and startups must ensure compliance to avoid legal challenges and enh",
-            "line": 12,
-            "column": 165,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2839,
-            "excerpt": "vision, bid rigging, abuse of dominant position, and unfair competition. The law is enforced by the Competition Protection Commission to maintain market fairness[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-b",
-            "line": 11,
-            "column": 291,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4409,
-            "excerpt": "h-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without",
-            "line": 29,
-            "column": 3,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 3,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.15789,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "appearanceOrder": 1,
-      "influence": 0.92977,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.20953,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.92977,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 3
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.92977
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.20953
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.competition.am",
-      "sources": {
-        "link": "AI"
-      }
-    },
-    {
-      "value": "Ministry of Economy",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5402,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 5402,
-            "excerpt": "nformation System**: [https://www.arlis.am/](https://www.arlis.am/) - Database of Armenian laws\n- **Ministry of Economy**: [https://www.mineconomy.am/](https://www.mineconomy.am/)\n- **Armenian Lawyers' Association**: [h",
-            "line": 146,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
-      },
-      "appearanceOrder": 11,
-      "influence": 0.22105,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.22105,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.22105
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 11
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.economy.am",
-      "sources": {
-        "link": "AI"
-      }
-    },
-    {
-      "value": "Armenian Lawyers' Association",
-      "type": "organization",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5486,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 5486,
-            "excerpt": "menian laws\n- **Ministry of Economy**: [https://www.mineconomy.am/](https://www.mineconomy.am/)\n- **Armenian Lawyers' Association**: [https://www.armla.am/](https://www.armla.am/)\n\n## Recommendations\n\n1. Consult with local legal",
-            "line": 147,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.05263,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.0625,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.21416,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.21416,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.21416
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 12
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "link": "https://www.ala.am",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "persons": [],
   "keywords": [
     {
-      "value": "Business Registration",
+      "value": "business registration",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "e-register.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "mblegal.am/setting-up-an-it-company-in-armenia",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 6
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 47,
@@ -2262,6 +2646,20 @@ window.AppData20251013 = {
             "excerpt": "ucation/armenia-data-protection-law/).\n\n2. **Business Registration and Compliance**:\n   - Armenia's business registration process has been streamlined with digital systems to reduce bureaucracy, making it easier for start",
             "line": 8,
             "column": 16,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6070,
+            "excerpt": "of registered LLCs exceeded 100,000. The government has implemented several reforms to simplify the business registration process, reduce bureaucratic procedures, and create an investment-friendly environment. In 2025, th",
+            "line": 37,
+            "column": 308,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6193,
+            "excerpt": "rocess, reduce bureaucratic procedures, and create an investment-friendly environment. In 2025, the business registration process in Armenia has become even easier, thanks to the implementation of new digital systems. Whe",
+            "line": 37,
+            "column": 431,
             "captureDate": "2025-10-13"
           }
         ],
@@ -2303,15 +2701,15 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 11,
+      "mentions": 14,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.16176,
+      "mentionsAsPercent": 0.21538,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.25926,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0.25
+        "perplexity_with_search_latest": 0.36842,
+        "anthropic_claude_with_search_latest": 0.04167,
+        "openai_chatgpt_with_search_latest": 0.27273
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
@@ -2329,7 +2727,7 @@ window.AppData20251013 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 11
+          "value": 14
         }
       ],
       "influenceTrendVals": [
@@ -2375,7 +2773,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 6
           }
         ]
       },
@@ -2430,25 +2828,27 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 11,
+      "mentions_change": 14,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 11
+          "mentions": 14
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Business Incorporation,Company Registration,Startup Formation",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Legal Structure",
+      "value": "legal structure",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "e-register.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 1,
@@ -2484,24 +2884,24 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02941,
+      "mentionsAsPercent": 0.03077,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03704,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4,
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 2
       },
-      "appearanceOrder": 3,
-      "influence": 0.13593,
+      "appearanceOrder": 2.5,
+      "influence": 0.09062,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.85763,
+        "perplexity_with_search_latest": 0.99574,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13593,
+      "weightedInfluence": 0.09062,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -2511,13 +2911,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.13593
+          "value": 0.09062
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 3
+          "value": 2.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -2564,7 +2964,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.85763
+            "value": 0.99574
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -2589,7 +2989,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 4
+            "value": 3
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -2616,534 +3016,21 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Corporate Structure,Business Framework,Entity Type",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "LLC",
+      "value": "tax compliance",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 311,
-        "anthropic_claude_with_search_latest": 314,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 314,
-            "excerpt": "ps://www.e-register.am/) operated by the Ministry of Justice. The most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startups\n- **CJSC (Closed Joint Stock Company)** -",
-            "line": 8,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 311,
-            "excerpt": "ess Registration and Legal Structure:** Startups typically register as Limited Liability Companies (LLC), Closed Joint-Stock Companies (CJSC), Open Joint-Stock Companies (OJSC), or Sole Proprietors. Busi",
-            "line": 3,
-            "column": 110,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02941,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03704,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 3
-      },
-      "appearanceOrder": 4,
-      "influence": 0.1173,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.97309,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1173,
-      "mentionsTrendVals": [
+      "sources": [
         {
-          "date": "2025-10-13",
-          "value": 2
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025",
+          "bots": "openai_chatgpt_with_search_latest"
         }
       ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.1173
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.97309
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 3
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Limited Liability Company,LLC Formation,LLC Benefits",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "CJSC",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 347,
-        "anthropic_claude_with_search_latest": 380,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 380,
-            "excerpt": "most common legal forms are:\n\n- **LLC (Limited Liability Company)** - Most popular for startups\n- **CJSC (Closed Joint Stock Company)** - For larger ventures\n- **Individual Entrepreneur** - For solo found",
-            "line": 9,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 347,
-            "excerpt": ":** Startups typically register as Limited Liability Companies (LLC), Closed Joint-Stock Companies (CJSC), Open Joint-Stock Companies (OJSC), or Sole Proprietors. Business registration is streamlined with",
-            "line": 3,
-            "column": 146,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02941,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03704,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 4
-      },
-      "appearanceOrder": 5,
-      "influence": 0.10588,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.96274,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.10588,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.10588
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.96274
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Closed Joint Stock Company,Private Joint Stock Company,Shareholder Company",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Individual Entrepreneur",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 442,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 442,
-            "excerpt": "ny)** - Most popular for startups\n- **CJSC (Closed Joint Stock Company)** - For larger ventures\n- **Individual Entrepreneur** - For solo founders\n\nRegistration can be done online through the [e-register portal](https://www.",
-            "line": 10,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.1092,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1092,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.1092
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 5
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Sole Proprietorship,Self-Employed,Individual Business Owner",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Tax Compliance",
-      "type": "keyword",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -3186,24 +3073,24 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04412,
+      "mentionsAsPercent": 0.04615,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06897,
-        "openai_chatgpt_with_search_latest": 0.08333
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0.04545
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "appearanceOrder": 5.5,
-      "influence": 0.11532,
+      "appearanceOrder": 3.5,
+      "influence": 0.07964,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.17536,
+        "anthropic_claude_with_search_latest": 0.4423,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.11532,
+      "weightedInfluence": 0.07964,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -3213,13 +3100,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.11532
+          "value": 0.07964
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 5.5
+          "value": 3.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -3272,7 +3159,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.17536
+            "value": 0.4423
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3297,13 +3184,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 6
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 5
+            "value": 4
           }
         ]
       },
@@ -3318,15 +3205,17 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Tax Regulations,Tax Obligations,Tax Compliance Guidelines",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Corporate Income Tax",
+      "value": "corporate income tax",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3354,23 +3243,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 4
       },
-      "appearanceOrder": 7,
-      "influence": 0.09408,
+      "appearanceOrder": 4,
+      "influence": 0.07319,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09408,
+      "weightedInfluence": 0.07319,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -3380,13 +3269,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09408
+          "value": 0.07319
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 7
+          "value": 4
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -3464,7 +3353,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 7
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3485,24 +3374,38 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Corporate Tax,Company Tax,Business Income Tax",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "VAT",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "fast.foundation",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "mblegal.am/setting-up-an-it-company-in-armenia",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1343,
         "anthropic_claude_with_search_latest": 885,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 3347
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
@@ -3521,7 +3424,15 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           }
         ],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 3347,
+            "excerpt": "operating in Armenia, as they must ensure that they meet the legal requirements while fostering innovation and growth. This article delves into data privacy regulations in Armenia, their alignment with g",
+            "line": 25,
+            "column": 355,
+            "captureDate": "2025-10-13"
+          }
+        ],
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 1343,
@@ -3539,50 +3450,51 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.05882,
+      "mentions": 5,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.07692,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07407,
-        "anthropic_claude_with_search_latest": 0.06897,
-        "openai_chatgpt_with_search_latest": 0
+        "perplexity_with_search_latest": 0.10526,
+        "anthropic_claude_with_search_latest": 0.08333,
+        "openai_chatgpt_with_search_latest": 0.04545
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 8
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "appearanceOrder": 7.5,
-      "influence": 0.18561,
+      "appearanceOrder": 4.67,
+      "influence": 0.0826,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.75289,
-        "openai_chatgpt_with_search_latest": 0
+        "perplexity_with_search_latest": 0.53325,
+        "anthropic_claude_with_search_latest": 0.38093,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.18561,
+      "weightedInfluence": 0.0826,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.18561
+          "value": 0.0826
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 7.5
+          "value": 4.67
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 2
+          "value": 3
         }
       ],
       "mentionsTrend": 999,
@@ -3592,7 +3504,7 @@ window.AppData20251013 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -3610,80 +3522,77 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": 999,
         "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 0.53325
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.75289
+            "value": 0.38093
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": 10,
         "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 7
+            "value": 4
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 8
+            "value": 5
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": -1
+            "value": 5
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 4
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Value Added Tax,Sales Tax,Goods and Services Tax",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Salary Taxes",
+      "value": "salary taxes",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3711,23 +3620,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 6
       },
-      "appearanceOrder": 9,
-      "influence": 0.08498,
+      "appearanceOrder": 6,
+      "influence": 0.06052,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08498,
+      "weightedInfluence": 0.06052,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -3737,13 +3646,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08498
+          "value": 0.06052
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 9
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -3821,7 +3730,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 9
+            "value": 6
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3842,15 +3751,17 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Payroll Taxes,Employee Taxes,Wage Taxes",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Micro-business Tax Regime",
+      "value": "Labor Code compliance",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "arlis.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3858,16 +3769,16 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1124,
+        "anthropic_claude_with_search_latest": 1542,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1124,
-            "excerpt": "al security contributions: Employer and employee contributions required\n\n### Special Tax Regimes\n\n**Micro-business Tax Regime**: Available for businesses with turnover under AMD 24 million annually - flat tax rates apply (sou",
-            "line": 29,
-            "column": 3,
+            "appearanceOrder": 1542,
+            "excerpt": "(reduced from 18%)\n- 0% income tax for employees in certain cases\n\n## Employment and Labor Law\n\n### Labor Code Compliance\nStartups must comply with Armenia's [Labor Code](https://www.arlis.am/), which requires:\n\n- Written",
+            "line": 37,
+            "column": 5,
             "captureDate": "2025-10-13"
           }
         ],
@@ -3878,23 +3789,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 8
       },
-      "appearanceOrder": 10,
-      "influence": 0.0816,
+      "appearanceOrder": 8,
+      "influence": 0.05362,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0816,
+      "weightedInfluence": 0.05362,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -3904,7 +3815,459 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.0816
+          "value": 0.05362
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "value": "data protection",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "arlis.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "captaincompliance.com/education/armenia-data-protection-law",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2107,
+        "anthropic_claude_with_search_latest": 1966,
+        "openai_chatgpt_with_search_latest": 323
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1966,
+            "excerpt": "h the [State Social Security Service](https://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [",
+            "line": 47,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2008,
+            "excerpt": "s://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [Law on Protection of Personal Data](https:",
+            "line": 49,
+            "column": 14,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2036,
+            "excerpt": "ee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [Law on Protection of Personal Data](https://www.arlis.am/).\n\n**Key Req",
+            "line": 50,
+            "column": 13,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 323,
+            "excerpt": "irements affecting startups in Armenia:\n\n1. **Data Privacy Regulations**: \n   - The cornerstone for data protection in Armenia is the \"Law on Protection of Personal Data,\" which aligns with international standards s",
+            "line": 4,
+            "column": 26,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2256,
+            "excerpt": "h, particularly those partnering with academic institutions, it's essential to navigate ethical and data protection requirements. Armenian institutions have systems aligned with international standards that startups",
+            "line": 16,
+            "column": 137,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3656,
+            "excerpt": ". The primary data privacy regulation in Armenia is the “Law of the Republic of Armenia on Personal Data Protection” (the “Data Protection Law”), which was adopted in 2005 and underwent significant amendments in 201",
+            "line": 25,
+            "column": 664,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3679,
+            "excerpt": "acy regulation in Armenia is the “Law of the Republic of Armenia on Personal Data Protection” (the “Data Protection Law”), which was adopted in 2005 and underwent significant amendments in 2018 to align with Europea",
+            "line": 25,
+            "column": 687,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3833,
+            "excerpt": "nderwent significant amendments in 2018 to align with European Union standards (GDPR).\n\n2. [Armenia Data Protection Law: Your Ultimate Guide to Privacy and ...](https://captaincompliance.com/education/armenia-data-p",
+            "line": 27,
+            "column": 13,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2107,
+            "excerpt": "a Privacy and Protection:** Startups processing personal data must comply with the “Law on Personal Data Protection,” which aligns with EU GDPR standards. Compliance involves obtaining valid legal grounds for data p",
+            "line": 9,
+            "column": 108,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2525,
+            "excerpt": "ing-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Arme",
+            "line": 9,
+            "column": 526,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3673,
+            "excerpt": "artups should consult local legal experts or law firms specializing in Armenian corporate, tax, and data protection law to ensure full compliance across sectors.\n\nKey sources with official or expert legal perspectiv",
+            "line": 19,
+            "column": 126,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4384,
+            "excerpt": "ing-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/h",
+            "line": 27,
+            "column": 234,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6326,
+            "excerpt": "https://www.gritarres.com/blog/company-registration/)\n\n10. [captaincompliance.com/education/armenia-data-protection-law/](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n11. [www.relocation2ar",
+            "line": 53,
+            "column": 46,
+            "captureDate": "2025-10-13"
+          }
+        ]
+      },
+      "mentions": 16,
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercent": 0.24615,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.26316,
+        "anthropic_claude_with_search_latest": 0.125,
+        "openai_chatgpt_with_search_latest": 0.36364
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "anthropic_claude_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 5.67,
+      "influence": 0.59296,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.1158,
+        "anthropic_claude_with_search_latest": 0.04301,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.59296,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 16
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.59296
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 5.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0.1158
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0.04301
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 16,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 16
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "value": "intellectual property",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "aipa.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2492,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2492,
+            "excerpt": "hile Armenia is not under GDPR, startups working with EU clients should ensure GDPR compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armen",
+            "line": 60,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2535,
+            "excerpt": "rking with EU clients should ensure GDPR compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Av",
+            "line": 63,
+            "column": 1,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2576,
+            "excerpt": "compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Available:**\n- Patents\n- Trademarks\n- Copyr",
+            "line": 63,
+            "column": 42,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 3,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04615,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.125,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.14736,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.14736,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.14736
         }
       ],
       "appearanceOrderTrendVals": [
@@ -3938,7 +4301,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -3999,79 +4362,88 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 1
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Small Business Tax,Microenterprise Tax,Startup Tax Regime",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "IT Sector Benefits",
+      "value": "financial services",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "cba.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 2,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1308,
+        "anthropic_claude_with_search_latest": 2760,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1308,
-            "excerpt": "lion annually - flat tax rates apply (source: [Armenia Tax Code](https://www.petekamutner.am/)).\n\n**IT Sector Benefits**: Under the [IT industry support program](https://www.arlis.am/), IT companies can benefit from:\n-",
-            "line": 31,
-            "column": 3,
+            "appearanceOrder": 2760,
+            "excerpt": "ble:**\n- Patents\n- Trademarks\n- Copyright\n- Industrial designs\n\n## Sector-Specific Regulations\n\n### Financial Services/FinTech\nRegulated by the [Central Bank of Armenia](https://www.cba.am/):\n- Banking licenses for fin",
+            "line": 73,
+            "column": 5,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3451,
+            "excerpt": "quirements\n\nCertain activities require special licenses from relevant authorities:\n\n- **Banking and Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](h",
+            "line": 96,
+            "column": 17,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.03077,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.08333,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.07874,
+      "influence": 0.09481,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07874,
+      "weightedInfluence": 0.09481,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07874
+          "value": 0.09481
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4105,7 +4477,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4166,79 +4538,326 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 1
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Technology Sector Advantages,IT Industry Benefits,Tech Sector Perks",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Labor Code Compliance",
+      "value": "competition law",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 139,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 153
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 153,
+            "excerpt": "ions and compliance requirements, particularly in areas of data privacy, business registration, and competition law. Here is an overview of the major regulations and requirements affecting startups in Armenia:\n\n1. *",
+            "line": 1,
+            "column": 154,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 1496,
+            "excerpt": "am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/).\n\n3. **Competition Law**:\n   - Armenia's competition laws are designed to foster fair market practices and ensure that eco",
+            "line": 11,
+            "column": 6,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 1530,
+            "excerpt": "g-a-business-in-armenia-and-compliance-requirements-2025/).\n\n3. **Competition Law**:\n   - Armenia's competition laws are designed to foster fair market practices and ensure that economic competition is not stifled b",
+            "line": 12,
+            "column": 16,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 1884,
+            "excerpt": "oid legal challenges and enhance their strategic market position.\n   - Insights into complying with competition laws in Armenia can be found in publications like [this article on competition success](https://retriev",
+            "line": 13,
+            "column": 35,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6692,
+            "excerpt": "etrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)\n\n The Armenian competition law framework builds upon international best practices while addressing the specific needs of Armenia’s",
+            "line": 41,
+            "column": 15,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 139,
+            "excerpt": "ly with business registration laws, licensing requirements, tax regulations, data privacy laws, and competition laws. Key regulations affecting startups include:\n\n- **Business Registration and Legal Structure:** Sta",
+            "line": 1,
+            "column": 140,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2553,
+            "excerpt": "tartup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Armenia’s competition law. This",
+            "line": 11,
+            "column": 5,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2646,
+            "excerpt": ".\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Armenia’s competition law. This includes avoiding horizontal agreements such as price-fixing, market division, bid rigging, a",
+            "line": 11,
+            "column": 98,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4457,
+            "excerpt": "ance.com/education/armenia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)",
+            "line": 29,
+            "column": 51,
+            "captureDate": "2025-10-13"
+          }
+        ]
+      },
+      "mentions": 10,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.15385,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.21053,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.27273
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.60614,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.15963,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.60614,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 10
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.60614
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 6
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0.15963
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 10,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 10
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "value": "foreign investment",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "psrc.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "arlis.am",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1542,
+        "anthropic_claude_with_search_latest": 3782,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1542,
-            "excerpt": "(reduced from 18%)\n- 0% income tax for employees in certain cases\n\n## Employment and Labor Law\n\n### Labor Code Compliance\nStartups must comply with Armenia's [Labor Code](https://www.arlis.am/), which requires:\n\n- Written",
-            "line": 37,
-            "column": 5,
+            "appearanceOrder": 3782,
+            "excerpt": "cs.am/)\n- **Telecommunications**: [Public Services Regulatory Commission](https://www.psrc.am/)\n\n## Foreign Investment Regulations\n\nFor startups with foreign founders or investors:\n\n- Armenia has an open foreign invest",
+            "line": 101,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3886,
+            "excerpt": "ign Investment Regulations\n\nFor startups with foreign founders or investors:\n\n- Armenia has an open foreign investment policy\n- No restrictions on foreign ownership in most sectors\n- Governed by the [Law on Foreign Inv",
+            "line": 105,
+            "column": 23,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3993,
+            "excerpt": "investment policy\n- No restrictions on foreign ownership in most sectors\n- Governed by the [Law on Foreign Investments](https://www.arlis.am/)\n- Protected by bilateral investment treaties\n\n## Startup-Specific Support",
+            "line": 107,
+            "column": 27,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 3,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.04615,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.07629,
+      "influence": 0.13777,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07629,
+      "weightedInfluence": 0.13777,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 1
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.07629
+          "value": 0.13777
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4272,7 +4891,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4333,503 +4952,76 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 3,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 1
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Employment Law Compliance,Labor Regulations,Workplace Compliance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Data Protection",
+      "value": "startup support",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2107,
-        "anthropic_claude_with_search_latest": 1966,
-        "openai_chatgpt_with_search_latest": 323
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1966,
-            "excerpt": "h the [State Social Security Service](https://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [",
-            "line": 47,
-            "column": 4,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2008,
-            "excerpt": "s://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [Law on Protection of Personal Data](https:",
-            "line": 49,
-            "column": 14,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2036,
-            "excerpt": "ee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [Law on Protection of Personal Data](https://www.arlis.am/).\n\n**Key Req",
-            "line": 50,
-            "column": 13,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 323,
-            "excerpt": "irements affecting startups in Armenia:\n\n1. **Data Privacy Regulations**: \n   - The cornerstone for data protection in Armenia is the \"Law on Protection of Personal Data,\" which aligns with international standards s",
-            "line": 4,
-            "column": 26,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2256,
-            "excerpt": "h, particularly those partnering with academic institutions, it's essential to navigate ethical and data protection requirements. Armenian institutions have systems aligned with international standards that startups",
-            "line": 16,
-            "column": 137,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2107,
-            "excerpt": "a Privacy and Protection:** Startups processing personal data must comply with the “Law on Personal Data Protection,” which aligns with EU GDPR standards. Compliance involves obtaining valid legal grounds for data p",
-            "line": 9,
-            "column": 108,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2525,
-            "excerpt": "ing-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Arme",
-            "line": 9,
-            "column": 526,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 3673,
-            "excerpt": "artups should consult local legal experts or law firms specializing in Armenian corporate, tax, and data protection law to ensure full compliance across sectors.\n\nKey sources with official or expert legal perspectiv",
-            "line": 19,
-            "column": 126,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4384,
-            "excerpt": "ing-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/h",
-            "line": 27,
-            "column": 234,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 5596,
-            "excerpt": "://www.gritarres.com/blog/company-registration/\n10. https://captaincompliance.com/education/armenia-data-protection-law/\n11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-202",
-            "line": 44,
-            "column": 53,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 10,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 3,
-      "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.14706,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.18519,
-        "anthropic_claude_with_search_latest": 0.10345,
-        "openai_chatgpt_with_search_latest": 0.16667
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
-        "anthropic_claude_with_search_latest": 13,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 8.67,
-      "influence": 0.27171,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.20921,
-        "anthropic_claude_with_search_latest": 0.08715,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.27171,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 10
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.27171
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 8.67
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 3
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 5
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 3
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.20921
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.08715
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 9
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 13
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 10,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 10
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Information Security,Data Privacy,Data Safety",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Personal Data Protection",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2098,
-        "anthropic_claude_with_search_latest": 1999,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1999,
-            "excerpt": "ice](https://www.ssss.am/) for employee benefits and pensions.\n\n## Data Protection and Privacy\n\n### Personal Data Protection\nArmenia has data protection legislation governed by the [Law on Protection of Personal Data](https:",
-            "line": 49,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2098,
-            "excerpt": "- **Data Privacy and Protection:** Startups processing personal data must comply with the “Law on Personal Data Protection,” which aligns with EU GDPR standards. Compliance involves obtaining valid legal grounds for data p",
-            "line": 9,
-            "column": 99,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02941,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03704,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "anthropic_claude_with_search_latest": 14
-      },
-      "appearanceOrder": 11,
-      "influence": 0.08476,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.64586,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.08476,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.08476
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 11
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.64586
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 14
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Personal Information Protection,Data Privacy,User Data Security",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Intellectual Property",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2492,
+        "anthropic_claude_with_search_latest": 5853,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 2492,
-            "excerpt": "hile Armenia is not under GDPR, startups working with EU clients should ensure GDPR compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armen",
-            "line": 60,
-            "column": 4,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2535,
-            "excerpt": "rking with EU clients should ensure GDPR compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Av",
-            "line": 63,
-            "column": 1,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2576,
-            "excerpt": "compliance.\n\n## Intellectual Property\n\n### IP Registration\nIntellectual property is managed by the [Intellectual Property Agency of Armenia](https://www.aipa.am/).\n\n**Protection Available:**\n- Patents\n- Trademarks\n- Copyr",
-            "line": 63,
-            "column": 42,
+            "appearanceOrder": 5853,
+            "excerpt": "If operating internationally, understand cross-border compliance requirements\n5. Take advantage of startup support programs and tax incentives for IT companies\n\nThe regulatory environment in Armenia is relatively s",
+            "line": 155,
+            "column": 22,
             "captureDate": "2025-10-13"
           }
         ],
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 3,
+      "mentions": 1,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04412,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.10345,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
       "appearanceOrder": 15,
-      "influence": 0.21169,
+      "influence": 0.0425,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.21169,
+      "weightedInfluence": 0.0425,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 3
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.21169
+          "value": 0.0425
         }
       ],
       "appearanceOrderTrendVals": [
@@ -4863,7 +5055,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -4924,523 +5116,6 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 3,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 3
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Patent Rights,Copyright Protection,Trademark Law",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Financial Services",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2760,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2760,
-            "excerpt": "ble:**\n- Patents\n- Trademarks\n- Copyright\n- Industrial designs\n\n## Sector-Specific Regulations\n\n### Financial Services/FinTech\nRegulated by the [Central Bank of Armenia](https://www.cba.am/):\n- Banking licenses for fin",
-            "line": 73,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 3451,
-            "excerpt": "quirements\n\nCertain activities require special licenses from relevant authorities:\n\n- **Banking and Financial Services**: [Central Bank of Armenia](https://www.cba.am/)\n- **Healthcare Services**: [Ministry of Health](h",
-            "line": 96,
-            "column": 17,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02941,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06897,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 16
-      },
-      "appearanceOrder": 16,
-      "influence": 0.13811,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.13811,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.13811
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 16
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 16
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Financial Solutions,Banking Services,Monetary Services",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Licensing Requirements",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 75,
-        "anthropic_claude_with_search_latest": 3339,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3339,
-            "excerpt": "- Consumer protection laws\n- Electronic commerce regulations\n- Payment processing requirements\n\n## Licensing Requirements\n\nCertain activities require special licenses from relevant authorities:\n\n- **Banking and Financial",
-            "line": 92,
-            "column": 4,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 75,
-            "excerpt": "Startups in Armenia must comply primarily with business registration laws, licensing requirements, tax regulations, data privacy laws, and competition laws. Key regulations affecting startups inclu",
-            "line": 1,
-            "column": 76,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.02941,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03704,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 18
-      },
-      "appearanceOrder": 10,
-      "influence": 0.14972,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0.29715,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.14972,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.14972
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 10
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.29715
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 18
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Permit Requirements,Licensing Guidelines,Regulatory Approvals",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Foreign Investment Regulations",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3782,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 3782,
-            "excerpt": "cs.am/)\n- **Telecommunications**: [Public Services Regulatory Commission](https://www.psrc.am/)\n\n## Foreign Investment Regulations\n\nFor startups with foreign founders or investors:\n\n- Armenia has an open foreign investment policy",
-            "line": 101,
-            "column": 4,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 19
-      },
-      "appearanceOrder": 19,
-      "influence": 0.0653,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.0653,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.0653
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 19
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 19
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
       "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
@@ -5451,182 +5126,12 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Overseas Investment Rules,Foreign Capital Regulations,International Investment Laws",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Startup Support",
+      "value": "accounting and reporting",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5853,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 5853,
-            "excerpt": "If operating internationally, understand cross-border compliance requirements\n5. Take advantage of startup support programs and tax incentives for IT companies\n\nThe regulatory environment in Armenia is relatively s",
-            "line": 155,
-            "column": 22,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 22
-      },
-      "appearanceOrder": 22,
-      "influence": 0.06241,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.06241,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.06241
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 22
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 22
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Entrepreneurial Support,Startup Assistance,Incubator Programs",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Accounting and Reporting",
-      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5654,23 +5159,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 20
+        "anthropic_claude_with_search_latest": 13
       },
-      "appearanceOrder": 20,
-      "influence": 0.06427,
+      "appearanceOrder": 13,
+      "influence": 0.04464,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06427,
+      "weightedInfluence": 0.04464,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5680,13 +5185,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06427
+          "value": 0.04464
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 20
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5764,7 +5269,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 20
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5785,15 +5290,12 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Financial Reporting,Accounting Practices,Bookkeeping Standards",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Environmental Compliance",
+      "value": "environmental compliance",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5821,23 +5323,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 21
+        "anthropic_claude_with_search_latest": 14
       },
-      "appearanceOrder": 21,
-      "influence": 0.06331,
+      "appearanceOrder": 14,
+      "influence": 0.0435,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06331,
+      "weightedInfluence": 0.0435,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -5847,13 +5349,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06331
+          "value": 0.0435
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 21
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5931,7 +5433,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 21
+            "value": 14
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5952,233 +5454,17 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Environmental Regulations,Sustainability Compliance,Eco-Friendly Practices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "Competition Law",
+      "value": "micro-business tax",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 139,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 153
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 153,
-            "excerpt": "ions and compliance requirements, particularly in areas of data privacy, business registration, and competition law. Here is an overview of the major regulations and requirements affecting startups in Armenia:\n\n1. *",
-            "line": 1,
-            "column": 154,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 1496,
-            "excerpt": "am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/).\n\n3. **Competition Law**:\n   - Armenia's competition laws are designed to foster fair market practices and ensure that eco",
-            "line": 11,
-            "column": 6,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 1530,
-            "excerpt": "g-a-business-in-armenia-and-compliance-requirements-2025/).\n\n3. **Competition Law**:\n   - Armenia's competition laws are designed to foster fair market practices and ensure that economic competition is not stifled b",
-            "line": 12,
-            "column": 16,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 1884,
-            "excerpt": "oid legal challenges and enhance their strategic market position.\n   - Insights into complying with competition laws in Armenia can be found in publications like [this article on competition success](https://retriev",
-            "line": 13,
-            "column": 35,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 139,
-            "excerpt": "ly with business registration laws, licensing requirements, tax regulations, data privacy laws, and competition laws. Key regulations affecting startups include:\n\n- **Business Registration and Legal Structure:** Sta",
-            "line": 1,
-            "column": 140,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2553,
-            "excerpt": "tartup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Armenia’s competition law. This",
-            "line": 11,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2646,
-            "excerpt": ".\n\n- **Competition Law:** Startups must avoid anti-competitive practices prohibited under Armenia’s competition law. This includes avoiding horizontal agreements such as price-fixing, market division, bid rigging, a",
-            "line": 11,
-            "column": 98,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4457,
-            "excerpt": "ance.com/education/armenia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)",
-            "line": 29,
-            "column": 51,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 8,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.11765,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14815,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.33333
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "appearanceOrder": 2.5,
-      "influence": 0.68675,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.09487,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.68675,
-      "mentionsTrendVals": [
+      "sources": [
         {
-          "date": "2025-10-13",
-          "value": 8
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
         }
       ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.68675
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2.5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.09487
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 8
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Antitrust Law,Competition Regulations,Market Competition Law",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Consumer Protection",
-      "type": "keyword",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -6186,15 +5472,15 @@ window.AppData20251013 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 3242,
+        "anthropic_claude_with_search_latest": 1124,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 3242,
-            "excerpt": "uality control standards\n- HACCP compliance for food businesses\n\n### E-commerce\nMust comply with:\n- Consumer protection laws\n- Electronic commerce regulations\n- Payment processing requirements\n\n## Licensing Requirements",
-            "line": 88,
+            "appearanceOrder": 1124,
+            "excerpt": "al security contributions: Employer and employee contributions required\n\n### Special Tax Regimes\n\n**Micro-business Tax Regime**: Available for businesses with turnover under AMD 24 million annually - flat tax rates app",
+            "line": 29,
             "column": 3,
             "captureDate": "2025-10-13"
           }
@@ -6206,23 +5492,23 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
+      "mentionsAsPercent": 0.01538,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.04167,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 17
+        "anthropic_claude_with_search_latest": 7
       },
-      "appearanceOrder": 17,
-      "influence": 0.06769,
+      "appearanceOrder": 7,
+      "influence": 0.05663,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06769,
+      "weightedInfluence": 0.05663,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -6232,13 +5518,13 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.06769
+          "value": 0.05663
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 17
+          "value": 7
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6316,7 +5602,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 17
+            "value": 7
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6337,385 +5623,115 @@ window.AppData20251013 = {
       ],
       "lastSeen": "2025-10-13",
       "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Consumer Rights,Customer Protection,Buyer Safeguards",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Data Privacy Regulations",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2382,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 269
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 269,
-            "excerpt": "Here is an overview of the major regulations and requirements affecting startups in Armenia:\n\n1. **Data Privacy Regulations**: \n   - The cornerstone for data protection in Armenia is the \"Law on Protection of Personal Data,",
-            "line": 3,
-            "column": 6,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2382,
-            "excerpt": "ta subject rights such as access, correction, and deletion of personal data[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com",
-            "line": 9,
-            "column": 383,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4192,
-            "excerpt": "gekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-start",
-            "line": 27,
-            "column": 42,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4241,
-            "excerpt": "or-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com",
-            "line": 27,
-            "column": 91,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4878,
-            "excerpt": "gal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/\n2. http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/\n3. https://hightech.gov.am/en/tegeka",
-            "line": 36,
-            "column": 23,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 5,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.07353,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14815,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.08333
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 6.5,
-      "influence": 0.17322,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.2769,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.17322,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.17322
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 6.5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.2769
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 10
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 3
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 5,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 5
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Data Protection Laws,Privacy Regulations,Information Security Laws",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "Ethical Compliance",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 2098
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 2098,
-            "excerpt": "ve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\n4. **Research and Ethical Compliance**:\n   - For startups engaged in research, particularly those partnering with academic institutions,",
-            "line": 15,
-            "column": 19,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01471,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.08333
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 6
-      },
-      "appearanceOrder": 6,
-      "influence": 0.10054,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.10054,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.10054
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 6
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 6
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0,
-      "similar": "Ethical Standards,Compliance Guidelines,Integrity Regulations",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     }
   ],
   "places": [
     {
       "value": "Armenia",
       "type": "place",
+      "sources": [
+        {
+          "url": "e-register.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "petekamutner.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "arlis.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "aipa.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "cba.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "eif.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "anif.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "fast.foundation",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "audit.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "armla.am",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "captaincompliance.com/education/armenia-data-protection-law",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules",
+          "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest"
+        },
+        {
+          "url": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "mblegal.am/setting-up-an-it-company-in-armenia",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "remotepeople.com/countries/armenia/doing-business-in-armenia",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "profin.am/en/armenias-it-tax-policies-for-2025",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "3ecpa.com/blog/why-set-up-business-in-armenia",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "ybcase.com/en/countries/republic-of-armenia",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 46,
         "anthropic_claude_with_search_latest": 20,
-        "openai_chatgpt_with_search_latest": 11
+        "openai_chatgpt_with_search_latest": 36
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 12,
@@ -6835,7 +5851,7 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 77,
+      "mentions": 102,
       "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
@@ -6861,7 +5877,7 @@ window.AppData20251013 = {
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 77
+          "value": 102
         }
       ],
       "influenceTrendVals": [
@@ -6907,7 +5923,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 11
+            "value": 36
           }
         ]
       },
@@ -6962,12 +5978,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 77,
+      "mentions_change": 102,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 77
+          "mentions": 102
         }
       ],
       "lastSeen": "2025-10-13",
@@ -7020,7 +6036,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07407,
@@ -7202,7 +6218,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03704,
+      "mentionsAsPercent": 0.03297,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.11111,
@@ -7398,7 +6414,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.07407,
+      "mentionsAsPercent": 0.06593,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.22222,
@@ -7563,7 +6579,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -7573,13 +6589,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.14355,
+      "influence": 0.14357,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14355,
+      "weightedInfluence": 0.14357,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7589,7 +6605,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.14355
+          "value": 0.14357
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7731,7 +6747,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -7741,13 +6757,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.11875,
+      "influence": 0.11873,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11875,
+      "weightedInfluence": 0.11873,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7757,7 +6773,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.11875
+          "value": 0.11873
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7906,7 +6922,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07407,
@@ -7916,13 +6932,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 7
       },
       "appearanceOrder": 7,
-      "influence": 0.22221,
+      "influence": 0.22223,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.22221,
+      "weightedInfluence": 0.22223,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -7932,7 +6948,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.22221
+          "value": 0.22223
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8081,7 +7097,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.07407,
@@ -8091,13 +7107,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 8
       },
       "appearanceOrder": 8,
-      "influence": 0.21032,
+      "influence": 0.2103,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.21032,
+      "weightedInfluence": 0.2103,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8107,7 +7123,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.21032
+          "value": 0.2103
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8249,7 +7265,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -8259,13 +7275,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.10035,
+      "influence": 0.10033,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10035,
+      "weightedInfluence": 0.10033,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8275,7 +7291,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.10035
+          "value": 0.10033
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8417,7 +7433,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -8427,13 +7443,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.09299,
+      "influence": 0.09297,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09299,
+      "weightedInfluence": 0.09297,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8443,7 +7459,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09299
+          "value": 0.09297
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8585,7 +7601,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -8595,13 +7611,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 12
       },
       "appearanceOrder": 12,
-      "influence": 0.09008,
+      "influence": 0.09007,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09008,
+      "weightedInfluence": 0.09007,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8611,7 +7627,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09008
+          "value": 0.09007
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8753,7 +7769,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -8763,13 +7779,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 13
       },
       "appearanceOrder": 13,
-      "influence": 0.08755,
+      "influence": 0.08753,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08755,
+      "weightedInfluence": 0.08753,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8779,7 +7795,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08755
+          "value": 0.08753
         }
       ],
       "appearanceOrderTrendVals": [
@@ -8921,7 +7937,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -8931,13 +7947,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 14
       },
       "appearanceOrder": 14,
-      "influence": 0.08531,
+      "influence": 0.08533,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08531,
+      "weightedInfluence": 0.08533,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -8947,7 +7963,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08531
+          "value": 0.08533
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9089,7 +8105,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -9257,7 +8273,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -9267,13 +8283,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 16
       },
       "appearanceOrder": 16,
-      "influence": 0.08155,
+      "influence": 0.08157,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08155,
+      "weightedInfluence": 0.08157,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -9283,7 +8299,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08155
+          "value": 0.08157
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9401,7 +8417,7 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2477,
@@ -9416,6 +8432,13 @@ window.AppData20251013 = {
             "excerpt": "For a comprehensive guide on data privacy compliance in Armenia, you can refer to articles such as [this guide by Captain Compliance](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n2. **Business Registration and Compliance**:\n   - Armenia's business registration process has be",
             "line": 5,
             "column": 105,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 3824,
+            "excerpt": "005 and underwent significant amendments in 2018 to align with European Union standards (GDPR).\n\n2. [Armenia Data Protection Law: Your Ultimate Guide to Privacy and ...](https://captaincompliance.com/education/armenia-data-protection-law/)\n\nNow you want to do business in Armenia and have to get ready to navigate this landscape? This gui",
+            "line": 27,
+            "column": 4,
             "captureDate": "2025-10-13"
           }
         ],
@@ -9435,46 +8458,46 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5548,
-            "excerpt": "nia-without-breaking-competition-rules/\n9. https://www.gritarres.com/blog/company-registration/\n10. https://captaincompliance.com/education/armenia-data-protection-law/\n11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025\n12.",
-            "line": 44,
+            "appearanceOrder": 6285,
+            "excerpt": "ritarres.com/blog/company-registration/](https://www.gritarres.com/blog/company-registration/)\n\n10. [captaincompliance.com/education/armenia-data-protection-law/](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n11. [www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025](https:/",
+            "line": 53,
             "column": 5,
             "captureDate": "2025-10-13"
           }
         ]
       },
-      "mentions": 4,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04938,
+      "mentionsAsPercent": 0.05495,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.06383,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9,
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 5,
-      "influence": 0.32773,
+      "influence": 0.60333,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.02703,
+        "perplexity_with_search_latest": 0.04054,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.32773,
+      "weightedInfluence": 0.60333,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.32773
+          "value": 0.60333
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9514,7 +8537,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -9527,7 +8550,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.02703
+            "value": 0.04054
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -9569,12 +8592,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 4
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-13",
@@ -9589,7 +8612,7 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 525,
@@ -9604,6 +8627,13 @@ window.AppData20251013 = {
             "excerpt": "pliance.\n   - Details on starting and registering a business in Armenia can be found in guides like [LSA Law Firm's overview](https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/).\n\n3. **Competition Law**:\n   - Armenia's competition laws are designed to foster fair market pract",
             "line": 9,
             "column": 92,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 5590,
+            "excerpt": "s two specialized IRBs: - **IRB #1:** Reviews non-clinical studies under Dr. Vahe Khachadourian\n\n4. [Legal Steps to Starting a Business in Armenia | LSA Law Firm](https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/)\n\nIn recent years, Armenia’s business environment has significantly improved, making it a more attr",
+            "line": 35,
+            "column": 4,
             "captureDate": "2025-10-13"
           }
         ],
@@ -9624,45 +8654,45 @@ window.AppData20251013 = {
           },
           {
             "appearanceOrder": 4748,
-            "excerpt": "n-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# Citations\n\n1. https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/\n2. http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup",
+            "excerpt": "n-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# CITATIONS\n\n1. [www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/](https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025/)\n\n2. [retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-ind",
             "line": 35,
             "column": 4,
             "captureDate": "2025-10-13"
           }
         ]
       },
-      "mentions": 4,
+      "mentions": 5,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04938,
+      "mentionsAsPercent": 0.05495,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.06383,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 1.5,
-      "influence": 0.34709,
+      "influence": 0.521,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.14232,
+        "perplexity_with_search_latest": 0.21349,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.34709,
+      "weightedInfluence": 0.521,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.34709
+          "value": 0.521
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9702,7 +8732,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -9715,7 +8745,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.14232
+            "value": 0.21349
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -9757,12 +8787,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 4
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-13",
@@ -9777,7 +8807,7 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 2363,
@@ -9792,6 +8822,20 @@ window.AppData20251013 = {
             "excerpt": "on.\n   - Insights into complying with competition laws in Armenia can be found in publications like [this article on competition success](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\n4. **Research and Ethical Compliance**:\n   - For startups engaged in research, particularly thos",
             "line": 13,
             "column": 97,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2812,
+            "excerpt": "ent for startups in Armenia, aligning with both local and international standards.\n\n# CITATIONS\n\n1. [Data Privacy Regulations in Armenia: Navigating Compliance in the ...](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)\n\nIn recent years, Armenia has made significant strides in regulating data privacy and protecting i",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6523,
+            "excerpt": "usiness registration steps, necessary permits and licenses, and help you avoid common mistakes.\n\n5. [How Companies Can Succeed in Armenia Without Breaking ...](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)\n\n The Armenian competition law framework builds upon international best practices while addressing",
+            "line": 39,
+            "column": 4,
             "captureDate": "2025-10-13"
           }
         ],
@@ -9833,38 +8877,38 @@ window.AppData20251013 = {
           }
         ]
       },
-      "mentions": 8,
+      "mentions": 10,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.09877,
+      "mentionsAsPercent": 0.10989,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.14894,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.17647
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 7,
         "openai_chatgpt_with_search_latest": 3
       },
       "appearanceOrder": 5,
-      "influence": 0.27253,
+      "influence": 0.54813,
       "influenceByModel": {
         "perplexity_with_search_latest": 0.13968,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.27253,
+      "weightedInfluence": 0.54813,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 8
+          "value": 10
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.27253
+          "value": 0.54813
         }
       ],
       "appearanceOrderTrendVals": [
@@ -9904,7 +8948,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -9959,12 +9003,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 8,
+      "mentions_change": 10,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 8
+          "mentions": 10
         }
       ],
       "lastSeen": "2025-10-13",
@@ -9982,7 +9026,7 @@ window.AppData20251013 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": 1167,
@@ -9997,6 +9041,13 @@ window.AppData20251013 = {
             "excerpt": "ups should adhere to.\n   - Information about research compliance can be explored in sources such as [Armenian Lawyer's compliance guide](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/).\n\nThese regulations are essential for fostering a legally compliant and operationally efficient en",
             "line": 17,
             "column": 79,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4777,
+            "excerpt": "t regulates data processing by state bodies, local governments, organizations, and individuals.\n\n3. [Armenia Research Compliance Guide: Ethics, Data & Regulations](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\nNavigating research compliance in Armenia requires understanding a complex landscape of ethical r",
+            "line": 31,
+            "column": 4,
             "captureDate": "2025-10-13"
           }
         ],
@@ -10017,59 +9068,59 @@ window.AppData20251013 = {
           },
           {
             "appearanceOrder": 4633,
-            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# Citations\n\n1. https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-com",
+            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# CITATIONS\n\n1. [www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance",
             "line": 31,
             "column": 61,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5058,
-            "excerpt": "dustry/\n3. https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech\n4. https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/\n5. https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statemen",
-            "line": 38,
+            "appearanceOrder": 5348,
+            "excerpt": "or-tech](https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n4. [armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n5. [www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
+            "line": 41,
             "column": 4,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5717,
-            "excerpt": "11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025\n12. https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/\n13. https://profin.am/en/armenias-it-tax-policies-for-2025/\n14. https://www.3ecpa.com/blog/why-set-",
-            "line": 46,
+            "appearanceOrder": 6607,
+            "excerpt": "](https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025)\n\n12. [armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\n13. [profin.am/en/armenias-it-tax-policies-for-2025/](https://profin.am/en/armenias-it-tax-polici",
+            "line": 57,
             "column": 5,
             "captureDate": "2025-10-13"
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 8,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.08642,
+      "mentionsAsPercent": 0.08791,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.12766,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
         "openai_chatgpt_with_search_latest": 5
       },
       "appearanceOrder": 3.5,
-      "influence": 0.3252,
+      "influence": 0.4318,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.29291,
+        "perplexity_with_search_latest": 0.43936,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.3252,
+      "weightedInfluence": 0.4318,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 7
+          "value": 8
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.3252
+          "value": 0.4318
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10109,7 +9160,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -10122,7 +9173,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.29291
+            "value": 0.43936
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10164,12 +9215,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 8,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 7
+          "mentions": 8
         }
       ],
       "lastSeen": "2025-10-13",
@@ -10178,445 +9229,120 @@ window.AppData20251013 = {
     },
     {
       "type": "link",
-      "value": "dataprotection.am",
-      "link": "dataprotection.am",
-      "linkType": "reg",
-      "sources": {
-        "linkType": "AI"
-      },
+      "value": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+      "link": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+      "linkType": "oth",
       "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 2188,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 2188,
-            "excerpt": "Protection of Personal Data](https://www.arlis.am/).\n\n**Key Requirements:**\n- Registration with the [Authorized Body for Protection of Personal Data](https://www.dataprotection.am/)\n- Consent for data collection and processing\n- Security measures for data storage\n- Data breach no",
-            "line": 53,
-            "column": 25,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03704,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.12896,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.12896,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.12896
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 5
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "armla.am",
-      "link": "armla.am",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5519,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 5519,
-            "excerpt": "my**: [https://www.mineconomy.am/](https://www.mineconomy.am/)\n- **Armenian Lawyers' Association**: [https://www.armla.am/](https://www.armla.am/)\n\n## Recommendations\n\n1. Consult with local legal counsel familiar with Armenian business law\n2. Re",
-            "line": 147,
-            "column": 38,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03704,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 17
-      },
-      "appearanceOrder": 17,
-      "influence": 0.07995,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.07995,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.07995
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 17
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 17
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
-      "link": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
-      "linkType": "leg",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
+        "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1167,
+        "perplexity_with_search_latest": 2363,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 2468
+        "openai_chatgpt_with_search_latest": 1946
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
         "openai_chatgpt_with_search_latest": [
           {
-            "appearanceOrder": 2468,
-            "excerpt": "ups should adhere to.\n   - Information about research compliance can be explored in sources such as [Armenian Lawyer's compliance guide](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/).\n\nThese regulations are essential for fostering a legally compliant and operationally efficient en",
-            "line": 17,
-            "column": 79,
+            "appearanceOrder": 1946,
+            "excerpt": "on.\n   - Insights into complying with competition laws in Armenia can be found in publications like [this article on competition success](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\n4. **Research and Ethical Compliance**:\n   - For startups engaged in research, particularly thos",
+            "line": 13,
+            "column": 97,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 2812,
+            "excerpt": "ent for startups in Armenia, aligning with both local and international standards.\n\n# CITATIONS\n\n1. [Data Privacy Regulations in Armenia: Navigating Compliance in the ...](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)\n\nIn recent years, Armenia has made significant strides in regulating data privacy and protecting i",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6523,
+            "excerpt": "usiness registration steps, necessary permits and licenses, and help you avoid common mistakes.\n\n5. [How Companies Can Succeed in Armenia Without Breaking ...](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)\n\n The Armenian competition law framework builds upon international best practices while addressing",
+            "line": 39,
+            "column": 4,
             "captureDate": "2025-10-13"
           }
         ],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 1167,
-            "excerpt": "rmenian” in the company name requires special government permission and incurs additional fees[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/).\n\n- **Taxation:** Tax obligations for startups include an 18% profit tax, 20% VAT, and other prope",
-            "line": 5,
-            "column": 470,
+            "appearanceOrder": 2363,
+            "excerpt": ", and respecting data subject rights such as access, correction, and deletion of personal data[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:",
+            "line": 9,
+            "column": 364,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 1907,
-            "excerpt": "ia/doing-business-in-armenia/)[[13]](https://profin.am/en/armenias-it-tax-policies-for-2025/)[[15]](https://armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison/).\n\n- **Data Privacy and Protection:** Startups processing personal data must comply with the “Law o",
-            "line": 7,
-            "column": 641,
+            "appearanceOrder": 2906,
+            "excerpt": "tion. The law is enforced by the Competition Protection Commission to maintain market fairness[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\nOther notable points:\n\n- Armenia does not have national security investment screening mechanisms",
+            "line": 11,
+            "column": 358,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 4633,
-            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# Citations\n\n1. https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-com",
-            "line": 31,
-            "column": 61,
+            "appearanceOrder": 4176,
+            "excerpt": "ech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating",
+            "line": 27,
+            "column": 26,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5058,
-            "excerpt": "dustry/\n3. https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech\n4. https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/\n5. https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statemen",
-            "line": 38,
-            "column": 4,
+            "appearanceOrder": 4222,
+            "excerpt": "nner/tax-benefits-for-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n- Competition Protect",
+            "line": 27,
+            "column": 72,
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5717,
-            "excerpt": "11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025\n12. https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/\n13. https://profin.am/en/armenias-it-tax-policies-for-2025/\n14. https://www.3ecpa.com/blog/why-set-",
-            "line": 46,
-            "column": 5,
+            "appearanceOrder": 4478,
+            "excerpt": "menia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-",
+            "line": 29,
+            "column": 72,
             "captureDate": "2025-10-13"
           }
         ]
       },
-      "mentions": 7,
+      "mentions": 10,
       "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.08642,
+      "mentionsAsPercent": 0.10989,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.12766,
+        "perplexity_with_search_latest": 0.14894,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.17647
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 6
+        "perplexity_with_search_latest": 8,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "appearanceOrder": 4.5,
-      "influence": 0.27139,
+      "appearanceOrder": 6,
+      "influence": 0.48357,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.25209,
+        "perplexity_with_search_latest": 0.15347,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.27139,
+      "weightedInfluence": 0.48357,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 7
+          "value": 10
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.27139
+          "value": 0.48357
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 4.5
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -10638,7 +9364,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 6
+            "value": 7
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10650,7 +9376,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 3
           }
         ]
       },
@@ -10663,7 +9389,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.25209
+            "value": 0.15347
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10688,7 +9414,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -10700,17 +9426,185 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 6
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 7,
+      "mentions_change": 10,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 7
+          "mentions": 10
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "mfa.am/en/priv_pol",
+      "link": "mfa.am/en/priv_pol",
+      "linkType": "gov",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4428
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4428,
+            "excerpt": "on June 13, 2015, the Law on Protection of Personal Data (often called the Data Protection Law) is [Armenia’s cornerstone](https://www.mfa.am/en/priv_pol) legislation for safeguarding personal information. Rooted in the Constitution of Armenia (Article",
+            "line": 29,
+            "column": 464,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.05882
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.10517,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10517,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.10517
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-13",
@@ -10758,9 +9652,9 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 4969,
-            "excerpt": "rieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/\n3. https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech\n4. https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/",
-            "line": 37,
+            "appearanceOrder": 5177,
+            "excerpt": "eve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)\n\n3. [hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech](https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n4. [armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/](htt",
+            "line": 39,
             "column": 4,
             "captureDate": "2025-10-13"
           }
@@ -10770,7 +9664,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04938,
+      "mentionsAsPercent": 0.04396,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.08511,
         "anthropic_claude_with_search_latest": 0,
@@ -10780,13 +9674,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.51581,
+      "influence": 0.5158,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.51581,
+      "weightedInfluence": 0.5158,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -10796,7 +9690,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.51581
+          "value": 0.5158
         }
       ],
       "appearanceOrderTrendVals": [
@@ -10905,413 +9799,6 @@ window.AppData20251013 = {
     },
     {
       "type": "link",
-      "value": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
-      "link": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
-      "linkType": "leg",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1167,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 2468
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 2468,
-            "excerpt": "ups should adhere to.\n   - Information about research compliance can be explored in sources such as [Armenian Lawyer's compliance guide](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/).\n\nThese regulations are essential for fostering a legally compliant and operationally efficient en",
-            "line": 17,
-            "column": 79,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1167,
-            "excerpt": "rmenian” in the company name requires special government permission and incurs additional fees[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/).\n\n- **Taxation:** Tax obligations for startups include an 18% profit tax, 20% VAT, and other prope",
-            "line": 5,
-            "column": 470,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 1907,
-            "excerpt": "ia/doing-business-in-armenia/)[[13]](https://profin.am/en/armenias-it-tax-policies-for-2025/)[[15]](https://armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison/).\n\n- **Data Privacy and Protection:** Startups processing personal data must comply with the “Law o",
-            "line": 7,
-            "column": 641,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4633,
-            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# Citations\n\n1. https://www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-com",
-            "line": 31,
-            "column": 61,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 5058,
-            "excerpt": "dustry/\n3. https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech\n4. https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/\n5. https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statemen",
-            "line": 38,
-            "column": 4,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 5717,
-            "excerpt": "11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025\n12. https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/\n13. https://profin.am/en/armenias-it-tax-policies-for-2025/\n14. https://www.3ecpa.com/blog/why-set-",
-            "line": 46,
-            "column": 5,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 7,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.08642,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.12766,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 7
-      },
-      "appearanceOrder": 5.5,
-      "influence": 0.24107,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.23203,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.24107,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 7
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.24107
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5.5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.23203
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 7
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 7,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 7
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
-      "link": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
-      "linkType": "oth",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 2363,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1946
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1946,
-            "excerpt": "on.\n   - Insights into complying with competition laws in Armenia can be found in publications like [this article on competition success](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\n4. **Research and Ethical Compliance**:\n   - For startups engaged in research, particularly thos",
-            "line": 13,
-            "column": 97,
-            "captureDate": "2025-10-13"
-          }
-        ],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 2363,
-            "excerpt": ", and respecting data subject rights such as access, correction, and deletion of personal data[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/).\n\n- **Competition Law:",
-            "line": 9,
-            "column": 364,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 2906,
-            "excerpt": "tion. The law is enforced by the Competition Protection Commission to maintain market fairness[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/).\n\nOther notable points:\n\n- Armenia does not have national security investment screening mechanisms",
-            "line": 11,
-            "column": 358,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4176,
-            "excerpt": "ech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating",
-            "line": 27,
-            "column": 26,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4222,
-            "excerpt": "nner/tax-benefits-for-tech)\n\n- Captain Compliance and retrieve.am for data privacy regulations[[2]](http://retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry/)[[10]](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n- Competition Protect",
-            "line": 27,
-            "column": 72,
-            "captureDate": "2025-10-13"
-          },
-          {
-            "appearanceOrder": 4478,
-            "excerpt": "menia-data-protection-law/)\n\n- Competition Protection Commission guidelines on competition law[[8]](https://retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-",
-            "line": 29,
-            "column": 72,
-            "captureDate": "2025-10-13"
-          }
-        ]
-      },
-      "mentions": 8,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.09877,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.14894,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 6,
-      "influence": 0.24621,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.15347,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.24621,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.24621
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 6
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0.15347
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 8,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 8
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "link",
       "value": "state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
       "link": "state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
       "linkType": "gov",
@@ -11337,9 +9824,9 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5158,
-            "excerpt": "https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/\n5. https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf\n6. https://mblegal.am/setting-up-an-it-company-in-armenia/\n7. https://remotepeople.com/countries/ar",
-            "line": 39,
+            "appearanceOrder": 5541,
+            "excerpt": "tps://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n5. [www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf](https://www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf)\n\n6. [mblegal.am/setting-up-an-it-company-in-armenia/](https://mblegal.am/setting-up-an-it-company-",
+            "line": 43,
             "column": 4,
             "captureDate": "2025-10-13"
           }
@@ -11349,7 +9836,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.04255,
         "anthropic_claude_with_search_latest": 0,
@@ -11359,13 +9846,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.19272,
+      "influence": 0.1927,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.19272,
+      "weightedInfluence": 0.1927,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11375,7 +9862,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.19272
+          "value": 0.1927
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11493,7 +9980,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 5621,
+        "perplexity_with_search_latest": 6423,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -11502,9 +9989,9 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 5621,
-            "excerpt": "/company-registration/\n10. https://captaincompliance.com/education/armenia-data-protection-law/\n11. https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025\n12. https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regula",
-            "line": 45,
+            "appearanceOrder": 6423,
+            "excerpt": "ia-data-protection-law/](https://captaincompliance.com/education/armenia-data-protection-law/)\n\n11. [www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025](https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025)\n\n12. [armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations",
+            "line": 55,
             "column": 5,
             "captureDate": "2025-10-13"
           }
@@ -11514,7 +10001,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.02128,
         "anthropic_claude_with_search_latest": 0,
@@ -11524,13 +10011,13 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": 11
       },
       "appearanceOrder": 11,
-      "influence": 0.09299,
+      "influence": 0.09297,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09299,
+      "weightedInfluence": 0.09297,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11540,7 +10027,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09299
+          "value": 0.09297
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11651,10 +10138,7 @@ window.AppData20251013 = {
       "type": "link",
       "value": "profin.am/en/armenias-it-tax-policies-for-2025",
       "link": "profin.am/en/armenias-it-tax-policies-for-2025",
-      "linkType": "fin",
-      "sources": {
-        "linkType": "AI"
-      },
+      "linkType": "oth",
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
@@ -11677,9 +10161,9 @@ window.AppData20251013 = {
             "captureDate": "2025-10-13"
           },
           {
-            "appearanceOrder": 5823,
-            "excerpt": "//armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/\n13. https://profin.am/en/armenias-it-tax-policies-for-2025/\n14. https://www.3ecpa.com/blog/why-set-up-business-in-armenia/\n15. https://armenian-lawyer.com/busi",
-            "line": 47,
+            "appearanceOrder": 6811,
+            "excerpt": "armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\n13. [profin.am/en/armenias-it-tax-policies-for-2025/](https://profin.am/en/armenias-it-tax-policies-for-2025/)\n\n14. [www.3ecpa.com/blog/why-set-up-business-in-armenia/](https://www.3ecpa.com/blog/why-set-up-bu",
+            "line": 59,
             "column": 5,
             "captureDate": "2025-10-13"
           }
@@ -11689,7 +10173,7 @@ window.AppData20251013 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.04255,
         "anthropic_claude_with_search_latest": 0,
@@ -11824,9 +10308,766 @@ window.AppData20251013 = {
     },
     {
       "type": "link",
+      "value": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
+      "link": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
+      "linkType": "leg",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1167,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2468
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2468,
+            "excerpt": "ups should adhere to.\n   - Information about research compliance can be explored in sources such as [Armenian Lawyer's compliance guide](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/).\n\nThese regulations are essential for fostering a legally compliant and operationally efficient en",
+            "line": 17,
+            "column": 79,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4777,
+            "excerpt": "t regulates data processing by state bodies, local governments, organizations, and individuals.\n\n3. [Armenia Research Compliance Guide: Ethics, Data & Regulations](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\nNavigating research compliance in Armenia requires understanding a complex landscape of ethical r",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1167,
+            "excerpt": "rmenian” in the company name requires special government permission and incurs additional fees[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/).\n\n- **Taxation:** Tax obligations for startups include an 18% profit tax, 20% VAT, and other prope",
+            "line": 5,
+            "column": 470,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 1907,
+            "excerpt": "ia/doing-business-in-armenia/)[[13]](https://profin.am/en/armenias-it-tax-policies-for-2025/)[[15]](https://armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison/).\n\n- **Data Privacy and Protection:** Startups processing personal data must comply with the “Law o",
+            "line": 7,
+            "column": 641,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4633,
+            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# CITATIONS\n\n1. [www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance",
+            "line": 31,
+            "column": 61,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 5348,
+            "excerpt": "or-tech](https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n4. [armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n5. [www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
+            "line": 41,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6607,
+            "excerpt": "](https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025)\n\n12. [armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\n13. [profin.am/en/armenias-it-tax-policies-for-2025/](https://profin.am/en/armenias-it-tax-polici",
+            "line": 57,
+            "column": 5,
+            "captureDate": "2025-10-13"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.08791,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.12766,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.11765
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 4.5,
+      "influence": 0.36957,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.37812,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.36957,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.36957
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 4.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0.37812
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "dataprotection.am",
+      "link": "dataprotection.am",
+      "linkType": "gov",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2188,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2188,
+            "excerpt": "Protection of Personal Data](https://www.arlis.am/).\n\n**Key Requirements:**\n- Registration with the [Authorized Body for Protection of Personal Data](https://www.dataprotection.am/)\n- Consent for data collection and processing\n- Security measures for data storage\n- Data breach no",
+            "line": 53,
+            "column": 25,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03704,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.12897,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12897,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.12897
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "armla.am",
+      "link": "armla.am",
+      "linkType": "oth",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 5519,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 5519,
+            "excerpt": "my**: [https://www.mineconomy.am/](https://www.mineconomy.am/)\n- **Armenian Lawyers' Association**: [https://www.armla.am/](https://www.armla.am/)\n\n## Recommendations\n\n1. Consult with local legal counsel familiar with Armenian business law\n2. Re",
+            "line": 147,
+            "column": 38,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.01099,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.03704,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 17
+      },
+      "appearanceOrder": 17,
+      "influence": 0.07993,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07993,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.07993
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 17
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
+      "link": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
+      "linkType": "leg",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 6,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1167,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2468
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2468,
+            "excerpt": "ups should adhere to.\n   - Information about research compliance can be explored in sources such as [Armenian Lawyer's compliance guide](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/).\n\nThese regulations are essential for fostering a legally compliant and operationally efficient en",
+            "line": 17,
+            "column": 79,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4777,
+            "excerpt": "t regulates data processing by state bodies, local governments, organizations, and individuals.\n\n3. [Armenia Research Compliance Guide: Ethics, Data & Regulations](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\nNavigating research compliance in Armenia requires understanding a complex landscape of ethical r",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1167,
+            "excerpt": "rmenian” in the company name requires special government permission and incurs additional fees[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/).\n\n- **Taxation:** Tax obligations for startups include an 18% profit tax, 20% VAT, and other prope",
+            "line": 5,
+            "column": 470,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 1907,
+            "excerpt": "ia/doing-business-in-armenia/)[[13]](https://profin.am/en/armenias-it-tax-policies-for-2025/)[[15]](https://armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison/).\n\n- **Data Privacy and Protection:** Startups processing personal data must comply with the “Law o",
+            "line": 7,
+            "column": 641,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 4633,
+            "excerpt": "a-without-breaking-competition-rules/)\n\n- Central Bank licensing for financial sector startups[[4]](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n# CITATIONS\n\n1. [www.lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance",
+            "line": 31,
+            "column": 61,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 5348,
+            "excerpt": "or-tech](https://hightech.gov.am/en/tegekatvakan-kentron/ayl/norutyunner/tax-benefits-for-tech)\n\n4. [armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/](https://armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia/)\n\n5. [www.state.gov/wp-content/uploads/2025/09/638719_2025-Armenia-Investment-Climate-Statement.pdf",
+            "line": 41,
+            "column": 4,
+            "captureDate": "2025-10-13"
+          },
+          {
+            "appearanceOrder": 6607,
+            "excerpt": "](https://www.relocation2armenia.com/blog/doing-business-in-armenia-foreigners-guide-for-2025)\n\n12. [armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/](https://armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations/)\n\n13. [profin.am/en/armenias-it-tax-policies-for-2025/](https://profin.am/en/armenias-it-tax-polici",
+            "line": 57,
+            "column": 5,
+            "captureDate": "2025-10-13"
+          }
+        ]
+      },
+      "mentions": 8,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.08791,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.12766,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.11765
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 4,
+        "openai_chatgpt_with_search_latest": 7
+      },
+      "appearanceOrder": 5.5,
+      "influence": 0.33293,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.34805,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.33293,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0.33293
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 5.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0.34805
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "www.psrc.am",
       "link": "www.psrc.am",
-      "linkType": "aca",
+      "linkType": "gov",
       "sources": {
         "linkType": "AI"
       },
@@ -11857,7 +11098,7 @@ window.AppData20251013 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.03704,
@@ -11867,13 +11108,13 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.09635,
+      "influence": 0.09637,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09635,
+      "weightedInfluence": 0.09637,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -11883,7 +11124,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.09635
+          "value": 0.09637
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11994,10 +11235,158 @@ window.AppData20251013 = {
       "type": "link",
       "value": "mla.am",
       "link": "mla.am",
-      "linkType": "aca",
-      "sources": {
-        "linkType": "AI"
+      "linkType": "oth",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
       },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "eople.com",
+      "link": "eople.com",
+      "linkType": "oth",
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -12150,198 +11539,50 @@ window.AppData20251013 = {
       "type": "linkType",
       "code": "gov",
       "value": "Regulatory",
-      "mentions": 28,
+      "mentions": 31,
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 22,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.12766,
-        "anthropic_claude_with_search_latest": 0.81481,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.34568,
-      "appearanceOrder": 9,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "anthropic_claude_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 4.09102,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 12,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 4.09102,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 28
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 4.09102
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 9
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 22
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 12
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 9
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 28,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 28
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "oth",
-      "value": "Other",
-      "mentions": 22,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 18,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 24,
+        "openai_chatgpt_with_search_latest": 1
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.38298,
-        "anthropic_claude_with_search_latest": 0.03704,
-        "openai_chatgpt_with_search_latest": 0.42857
+        "perplexity_with_search_latest": 0.12766,
+        "anthropic_claude_with_search_latest": 0.88889,
+        "openai_chatgpt_with_search_latest": 0.05882
       },
-      "mentionsAsPercent": 0.2716,
-      "appearanceOrder": 6,
+      "mentionsAsPercent": 0.34066,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 3
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 8
       },
-      "influence": 1.1023699999999999,
+      "influence": 4.421470000000002,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1.43547,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 3
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 1.1023699999999999,
+      "weightedInfluence": 4.421470000000002,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 22
+          "value": 31
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 1.1023699999999999
+          "value": 4.421470000000002
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 6
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -12363,19 +11604,19 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 18
+            "value": 6
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 24
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 1
           }
         ]
       },
@@ -12388,13 +11629,161 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1.43547
+            "value": 2
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
             "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 31,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-13",
+          "mentions": 31
+        }
+      ],
+      "lastSeen": "2025-10-13",
+      "firstSeen": "2025-10-13",
+      "volatility": 0
+    },
+    {
+      "type": "linkType",
+      "code": "oth",
+      "value": "Other",
+      "mentions": 30,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 20,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 3,
+      "uniqueModelCount": 3,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.42553,
+        "anthropic_claude_with_search_latest": 0.07407,
+        "openai_chatgpt_with_search_latest": 0.47059
+      },
+      "mentionsAsPercent": 0.32967,
+      "appearanceOrder": 7,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "anthropic_claude_with_search_latest": 11,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "influence": 2.10664,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 2.50664,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "weightedInfluence": 2.10664,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 30
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 2.10664
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-13",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 20
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 8
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2.50664
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-13",
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -12419,7 +11808,7 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 4
+            "value": 11
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -12430,12 +11819,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 22,
+      "mentions_change": 30,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 22
+          "mentions": 30
         }
       ],
       "lastSeen": "2025-10-13",
@@ -12446,11 +11835,11 @@ window.AppData20251013 = {
       "type": "linkType",
       "code": "leg",
       "value": "Legal Services",
-      "mentions": 21,
+      "mentions": 24,
       "mentionsByModel": {
         "perplexity_with_search_latest": 18,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 6
       },
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
@@ -12458,32 +11847,32 @@ window.AppData20251013 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.38298,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.42857
+        "openai_chatgpt_with_search_latest": 0.35294
       },
-      "mentionsAsPercent": 0.25926,
+      "mentionsAsPercent": 0.26374,
       "appearanceOrder": 5,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": 6
       },
-      "influence": 0.83766,
+      "influence": 1.1343,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.7770299999999999,
+        "perplexity_with_search_latest": 1.16553,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 3
       },
-      "weightedInfluence": 0.83766,
+      "weightedInfluence": 1.1343,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 21
+          "value": 24
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.83766
+          "value": 1.1343
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12523,7 +11912,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 3
+            "value": 6
           }
         ]
       },
@@ -12536,7 +11925,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.7770299999999999
+            "value": 1.16553
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -12578,12 +11967,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 21,
+      "mentions_change": 24,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 21
+          "mentions": 24
         }
       ],
       "lastSeen": "2025-10-13",
@@ -12594,11 +11983,11 @@ window.AppData20251013 = {
       "type": "linkType",
       "code": "adv",
       "value": "Advertising",
-      "mentions": 4,
+      "mentions": 5,
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
@@ -12606,32 +11995,32 @@ window.AppData20251013 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.06383,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
+        "openai_chatgpt_with_search_latest": 0.11765
       },
-      "mentionsAsPercent": 0.04938,
+      "mentionsAsPercent": 0.05495,
       "appearanceOrder": 5,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": 1
       },
-      "influence": 0.32773,
+      "influence": 0.60333,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.02703,
+        "perplexity_with_search_latest": 0.04054,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.32773,
+      "weightedInfluence": 0.60333,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 4
+          "value": 5
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.32773
+          "value": 0.60333
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12671,7 +12060,7 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -12684,7 +12073,7 @@ window.AppData20251013 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-13",
-            "value": 0.02703
+            "value": 0.04054
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -12726,456 +12115,12 @@ window.AppData20251013 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 4,
+      "mentions_change": 5,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-13",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "fin",
-      "value": "Financial Services",
-      "mentions": 2,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.04255,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.02469,
-      "appearanceOrder": 6,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 0.23747,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.23747,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.23747
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 6
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 6
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "aca",
-      "value": "Academic",
-      "mentions": 2,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.07407,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.02469,
-      "appearanceOrder": 14,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 14,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 0.1763,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1763,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.1763
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 14
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 14
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-13",
-      "firstSeen": "2025-10-13",
-      "volatility": 0
-    },
-    {
-      "type": "linkType",
-      "code": "reg",
-      "value": "Regulatory (US)",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.03704,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "mentionsAsPercent": 0.01235,
-      "appearanceOrder": 5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 5,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "influence": 0.12896,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.12896,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 0.12896
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-13",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": 5
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-13",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-13",
-          "mentions": 1
+          "mentions": 5
         }
       ],
       "lastSeen": "2025-10-13",
@@ -13200,20 +12145,20 @@ window.AppData20251013 = {
         "anthropic_claude_with_search_latest": 0.03704,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "appearanceOrder": 13,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": 13,
         "openai_chatgpt_with_search_latest": -1
       },
-      "influence": 0.08755,
+      "influence": 0.08753,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08755,
+      "weightedInfluence": 0.08753,
       "mentionsTrendVals": [
         {
           "date": "2025-10-13",
@@ -13223,7 +12168,7 @@ window.AppData20251013 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-13",
-          "value": 0.08755
+          "value": 0.08753
         }
       ],
       "appearanceOrderTrendVals": [
@@ -13334,6 +12279,185 @@ window.AppData20251013 = {
   "linkDomains": [
     {
       "type": "linkDomain",
+      "code": "armenian-lawyer.com",
+      "value": "armenian-lawyer.com",
+      "link": "https://armenian-lawyer.com",
+      "linkType": "leg",
+      "linkTypeName": "Legal Services",
+      "mentions": 24,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 18,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "sources": [
+        {
+          "link": "armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations",
+          "mentions": 8,
+          "appearanceOrder": 3.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 2,
+            "openai_chatgpt_with_search_latest": 5
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.4318,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.43936,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.4318
+        },
+        {
+          "link": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
+          "mentions": 8,
+          "appearanceOrder": 4.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 3,
+            "openai_chatgpt_with_search_latest": 6
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.36957,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.37812,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.36957
+        },
+        {
+          "link": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
+          "mentions": 8,
+          "appearanceOrder": 5.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 4,
+            "openai_chatgpt_with_search_latest": 7
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 6,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.33293,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.34805,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.33293
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.38298,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.35294
+      },
+      "appearanceOrder": 3.5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "mentionsAsPercent": 0.26374,
+      "influence": 1.1343,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1.16553,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "weightedInfluence": 1.1343
+    },
+    {
+      "type": "linkDomain",
+      "code": "retrieve.am",
+      "value": "retrieve.am",
+      "link": "https://retrieve.am",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentions": 20,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 14,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "sources": [
+        {
+          "link": "retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules",
+          "mentions": 10,
+          "appearanceOrder": 5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 7,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 7,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.54813,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.13968,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.54813
+        },
+        {
+          "link": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
+          "mentions": 10,
+          "appearanceOrder": 6,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 8,
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 7,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 3
+          },
+          "influence": 0.48357,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.15347,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.48357
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.29787,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.35294
+      },
+      "appearanceOrder": 5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7,
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "mentionsAsPercent": 0.21978,
+      "influence": 1.0317,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.29315,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "weightedInfluence": 1.0317
+    },
+    {
+      "type": "linkDomain",
       "code": "arlis.am",
       "value": "arlis.am",
       "link": "https://arlis.am",
@@ -13379,7 +12503,7 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.07407,
+      "mentionsAsPercent": 0.06593,
       "influence": 1,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -13387,106 +12511,6 @@ window.AppData20251013 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "weightedInfluence": 1
-    },
-    {
-      "type": "linkDomain",
-      "code": "armenian-lawyer.com",
-      "value": "armenian-lawyer.com",
-      "link": "https://armenian-lawyer.com",
-      "linkType": "leg",
-      "linkTypeName": "Legal Services",
-      "mentions": 21,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 18,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "sources": [
-        {
-          "link": "armenian-lawyer.com/business-immigration/armenia-research-compliance-ethics-data-regulations",
-          "mentions": 7,
-          "appearanceOrder": 3.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 2,
-            "openai_chatgpt_with_search_latest": 5
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.3252,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.29291,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.3252
-        },
-        {
-          "link": "armenian-lawyer.com/business-registration/common-mistakes-foreign-entrepreneurs-armenia",
-          "mentions": 7,
-          "appearanceOrder": 4.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 3,
-            "openai_chatgpt_with_search_latest": 6
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.27139,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.25209,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.27139
-        },
-        {
-          "link": "armenian-lawyer.com/business-immigration/armenia-estonia-tech-startup-comparison",
-          "mentions": 7,
-          "appearanceOrder": 5.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 4,
-            "openai_chatgpt_with_search_latest": 7
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 6,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.24107,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.23203,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.24107
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.38298,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.42857
-      },
-      "appearanceOrder": 3.5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "mentionsAsPercent": 0.25926,
-      "influence": 0.83766,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.7770299999999999,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "weightedInfluence": 0.83766
     },
     {
       "type": "linkDomain",
@@ -13535,7 +12559,7 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "influence": 0.66667,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -13591,7 +12615,7 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.03704,
+      "mentionsAsPercent": 0.03297,
       "influence": 0.63093,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -13602,82 +12626,119 @@ window.AppData20251013 = {
     },
     {
       "type": "linkDomain",
-      "code": "retrieve.am",
-      "value": "retrieve.am",
-      "link": "https://retrieve.am",
-      "linkType": "oth",
-      "linkTypeName": "Other",
-      "mentions": 16,
+      "code": "captaincompliance.com",
+      "value": "captaincompliance.com",
+      "link": "https://captaincompliance.com",
+      "linkType": "adv",
+      "linkTypeName": "Advertising",
+      "mentions": 5,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 14,
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
-          "link": "retrieve.am/how-companies-can-succeed-in-armenia-without-breaking-competition-rules",
-          "mentions": 8,
+          "link": "captaincompliance.com/education/armenia-data-protection-law",
+          "mentions": 5,
           "appearanceOrder": 5,
           "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 7,
-            "openai_chatgpt_with_search_latest": 3
+            "perplexity_with_search_latest": 9,
+            "openai_chatgpt_with_search_latest": 1
           },
           "mentionsByModel": {
-            "perplexity_with_search_latest": 7,
+            "perplexity_with_search_latest": 3,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 2
           },
-          "influence": 0.27253,
+          "influence": 0.60333,
           "influenceByModel": {
-            "perplexity_with_search_latest": 0.13968,
+            "perplexity_with_search_latest": 0.04054,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 1
           },
-          "weightedInfluence": 0.27253
-        },
-        {
-          "link": "retrieve.am/data-privacy-regulations-in-armenia-navigating-compliance-in-the-tech-startup-industry",
-          "mentions": 8,
-          "appearanceOrder": 6,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 8,
-            "openai_chatgpt_with_search_latest": 4
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 7,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.24621,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.15347,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.24621
+          "weightedInfluence": 0.60333
         }
       ],
       "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.29787,
+        "perplexity_with_search_latest": 0.06383,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.28571
+        "openai_chatgpt_with_search_latest": 0.11765
       },
       "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 3
+        "perplexity_with_search_latest": 9,
+        "openai_chatgpt_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.19753,
-      "influence": 0.51874,
+      "mentionsAsPercent": 0.05495,
+      "influence": 0.60333,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.29315,
+        "perplexity_with_search_latest": 0.04054,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.60333
+    },
+    {
+      "type": "linkDomain",
+      "code": "lsa.am",
+      "value": "lsa.am",
+      "link": "https://lsa.am",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentions": 5,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 2
       },
-      "weightedInfluence": 0.51874
+      "sources": [
+        {
+          "link": "lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025",
+          "mentions": 5,
+          "appearanceOrder": 1.5,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 1,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 3,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.521,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0.21349,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.521
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06383,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.11765
+      },
+      "appearanceOrder": 1.5,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "mentionsAsPercent": 0.05495,
+      "influence": 0.521,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.21349,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.521
     },
     {
       "type": "linkDomain",
@@ -13705,13 +12766,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.51581,
+          "influence": 0.5158,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.51581
+          "weightedInfluence": 0.5158
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -13726,138 +12787,22 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.04938,
-      "influence": 0.51581,
+      "mentionsAsPercent": 0.04396,
+      "influence": 0.5158,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.51581
-    },
-    {
-      "type": "linkDomain",
-      "code": "lsa.am",
-      "value": "lsa.am",
-      "link": "https://lsa.am",
-      "linkType": "oth",
-      "linkTypeName": "Other",
-      "mentions": 4,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "lsa.am/articles/legal-steps-to-starting-a-business-in-armenia-and-compliance-requirements-2025",
-          "mentions": 4,
-          "appearanceOrder": 1.5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 1,
-            "openai_chatgpt_with_search_latest": 2
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 3,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.34709,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.14232,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.34709
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06383,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
-      },
-      "appearanceOrder": 1.5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "mentionsAsPercent": 0.04938,
-      "influence": 0.34709,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.14232,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.34709
-    },
-    {
-      "type": "linkDomain",
-      "code": "captaincompliance.com",
-      "value": "captaincompliance.com",
-      "link": "https://captaincompliance.com",
-      "linkType": "adv",
-      "linkTypeName": "Advertising",
-      "mentions": 4,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 3,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "captaincompliance.com/education/armenia-data-protection-law",
-          "mentions": 4,
-          "appearanceOrder": 5,
-          "appearanceOrderByModel": {
-            "perplexity_with_search_latest": 9,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 3,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.32773,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0.02703,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.32773
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06383,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.14286
-      },
-      "appearanceOrder": 5,
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "mentionsAsPercent": 0.04938,
-      "influence": 0.32773,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0.02703,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.32773
+      "weightedInfluence": 0.5158
     },
     {
       "type": "linkDomain",
       "code": "profin.am",
       "value": "profin.am",
       "link": "https://profin.am",
-      "linkType": "fin",
-      "linkTypeName": "Financial Services",
+      "linkType": "oth",
+      "linkTypeName": "Other",
       "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
@@ -13898,7 +12843,7 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.02469,
+      "mentionsAsPercent": 0.02198,
       "influence": 0.23747,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -13933,13 +12878,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 2,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.22221,
+          "influence": 0.22223,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.22221
+          "weightedInfluence": 0.22223
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -13954,14 +12899,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.02469,
-      "influence": 0.22221,
+      "mentionsAsPercent": 0.02198,
+      "influence": 0.22223,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.22221
+      "weightedInfluence": 0.22223
     },
     {
       "type": "linkDomain",
@@ -13989,13 +12934,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 2,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.21032,
+          "influence": 0.2103,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.21032
+          "weightedInfluence": 0.2103
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14010,14 +12955,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.02469,
-      "influence": 0.21032,
+      "mentionsAsPercent": 0.02198,
+      "influence": 0.2103,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.21032
+      "weightedInfluence": 0.2103
     },
     {
       "type": "linkDomain",
@@ -14045,13 +12990,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.19272,
+          "influence": 0.1927,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.19272
+          "weightedInfluence": 0.1927
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -14066,14 +13011,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.02469,
-      "influence": 0.19272,
+      "mentionsAsPercent": 0.02198,
+      "influence": 0.1927,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.19272
+      "weightedInfluence": 0.1927
     },
     {
       "type": "linkDomain",
@@ -14101,13 +13046,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.14355,
+          "influence": 0.14357,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.14355
+          "weightedInfluence": 0.14357
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14122,22 +13067,22 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.14355,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.14357,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14355
+      "weightedInfluence": 0.14357
     },
     {
       "type": "linkDomain",
       "code": "dataprotection.am",
       "value": "dataprotection.am",
       "link": "https://dataprotection.am",
-      "linkType": "reg",
-      "linkTypeName": "Regulatory (US)",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -14157,13 +13102,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.12896,
+          "influence": 0.12897,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.12896
+          "weightedInfluence": 0.12897
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14178,14 +13123,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.12896,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.12897,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12896
+      "weightedInfluence": 0.12897
     },
     {
       "type": "linkDomain",
@@ -14213,13 +13158,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.11875,
+          "influence": 0.11873,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.11875
+          "weightedInfluence": 0.11873
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14234,14 +13179,70 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.11875,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.11873,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11875
+      "weightedInfluence": 0.11873
+    },
+    {
+      "type": "linkDomain",
+      "code": "mfa.am",
+      "value": "mfa.am",
+      "link": "https://mfa.am",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "sources": [
+        {
+          "link": "mfa.am/en/priv_pol",
+          "mentions": 1,
+          "appearanceOrder": 8,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 8
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "influence": 0.10517,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.10517
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.05882
+      },
+      "appearanceOrder": 8,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 8
+      },
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.10517,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.10517
     },
     {
       "type": "linkDomain",
@@ -14269,13 +13270,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.10035,
+          "influence": 0.10033,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.10035
+          "weightedInfluence": 0.10033
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14290,22 +13291,22 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.10035,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.10033,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.10035
+      "weightedInfluence": 0.10033
     },
     {
       "type": "linkDomain",
       "code": "psrc.am",
       "value": "psrc.am",
       "link": "https://psrc.am",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
+      "linkType": "gov",
+      "linkTypeName": "Regulatory",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -14325,13 +13326,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09635,
+          "influence": 0.09637,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09635
+          "weightedInfluence": 0.09637
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14346,14 +13347,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.09635,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.09637,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09635
+      "weightedInfluence": 0.09637
     },
     {
       "type": "linkDomain",
@@ -14381,13 +13382,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09299,
+          "influence": 0.09297,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09299
+          "weightedInfluence": 0.09297
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14402,14 +13403,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.09299,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.09297,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09299
+      "weightedInfluence": 0.09297
     },
     {
       "type": "linkDomain",
@@ -14437,13 +13438,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09299,
+          "influence": 0.09297,
           "influenceByModel": {
             "perplexity_with_search_latest": 1,
             "anthropic_claude_with_search_latest": 0,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09299
+          "weightedInfluence": 0.09297
         }
       ],
       "bots": "perplexity_with_search_latest",
@@ -14458,14 +13459,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.09299,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.09297,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09299
+      "weightedInfluence": 0.09297
     },
     {
       "type": "linkDomain",
@@ -14493,13 +13494,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.09008,
+          "influence": 0.09007,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.09008
+          "weightedInfluence": 0.09007
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14514,14 +13515,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.09008,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.09007,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09008
+      "weightedInfluence": 0.09007
     },
     {
       "type": "linkDomain",
@@ -14549,13 +13550,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.08755,
+          "influence": 0.08753,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.08755
+          "weightedInfluence": 0.08753
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14570,14 +13571,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.08755,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.08753,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08755
+      "weightedInfluence": 0.08753
     },
     {
       "type": "linkDomain",
@@ -14605,13 +13606,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.08531,
+          "influence": 0.08533,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.08531
+          "weightedInfluence": 0.08533
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14626,14 +13627,14 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.08531,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.08533,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08531
+      "weightedInfluence": 0.08533
     },
     {
       "type": "linkDomain",
@@ -14682,7 +13683,7 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.01235,
+      "mentionsAsPercent": 0.01099,
       "influence": 0.08333,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -14717,13 +13718,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.08155,
+          "influence": 0.08157,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.08155
+          "weightedInfluence": 0.08157
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14738,22 +13739,22 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 16
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.08155,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.08157,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08155
+      "weightedInfluence": 0.08157
     },
     {
       "type": "linkDomain",
       "code": "armla.am",
       "value": "armla.am",
       "link": "https://armla.am",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
+      "linkType": "oth",
+      "linkTypeName": "Other",
       "mentions": 1,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -14773,13 +13774,13 @@ window.AppData20251013 = {
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "influence": 0.07995,
+          "influence": 0.07993,
           "influenceByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 1,
             "openai_chatgpt_with_search_latest": 0
           },
-          "weightedInfluence": 0.07995
+          "weightedInfluence": 0.07993
         }
       ],
       "bots": "anthropic_claude_with_search_latest",
@@ -14794,22 +13795,22 @@ window.AppData20251013 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.07995,
+      "mentionsAsPercent": 0.01099,
+      "influence": 0.07993,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07995
+      "weightedInfluence": 0.07993
     },
     {
       "type": "linkDomain",
       "code": "mla.am",
       "value": "mla.am",
       "link": "https://mla.am",
-      "linkType": "aca",
-      "linkTypeName": "Academic",
+      "linkType": "oth",
+      "linkTypeName": "Other",
       "mentions": 0,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
@@ -14846,32 +13847,76 @@ window.AppData20251013 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "eople.com",
+      "value": "eople.com",
+      "link": "https://eople.com",
+      "linkType": "oth",
+      "linkTypeName": "Other",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "eople.com",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
     }
   ],
   "totalDates": [
     "2025-10-13"
   ],
-  "totalDataPoints": 106,
+  "totalDataPoints": 100,
   "totalTimeSaved": "9",
   "totalCounts": {
     "bots": 3,
-    "linkTypes": 8,
-    "products": 0,
-    "organizations": 13,
+    "linkTypes": 5,
+    "products": 6,
+    "organizations": 9,
     "people": 0,
     "places": 1,
-    "links": 29,
-    "keywords": 25,
+    "links": 31,
+    "keywords": 16,
     "events": 0
   },
   "itemCountPerModel": {
     "products": [
       {
-        "id": "perplexity_with_search_latest",
-        "count": 0
+        "id": "anthropic_claude_with_search_latest",
+        "count": 6
       },
       {
-        "id": "anthropic_claude_with_search_latest",
+        "id": "perplexity_with_search_latest",
         "count": 0
       },
       {
@@ -14882,15 +13927,15 @@ window.AppData20251013 = {
     "organizations": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 12
+        "count": 9
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 1
+        "count": 0
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 1
+        "count": 0
       }
     ],
     "people": [
@@ -14932,21 +13977,21 @@ window.AppData20251013 = {
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 7
+        "count": 8
       }
     ],
     "keywords": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 22
+        "count": 15
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 10
+        "count": 5
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 6
+        "count": 5
       }
     ],
     "events": [
@@ -14970,7 +14015,7 @@ window.AppData20251013 = {
       },
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 2
+        "count": 1
       },
       {
         "id": "openai_chatgpt_with_search_latest",
@@ -14979,11 +14024,16 @@ window.AppData20251013 = {
     ]
   },
   "itemCountPerAppearanceOrderTrend": {
-    "products": [],
+    "products": [
+      {
+        "id": "999",
+        "count": 6
+      }
+    ],
     "organizations": [
       {
         "id": "999",
-        "count": 13
+        "count": 9
       }
     ],
     "people": [],
@@ -14996,28 +14046,28 @@ window.AppData20251013 = {
     "links": [
       {
         "id": "999",
-        "count": 28
+        "count": 29
       },
       {
         "id": "-9999",
-        "count": 1
+        "count": 2
       }
     ],
     "keywords": [
       {
         "id": "999",
-        "count": 25
+        "count": 16
       }
     ],
     "events": [],
     "linkTypes": [
       {
-        "id": "999",
-        "count": 4
+        "id": "-9999",
+        "count": 3
       },
       {
-        "id": "-9999",
-        "count": 4
+        "id": "999",
+        "count": 2
       }
     ]
   }

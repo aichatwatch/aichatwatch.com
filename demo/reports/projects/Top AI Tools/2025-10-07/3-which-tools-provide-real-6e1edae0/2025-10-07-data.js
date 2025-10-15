@@ -2,7 +2,7 @@ window.AppData20251007 = {
   "report_question": "Which tools provide real-time AI monitoring and alerts?",
   "report_date": "2025-10-07",
   "report_question_id": "3-which-tools-provide-real-6e1edae0",
-  "report_created_at": "Oct 14, 2025, 5:54:19 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:08 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -27,6 +27,12 @@ window.AppData20251007 = {
     {
       "value": "Zendesk QA",
       "type": "product",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -64,7 +70,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -196,24 +202,187 @@ window.AppData20251007 = {
       "link": "https://www.zendesk.com/service/qa/"
     },
     {
-      "value": "Intercom Fin",
+      "value": "Intercom Fin AI",
       "type": "product",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 390,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "LiveAgent",
+      "type": "product",
+      "sources": [
+        {
+          "url": "liveagent.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 591,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 390,
-            "excerpt": "rovides automated scoring, sentiment analysis, and coaching insights.\n\n## 2. **Intercom's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) delivers AI-powered chat monitoring with automated responses and conv",
-            "line": 9,
+            "appearanceOrder": 591,
+            "excerpt": "es and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides comprehensive chat monitoring features including",
+            "line": 11,
+            "column": 9,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 604,
+            "excerpt": "sation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides comprehensive chat monitoring features including real-time vi",
+            "line": 12,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -221,37 +390,37 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.15773,
+      "influence": 0.31547,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15773,
+      "weightedInfluence": 0.31547,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.15773
+          "value": 0.31547
         }
       ],
       "appearanceOrderTrendVals": [
@@ -285,7 +454,7 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -346,22 +515,28 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
+      "mentions_change": 2,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         }
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://www.intercom.com/ai"
+      "link": "https://www.liveagent.com/"
     },
     {
-      "value": "LiveAgent",
+      "value": "Tidio",
       "type": "product",
+      "sources": [
+        {
+          "url": "tidio.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -369,22 +544,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 591,
+        "anthropic_claude_with_search_latest": 784,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 591,
-            "excerpt": "es and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides comprehensive chat monitoring features including",
-            "line": 11,
+            "appearanceOrder": 784,
+            "excerpt": "atures including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversa",
+            "line": 14,
             "column": 9,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 604,
-            "excerpt": "sation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides comprehensive chat monitoring features including real-time vi",
-            "line": 12,
+            "appearanceOrder": 793,
+            "excerpt": "cluding real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversation anal",
+            "line": 15,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -399,7 +574,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -528,11 +703,17 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://www.liveagent.com/"
+      "link": "https://www.tidio.com/"
     },
     {
-      "value": "Tidio",
+      "value": "Freshdesk",
       "type": "product",
+      "sources": [
+        {
+          "url": "freshdesk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -540,22 +721,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 784,
+        "anthropic_claude_with_search_latest": 973,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 784,
-            "excerpt": "atures including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversa",
-            "line": 14,
+            "appearanceOrder": 973,
+            "excerpt": "ffering conversation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring through Freddy AI, pr",
+            "line": 17,
             "column": 9,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 793,
-            "excerpt": "cluding real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversation anal",
-            "line": 15,
+            "appearanceOrder": 986,
+            "excerpt": "rsation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring through Freddy AI, providing autom",
+            "line": 18,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -570,7 +751,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -699,11 +880,17 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://www.tidio.com/"
+      "link": "https://www.freshdesk.com/"
     },
     {
-      "value": "Freshdesk",
+      "value": "ChatGPT Enterprise",
       "type": "product",
+      "sources": [
+        {
+          "url": "openai.com/enterprise",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -711,22 +898,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 973,
+        "anthropic_claude_with_search_latest": 1173,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 973,
-            "excerpt": "ffering conversation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring through Freddy AI, pr",
-            "line": 17,
+            "appearanceOrder": 1173,
+            "excerpt": "dy AI, providing automated ticket routing, sentiment detection, and conversation insights.\n\n## 6. **ChatGPT Enterprise** (OpenAI)\n[ChatGPT Enterprise](https://openai.com/enterprise) offers administrative controls, usag",
+            "line": 20,
             "column": 9,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 986,
-            "excerpt": "rsation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring through Freddy AI, providing autom",
-            "line": 18,
+            "appearanceOrder": 1204,
+            "excerpt": "et routing, sentiment detection, and conversation insights.\n\n## 6. **ChatGPT Enterprise** (OpenAI)\n[ChatGPT Enterprise](https://openai.com/enterprise) offers administrative controls, usage analytics, and monitoring cap",
+            "line": 21,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -741,7 +928,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -870,11 +1057,17 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://www.freshdesk.com/"
+      "link": "https://openai.com/enterprise"
     },
     {
-      "value": "ChatGPT Enterprise",
+      "value": "Azure AI Content Safety",
       "type": "product",
+      "sources": [
+        {
+          "url": "azure.microsoft.com/en-us/products/ai-services/ai-content-safety",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -882,22 +1075,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1173,
+        "anthropic_claude_with_search_latest": 1387,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1173,
-            "excerpt": "dy AI, providing automated ticket routing, sentiment detection, and conversation insights.\n\n## 6. **ChatGPT Enterprise** (OpenAI)\n[ChatGPT Enterprise](https://openai.com/enterprise) offers administrative controls, usag",
-            "line": 20,
+            "appearanceOrder": 1387,
+            "excerpt": "usage analytics, and monitoring capabilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safet",
+            "line": 23,
             "column": 9,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 1204,
-            "excerpt": "et routing, sentiment detection, and conversation insights.\n\n## 6. **ChatGPT Enterprise** (OpenAI)\n[ChatGPT Enterprise](https://openai.com/enterprise) offers administrative controls, usage analytics, and monitoring cap",
-            "line": 21,
+            "appearanceOrder": 1414,
+            "excerpt": "ring capabilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) by Microsoft provides re",
+            "line": 24,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -912,7 +1105,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1041,11 +1234,17 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://openai.com/enterprise"
+      "link": "https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety"
     },
     {
-      "value": "Azure AI Content Safety",
+      "value": "MaestroQA",
       "type": "product",
+      "sources": [
+        {
+          "url": "maestroqa.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -1053,22 +1252,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1387,
+        "anthropic_claude_with_search_latest": 1616,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1387,
-            "excerpt": "usage analytics, and monitoring capabilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safet",
-            "line": 23,
+            "appearanceOrder": 1616,
+            "excerpt": "Microsoft provides real-time monitoring for harmful content in AI-generated conversations.\n\n## 8. **MaestroQA**\n[MaestroQA](https://www.maestroqa.com/) specializes in quality assurance for customer conversatio",
+            "line": 26,
             "column": 9,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 1414,
-            "excerpt": "ring capabilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) by Microsoft provides re",
-            "line": 24,
+            "appearanceOrder": 1629,
+            "excerpt": "vides real-time monitoring for harmful content in AI-generated conversations.\n\n## 8. **MaestroQA**\n[MaestroQA](https://www.maestroqa.com/) specializes in quality assurance for customer conversations with AI-as",
+            "line": 27,
             "column": 2,
             "captureDate": "2025-10-07"
           }
@@ -1083,7 +1282,7 @@ window.AppData20251007 = {
       "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
@@ -1212,186 +1411,21 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety"
-    },
-    {
-      "value": "MaestroQA",
-      "type": "product",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1616,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1616,
-            "excerpt": "Microsoft provides real-time monitoring for harmful content in AI-generated conversations.\n\n## 8. **MaestroQA**\n[MaestroQA](https://www.maestroqa.com/) specializes in quality assurance for customer conversatio",
-            "line": 26,
-            "column": 9,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 1629,
-            "excerpt": "vides real-time monitoring for harmful content in AI-generated conversations.\n\n## 8. **MaestroQA**\n[MaestroQA](https://www.maestroqa.com/) specializes in quality assurance for customer conversations with AI-as",
-            "line": 27,
-            "column": 2,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.13333,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.15773,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.15773,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.15773
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 2
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
       "link": "https://www.maestroqa.com/"
     },
     {
       "value": "Humanloop",
       "type": "product",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -1407,15 +1441,22 @@ window.AppData20251007 = {
             "line": 3,
             "column": 6,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3253,
+            "excerpt": "on user reviews and hard adoption data. | Tool | Best For | Key Strength | Drawbacks | Pricing | | Humanloop | LLM product teams,AI/ML engineers needing real-time LLM app monitoring | Unified LLM ops stack: r",
+            "line": 33,
+            "column": 458,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -1425,17 +1466,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.25,
+      "influence": 0.49999,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.25,
+      "weightedInfluence": 0.49999,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -1445,7 +1486,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.25
+          "value": 0.49999
         },
         {
           "date": "2025-10-06",
@@ -1472,14 +1513,14 @@ window.AppData20251007 = {
           "value": 1
         }
       ],
-      "mentionsTrend": 1,
+      "mentionsTrend": 10,
       "influenceTrend": 10,
       "appearanceOrderTrend": 1,
       "uniqueModelCountTrend": 1,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -1505,7 +1546,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -1588,12 +1629,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -1602,15 +1643,33 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0,
-      "link": "https://humanloop.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Arize AI",
       "type": "product",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "arize.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 0,
@@ -1846,15 +1905,33 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 1.5,
-      "link": "https://arize.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "Maxim AI",
       "type": "product",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "maxim.ai",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
@@ -2046,6 +2123,28 @@ window.AppData20251007 = {
     {
       "value": "WhyLabs",
       "type": "product",
+      "sources": [
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "whylabs.ai",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
@@ -2294,6 +2393,28 @@ window.AppData20251007 = {
     {
       "value": "Dynatrace",
       "type": "product",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dynatrace.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
@@ -2486,6 +2607,28 @@ window.AppData20251007 = {
     {
       "value": "PagerDuty",
       "type": "product",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "pagerduty.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
@@ -2672,15 +2815,17 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "link": "https://www.pagerduty.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Coralogix AI Observability",
       "type": "product",
+      "sources": [
+        {
+          "url": "aicurator.io/ai-monitoring-tools",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
@@ -2839,15 +2984,21 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "link": "https://coralogix.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "UptimeRobot",
       "type": "product",
+      "sources": [
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
@@ -2892,7 +3043,7 @@ window.AppData20251007 = {
           },
           {
             "appearanceOrder": 3733,
-            "excerpt": ".dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-",
+            "excerpt": ".dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-",
             "line": 29,
             "column": 3,
             "captureDate": "2025-10-07"
@@ -3035,13 +3186,19 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "uptimerobot.com"
+      "link": "https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/"
     }
   ],
   "organizations": [
     {
       "value": "Zendesk",
       "type": "organization",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -3076,7 +3233,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04444,
+      "mentionsAsPercent": 0.04255,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.25,
@@ -3213,6 +3370,12 @@ window.AppData20251007 = {
     {
       "value": "Intercom",
       "type": "organization",
+      "sources": [
+        {
+          "url": "intercom.com/ai",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -3247,7 +3410,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04444,
+      "mentionsAsPercent": 0.04255,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.25,
@@ -3384,6 +3547,12 @@ window.AppData20251007 = {
     {
       "value": "Freshdesk",
       "type": "organization",
+      "sources": [
+        {
+          "url": "freshdesk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -3418,7 +3587,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04444,
+      "mentionsAsPercent": 0.04255,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.25,
@@ -3555,6 +3724,12 @@ window.AppData20251007 = {
     {
       "value": "OpenAI",
       "type": "organization",
+      "sources": [
+        {
+          "url": "openai.com/enterprise",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3582,7 +3757,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02222,
+      "mentionsAsPercent": 0.02128,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -3775,6 +3950,16 @@ window.AppData20251007 = {
     {
       "value": "Microsoft",
       "type": "organization",
+      "sources": [
+        {
+          "url": "azure.microsoft.com/en-us/products/ai-services/ai-content-safety",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "maestroqa.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -3802,7 +3987,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02222,
+      "mentionsAsPercent": 0.02128,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -3989,15 +4174,265 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0,
-      "link": "https://www.microsoft.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "Humanloop",
+      "type": "organization",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 236
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 236,
+            "excerpt": "l-time visibility and actionable alerts to product analytics and brand presence optimization.\n\n1. **Humanloop**\n   - **Best For**: LLM product teams and AI/ML engineers requiring real-time monitoring of LLM ap",
+            "line": 3,
+            "column": 6,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3253,
+            "excerpt": "on user reviews and hard adoption data. | Tool | Best For | Key Strength | Drawbacks | Pricing | | Humanloop | LLM product teams,AI/ML engineers needing real-time LLM app monitoring | Unified LLM ops stack: r",
+            "line": 33,
+            "column": 458,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04255,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.49999,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.49999,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.49999
+        },
+        {
+          "date": "2025-10-06",
+          "value": 0.2
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 10,
+      "influenceTrend": 10,
+      "appearanceOrderTrend": 1,
+      "uniqueModelCountTrend": 1,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 1,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        },
+        {
+          "date": "2025-10-06",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-06",
+      "volatility": 0.5
     },
     {
       "value": "Arize AI",
       "type": "organization",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "arize.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 0,
@@ -4046,7 +4481,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.08889,
+      "mentionsAsPercent": 0.08511,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.10811,
         "anthropic_claude_with_search_latest": 0,
@@ -4177,15 +4612,33 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "link": "https://www.arize.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Maxim AI",
       "type": "organization",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "maxim.ai",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
@@ -4241,7 +4694,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.11111,
+      "mentionsAsPercent": 0.10638,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.13514,
         "anthropic_claude_with_search_latest": 0,
@@ -4372,15 +4825,33 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "link": "https://www.maxim.ai",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "WhyLabs",
       "type": "organization",
+      "sources": [
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "whylabs.ai",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
@@ -4436,7 +4907,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.13333,
+      "mentionsAsPercent": 0.12766,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.16216,
         "anthropic_claude_with_search_latest": 0,
@@ -4629,6 +5100,28 @@ window.AppData20251007 = {
     {
       "value": "Dynatrace",
       "type": "organization",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "dynatrace.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
@@ -4684,7 +5177,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.11111,
+      "mentionsAsPercent": 0.10638,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.13514,
         "anthropic_claude_with_search_latest": 0,
@@ -4821,6 +5314,28 @@ window.AppData20251007 = {
     {
       "value": "PagerDuty",
       "type": "organization",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "pagerduty.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
@@ -4876,7 +5391,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.13333,
+      "mentionsAsPercent": 0.12766,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.16216,
         "anthropic_claude_with_search_latest": 0,
@@ -5007,15 +5522,25 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "link": "https://www.pagerduty.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Coralogix",
       "type": "organization",
+      "sources": [
+        {
+          "url": "coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "aicurator.io/ai-monitoring-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "coralogix.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 0,
@@ -5039,23 +5564,23 @@ window.AppData20251007 = {
           },
           {
             "appearanceOrder": 3693,
-            "excerpt": "://whylabs.ai  \n- Dynatrace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/",
+            "excerpt": "://whylabs.ai  \n- Dynatrace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep",
             "line": 28,
             "column": 3,
             "captureDate": "2025-10-07"
           },
           {
             "appearanceOrder": 3715,
-            "excerpt": "trace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-",
+            "excerpt": "trace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-t",
             "line": 28,
             "column": 25,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 4720,
-            "excerpt": "om/blog/why-ai-is-important-in-monitoring/\n15. https://cribl.io/glossary/ai-monitoring/\n16. https://coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/",
-            "line": 48,
-            "column": 13,
+            "appearanceOrder": 5527,
+            "excerpt": "onitoring/)\n\n15. [cribl.io/glossary/ai-monitoring/](https://cribl.io/glossary/ai-monitoring/)\n\n16. [coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/](https://coralogix.com/ai-blog/the-best-ai-obs",
+            "line": 63,
+            "column": 6,
             "captureDate": "2025-10-07"
           }
         ]
@@ -5064,7 +5589,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.08889,
+      "mentionsAsPercent": 0.08511,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.10811,
         "anthropic_claude_with_search_latest": 0,
@@ -5196,11 +5721,21 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "coralogix.com"
+      "link": "https://coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/"
     },
     {
       "value": "UptimeRobot",
       "type": "organization",
+      "sources": [
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 7,
         "anthropic_claude_with_search_latest": 0,
@@ -5245,7 +5780,7 @@ window.AppData20251007 = {
           },
           {
             "appearanceOrder": 3733,
-            "excerpt": ".dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-",
+            "excerpt": ".dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-",
             "line": 29,
             "column": 3,
             "captureDate": "2025-10-07"
@@ -5256,7 +5791,7 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.15556,
+      "mentionsAsPercent": 0.14894,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0.18919,
         "anthropic_claude_with_search_latest": 0,
@@ -5388,118 +5923,321 @@ window.AppData20251007 = {
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
       "volatility": 0,
-      "link": "uptimerobot.com"
+      "link": "https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/"
     }
   ],
   "persons": [],
   "keywords": [
     {
-      "value": "AI monitoring",
+      "value": "real-time AI monitoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 11,
+        "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 2
+        "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 34,
+        "perplexity_with_search_latest": 24,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1340
+        "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1340,
-            "excerpt": "uide is available on [Omnius](https://www.omnius.so/blog/best-ai-search-monitoring-software).\n\n3. **AI Monitoring Tools for Customer Care & Compliance**\n   - These tools are designed to track the behavior of AI ag",
-            "line": 15,
-            "column": 6,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2543,
-            "excerpt": "o/blog/best-ai-search-monitoring-tools-for-chatgpt).\n\nThese tools reflect the rapid advancements in AI monitoring, positioning themselves as crucial for businesses that rely on AI-driven interactions and customer",
-            "line": 27,
-            "column": 47,
-            "captureDate": "2025-10-07"
-          }
-        ],
+        "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 34,
+            "appearanceOrder": 24,
             "excerpt": "Several tools provide **real-time AI monitoring and alerting** focusing on model performance, drift detection, anomaly detection, and operational r",
             "line": 1,
-            "column": 35,
+            "column": 25,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 1715,
-            "excerpt": "sional false alarms[[2]](https://www.zluri.com/blog/it-alerting-software)[[4]](https://aicurator.io/ai-monitoring-tools/).\n\n- **PagerDuty** specializes in real-time incident management and alert coordination, inte",
-            "line": 9,
-            "column": 354,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2276,
-            "excerpt": "hly with OpenTelemetry for comprehensive insights into AI system behavior[[4]](https://aicurator.io/ai-monitoring-tools/).\n\n- Additionally, **UptimeRobot** supports real-time endpoint monitoring by regularly check",
-            "line": 13,
-            "column": 247,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2640,
-            "excerpt": "Grafana to provide a unified health overview[[5]](https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/).\n\nThese tools vary in focus from deep AI model metrics and drift detection (Arize AI, WhyLa",
-            "line": 15,
-            "column": 341,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2955,
-            "excerpt": "Dynatrace), to infrastructure-level uptime monitoring (UptimeRobot).\n\nFor fully-featured real-time AI monitoring with alerts, the strongest options include **Arize AI, Maxim AI, WhyLabs, Dynatrace**, and **PagerD",
+            "appearanceOrder": 2945,
+            "excerpt": "PagerDuty, Dynatrace), to infrastructure-level uptime monitoring (UptimeRobot).\n\nFor fully-featured real-time AI monitoring with alerts, the strongest options include **Arize AI, Maxim AI, WhyLabs, Dynatrace**, and **PagerD",
             "line": 19,
-            "column": 30,
+            "column": 20,
             "captureDate": "2025-10-07"
           }
         ]
       },
-      "mentions": 13,
-      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.21311,
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.35484,
+        "perplexity_with_search_latest": 0.10526,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
+        "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 6
+        "perplexity_with_search_latest": 1
       },
-      "appearanceOrder": 3.5,
-      "influence": 0.80606,
+      "appearanceOrder": 1,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.58821,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.80606,
+      "weightedInfluence": 1,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 13
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.80606
+          "value": 1
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 3.5
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "alerts",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        },
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "zluri.com/blog/it-alerting-software",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        },
+        {
+          "url": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 643,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 169
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 169,
+            "excerpt": "ng a range of functionalities to cater to different needs, from real-time visibility and actionable alerts to product analytics and brand presence optimization.\n\n1. **Humanloop**\n   - **Best For**: LLM prod",
+            "line": 1,
+            "column": 170,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2919,
+            "excerpt": "se, side-by-side comparisons focused on features that matter most: real-time visibility, actionable alerts, open-source vs. proprietary control, product analytics depth, and pricing transparency. Every tool",
+            "line": 33,
+            "column": 124,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 643,
+            "excerpt": "toring of AI agents with granular tracing, online evaluation of real interactions, and customizable alerts integrated with platforms like PagerDuty and Slack. It supports detailed debugging, human annotatio",
+            "line": 5,
+            "column": 157,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 1148,
+            "excerpt": "tions), and fairness metrics. It supports continuous inference tracking with no sampling and offers alerts on anomalies. WhyLabs offers both SaaS and open-source models, suitable for regulated industries re",
+            "line": 7,
+            "column": 222,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2434,
+            "excerpt": "pports real-time endpoint monitoring by regularly checking APIs and model services, sending instant alerts via Slack, email, or SMS on failures or latency issues. It integrates with observability tools like",
+            "line": 15,
+            "column": 135,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2974,
+            "excerpt": "rastructure-level uptime monitoring (UptimeRobot).\n\nFor fully-featured real-time AI monitoring with alerts, the strongest options include **Arize AI, Maxim AI, WhyLabs, Dynatrace**, and **PagerDuty**, each",
+            "line": 19,
+            "column": 49,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 6,
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.12,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.21053,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.18182
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "appearanceOrder": 4.5,
+      "influence": 0.49011,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0.18821,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.49011,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.49011
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 4.5
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5521,7 +6259,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 11
+            "value": 4
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -5546,7 +6284,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0.58821
+            "value": 0.18821
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -5571,7 +6309,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 5
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -5583,92 +6321,124 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 6
+            "value": 4
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 13,
+      "mentions_change": 6,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 13
+          "mentions": 6
         }
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "process automation,workflow automation,automated processes",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "real-time alerts",
+      "value": "AI chat monitoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 1
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
+        "anthropic_claude_with_search_latest": 6,
+        "openai_chatgpt_with_search_latest": 26
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 6,
+            "excerpt": "# Top AI Chat Monitoring Tools in 2025\n\nHere are the leading AI chat monitoring tools currently available:\n\n## 1. **Zendesk",
+            "line": 1,
+            "column": 7,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 61,
+            "excerpt": "# Top AI Chat Monitoring Tools in 2025\n\nHere are the leading AI chat monitoring tools currently available:\n\n## 1. **Zendesk QA** (formerly Klaus)\n[Zendesk QA](https://www.zendesk.",
+            "line": 3,
+            "column": 22,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 26,
+            "excerpt": "In 2025, the landscape of AI chat monitoring tools is diverse, offering a range of functionalities to cater to different needs, from real-time v",
+            "line": 1,
+            "column": 27,
+            "captureDate": "2025-10-07"
+          }
+        ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
+      "mentions": 3,
+      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
+      "botCount": 2,
+      "uniqueModelCount": 2,
+      "mentionsAsPercent": 0.06,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "anthropic_claude_with_search_latest": 0.1,
+        "openai_chatgpt_with_search_latest": 0.09091
       },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 0.53335,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.14285,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.53335,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 0.53335
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": -1
+          "value": 1
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 2
         }
       ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5680,20 +6450,20 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 2
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5705,20 +6475,20 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 0.14285
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -5730,36 +6500,38 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": -1
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": -1
+            "value": 1
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 0
+          "mentions": 3
         }
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "user behavior analysis,activity tracking,behavior monitoring",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "customer support",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -5787,23 +6559,23 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 3
+        "anthropic_claude_with_search_latest": 4
       },
-      "appearanceOrder": 3,
-      "influence": 0.16156,
+      "appearanceOrder": 4,
+      "influence": 0.21534,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.16156,
+      "weightedInfluence": 0.21534,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -5813,13 +6585,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.16156
+          "value": 0.21534
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 3
+          "value": 4
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -5897,7 +6669,7 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 3
+            "value": 4
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -5918,15 +6690,186 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "notification system,alert management,real-time alerts",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "conversation analytics",
+      "value": "conversation analysis",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 214,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 214,
+            "excerpt": "**Zendesk QA** (formerly Klaus)\n[Zendesk QA](https://www.zendesk.com/service/qa/) offers AI-powered conversation analysis and quality assurance for customer support teams. It provides automated scoring, sentiment analysis",
+            "line": 6,
+            "column": 69,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.31545,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.31545,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.31545
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "sentiment analysis",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "intercom.com/ai",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -5934,23 +6877,23 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 498,
+        "anthropic_claude_with_search_latest": 317,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 498,
-            "excerpt": "Fin](https://www.intercom.com/ai) delivers AI-powered chat monitoring with automated responses and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https",
-            "line": 9,
-            "column": 110,
+            "appearanceOrder": 317,
+            "excerpt": "versation analysis and quality assurance for customer support teams. It provides automated scoring, sentiment analysis, and coaching insights.\n\n## 2. **Intercom's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) de",
+            "line": 6,
+            "column": 172,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 881,
-            "excerpt": "**Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https:",
-            "line": 15,
-            "column": 90,
+            "appearanceOrder": 1836,
+            "excerpt": "assisted scoring and analytics.\n\n## Key Features to Look For:\n- Real-time conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support",
+            "line": 31,
+            "column": 3,
             "captureDate": "2025-10-07"
           }
         ],
@@ -5961,7 +6904,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.1,
@@ -5971,13 +6914,13 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": 6
       },
       "appearanceOrder": 6,
-      "influence": 0.23019,
+      "influence": 0.35622,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.23019,
+      "weightedInfluence": 0.35622,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -5987,7 +6930,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.23019
+          "value": 0.35622
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6092,15 +7035,17 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "quality assessment automation,automated evaluation,quality control",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "automated responses",
+      "value": "automated scoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "intercom.com/ai",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -6108,16 +7053,16 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 474,
+        "anthropic_claude_with_search_latest": 298,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 474,
-            "excerpt": "com's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) delivers AI-powered chat monitoring with automated responses and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **Li",
-            "line": 9,
-            "column": 86,
+            "appearanceOrder": 298,
+            "excerpt": "fers AI-powered conversation analysis and quality assurance for customer support teams. It provides automated scoring, sentiment analysis, and coaching insights.\n\n## 2. **Intercom's Fin AI**\n[Intercom Fin](https://www",
+            "line": 6,
+            "column": 153,
             "captureDate": "2025-10-07"
           }
         ],
@@ -6128,7 +7073,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.05,
@@ -6138,13 +7083,13 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.12501,
+      "influence": 0.19344,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.12501,
+      "weightedInfluence": 0.19344,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -6154,7 +7099,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.12501
+          "value": 0.19344
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6259,15 +7204,194 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "AI monitoring,artificial intelligence oversight,AI performance tracking",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
-      "value": "sentiment analysis",
+      "value": "chat distribution",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "liveagent.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "tidio.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 729,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 729,
+            "excerpt": "veagent.com/) provides comprehensive chat monitoring features including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots w",
+            "line": 12,
+            "column": 127,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 9
+      },
+      "appearanceOrder": 9,
+      "influence": 0.15051,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.15051,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.15051
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "performance analytics",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "liveagent.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "tidio.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -6275,22 +7399,22 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 317,
+        "anthropic_claude_with_search_latest": 752,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 317,
-            "excerpt": "versation analysis and quality assurance for customer support teams. It provides automated scoring, sentiment analysis, and coaching insights.\n\n## 2. **Intercom's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) de",
-            "line": 6,
-            "column": 172,
+            "appearanceOrder": 752,
+            "excerpt": "comprehensive chat monitoring features including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, o",
+            "line": 12,
+            "column": 150,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 1836,
-            "excerpt": "assisted scoring and analytics.\n\n## Key Features to Look For:\n- Real-time conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support",
-            "line": 31,
+            "appearanceOrder": 1907,
+            "excerpt": "me conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing and features, so the best choice depends on yo",
+            "line": 34,
             "column": 3,
             "captureDate": "2025-10-07"
           }
@@ -6302,23 +7426,23 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.1,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 4
+        "anthropic_claude_with_search_latest": 10
       },
-      "appearanceOrder": 4,
-      "influence": 0.27833,
+      "appearanceOrder": 10,
+      "influence": 0.28905,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.27833,
+      "weightedInfluence": 0.28905,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -6328,13 +7452,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.27833
+          "value": 0.28905
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 4
+          "value": 10
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6412,7 +7536,7 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 4
+            "value": 10
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6433,15 +7557,712 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "data integrity,data accuracy,data validation",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
+    },
+    {
+      "value": "automated responses",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "intercom.com/ai",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 474,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 474,
+            "excerpt": "com's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) delivers AI-powered chat monitoring with automated responses and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **Li",
+            "line": 9,
+            "column": 86,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.16668,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.16668,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.16668
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "visitor tracking",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "liveagent.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "tidio.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 711,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 711,
+            "excerpt": "nt](https://www.liveagent.com/) provides comprehensive chat monitoring features including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) com",
+            "line": 12,
+            "column": 109,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 8
+      },
+      "appearanceOrder": 8,
+      "influence": 0.15774,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.15774,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.15774
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "automated ticket routing",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "freshdesk.com",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "openai.com/enterprise",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1090,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1090,
+            "excerpt": "hdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring through Freddy AI, providing automated ticket routing, sentiment detection, and conversation insights.\n\n## 6. **ChatGPT Enterprise** (OpenAI)\n[ChatGPT En",
+            "line": 18,
+            "column": 106,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.13947,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.13947,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.13947
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "content safety",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "azure.microsoft.com/en-us/products/ai-services/ai-content-safety",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1396,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1396,
+            "excerpt": "lytics, and monitoring capabilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safet",
+            "line": 23,
+            "column": 18,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 1423,
+            "excerpt": "bilities for organizations deploying AI chat at scale.\n\n## 7. **Azure AI Content Safety**\n[Azure AI Content Safety](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety) by Microsoft provides re",
+            "line": 24,
+            "column": 11,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.27024,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.27024,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.27024
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
     },
     {
       "value": "quality assurance",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "zendesk.com/service/qa",
+          "bots": "anthropic_claude_with_search_latest"
+        },
+        {
+          "url": "maestroqa.com",
+          "bots": "anthropic_claude_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 2,
@@ -6476,23 +8297,23 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.1,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 2
+        "anthropic_claude_with_search_latest": 3
       },
-      "appearanceOrder": 2,
-      "influence": 0.40775,
+      "appearanceOrder": 3,
+      "influence": 0.50002,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.40775,
+      "weightedInfluence": 0.50002,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -6502,13 +8323,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.40775
+          "value": 0.50002
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 2
+          "value": 3
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -6586,7 +8407,7 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 2
+            "value": 3
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -6607,15 +8428,12 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "privacy protection,security monitoring,data privacy",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "drift detection",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 3,
         "anthropic_claude_with_search_latest": 0,
@@ -6657,9 +8475,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04918,
+      "mentionsAsPercent": 0.06,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.09677,
+        "perplexity_with_search_latest": 0.15789,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -6667,13 +8485,13 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.61161,
+      "influence": 0.94639,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.61161,
+      "weightedInfluence": 0.94639,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -6683,7 +8501,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.61161
+          "value": 0.94639
         }
       ],
       "appearanceOrderTrendVals": [
@@ -6788,15 +8606,17 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "customer experience metrics,client satisfaction indicators,user satisfaction metrics",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "anomaly detection",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
@@ -6819,10 +8639,10 @@ window.AppData20251007 = {
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 4312,
-            "excerpt": "st-ai-analytics-tools-for-real-time-data\n8. https://www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/\n9. https://newrelic.com/platform/ai-monitoring\n10. https://aimultiple.c",
-            "line": 40,
-            "column": 60,
+            "appearanceOrder": 4725,
+            "excerpt": "es/best-ai-analytics-tools-for-real-time-data)\n\n8. [www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/](https://www.anodot.com/learning-center/top-8-ai-powered-anomaly-detect",
+            "line": 47,
+            "column": 53,
             "captureDate": "2025-10-07"
           }
         ]
@@ -6831,9 +8651,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06452,
+        "perplexity_with_search_latest": 0.10526,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -6841,13 +8661,13 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.32311,
+      "influence": 0.50002,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.32311,
+      "weightedInfluence": 0.50002,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -6861,7 +8681,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.32311
+          "value": 0.50002
         },
         {
           "date": "2025-10-06",
@@ -7018,539 +8838,12 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0,
-      "similar": "team feedback,group responses,collaborative feedback",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "performance metrics",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "project management,task organization,workload management",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "chat monitoring",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 9,
-        "openai_chatgpt_with_search_latest": 29
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 9,
-            "excerpt": "# Top AI Chat Monitoring Tools in 2025\n\nHere are the leading AI chat monitoring tools currently available:\n\n## 1. **Zendesk",
-            "line": 1,
-            "column": 10,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 64,
-            "excerpt": "# Top AI Chat Monitoring Tools in 2025\n\nHere are the leading AI chat monitoring tools currently available:\n\n## 1. **Zendesk QA** (formerly Klaus)\n[Zendesk QA](https://www.zendesk.",
-            "line": 3,
-            "column": 25,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 453,
-            "excerpt": "ights.\n\n## 2. **Intercom's Fin AI**\n[Intercom Fin](https://www.intercom.com/ai) delivers AI-powered chat monitoring with automated responses and conversation analytics. It monitors customer interactions across multi",
-            "line": 9,
-            "column": 65,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 666,
-            "excerpt": "tiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides comprehensive chat monitoring features including real-time visitor tracking, chat distribution, and performance analytics.\n\n## 4.",
-            "line": 12,
-            "column": 64,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 855,
-            "excerpt": "formance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5.",
-            "line": 15,
-            "column": 64,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 29,
-            "excerpt": "In 2025, the landscape of AI chat monitoring tools is diverse, offering a range of functionalities to cater to different needs, from real-time v",
-            "line": 1,
-            "column": 30,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 7,
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
-      "botCount": 2,
-      "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.11475,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.3,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 1
-      },
-      "appearanceOrder": 1,
-      "influence": 0.43082,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.14285,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.43082,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 7
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.43082
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 2
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 6
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0.14285
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 7,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 7
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "chat oversight,conversation monitoring,dialogue tracking",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "compliance tracking",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1885,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1885,
-            "excerpt": "to Look For:\n- Real-time conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing and features, so the b",
-            "line": 33,
-            "column": 3,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
-      },
-      "appearanceOrder": 11,
-      "influence": 0.09015,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.09015,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.09015
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 11
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 11
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "regulatory compliance monitoring,policy adherence tracking,standards enforcement",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "operational reliability",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
@@ -7578,9 +8871,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
+        "perplexity_with_search_latest": 0.05263,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -7588,13 +8881,13 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.13917,
+      "influence": 0.21534,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.13917,
+      "weightedInfluence": 0.21534,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -7604,7 +8897,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.13917
+          "value": 0.21534
         }
       ],
       "appearanceOrderTrendVals": [
@@ -7709,1233 +9002,12 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "operational stability,system reliability,service dependability",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "multi-channel support",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1931,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 1931,
-            "excerpt": "ng\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing and features, so the best choice depends on your specific needs, team",
-            "line": 35,
-            "column": 3,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.08733,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.08733,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.08733
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 12
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "multi-platform support,omni-channel assistance,diverse channel service",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "AI-driven interactions",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 2350
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 2350,
-            "excerpt": "a brand's presence across various AI platforms, ensuring brands are mentioned and cited properly in AI-driven interactions.\n   - More about these can be read at [AIclicks.io](https://aiclicks.io/blog/best-ai-search-monitor",
-            "line": 24,
-            "column": 138,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2620,
-            "excerpt": "rapid advancements in AI monitoring, positioning themselves as crucial for businesses that rely on AI-driven interactions and customer engagement.",
-            "line": 27,
-            "column": 124,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 2,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.20386,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.20386,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.20386
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 2
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 8
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "AI-powered communication,intelligent interactions,automated engagement",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "business standards",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 1580
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 1580,
-            "excerpt": "compliance and efficiency. They support customer care businesses by keeping AI agents aligned with business standards.\n   - Further details and top selections can be explored on [Genezio](https://genezio.com/blog/top-",
-            "line": 16,
-            "column": 188,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.1077,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.1077,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.1077
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 7
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "industry benchmarks,business guidelines,operational criteria",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "customer interactions",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 534,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 534,
-            "excerpt": "elivers AI-powered chat monitoring with automated responses and conversation analytics. It monitors customer interactions across multiple channels.\n\n## 3. **LiveAgent**\n[LiveAgent](https://www.liveagent.com/) provides com",
-            "line": 9,
-            "column": 146,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.1077,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1077,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.1077
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 7
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "client engagement,customer communication,user interaction",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "AI chatbots",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 833,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 833,
-            "excerpt": "distribution, and performance analytics.\n\n## 4. **Tidio**\n[Tidio](https://www.tidio.com/) combines AI chatbots with live chat monitoring, offering conversation analytics, response time tracking, and customer sa",
-            "line": 15,
-            "column": 42,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.10195,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.10195,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.10195
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 8
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "virtual assistants,AI helpers,automated chat agents",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "user feedback",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 444
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 444,
-            "excerpt": "pplications.\n   - **Key Features**: Real-time tracing, prompt versioning, evaluations, A/B testing, user feedback.\n   - **Limitations**: It is a closed-source solution with limited self-hosting options.\n   - **Pri",
-            "line": 5,
-            "column": 88,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "appearanceOrder": 4,
-      "influence": 0.13917,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.13917,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        },
-        {
-          "date": "2025-10-06",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.13917
-        },
-        {
-          "date": "2025-10-06",
-          "value": 0.12895
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 4
-        },
-        {
-          "date": "2025-10-06",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        },
-        {
-          "date": "2025-10-06",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 1,
-      "influenceTrend": 10,
-      "appearanceOrderTrend": -1,
-      "uniqueModelCountTrend": 1,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          },
-          {
-            "date": "2025-10-06",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          },
-          {
-            "date": "2025-10-06",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          },
-          {
-            "date": "2025-10-06",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          },
-          {
-            "date": "2025-10-06",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 4
-          },
-          {
-            "date": "2025-10-06",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        },
-        {
-          "date": "2025-10-06",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-06",
-      "volatility": 0,
-      "similar": "user insights,customer opinions,feedback collection",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "manual annotation",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "manual tagging,data labeling,annotation process",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "incident management",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 2,
         "anthropic_claude_with_search_latest": 0,
@@ -8970,23 +9042,23 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.03279,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06452,
+        "perplexity_with_search_latest": 0.10526,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 11
       },
-      "appearanceOrder": 9,
-      "influence": 0.19453,
+      "appearanceOrder": 11,
+      "influence": 0.27894,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.19453,
+      "weightedInfluence": 0.27894,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -8996,13 +9068,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.19453
+          "value": 0.27894
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 9
+          "value": 11
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -9074,7 +9146,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 9
+            "value": 11
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -9101,1965 +9173,12 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "incident response,issue management,problem resolution",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "SaaS",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1189,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1189,
-            "excerpt": "continuous inference tracking with no sampling and offers alerts on anomalies. WhyLabs offers both SaaS and open-source models, suitable for regulated industries requiring privacy-focused monitoring[[3]]",
-            "line": 7,
-            "column": 263,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7
-      },
-      "appearanceOrder": 7,
-      "influence": 0.1077,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.1077,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.1077
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 7
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 7
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "cloud software,software as a service,web-based solutions",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "open-source models",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1198,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1198,
-            "excerpt": "us inference tracking with no sampling and offers alerts on anomalies. WhyLabs offers both SaaS and open-source models, suitable for regulated industries requiring privacy-focused monitoring[[3]](https://www.montecarlo",
-            "line": 7,
-            "column": 272,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8
-      },
-      "appearanceOrder": 8,
-      "influence": 0.10195,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.10195,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.10195
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 8
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 8
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "community-driven models,collaborative frameworks,publicly available systems",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "API monitoring",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "API performance tracking,interface monitoring,application monitoring",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "service uptime",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "service availability,uptime tracking,system reliability",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "integration solutions",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "integration options,connectivity solutions,system merging",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "self-hosting options",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 525
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 525,
-            "excerpt": "ions, A/B testing, user feedback.\n   - **Limitations**: It is a closed-source solution with limited self-hosting options.\n   - **Pricing**: No public pricing; typically sales-quoted based on usage, seats, and support. A",
-            "line": 6,
-            "column": 67,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "appearanceOrder": 5,
-      "influence": 0.12501,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.12501,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.12501
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 5
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 5
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "self-hosted solutions,private hosting,local deployment",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "performance insights",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "performance analysis,insightful metrics,operational insights",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "real-time tracing",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 380
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 380,
-            "excerpt": "eams and AI/ML engineers requiring real-time monitoring of LLM applications.\n   - **Key Features**: Real-time tracing, prompt versioning, evaluations, A/B testing, user feedback.\n   - **Limitations**: It is a closed-s",
-            "line": 5,
-            "column": 24,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "appearanceOrder": 2,
-      "influence": 0.20386,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.20386,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.20386
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 2
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 10
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 2
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0,
-      "similar": "live tracking,real-time monitoring,instant tracing",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "A/B testing",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": 431
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "appearanceOrder": 431,
-            "excerpt": "ring of LLM applications.\n   - **Key Features**: Real-time tracing, prompt versioning, evaluations, A/B testing, user feedback.\n   - **Limitations**: It is a closed-source solution with limited self-hosting opti",
-            "line": 5,
-            "column": 75,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.1
-      },
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.16156,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "weightedInfluence": 0.16156,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        },
-        {
-          "date": "2025-10-06",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.16156
-        },
-        {
-          "date": "2025-10-06",
-          "value": 0.14356
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 3
-        },
-        {
-          "date": "2025-10-06",
-          "value": 4
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        },
-        {
-          "date": "2025-10-06",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 1,
-      "influenceTrend": 10,
-      "appearanceOrderTrend": -1,
-      "uniqueModelCountTrend": 1,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          },
-          {
-            "date": "2025-10-06",
-            "value": 1
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          },
-          {
-            "date": "2025-10-06",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          },
-          {
-            "date": "2025-10-06",
-            "value": 1
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          },
-          {
-            "date": "2025-10-06",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          },
-          {
-            "date": "2025-10-06",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 3
-          },
-          {
-            "date": "2025-10-06",
-            "value": 4
-          }
-        ]
-      },
-      "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        },
-        {
-          "date": "2025-10-06",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-06",
-      "volatility": 0,
-      "similar": "split testing,variant testing,experimentation analysis",
-      "sources": {
-        "similar": "AI"
-      }
-    },
-    {
-      "value": "automation",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
       "volatility": 0
     },
     {
-      "value": "behavior tracking",
+      "value": "compliance tracking",
       "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "value": "integrated alerts",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "value": "automated quality scoring",
-      "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
@@ -11067,15 +9186,15 @@ window.AppData20251007 = {
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 1857,
+        "anthropic_claude_with_search_latest": 1885,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 1857,
-            "excerpt": "analytics.\n\n## Key Features to Look For:\n- Real-time conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing",
-            "line": 32,
+            "appearanceOrder": 1885,
+            "excerpt": "to Look For:\n- Real-time conversation monitoring\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing and features, so the b",
+            "line": 33,
             "column": 3,
             "captureDate": "2025-10-07"
           }
@@ -11087,23 +9206,23 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 13
       },
-      "appearanceOrder": 10,
-      "influence": 0.09342,
+      "appearanceOrder": 13,
+      "influence": 0.13131,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09342,
+      "weightedInfluence": 0.13131,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -11113,13 +9232,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.09342
+          "value": 0.13131
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 10
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11197,7 +9316,7 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 10
+            "value": 13
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11221,96 +9340,69 @@ window.AppData20251007 = {
       "volatility": 0
     },
     {
-      "value": "AI observability",
+      "value": "multi-channel support",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 8,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 397,
-        "anthropic_claude_with_search_latest": -1,
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1931,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
+        "anthropic_claude_with_search_latest": [
           {
-            "appearanceOrder": 397,
-            "excerpt": "upport for large language models (LLMs). It focuses on rapid issue identification and resolution in AI observability[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Maxim AI** is designed",
-            "line": 3,
-            "column": 238,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 460,
-            "excerpt": "sue identification and resolution in AI observability[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Maxim AI** is designed for end-to-end real-time monitoring of AI agents with granular",
-            "line": 3,
-            "column": 301,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 1335,
-            "excerpt": "lated industries requiring privacy-focused monitoring[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Dynatrace** delivers broad, real-time application monitoring with AI-powered risk ass",
-            "line": 7,
-            "column": 409,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 1566,
-            "excerpt": "ause analysis, and automated alert workflows to help reduce incident resolution time. It integrates AI observability with DevSecOps but may have occasional false alarms[[2]](https://www.zluri.com/blog/it-alerting-sof",
-            "line": 9,
-            "column": 205,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 2044,
-            "excerpt": "iability across system events[[2]](https://www.zluri.com/blog/it-alerting-software).\n\n- **Coralogix AI Observability** provides real-time dashboards and combines performance and security monitoring in one platform, i",
-            "line": 13,
-            "column": 15,
+            "appearanceOrder": 1931,
+            "excerpt": "ng\n- Sentiment analysis\n- Automated quality scoring\n- Compliance tracking\n- Performance analytics\n- Multi-channel support\n\nThese tools vary in pricing and features, so the best choice depends on your specific needs, team",
+            "line": 35,
+            "column": 3,
             "captureDate": "2025-10-07"
           }
-        ]
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
       },
-      "mentions": 8,
-      "bots": "perplexity_with_search_latest",
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.13115,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.25806,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 14
       },
-      "appearanceOrder": 5,
-      "influence": 1,
+      "appearanceOrder": 14,
+      "influence": 0.12798,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1,
+      "weightedInfluence": 0.12798,
       "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 8
-        }
-      ],
-      "influenceTrendVals": [
         {
           "date": "2025-10-07",
           "value": 1
         }
       ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.12798
+        }
+      ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 5
+          "value": 14
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -11324,21 +9416,21 @@ window.AppData20251007 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 8
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11349,21 +9441,21 @@ window.AppData20251007 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11374,21 +9466,21 @@ window.AppData20251007 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 5
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": -1
+            "value": 14
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11399,12 +9491,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 8,
+      "mentions_change": 1,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 8
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-07",
@@ -11412,8 +9504,473 @@ window.AppData20251007 = {
       "volatility": 0
     },
     {
+      "value": "user feedback",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 444
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 444,
+            "excerpt": "pplications.\n   - **Key Features**: Real-time tracing, prompt versioning, evaluations, A/B testing, user feedback.\n   - **Limitations**: It is a closed-source solution with limited self-hosting options.\n   - **Pri",
+            "line": 5,
+            "column": 88,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3425,
+            "excerpt": "monitoring | Unified LLM ops stack: real-time tracing, prompt versioning, evaluations, A/B testing, user feedback | Closed-source; limited self-hosting; not OpenTelemetry-native; prompt repo not Git-native | No pu",
+            "line": 33,
+            "column": 630,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.18182
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.35622,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.35622,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.35622
+        },
+        {
+          "date": "2025-10-06",
+          "value": 0.12895
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 6
+        },
+        {
+          "date": "2025-10-06",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 10,
+      "influenceTrend": 10,
+      "appearanceOrderTrend": 10,
+      "uniqueModelCountTrend": 1,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 6
+          },
+          {
+            "date": "2025-10-06",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 1,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        },
+        {
+          "date": "2025-10-06",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-06",
+      "volatility": 0.5
+    },
+    {
+      "value": "A/B testing",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 431
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 431,
+            "excerpt": "ring of LLM applications.\n   - **Key Features**: Real-time tracing, prompt versioning, evaluations, A/B testing, user feedback.\n   - **Limitations**: It is a closed-source solution with limited self-hosting opti",
+            "line": 5,
+            "column": 75,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3412,
+            "excerpt": "time LLM app monitoring | Unified LLM ops stack: real-time tracing, prompt versioning, evaluations, A/B testing, user feedback | Closed-source; limited self-hosting; not OpenTelemetry-native; prompt repo not Git",
+            "line": 33,
+            "column": 617,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.18182
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "appearanceOrder": 5,
+      "influence": 0.38685,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.38685,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.38685
+        },
+        {
+          "date": "2025-10-06",
+          "value": 0.14356
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 5
+        },
+        {
+          "date": "2025-10-06",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        },
+        {
+          "date": "2025-10-06",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 10,
+      "influenceTrend": 10,
+      "appearanceOrderTrend": 10,
+      "uniqueModelCountTrend": 1,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          },
+          {
+            "date": "2025-10-06",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          },
+          {
+            "date": "2025-10-06",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          },
+          {
+            "date": "2025-10-06",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 5
+          },
+          {
+            "date": "2025-10-06",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 1,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        },
+        {
+          "date": "2025-10-06",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-06",
+      "volatility": 0.5
+    },
+    {
       "value": "data quality",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
@@ -11441,23 +9998,23 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
+        "perplexity_with_search_latest": 0.05263,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6
+        "perplexity_with_search_latest": 8
       },
-      "appearanceOrder": 6,
-      "influence": 0.1151,
+      "appearanceOrder": 8,
+      "influence": 0.15774,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.1151,
+      "weightedInfluence": 0.15774,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -11471,7 +10028,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.1151
+          "value": 0.15774
         },
         {
           "date": "2025-10-06",
@@ -11481,7 +10038,7 @@ window.AppData20251007 = {
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 6
+          "value": 8
         },
         {
           "date": "2025-10-06",
@@ -11585,7 +10142,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 6
+            "value": 8
           },
           {
             "date": "2025-10-06",
@@ -11631,201 +10188,53 @@ window.AppData20251007 = {
       "volatility": 0.5
     },
     {
-      "value": "privacy monitoring",
+      "value": "adversarial vulnerabilities",
       "type": "keyword",
+      "sources": [],
       "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
+        "perplexity_with_search_latest": 1001,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
         "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1001,
+            "excerpt": "-time-for-quality-3fkg).\n\n- **WhyLabs** provides real-time monitoring of model drift, data quality, adversarial vulnerabilities (e.g., prompt injections), and fairness metrics. It supports continuous inference tracking with no",
+            "line": 7,
+            "column": 75,
+            "captureDate": "2025-10-07"
+          }
+        ]
       },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
+        "perplexity_with_search_latest": 0.05263,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 0
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "value": "customer satisfaction metrics",
-      "type": "keyword",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": -1,
-        "anthropic_claude_with_search_latest": 933,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [
-          {
-            "appearanceOrder": 933,
-            "excerpt": "AI chatbots with live chat monitoring, offering conversation analytics, response time tracking, and customer satisfaction metrics.\n\n## 5. **Freshdesk**\n[Freshdesk](https://www.freshdesk.com/) includes AI-powered chat monitoring t",
-            "line": 15,
-            "column": 142,
-            "captureDate": "2025-10-07"
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": []
-      },
-      "mentions": 1,
-      "bots": "anthropic_claude_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
-        "openai_chatgpt_with_search_latest": 0
-      },
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "perplexity_with_search_latest": 9
       },
       "appearanceOrder": 9,
-      "influence": 0.09729,
+      "influence": 0.15051,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 1,
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09729,
+      "weightedInfluence": 0.15051,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -11835,7 +10244,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.09729
+          "value": 0.15051
         }
       ],
       "appearanceOrderTrendVals": [
@@ -11855,21 +10264,21 @@ window.AppData20251007 = {
       "appearanceOrderTrend": 999,
       "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11880,21 +10289,21 @@ window.AppData20251007 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 999,
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 0
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11905,21 +10314,21 @@ window.AppData20251007 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": -9999,
-        "anthropic_claude_with_search_latest": 10,
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": -1
+            "value": 9
           }
         ],
         "anthropic_claude_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 9
+            "value": -1
           }
         ],
         "openai_chatgpt_with_search_latest": [
@@ -11943,15 +10352,21 @@ window.AppData20251007 = {
       "volatility": 0
     },
     {
-      "value": "team responses",
+      "value": "privacy-focused monitoring",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "montecarlodata.com/blog-best-ai-observability-tools",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1891,
+        "perplexity_with_search_latest": 1262,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -11960,10 +10375,10 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 1891,
-            "excerpt": "nagement and alert coordination, integrating well with communication tools like Slack. It automates team responses during incidents and manages alert reliability across system events[[2]](https://www.zluri.com/blog",
-            "line": 11,
-            "column": 153,
+            "appearanceOrder": 1262,
+            "excerpt": "alies. WhyLabs offers both SaaS and open-source models, suitable for regulated industries requiring privacy-focused monitoring[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Dynatrace** delivers b",
+            "line": 7,
+            "column": 336,
             "captureDate": "2025-10-07"
           }
         ]
@@ -11972,9 +10387,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.01639,
+      "mentionsAsPercent": 0.02,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
+        "perplexity_with_search_latest": 0.05263,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -11982,13 +10397,13 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": 10
       },
       "appearanceOrder": 10,
-      "influence": 0.09342,
+      "influence": 0.14454,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.09342,
+      "weightedInfluence": 0.14454,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -11998,7 +10413,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.09342
+          "value": 0.14454
         }
       ],
       "appearanceOrderTrendVals": [
@@ -12106,70 +10521,97 @@ window.AppData20251007 = {
       "volatility": 0
     },
     {
-      "value": "task management",
+      "value": "real-time visibility",
       "type": "keyword",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
+        "openai_chatgpt_with_search_latest": 133
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 133,
+            "excerpt": "monitoring tools is diverse, offering a range of functionalities to cater to different needs, from real-time visibility and actionable alerts to product analytics and brand presence optimization.\n\n1. **Humanloop**\n   -",
+            "line": 1,
+            "column": 134,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2886,
+            "excerpt": "-for-ai)\n\nBelow, you’ll get concise, side-by-side comparisons focused on features that matter most: real-time visibility, actionable alerts, open-source vs. proprietary control, product analytics depth, and pricing trans",
+            "line": 33,
+            "column": 91,
+            "captureDate": "2025-10-07"
+          }
+        ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
+        "openai_chatgpt_with_search_latest": 0.18182
       },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "appearanceOrder": 2,
+      "influence": 0.63094,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.63094,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 2
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 0.63094
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": -1
+          "value": 2
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0
+          "value": 1
         }
       ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -12187,14 +10629,14 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 2
           }
         ]
       },
       "influenceByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 999
       },
       "influenceByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -12212,14 +10654,14 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 0
+            "value": 1
           }
         ]
       },
       "appearanceOrderByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
+        "openai_chatgpt_with_search_latest": 10
       },
       "appearanceOrderByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -12237,17 +10679,695 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "actionable alerts",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "bigsur.ai/blog/analytics-tools-for-ai",
+          "bots": "openai_chatgpt_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 158
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 158,
+            "excerpt": "rse, offering a range of functionalities to cater to different needs, from real-time visibility and actionable alerts to product analytics and brand presence optimization.\n\n1. **Humanloop**\n   - **Best For**: LLM prod",
+            "line": 1,
+            "column": 159,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2908,
+            "excerpt": "l get concise, side-by-side comparisons focused on features that matter most: real-time visibility, actionable alerts, open-source vs. proprietary control, product analytics depth, and pricing transparency. Every tool",
+            "line": 33,
+            "column": 113,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 2,
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.18182
+      },
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.50002,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.50002,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.50002
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "integration",
+      "type": "keyword",
+      "sources": [],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2062,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2062,
+            "excerpt": "ols vary in pricing and features, so the best choice depends on your specific needs, team size, and integration requirements.",
+            "line": 37,
+            "column": 109,
+            "captureDate": "2025-10-07"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 1,
+      "bots": "anthropic_claude_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0.05,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "anthropic_claude_with_search_latest": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.12501,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.12501,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.12501
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 15
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
             "value": -1
           }
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 0
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "enterprise security",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 766,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 766,
+            "excerpt": "platforms like PagerDuty and Slack. It supports detailed debugging, human annotation workflows, and enterprise security features like SOC 2 compliance and SSO[[1]](https://dev.to/kuldeep_paul/the-best-tools-to-monitor-a",
+            "line": 5,
+            "column": 280,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 6
+      },
+      "appearanceOrder": 6,
+      "influence": 0.17811,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.17811,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.17811
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "value": "SOC 2 compliance",
+      "type": "keyword",
+      "sources": [
+        {
+          "url": "dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg",
+          "bots": "perplexity_with_search_latest"
+        }
+      ],
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 800,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 800,
+            "excerpt": ". It supports detailed debugging, human annotation workflows, and enterprise security features like SOC 2 compliance and SSO[[1]](https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quali",
+            "line": 5,
+            "column": 314,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.05263,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 7
+      },
+      "appearanceOrder": 7,
+      "influence": 0.16668,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.16668,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.16668
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-10-07",
@@ -12293,7 +11413,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -12461,7 +11581,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -12629,7 +11749,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -12797,7 +11917,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -12965,7 +12085,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -13130,7 +12250,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -13295,7 +12415,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -13463,7 +12583,7 @@ window.AppData20251007 = {
       "bots": "anthropic_claude_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0.125,
@@ -13604,7 +12724,7 @@ window.AppData20251007 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -13620,15 +12740,22 @@ window.AppData20251007 = {
             "line": 8,
             "column": 66,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 2748,
+            "excerpt": "ustomer engagement.\n\n# CITATIONS\n\n1. [[Top 5] Analytics & Monitoring Tools for AI Chatbots in 2025](https://bigsur.ai/blog/analytics-tools-for-ai)\n\nBelow, you’ll get concise, side-by-side comparisons focused on features that matter most: real-ti",
+            "line": 31,
+            "column": 67,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -13638,17 +12765,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "appearanceOrder": 1,
-      "influence": 0.25,
+      "influence": 0.5,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.25,
+      "weightedInfluence": 0.5,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -13658,7 +12785,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.25
+          "value": 0.5
         },
         {
           "date": "2025-10-06",
@@ -13685,14 +12812,14 @@ window.AppData20251007 = {
           "value": 2
         }
       ],
-      "mentionsTrend": -1,
-      "influenceTrend": -1,
+      "mentionsTrend": 1,
+      "influenceTrend": 10,
       "appearanceOrderTrend": -1,
       "uniqueModelCountTrend": -1,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -99,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -13718,7 +12845,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -13801,12 +12928,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 2,
-      "mentions_change": -1,
-      "changePercent": -50,
+      "mentions_change": 0,
+      "changePercent": 0,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -13815,7 +12942,7 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0.5
+      "volatility": 0
     },
     {
       "type": "link",
@@ -13828,7 +12955,7 @@ window.AppData20251007 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -13844,15 +12971,22 @@ window.AppData20251007 = {
             "line": 13,
             "column": 35,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3695,
+            "excerpt": "rial with usage limits |\n\n2. [Top 34 Best AI Search Monitoring Tools [2025 Ultimate List] - OMNIUS](https://www.omnius.so/blog/best-ai-search-monitoring-software)\n\nEvaluation of AI search monitoring tools over the past year reveals both commercial platforms and",
+            "line": 35,
+            "column": 75,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -13862,17 +12996,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 2
       },
       "appearanceOrder": 2,
-      "influence": 0.15773,
+      "influence": 0.31546,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.15773,
+      "weightedInfluence": 0.31546,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -13882,7 +13016,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.15773
+          "value": 0.31546
         },
         {
           "date": "2025-10-06",
@@ -13916,7 +13050,7 @@ window.AppData20251007 = {
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -99,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -13942,7 +13076,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -14025,12 +13159,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 13,
-      "mentions_change": -12,
-      "changePercent": -92.3,
+      "mentions_change": -11,
+      "changePercent": -84.6,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -14039,7 +13173,7 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 6
+      "volatility": 5.5
     },
     {
       "type": "link",
@@ -14052,7 +13186,7 @@ window.AppData20251007 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -14068,15 +13202,22 @@ window.AppData20251007 = {
             "line": 17,
             "column": 60,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 5324,
+            "excerpt": "right tools and playbook can help you turn “AI search” from a black box into a growth channel.\n\n4. [Top 3 AI Monitoring Tools in 2025 for Customer Care & Compliance](https://genezio.com/blog/top-3-ai-monitoring-tools-in-2025/)\n\nThey help companies keep track of how their agents behave in practice, and fix issues before they",
+            "line": 43,
+            "column": 4,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -14086,17 +13227,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 3
       },
       "appearanceOrder": 3,
-      "influence": 0.125,
+      "influence": 0.25,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.125,
+      "weightedInfluence": 0.25,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -14106,7 +13247,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.125
+          "value": 0.25
         },
         {
           "date": "2025-10-06",
@@ -14133,14 +13274,14 @@ window.AppData20251007 = {
           "value": 1
         }
       ],
-      "mentionsTrend": 1,
+      "mentionsTrend": 10,
       "influenceTrend": 10,
       "appearanceOrderTrend": -1,
       "uniqueModelCountTrend": 1,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -14166,7 +13307,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -14249,12 +13390,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -14263,7 +13404,7 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0
+      "volatility": 0.5
     },
     {
       "type": "link",
@@ -14276,7 +13417,7 @@ window.AppData20251007 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -14292,15 +13433,22 @@ window.AppData20251007 = {
             "line": 21,
             "column": 66,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 6108,
+            "excerpt": "stays within its role over time. Testing checks how the agent behaves in a controlled setting.\n\n5. [Monitoring Large Language Models: What to Look for in a Solution That Keeps Your AI Smart, Safe, and Scalable - InsightFinder](https://insightfinder.com/blog/monitoring-large-language-models-insightfinder-ai/)\n\nDeploying a large language model (LLM) is like launching a high-performance vehicle. It’s thrilli",
+            "line": 47,
+            "column": 4,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -14310,17 +13458,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 4
       },
       "appearanceOrder": 4,
-      "influence": 0.10767,
+      "influence": 0.21534,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.10767,
+      "weightedInfluence": 0.21534,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -14330,7 +13478,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.10767
+          "value": 0.21534
         },
         {
           "date": "2025-10-06",
@@ -14357,14 +13505,14 @@ window.AppData20251007 = {
           "value": 1
         }
       ],
-      "mentionsTrend": 1,
-      "influenceTrend": -1,
+      "mentionsTrend": 10,
+      "influenceTrend": 10,
       "appearanceOrderTrend": 10,
       "uniqueModelCountTrend": 1,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -14390,7 +13538,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -14473,12 +13621,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -14487,7 +13635,7 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0
+      "volatility": 0.5
     },
     {
       "type": "link",
@@ -14500,7 +13648,7 @@ window.AppData20251007 = {
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "firstAppearanceOrderCharByModel": {
         "perplexity_with_search_latest": -1,
@@ -14516,15 +13664,22 @@ window.AppData20251007 = {
             "line": 25,
             "column": 38,
             "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 4477,
+            "excerpt": "tions for monitoring custom LLM applications, and hybrid approaches that bridge both use cases.\n\n3. [Best AI Search Monitoring Tools for ChatGPT in 2025 - AIclicks.io](https://aiclicks.io/blog/best-ai-search-monitoring-tools-for-chatgpt)\n\nPeople started asking ChatGPT for brand advice, product recommendations, and even “best of” lists",
+            "line": 39,
+            "column": 4,
+            "captureDate": "2025-10-07"
           }
         ],
         "perplexity_with_search_latest": []
       },
-      "mentions": 1,
+      "mentions": 2,
       "bots": "openai_chatgpt_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
@@ -14534,17 +13689,17 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 5
       },
       "appearanceOrder": 5,
-      "influence": 0.09671,
+      "influence": 0.19343,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.09671,
+      "weightedInfluence": 0.19343,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-06",
@@ -14554,7 +13709,7 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.09671
+          "value": 0.19343
         },
         {
           "date": "2025-10-06",
@@ -14581,14 +13736,14 @@ window.AppData20251007 = {
           "value": 1
         }
       ],
-      "mentionsTrend": 1,
-      "influenceTrend": -1,
+      "mentionsTrend": 10,
+      "influenceTrend": 10,
       "appearanceOrderTrend": 10,
       "uniqueModelCountTrend": 1,
       "mentionsByModelTrend": {
         "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 10
       },
       "mentionsByModelTrendVals": {
         "perplexity_with_search_latest": [
@@ -14614,7 +13769,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           },
           {
             "date": "2025-10-06",
@@ -14697,12 +13852,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 1,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 2
         },
         {
           "date": "2025-10-06",
@@ -14711,196 +13866,7 @@ window.AppData20251007 = {
       ],
       "lastSeen": "2025-10-07",
       "firstSeen": "2025-10-06",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "montecarlodata.com/blog-best-ai-observability-tools",
-      "link": "montecarlodata.com/blog-best-ai-observability-tools",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 419,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 419,
-            "excerpt": "age models (LLMs). It focuses on rapid issue identification and resolution in AI observability[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Maxim AI** is designed for end-to-end real-time monitoring of AI agents with granular tracin",
-            "line": 3,
-            "column": 260,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 1294,
-            "excerpt": "and open-source models, suitable for regulated industries requiring privacy-focused monitoring[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Dynatrace** delivers broad, real-time application monitoring with AI-powered risk assessment",
-            "line": 7,
-            "column": 368,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 3329,
-            "excerpt": "ai-agents-in-real-time-for-quality-3fkg)[[2]](https://www.zluri.com/blog/it-alerting-software)[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/)[[5]](https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/).\n\n**Links to the main",
-            "line": 19,
-            "column": 404,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 3935,
-            "excerpt": "nitor-ai-agents-in-real-time-for-quality-3fkg\n2. https://www.zluri.com/blog/it-alerting-software\n3. https://www.montecarlodata.com/blog-best-ai-observability-tools/\n4. https://aicurator.io/ai-monitoring-tools/\n5. https://uptimerobot.com/knowledge-hub/monitoring/ai",
-            "line": 35,
-            "column": 4,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.09524,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 1
-      },
-      "appearanceOrder": 1,
-      "influence": 1,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 1,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
+      "volatility": 0.5
     },
     {
       "type": "link",
@@ -14937,7 +13903,7 @@ window.AppData20251007 = {
           },
           {
             "appearanceOrder": 3787,
-            "excerpt": "m  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg\n2. https://www.zluri.com/blog/it-alerting-software\n3. https://www.montecarlodata.com/blog-best-ai-o",
+            "excerpt": "m  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg](https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg)\n\n2. [www.zluri.com/blog/it-alerting-software](https://www.zluri.com/blog/it-alerting-software)\n\n3.",
             "line": 33,
             "column": 4,
             "captureDate": "2025-10-07"
@@ -14948,9 +13914,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.0625,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15083,195 +14049,6 @@ window.AppData20251007 = {
     },
     {
       "type": "link",
-      "value": "zluri.com/blog/it-alerting-software",
-      "link": "zluri.com/blog/it-alerting-software",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 1640,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 1640,
-            "excerpt": "ution time. It integrates AI observability with DevSecOps but may have occasional false alarms[[2]](https://www.zluri.com/blog/it-alerting-software)[[4]](https://aicurator.io/ai-monitoring-tools/).\n\n- **PagerDuty** specializes in real-time inciden",
-            "line": 9,
-            "column": 279,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 1979,
-            "excerpt": "t automates team responses during incidents and manages alert reliability across system events[[2]](https://www.zluri.com/blog/it-alerting-software).\n\n- **Coralogix AI Observability** provides real-time dashboards and combines performance and secu",
-            "line": 11,
-            "column": 241,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 3275,
-            "excerpt": "https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg)[[2]](https://www.zluri.com/blog/it-alerting-software)[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/)[[5]](https://uptimerobot.co",
-            "line": 19,
-            "column": 350,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 3884,
-            "excerpt": "1. https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg\n2. https://www.zluri.com/blog/it-alerting-software\n3. https://www.montecarlodata.com/blog-best-ai-observability-tools/\n4. https://aicurator.io/ai-moni",
-            "line": 34,
-            "column": 4,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 4,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.09524,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3
-      },
-      "appearanceOrder": 3,
-      "influence": 0.5,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.5,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 4
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.5
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 3
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 4
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 3
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 4,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 4
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "type": "link",
       "value": "aicurator.io/ai-monitoring-tools",
       "link": "aicurator.io/ai-monitoring-tools",
       "linkType": "tch",
@@ -15307,9 +14084,9 @@ window.AppData20251007 = {
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 4003,
-            "excerpt": "om/blog/it-alerting-software\n3. https://www.montecarlodata.com/blog-best-ai-observability-tools/\n4. https://aicurator.io/ai-monitoring-tools/\n5. https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/\n6. https://firsteigen.com/",
-            "line": 36,
+            "appearanceOrder": 4198,
+            "excerpt": "best-ai-observability-tools/](https://www.montecarlodata.com/blog-best-ai-observability-tools/)\n\n4. [aicurator.io/ai-monitoring-tools/](https://aicurator.io/ai-monitoring-tools/)\n\n5. [uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/](https://uptimerobot.com/knowle",
+            "line": 39,
             "column": 4,
             "captureDate": "2025-10-07"
           }
@@ -15319,9 +14096,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.0625,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15454,6 +14231,1060 @@ window.AppData20251007 = {
     },
     {
       "type": "link",
+      "value": "firsteigen.com/blog/best-data-observability-tools",
+      "link": "firsteigen.com/blog/best-data-observability-tools",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4420,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4420,
+            "excerpt": "ng/ai-monitoring-guide/](https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/)\n\n6. [firsteigen.com/blog/best-data-observability-tools/](https://firsteigen.com/blog/best-data-observability-tools/)\n\n7. [julius.ai/articles/best-ai-analytics-tools-for-real-time-data](https://julius.ai/articles/bes",
+            "line": 43,
+            "column": 4,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02083,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 10
+      },
+      "appearanceOrder": 10,
+      "influence": 0.07227,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.07227,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.07227
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data",
+      "link": "anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data",
+      "linkType": "ait",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4676,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4676,
+            "excerpt": "ools-for-real-time-data](https://julius.ai/articles/best-ai-analytics-tools-for-real-time-data)\n\n8. [www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/](https://www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/)\n\n9. [newrelic.com/platform/ai-monitoring](https://newrelic.com/platform/ai-monitoring)\n\n10. [aimul",
+            "line": 47,
+            "column": 4,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02083,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 11
+      },
+      "appearanceOrder": 11,
+      "influence": 0.06974,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.06974,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.06974
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "newrelic.com/blog/how-to-relic/ai-in-observability",
+      "link": "newrelic.com/blog/how-to-relic/ai-in-observability",
+      "linkType": "dev",
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4879,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4879,
+            "excerpt": "/www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/)\n\n9. [newrelic.com/platform/ai-monitoring](https://newrelic.com/platform/ai-monitoring)\n\n10. [aimultiple.com/ai-network-monitoring](https://aimultiple.com/ai-network-monitoring)\n\n11. [ww",
+            "line": 49,
+            "column": 4,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 5143,
+            "excerpt": "itoring)\n\n11. [www.logicmonitor.com/ai-monitoring](https://www.logicmonitor.com/ai-monitoring)\n\n12. [newrelic.com/blog/how-to-relic/ai-in-observability](https://newrelic.com/blog/how-to-relic/ai-in-observability)\n\n13. [www.iotflows.com/](https://www.iotflows.com)\n\n14. [www.easyvista.com/blog/why-ai-is-importan",
+            "line": 55,
+            "column": 5,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 2,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.04167,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.06667,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 12
+      },
+      "appearanceOrder": 12,
+      "influence": 0.13512,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.13512,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.13512
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "cribl.io/glossary/ai-monitoring",
+      "link": "cribl.io/glossary/ai-monitoring",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5444,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5444,
+            "excerpt": "s-important-in-monitoring/](https://www.easyvista.com/blog/why-ai-is-important-in-monitoring/)\n\n15. [cribl.io/glossary/ai-monitoring/](https://cribl.io/glossary/ai-monitoring/)\n\n16. [coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/](https://coralogix.com/ai-blo",
+            "line": 61,
+            "column": 5,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 1,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02083,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.0625,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0625,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.0625
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "montecarlodata.com/blog-best-ai-observability-tools",
+      "link": "montecarlodata.com/blog-best-ai-observability-tools",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 419,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 419,
+            "excerpt": "age models (LLMs). It focuses on rapid issue identification and resolution in AI observability[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Maxim AI** is designed for end-to-end real-time monitoring of AI agents with granular tracin",
+            "line": 3,
+            "column": 260,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 1294,
+            "excerpt": "and open-source models, suitable for regulated industries requiring privacy-focused monitoring[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/).\n\n- **Dynatrace** delivers broad, real-time application monitoring with AI-powered risk assessment",
+            "line": 7,
+            "column": 368,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3329,
+            "excerpt": "ai-agents-in-real-time-for-quality-3fkg)[[2]](https://www.zluri.com/blog/it-alerting-software)[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/)[[5]](https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/).\n\n**Links to the main",
+            "line": 19,
+            "column": 404,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 4069,
+            "excerpt": "2. [www.zluri.com/blog/it-alerting-software](https://www.zluri.com/blog/it-alerting-software)\n\n3. [www.montecarlodata.com/blog-best-ai-observability-tools/](https://www.montecarlodata.com/blog-best-ai-observability-tools/)\n\n4. [aicurator.io/ai-monitoring-tools/](https://aicurator.io/ai-monitoring-tools/)\n\n5. [uptimerobo",
+            "line": 37,
+            "column": 4,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.08333,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 1
+      },
+      "appearanceOrder": 1,
+      "influence": 1,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 1,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "zluri.com/blog/it-alerting-software",
+      "link": "zluri.com/blog/it-alerting-software",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1640,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1640,
+            "excerpt": "ution time. It integrates AI observability with DevSecOps but may have occasional false alarms[[2]](https://www.zluri.com/blog/it-alerting-software)[[4]](https://aicurator.io/ai-monitoring-tools/).\n\n- **PagerDuty** specializes in real-time inciden",
+            "line": 9,
+            "column": 279,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 1979,
+            "excerpt": "t automates team responses during incidents and manages alert reliability across system events[[2]](https://www.zluri.com/blog/it-alerting-software).\n\n- **Coralogix AI Observability** provides real-time dashboards and combines performance and secu",
+            "line": 11,
+            "column": 241,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3275,
+            "excerpt": "https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg)[[2]](https://www.zluri.com/blog/it-alerting-software)[[3]](https://www.montecarlodata.com/blog-best-ai-observability-tools/)[[5]](https://uptimerobot.co",
+            "line": 19,
+            "column": 350,
+            "captureDate": "2025-10-07"
+          },
+          {
+            "appearanceOrder": 3974,
+            "excerpt": "(https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-3fkg)\n\n2. [www.zluri.com/blog/it-alerting-software](https://www.zluri.com/blog/it-alerting-software)\n\n3. [www.montecarlodata.com/blog-best-ai-observability-tools/](https://www.montecarlodata.com/blog",
+            "line": 35,
+            "column": 4,
+            "captureDate": "2025-10-07"
+          }
+        ]
+      },
+      "mentions": 4,
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.08333,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.13333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 3
+      },
+      "appearanceOrder": 3,
+      "influence": 0.5,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.5,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0.5
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
       "link": "uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide",
       "linkType": "tch",
@@ -15490,15 +15321,15 @@ window.AppData20251007 = {
           },
           {
             "appearanceOrder": 3746,
-            "excerpt": "m  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-q",
+            "excerpt": "m  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-to-monitor-ai-agents-in-real-time-for-quality-",
             "line": 29,
             "column": 16,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 4048,
-            "excerpt": "ontecarlodata.com/blog-best-ai-observability-tools/\n4. https://aicurator.io/ai-monitoring-tools/\n5. https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/\n6. https://firsteigen.com/blog/best-data-observability-tools/\n7. https://julius.ai/articles/best-ai",
-            "line": 37,
+            "appearanceOrder": 4281,
+            "excerpt": "lity-tools/)\n\n4. [aicurator.io/ai-monitoring-tools/](https://aicurator.io/ai-monitoring-tools/)\n\n5. [uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/](https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/)\n\n6. [firsteigen.com/blog/best-data-observability-tools/](https://firsteigen.com/blog/best-data-obs",
+            "line": 41,
             "column": 4,
             "captureDate": "2025-10-07"
           }
@@ -15508,9 +15339,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.08333,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15673,9 +15504,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15841,9 +15672,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15998,15 +15829,15 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "appearanceOrder": 3707,
-            "excerpt": "- Dynatrace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# Citations\n\n1. https://dev.to/kuldeep_paul/the-best-tool",
+            "excerpt": "- Dynatrace: https://www.dynatrace.com  \n- PagerDuty: https://www.pagerduty.com  \n- Coralogix AI: https://coralogix.com  \n- UptimeRobot: https://uptimerobot.com\n\n# CITATIONS\n\n1. [dev.to/kuldeep_paul/the-best-tools-to-mo",
             "line": 28,
             "column": 17,
             "captureDate": "2025-10-07"
           },
           {
-            "appearanceOrder": 4712,
-            "excerpt": "yvista.com/blog/why-ai-is-important-in-monitoring/\n15. https://cribl.io/glossary/ai-monitoring/\n16. https://coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/",
-            "line": 48,
+            "appearanceOrder": 5526,
+            "excerpt": "monitoring/)\n\n15. [cribl.io/glossary/ai-monitoring/](https://cribl.io/glossary/ai-monitoring/)\n\n16. [coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/](https://coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/)",
+            "line": 63,
             "column": 5,
             "captureDate": "2025-10-07"
           }
@@ -16016,9 +15847,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04167,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06897,
+        "perplexity_with_search_latest": 0.06667,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -16151,176 +15982,8 @@ window.AppData20251007 = {
     },
     {
       "type": "link",
-      "value": "firsteigen.com/blog/best-data-observability-tools",
-      "link": "firsteigen.com/blog/best-data-observability-tools",
-      "linkType": "tch",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4121,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 4121,
-            "excerpt": "io/ai-monitoring-tools/\n5. https://uptimerobot.com/knowledge-hub/monitoring/ai-monitoring-guide/\n6. https://firsteigen.com/blog/best-data-observability-tools/\n7. https://julius.ai/articles/best-ai-analytics-tools-for-real-time-data\n8. https://www.anodot.com/",
-            "line": 38,
-            "column": 4,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10
-      },
-      "appearanceOrder": 10,
-      "influence": 0.07227,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.07227,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.07227
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 10
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 10
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data",
-      "link": "anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data",
+      "value": "logicmonitor.com/ai-monitoring",
+      "link": "logicmonitor.com/ai-monitoring",
       "linkType": "ait",
       "sources": {
         "linkType": "AI"
@@ -16331,7 +15994,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4256,
+        "perplexity_with_search_latest": 5057,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -16340,10 +16003,10 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 4256,
-            "excerpt": "ta-observability-tools/\n7. https://julius.ai/articles/best-ai-analytics-tools-for-real-time-data\n8. https://www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/\n9. https://newrelic.com/platform/ai-monitoring\n10. https://aimultiple.com/ai-network-monitoring\n11.",
-            "line": 40,
-            "column": 4,
+            "appearanceOrder": 5057,
+            "excerpt": "ing)\n\n10. [aimultiple.com/ai-network-monitoring](https://aimultiple.com/ai-network-monitoring)\n\n11. [www.logicmonitor.com/ai-monitoring](https://www.logicmonitor.com/ai-monitoring)\n\n12. [newrelic.com/blog/how-to-relic/ai-in-observability](https://newrelic.com/blog/how-to-relic/a",
+            "line": 53,
+            "column": 5,
             "captureDate": "2025-10-07"
           }
         ]
@@ -16352,23 +16015,23 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 11
+        "perplexity_with_search_latest": 13
       },
-      "appearanceOrder": 11,
-      "influence": 0.06974,
+      "appearanceOrder": 13,
+      "influence": 0.06566,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06974,
+      "weightedInfluence": 0.06566,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
@@ -16378,13 +16041,13 @@ window.AppData20251007 = {
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.06974
+          "value": 0.06566
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 11
+          "value": 13
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -16456,7 +16119,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 11
+            "value": 13
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -16487,180 +16150,8 @@ window.AppData20251007 = {
     },
     {
       "type": "link",
-      "value": "newrelic.com/blog/how-to-relic/ai-in-observability",
-      "link": "newrelic.com/blog/how-to-relic/ai-in-observability",
-      "linkType": "dev",
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4361,
-        "anthropic_claude_with_search_latest": -1,
-        "openai_chatgpt_with_search_latest": -1
-      },
-      "excerptsByModel": {
-        "anthropic_claude_with_search_latest": [],
-        "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 4361,
-            "excerpt": "://www.anodot.com/learning-center/top-8-ai-powered-anomaly-detection-tools-for-time-series-data/\n9. https://newrelic.com/platform/ai-monitoring\n10. https://aimultiple.com/ai-network-monitoring\n11. https://www.logicmonitor.com/ai-monitoring\n12.",
-            "line": 41,
-            "column": 4,
-            "captureDate": "2025-10-07"
-          },
-          {
-            "appearanceOrder": 4505,
-            "excerpt": "10. https://aimultiple.com/ai-network-monitoring\n11. https://www.logicmonitor.com/ai-monitoring\n12. https://newrelic.com/blog/how-to-relic/ai-in-observability\n13. https://www.iotflows.com\n14. https://www.easyvista.com/blog/why-ai-is-important-in-monitoring/",
-            "line": 44,
-            "column": 5,
-            "captureDate": "2025-10-07"
-          }
-        ]
-      },
-      "mentions": 2,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.04762,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06897,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
-      },
-      "appearanceOrder": 12,
-      "influence": 0.13512,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.13512,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 2
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 0.13512
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 12
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-10-07",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 2
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "influenceByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 1
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
-        "anthropic_claude_with_search_latest": -9999,
-        "openai_chatgpt_with_search_latest": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "perplexity_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": 12
-          }
-        ],
-        "anthropic_claude_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ],
-        "openai_chatgpt_with_search_latest": [
-          {
-            "date": "2025-10-07",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 2,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-10-07",
-          "mentions": 2
-        }
-      ],
-      "lastSeen": "2025-10-07",
-      "firstSeen": "2025-10-07",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "cribl.io/glossary/ai-monitoring",
-      "link": "cribl.io/glossary/ai-monitoring",
+      "value": "easyvista.com/blog/why-ai-is-important-in-monitoring",
+      "link": "easyvista.com/blog/why-ai-is-important-in-monitoring",
       "linkType": "tch",
       "sources": {
         "linkType": "AI"
@@ -16671,7 +16162,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4667,
+        "perplexity_with_search_latest": 5312,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
@@ -16680,9 +16171,9 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [],
         "perplexity_with_search_latest": [
           {
-            "appearanceOrder": 4667,
-            "excerpt": "https://www.iotflows.com\n14. https://www.easyvista.com/blog/why-ai-is-important-in-monitoring/\n15. https://cribl.io/glossary/ai-monitoring/\n16. https://coralogix.com/ai-blog/the-best-ai-observability-tools-in-2025/",
-            "line": 47,
+            "appearanceOrder": 5312,
+            "excerpt": ".com/blog/how-to-relic/ai-in-observability)\n\n13. [www.iotflows.com/](https://www.iotflows.com)\n\n14. [www.easyvista.com/blog/why-ai-is-important-in-monitoring/](https://www.easyvista.com/blog/why-ai-is-important-in-monitoring/)\n\n15. [cribl.io/glossary/ai-monitoring/](https://cribl.io/glossary/ai-monitoring/)\n\n16. [coralogix.",
+            "line": 59,
             "column": 5,
             "captureDate": "2025-10-07"
           }
@@ -16692,9 +16183,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -16857,9 +16348,9 @@ window.AppData20251007 = {
       "bots": "perplexity_with_search_latest",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -17202,86 +16693,72 @@ window.AppData20251007 = {
     },
     {
       "type": "link",
-      "value": "www.logicmonitor.com",
-      "link": "www.logicmonitor.com",
-      "linkType": "ait",
+      "value": "lodata.com",
+      "link": "lodata.com",
+      "linkType": "dev",
       "sources": {
         "linkType": "AI"
       },
       "mentionsByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
       "firstAppearanceOrderCharByModel": {
-        "perplexity_with_search_latest": 4458,
+        "perplexity_with_search_latest": -1,
         "anthropic_claude_with_search_latest": -1,
         "openai_chatgpt_with_search_latest": -1
       },
       "excerptsByModel": {
         "anthropic_claude_with_search_latest": [],
         "openai_chatgpt_with_search_latest": [],
-        "perplexity_with_search_latest": [
-          {
-            "appearanceOrder": 4458,
-            "excerpt": "9. https://newrelic.com/platform/ai-monitoring\n10. https://aimultiple.com/ai-network-monitoring\n11. https://www.logicmonitor.com/ai-monitoring\n12. https://newrelic.com/blog/how-to-relic/ai-in-observability\n13. https://www.iotflows.com\n14. htt",
-            "line": 43,
-            "column": 5,
-            "captureDate": "2025-10-07"
-          }
-        ]
+        "perplexity_with_search_latest": []
       },
-      "mentions": 1,
-      "bots": "perplexity_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13
-      },
-      "appearanceOrder": 13,
-      "influence": 0.06566,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 1,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.06566,
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 0
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.06566
+          "value": 0
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 13
+          "value": -1
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 1
+          "value": 0
         }
       ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
       "mentionsByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -17289,7 +16766,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17306,7 +16783,7 @@ window.AppData20251007 = {
         ]
       },
       "influenceByModelTrend": {
-        "perplexity_with_search_latest": 999,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -17314,7 +16791,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 0
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17331,7 +16808,7 @@ window.AppData20251007 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": -9999,
         "anthropic_claude_with_search_latest": -9999,
         "openai_chatgpt_with_search_latest": -9999
       },
@@ -17339,7 +16816,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 13
+            "value": -1
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17356,12 +16833,166 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
+      "mentions_change": 0,
+      "changePercent": 0,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 1
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-07",
+      "firstSeen": "2025-10-07",
+      "volatility": 0
+    },
+    {
+      "type": "link",
+      "value": "nitor.com",
+      "link": "nitor.com",
+      "linkType": "tch",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentions": 0,
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercent": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrderByModel": {},
+      "appearanceOrder": -1,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-07",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-07",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-07",
+          "mentions": 0
         }
       ],
       "lastSeen": "2025-10-07",
@@ -17374,50 +17005,50 @@ window.AppData20251007 = {
       "type": "linkType",
       "code": "tch",
       "value": "Tech Companies",
-      "mentions": 28,
+      "mentions": 30,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 20,
+        "perplexity_with_search_latest": 21,
         "anthropic_claude_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.68966,
+        "perplexity_with_search_latest": 0.7,
         "anthropic_claude_with_search_latest": 0.875,
         "openai_chatgpt_with_search_latest": 0.2
       },
-      "mentionsAsPercent": 0.66667,
-      "appearanceOrder": 5,
+      "mentionsAsPercent": 0.625,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
+        "perplexity_with_search_latest": 8,
         "anthropic_claude_with_search_latest": 4,
         "openai_chatgpt_with_search_latest": 2
       },
-      "influence": 3.63254,
+      "influence": 3.8527700000000005,
       "influenceByModel": {
-        "perplexity_with_search_latest": 8,
+        "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": 7,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 3.63254,
+      "weightedInfluence": 3.8527700000000005,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 28
+          "value": 30
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 3.63254
+          "value": 3.8527700000000005
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 5
+          "value": 6
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -17439,7 +17070,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 20
+            "value": 21
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17451,7 +17082,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 1
+            "value": 2
           }
         ]
       },
@@ -17464,7 +17095,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 8
+            "value": 9
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17489,7 +17120,7 @@ window.AppData20251007 = {
         "perplexity_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 7
+            "value": 8
           }
         ],
         "anthropic_claude_with_search_latest": [
@@ -17506,12 +17137,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 28,
+      "mentions_change": 30,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 28
+          "mentions": 30
         }
       ],
       "lastSeen": "2025-10-07",
@@ -17522,44 +17153,44 @@ window.AppData20251007 = {
       "type": "linkType",
       "code": "ait",
       "value": "AI Tools",
-      "mentions": 9,
+      "mentions": 13,
       "mentionsByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 4
+        "openai_chatgpt_with_search_latest": 8
       },
       "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0.125,
         "openai_chatgpt_with_search_latest": 0.8
       },
-      "mentionsAsPercent": 0.21429,
+      "mentionsAsPercent": 0.27083,
       "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": 6,
         "openai_chatgpt_with_search_latest": 3
       },
-      "influence": 0.97621,
+      "influence": 1.5555999999999999,
       "influenceByModel": {
         "perplexity_with_search_latest": 4,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 4
       },
-      "weightedInfluence": 0.97621,
+      "weightedInfluence": 1.5555999999999999,
       "mentionsTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 9
+          "value": 13
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-10-07",
-          "value": 0.97621
+          "value": 1.5555999999999999
         }
       ],
       "appearanceOrderTrendVals": [
@@ -17599,7 +17230,7 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": [
           {
             "date": "2025-10-07",
-            "value": 4
+            "value": 8
           }
         ]
       },
@@ -17654,12 +17285,12 @@ window.AppData20251007 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 9,
+      "mentions_change": 13,
       "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-10-07",
-          "mentions": 9
+          "mentions": 13
         }
       ],
       "lastSeen": "2025-10-07",
@@ -17680,11 +17311,11 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.0625,
       "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2,
@@ -17828,11 +17459,11 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06897,
+        "perplexity_with_search_latest": 0.06667,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04167,
       "appearanceOrder": 12,
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12,
@@ -18003,7 +17634,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18011,7 +17642,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.08333,
       "influence": 1,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18019,6 +17650,62 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "weightedInfluence": 1
+    },
+    {
+      "type": "linkDomain",
+      "code": "bigsur.ai",
+      "value": "bigsur.ai",
+      "link": "https://bigsur.ai",
+      "linkType": "ait",
+      "linkTypeName": "AI Tools",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "bigsur.ai/blog/analytics-tools-for-ai",
+          "mentions": 2,
+          "appearanceOrder": 1,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.5,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.5
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrder": 1,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "mentionsAsPercent": 0.04167,
+      "influence": 0.5,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.5
     },
     {
       "type": "linkDomain",
@@ -18059,7 +17746,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18067,7 +17754,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.08333,
       "influence": 0.5,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18115,7 +17802,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18123,7 +17810,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.0625,
       "influence": 0.4732,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18171,7 +17858,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13793,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18179,7 +17866,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.08333,
       "influence": 0.38685,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18227,7 +17914,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18235,7 +17922,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.0625,
       "influence": 0.32301,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18243,6 +17930,62 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "weightedInfluence": 0.32301
+    },
+    {
+      "type": "linkDomain",
+      "code": "omnius.so",
+      "value": "omnius.so",
+      "link": "https://omnius.so",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "omnius.so/blog/best-ai-search-monitoring-software",
+          "mentions": 2,
+          "appearanceOrder": 2,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.31546,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.31546
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrder": 2,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "mentionsAsPercent": 0.04167,
+      "influence": 0.31546,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.31546
     },
     {
       "type": "linkDomain",
@@ -18291,7 +18034,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.25,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -18302,29 +18045,29 @@ window.AppData20251007 = {
     },
     {
       "type": "linkDomain",
-      "code": "bigsur.ai",
-      "value": "bigsur.ai",
-      "link": "https://bigsur.ai",
+      "code": "genezio.com",
+      "value": "genezio.com",
+      "link": "https://genezio.com",
       "linkType": "ait",
       "linkTypeName": "AI Tools",
-      "mentions": 1,
+      "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
-          "link": "bigsur.ai/blog/analytics-tools-for-ai",
-          "mentions": 1,
-          "appearanceOrder": 1,
+          "link": "genezio.com/blog/top-3-ai-monitoring-tools-in-2025",
+          "mentions": 2,
+          "appearanceOrder": 3,
           "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 3
           },
           "mentionsByModel": {
             "perplexity_with_search_latest": 0,
             "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
+            "openai_chatgpt_with_search_latest": 2
           },
           "influence": 0.25,
           "influenceByModel": {
@@ -18343,11 +18086,11 @@ window.AppData20251007 = {
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0.2
       },
-      "appearanceOrder": 1,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 1
+        "openai_chatgpt_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.04167,
       "influence": 0.25,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -18355,6 +18098,118 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 0.25
+    },
+    {
+      "type": "linkDomain",
+      "code": "insightfinder.com",
+      "value": "insightfinder.com",
+      "link": "https://insightfinder.com",
+      "linkType": "ait",
+      "linkTypeName": "AI Tools",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "insightfinder.com/blog/monitoring-large-language-models-insightfinder-ai",
+          "mentions": 2,
+          "appearanceOrder": 4,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 4
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.21534,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.21534
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrder": 4,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 4
+      },
+      "mentionsAsPercent": 0.04167,
+      "influence": 0.21534,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.21534
+    },
+    {
+      "type": "linkDomain",
+      "code": "aiclicks.io",
+      "value": "aiclicks.io",
+      "link": "https://aiclicks.io",
+      "linkType": "ait",
+      "linkTypeName": "AI Tools",
+      "mentions": 2,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 2
+      },
+      "sources": [
+        {
+          "link": "aiclicks.io/blog/best-ai-search-monitoring-tools-for-chatgpt",
+          "mentions": 2,
+          "appearanceOrder": 5,
+          "appearanceOrderByModel": {
+            "openai_chatgpt_with_search_latest": 5
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 2
+          },
+          "influence": 0.19343,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 1
+          },
+          "weightedInfluence": 0.19343
+        }
+      ],
+      "bots": "openai_chatgpt_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0.2
+      },
+      "appearanceOrder": 5,
+      "appearanceOrderByModel": {
+        "openai_chatgpt_with_search_latest": 5
+      },
+      "mentionsAsPercent": 0.04167,
+      "influence": 0.19343,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 1
+      },
+      "weightedInfluence": 0.19343
     },
     {
       "type": "linkDomain",
@@ -18403,68 +18258,12 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.15773,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.15773
-    },
-    {
-      "type": "linkDomain",
-      "code": "omnius.so",
-      "value": "omnius.so",
-      "link": "https://omnius.so",
-      "linkType": "tch",
-      "linkTypeName": "Tech Companies",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "omnius.so/blog/best-ai-search-monitoring-software",
-          "mentions": 1,
-          "appearanceOrder": 2,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 2
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.15773,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.15773
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrder": 2,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 2
-      },
-      "mentionsAsPercent": 0.02381,
-      "influence": 0.15773,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 0.15773
     },
@@ -18507,7 +18306,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06897,
+        "perplexity_with_search_latest": 0.06667,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18515,7 +18314,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04167,
       "influence": 0.15051,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18563,7 +18362,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.06897,
+        "perplexity_with_search_latest": 0.06667,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -18571,7 +18370,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04167,
       "influence": 0.13512,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -18627,68 +18426,12 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.125,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.125
-    },
-    {
-      "type": "linkDomain",
-      "code": "genezio.com",
-      "value": "genezio.com",
-      "link": "https://genezio.com",
-      "linkType": "ait",
-      "linkTypeName": "AI Tools",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "genezio.com/blog/top-3-ai-monitoring-tools-in-2025",
-          "mentions": 1,
-          "appearanceOrder": 3,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 3
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.125,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.125
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrder": 3,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 3
-      },
-      "mentionsAsPercent": 0.02381,
-      "influence": 0.125,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 0.125
     },
@@ -18739,68 +18482,12 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.10767,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.10767
-    },
-    {
-      "type": "linkDomain",
-      "code": "insightfinder.com",
-      "value": "insightfinder.com",
-      "link": "https://insightfinder.com",
-      "linkType": "ait",
-      "linkTypeName": "AI Tools",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "insightfinder.com/blog/monitoring-large-language-models-insightfinder-ai",
-          "mentions": 1,
-          "appearanceOrder": 4,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 4
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.10767,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.10767
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrder": 4,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 4
-      },
-      "mentionsAsPercent": 0.02381,
-      "influence": 0.10767,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 0.10767
     },
@@ -18851,68 +18538,12 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.09671,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
-      },
-      "weightedInfluence": 0.09671
-    },
-    {
-      "type": "linkDomain",
-      "code": "aiclicks.io",
-      "value": "aiclicks.io",
-      "link": "https://aiclicks.io",
-      "linkType": "ait",
-      "linkTypeName": "AI Tools",
-      "mentions": 1,
-      "mentionsByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
-      },
-      "sources": [
-        {
-          "link": "aiclicks.io/blog/best-ai-search-monitoring-tools-for-chatgpt",
-          "mentions": 1,
-          "appearanceOrder": 5,
-          "appearanceOrderByModel": {
-            "openai_chatgpt_with_search_latest": 5
-          },
-          "mentionsByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "influence": 0.09671,
-          "influenceByModel": {
-            "perplexity_with_search_latest": 0,
-            "anthropic_claude_with_search_latest": 0,
-            "openai_chatgpt_with_search_latest": 1
-          },
-          "weightedInfluence": 0.09671
-        }
-      ],
-      "bots": "openai_chatgpt_with_search_latest",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.2
-      },
-      "appearanceOrder": 5,
-      "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 5
-      },
-      "mentionsAsPercent": 0.02381,
-      "influence": 0.09671,
-      "influenceByModel": {
-        "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 0.09671
     },
@@ -18963,7 +18594,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.08905,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -19011,7 +18642,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19019,7 +18650,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.08905,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19075,7 +18706,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.08333,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -19123,7 +18754,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19131,7 +18762,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.08333,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19187,7 +18818,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.07887,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
@@ -19235,7 +18866,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19243,7 +18874,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.07887,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19291,7 +18922,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19299,7 +18930,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.07227,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19347,7 +18978,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19355,7 +18986,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.06974,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19379,7 +19010,7 @@ window.AppData20251007 = {
       },
       "sources": [
         {
-          "link": "www.logicmonitor.com",
+          "link": "logicmonitor.com/ai-monitoring",
           "mentions": 1,
           "appearanceOrder": 13,
           "appearanceOrderByModel": {
@@ -19403,7 +19034,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19411,7 +19042,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.06566,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19422,9 +19053,9 @@ window.AppData20251007 = {
     },
     {
       "type": "linkDomain",
-      "code": "cribl.io",
-      "value": "cribl.io",
-      "link": "https://cribl.io",
+      "code": "easyvista.com",
+      "value": "easyvista.com",
+      "link": "https://easyvista.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
       "mentions": 1,
@@ -19435,7 +19066,7 @@ window.AppData20251007 = {
       },
       "sources": [
         {
-          "link": "cribl.io/glossary/ai-monitoring",
+          "link": "easyvista.com/blog/why-ai-is-important-in-monitoring",
           "mentions": 1,
           "appearanceOrder": 14,
           "appearanceOrderByModel": {
@@ -19459,7 +19090,7 @@ window.AppData20251007 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.03333,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -19467,7 +19098,7 @@ window.AppData20251007 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02083,
       "influence": 0.06399,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
@@ -19475,6 +19106,62 @@ window.AppData20251007 = {
         "openai_chatgpt_with_search_latest": 0
       },
       "weightedInfluence": 0.06399
+    },
+    {
+      "type": "linkDomain",
+      "code": "cribl.io",
+      "value": "cribl.io",
+      "link": "https://cribl.io",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 1,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "cribl.io/glossary/ai-monitoring",
+          "mentions": 1,
+          "appearanceOrder": 15,
+          "appearanceOrderByModel": {
+            "perplexity_with_search_latest": 15
+          },
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0.0625,
+          "influenceByModel": {
+            "perplexity_with_search_latest": 1,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "weightedInfluence": 0.0625
+        }
+      ],
+      "bots": "perplexity_with_search_latest",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0.03333,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": 15,
+      "appearanceOrderByModel": {
+        "perplexity_with_search_latest": 15
+      },
+      "mentionsAsPercent": 0.02083,
+      "influence": 0.0625,
+      "influenceByModel": {
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "weightedInfluence": 0.0625
     },
     {
       "type": "linkDomain",
@@ -19519,33 +19206,121 @@ window.AppData20251007 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "lodata.com",
+      "value": "lodata.com",
+      "link": "https://lodata.com",
+      "linkType": "dev",
+      "linkTypeName": "Developer Tools",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "lodata.com",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
+    },
+    {
+      "type": "linkDomain",
+      "code": "nitor.com",
+      "value": "nitor.com",
+      "link": "https://nitor.com",
+      "linkType": "tch",
+      "linkTypeName": "Tech Companies",
+      "mentions": 0,
+      "mentionsByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "sources": [
+        {
+          "link": "nitor.com",
+          "mentions": 0,
+          "appearanceOrder": -1,
+          "appearanceOrderByModel": {},
+          "mentionsByModel": {
+            "perplexity_with_search_latest": 0,
+            "anthropic_claude_with_search_latest": 0,
+            "openai_chatgpt_with_search_latest": 0
+          },
+          "influence": 0,
+          "influenceByModel": {},
+          "weightedInfluence": 0
+        }
+      ],
+      "bots": "",
+      "botCount": 0,
+      "uniqueModelCount": 0,
+      "mentionsAsPercentByModel": {
+        "perplexity_with_search_latest": 0,
+        "anthropic_claude_with_search_latest": 0,
+        "openai_chatgpt_with_search_latest": 0
+      },
+      "appearanceOrder": -1,
+      "appearanceOrderByModel": {},
+      "mentionsAsPercent": 0,
+      "influence": 0,
+      "influenceByModel": {},
+      "weightedInfluence": 0
     }
   ],
   "totalDates": [
     "2025-10-07",
     "2025-10-06"
   ],
-  "totalDataPoints": 133,
-  "totalTimeSaved": "12",
+  "totalDataPoints": 130,
+  "totalTimeSaved": "11",
   "totalCounts": {
     "bots": 3,
     "linkTypes": 4,
     "products": 16,
-    "organizations": 12,
+    "organizations": 13,
     "people": 0,
     "places": 0,
-    "links": 28,
-    "keywords": 40,
+    "links": 31,
+    "keywords": 30,
     "events": 0
   },
   "itemCountPerModel": {
     "products": [
       {
-        "id": "anthropic_claude_with_search_latest",
-        "count": 8
+        "id": "perplexity_with_search_latest",
+        "count": 7
       },
       {
-        "id": "perplexity_with_search_latest",
+        "id": "anthropic_claude_with_search_latest",
         "count": 7
       },
       {
@@ -19564,7 +19339,7 @@ window.AppData20251007 = {
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 0
+        "count": 1
       }
     ],
     "people": [
@@ -19598,7 +19373,7 @@ window.AppData20251007 = {
     "links": [
       {
         "id": "perplexity_with_search_latest",
-        "count": 14
+        "count": 15
       },
       {
         "id": "anthropic_claude_with_search_latest",
@@ -19612,15 +19387,15 @@ window.AppData20251007 = {
     "keywords": [
       {
         "id": "anthropic_claude_with_search_latest",
-        "count": 12
+        "count": 15
       },
       {
         "id": "perplexity_with_search_latest",
-        "count": 10
+        "count": 11
       },
       {
         "id": "openai_chatgpt_with_search_latest",
-        "count": 8
+        "count": 6
       }
     ],
     "events": [
@@ -19643,11 +19418,15 @@ window.AppData20251007 = {
     "products": [
       {
         "id": "999",
-        "count": 13
+        "count": 12
       },
       {
         "id": "1",
         "count": 3
+      },
+      {
+        "id": "-9999",
+        "count": 1
       }
     ],
     "organizations": [
@@ -19656,12 +19435,12 @@ window.AppData20251007 = {
         "count": 9
       },
       {
-        "id": "-1",
+        "id": "1",
         "count": 2
       },
       {
-        "id": "1",
-        "count": 1
+        "id": "-1",
+        "count": 2
       }
     ],
     "people": [],
@@ -19669,33 +19448,33 @@ window.AppData20251007 = {
     "links": [
       {
         "id": "999",
-        "count": 21
+        "count": 22
       },
       {
         "id": "10",
         "count": 4
       },
       {
-        "id": "-1",
-        "count": 2
+        "id": "-9999",
+        "count": 3
       },
       {
-        "id": "-9999",
-        "count": 1
+        "id": "-1",
+        "count": 2
       }
     ],
     "keywords": [
       {
         "id": "999",
-        "count": 24
+        "count": 26
       },
       {
-        "id": "-9999",
-        "count": 12
+        "id": "10",
+        "count": 2
       },
       {
         "id": "-1",
-        "count": 4
+        "count": 2
       }
     ],
     "events": [],

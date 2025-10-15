@@ -2,7 +2,7 @@ window.AppData20250918 = {
   "report_question": "Top 25 locations for nomads to live and work in 2025",
   "report_date": "2025-09-18",
   "report_question_id": "4-top-25-places-for-no",
-  "report_created_at": "Oct 14, 2025, 5:54:31 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:51 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -359,11 +359,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "location-independent worker,remote lifestyle,traveling professional",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "2025",
@@ -621,11 +617,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "upcoming year,future date,2025 trends",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "affordability",
@@ -942,11 +934,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 2.5,
-      "similar": "cost-effectiveness,financial accessibility,price affordability",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 2.5
     },
     {
       "value": "internet quality",
@@ -1135,11 +1123,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "broadband speed,internet reliability,network performance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "quality of life",
@@ -1428,11 +1412,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "similar": "living standards,life quality,well-being",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "visa options",
@@ -1644,11 +1624,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "immigration options,visa choices,entry permits",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "community presence",
@@ -1837,11 +1813,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "social engagement,local involvement,community ties",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "coworking spaces",
@@ -2144,11 +2116,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1.5,
-      "similar": "shared office spaces,collaborative workspaces,workspace rentals",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "remote work visa",
@@ -2358,11 +2326,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "remote employment visa,work abroad permit,telecommute visa",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "travel",
@@ -2560,11 +2524,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "journey,trip,exploration",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "culture",
@@ -2834,11 +2794,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "societal norms,local customs,cultural practices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "expenditure",
@@ -3012,11 +2968,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "spending,expenses,budgeting",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "community",
@@ -3412,11 +3364,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 6.5,
-      "similar": "social network,neighborhood,local group",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 6.5
     },
     {
       "value": "weather",
@@ -3637,11 +3585,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "climate,temperature,seasonal conditions",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "safety",
@@ -3942,11 +3886,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "similar": "security,protection,safety measures",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "transport",
@@ -4142,11 +4082,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "mobility,transportation options,commuting",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "lifestyle",
@@ -4344,11 +4280,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "way of living,lifestyle choices,daily habits",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "digital nomad programs",
@@ -4537,11 +4469,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "digital nomad initiatives,remote work programs,nomadic lifestyle schemes",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "expat community",
@@ -4774,11 +4702,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "expatriate network,foreign community,overseas group",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "tech hubs",
@@ -4967,11 +4891,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "innovation centers,technology hubs,startup ecosystems",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "startup scene",
@@ -5197,11 +5117,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "entrepreneurial landscape,startup culture,venture scene",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "low cost of living",
@@ -5527,11 +5443,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1.5,
-      "similar": "affordable living,low living expenses,economic viability",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "global connectivity",
@@ -5705,11 +5617,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "internet access,global networking,worldwide connectivity",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "cultural experience",
@@ -5907,11 +5815,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "immersive experience,cultural immersion,local engagement",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "freelancer visa",
@@ -6100,11 +6004,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "freelance work visa,independent contractor visa,self-employment permit",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     }
   ],
   "places": [
@@ -6390,11 +6290,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://www.cm-lisboa.pt",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Bali, Indonesia",
@@ -6685,11 +6581,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "link": "https://maps.google.com/?q=Lisbon,Portugal",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "Chiang Mai, Thailand",
@@ -7257,11 +7149,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://www.medellin.gov.co",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Tbilisi, Georgia",
@@ -7543,11 +7431,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "link": "https://www.tbilisi.gov.ge",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "Mexico City, Mexico",
@@ -7813,11 +7697,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://www.cdmx.gob.mx",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Budapest, Hungary",
@@ -8101,11 +7981,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1.5,
-      "link": "https://www.budapest.hu",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "Canggu, Bali, Indonesia",
@@ -8294,11 +8170,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Canggu,Bali,Indonesia",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Barcelona, Spain",
@@ -8564,11 +8436,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.barcelona.cat",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Cape Town, South Africa",
@@ -8843,11 +8711,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.capetown.gov.za",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Buenos Aires, Argentina",
@@ -9113,11 +8977,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.buenosaires.gob.ar",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Dubai, UAE",
@@ -9383,11 +9243,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.dubai.ae",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Prague, Czech Republic",
@@ -9662,11 +9518,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://www.prague.eu",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Ho Chi Minh City, Vietnam",
@@ -9932,11 +9784,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Ho+Chi+Minh+City,Vietnam",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Tallinn, Estonia",
@@ -10211,11 +10059,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://www.tallinn.ee",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Playa del Carmen, Mexico",
@@ -10481,11 +10325,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://maps.google.com/?q=Playa+del+Carmen,Mexico",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Split, Croatia",
@@ -10742,11 +10582,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Split,Croatia",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Da Nang, Vietnam",
@@ -11021,11 +10857,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "link": "https://maps.google.com/?q=Da+Nang,Vietnam",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Madeira, Portugal",
@@ -11214,11 +11046,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.visitmadeira.pt",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "São Paulo, Brazil",
@@ -11475,11 +11303,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.saopaulo.sp.gov.br",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Taipei, Taiwan",

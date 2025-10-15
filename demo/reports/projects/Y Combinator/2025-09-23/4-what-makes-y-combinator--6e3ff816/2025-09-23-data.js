@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "What makes Y Combinator unique or different?",
   "report_date": "2025-09-23",
   "report_question_id": "4-what-makes-y-combinator--6e3ff816",
-  "report_created_at": "Oct 14, 2025, 5:55:55 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -171,11 +171,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://yc.safe",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "organizations": [
@@ -643,11 +639,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.airbnb.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Dropbox",
@@ -819,11 +811,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.dropbox.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Stripe",
@@ -986,11 +974,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://stripe.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Reddit",
@@ -1162,11 +1146,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.reddit.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Sequoia",
@@ -1385,11 +1365,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0,
-      "link": "https://www.sequoiacap.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "a16z",
@@ -1552,11 +1528,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://a16z.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Techstars",
@@ -2373,11 +2345,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 1.5,
-      "similar": "startup incubator,accelerator program,entrepreneurship support",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "seed funding",
@@ -2540,11 +2508,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "initial investment,early-stage financing,venture capital",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "mentorship",
@@ -2781,11 +2745,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0.5,
-      "similar": "guidance,coaching,advisory support",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "networking",
@@ -2948,11 +2908,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "professional connections,relationship building,network opportunities",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "investment deal",
@@ -3115,11 +3071,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "investment opportunity,funding agreement,financial deal",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "equity",
@@ -3328,11 +3280,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "ownership stake,shareholding,capital interest",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "ambitious startups",
@@ -3481,11 +3429,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "high-growth startups,innovative companies,disruptive ventures",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "scalable startups",
@@ -3648,11 +3592,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "high-potential startups,expandable businesses,rapidly growing firms",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "collaborative culture",
@@ -3815,11 +3755,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "team-oriented environment,cooperative culture,collaborative atmosphere",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "founder matching",
@@ -3982,11 +3918,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "founder pairing,entrepreneur matching,co-founder connection",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "global reach",
@@ -4205,11 +4137,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0,
-      "similar": "international presence,worldwide reach,global expansion",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "localized programs",
@@ -4372,11 +4300,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "regional programs,community-based initiatives,localized support",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "free tools",
@@ -4539,11 +4463,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "complimentary resources,free software,open-source tools",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "alumni network",
@@ -4731,11 +4651,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "graduate network,former participants,alumni community",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "batch size",
@@ -4898,11 +4814,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "cohort size,participant number,batch capacity",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "moonshots",
@@ -5065,11 +4977,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "high-risk projects,ambitious goals,transformative ideas",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "demo day",
@@ -5306,11 +5214,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "pitch event,showcase day,demonstration event",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "standardized terms",
@@ -5489,11 +5393,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "uniform agreements,standard contracts,consistent terms",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "intensive program",
@@ -5642,11 +5542,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "accelerated program,immersive experience,intensive training",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "foundational principles",
@@ -5809,11 +5705,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "core values,fundamental beliefs,essential principles",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "strong reputation",
@@ -5976,11 +5868,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "positive reputation,renowned status,trustworthy brand",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "technical founders",
@@ -6150,11 +6038,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "technical entrepreneurs,engineering founders,tech-savvy leaders",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "non-dilutive funding",
@@ -6324,11 +6208,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "grant funding,non-equity financing,subsidized capital",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     }
   ],
   "places": [
@@ -6549,11 +6429,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0,
-      "link": "https://www.siliconvalley.gov",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "events": [
