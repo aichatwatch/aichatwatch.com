@@ -2,7 +2,7 @@ window.AppData20250918 = {
   "report_question": "Best place to work from on planet for nomads in 2025?",
   "report_date": "2025-09-18",
   "report_question_id": "3-best-place-to-work-f",
-  "report_created_at": "Oct 14, 2025, 5:54:31 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:51 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -474,11 +474,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.ltrvisa.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Temporary Resident Visa",
@@ -667,11 +663,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.canada.ca/en/immigration-refugees-services/services/application/application-forms-guides/temporary-resident-visa.html",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "B211A Visa",
@@ -5336,11 +5328,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 2.5,
-      "similar": "location-independent workers,remote lifestyle,global travelers",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 2.5
     },
     {
       "value": "visa policies",
@@ -5606,11 +5594,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "similar": "immigration regulations,entry requirements,visa rules",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "cost of living",
@@ -5943,11 +5927,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "similar": "living expenses,monthly budget,financial planning",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "internet speed",
@@ -6238,11 +6218,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "similar": "broadband connectivity,network speed,online performance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "community",
@@ -6575,11 +6551,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "similar": "social network,group of friends,local connections",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "quality of life",
@@ -6852,11 +6824,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "similar": "standard of living,well-being,life satisfaction",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "expat community",
@@ -7122,11 +7090,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1.5,
-      "similar": "expatriate network,foreign community,international group",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1.5
     },
     {
       "value": "remote work",
@@ -7429,11 +7393,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "similar": "telecommuting,virtual work,remote employment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "co-working spaces",
@@ -7638,11 +7598,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "shared office spaces,collaborative workspaces,flexible work areas",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "housing",
@@ -7859,11 +7815,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "real estate,accommodation,property options",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "nomad hotspots",
@@ -8061,11 +8013,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "travel hotspots,digital nomad locations,popular destinations",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "travel advisories",
@@ -8254,11 +8202,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "travel warnings,safety alerts,advisory notices",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "safety",
@@ -8554,11 +8498,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "similar": "security,protection,safety measures",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "healthcare",
@@ -8770,11 +8710,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "medical services,health systems,wellness options",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "climate",
@@ -9009,11 +8945,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "weather patterns,environmental conditions,seasonal climate",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "emerging destinations",
@@ -9270,11 +9202,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0.5,
-      "similar": "rising destinations,new travel spots,upcoming locations",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "affordability",
@@ -9554,11 +9482,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "similar": "cost-effectiveness,value for money,economic viability",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "high-speed internet",
@@ -9754,11 +9678,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "fast internet,high-speed connectivity,quick online access",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "lifestyle",
@@ -10024,11 +9944,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "similar": "living style,personal lifestyle,way of life",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "stability",
@@ -10233,11 +10149,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "consistency,reliability,dependability",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "culture",
@@ -10474,11 +10386,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "local traditions,cultural heritage,community customs",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "urban life",
@@ -10667,11 +10575,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "city living,metropolitan lifestyle,urban environment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "rural experience",
@@ -10845,11 +10749,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "country living,rural lifestyle,agricultural experience",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "workation packages",
@@ -11045,11 +10945,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "remote work packages,workation deals,travel work offers",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "co-living spaces",
@@ -11245,11 +11141,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "similar": "shared living spaces,community housing,collaborative living",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     }
   ],
   "places": [
@@ -11953,11 +11845,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.gob.mx",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Bali",
@@ -12407,11 +12295,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.visitestonia.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Spain",
@@ -12616,11 +12500,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.spain.info",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Colombia",
@@ -13045,11 +12925,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.croatia.hr",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Cape Town",
@@ -13238,11 +13114,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.capetown.gov.za",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Malaysia",
@@ -13499,11 +13371,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 0,
-      "link": "https://www.malaysia.travel",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Uruguay",
@@ -13692,11 +13560,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.gouuguay.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Medellín",
@@ -13910,11 +13774,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://medellin.gov.co",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Lisbon",
@@ -14375,11 +14235,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.chiangmai.go.th",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Budapest",
@@ -14779,11 +14635,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Canggu,Indonesia",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Barcelona",
@@ -14988,11 +14840,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.barcelona.cat",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Costa Rica",
@@ -15497,11 +15345,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=New+Zealand",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Georgia",
@@ -15711,11 +15555,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.georgia.gov.ge",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Montenegro",
@@ -15979,11 +15819,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-15",
-      "volatility": 1,
-      "link": "https://www.montenegro.travel",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "Belize",
@@ -16186,11 +16022,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.travelbelize.org",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Tulum",
@@ -16395,11 +16227,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.tulum.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Suriname",
@@ -16588,11 +16416,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Suriname",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Guyana",
@@ -16781,11 +16605,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Guyana",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "San José",
@@ -16974,11 +16794,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://www.sanjose.go.cr",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Nosara",
@@ -17167,11 +16983,7 @@ window.AppData20250918 = {
       ],
       "lastSeen": "2025-09-18",
       "firstSeen": "2025-09-18",
-      "volatility": 0,
-      "link": "https://maps.google.com/?q=Nosara,Costa+Rica",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Tamarindo",
@@ -19158,9 +18970,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04651,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0
@@ -19353,7 +19165,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -19547,7 +19359,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -19741,7 +19553,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -19935,7 +19747,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -20129,7 +19941,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -20320,7 +20132,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -20511,7 +20323,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -20702,7 +20514,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -20896,7 +20708,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -21103,27 +20915,27 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
       "botCount": 3,
       "uniqueModelCount": 3,
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.06977,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0.11111
       },
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 16,
+        "or_meta_llama_3_3_70b": 17,
         "or_deepseek_chat_v3": 13,
         "or_google_gemini_2_0_flash_exp": 6
       },
-      "appearanceOrder": 11.67,
-      "influence": 0.28326,
+      "appearanceOrder": 12,
+      "influence": 0.28242,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.28462,
+        "or_meta_llama_3_3_70b": 0.27901,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 1,
         "or_google_gemini_2_0_flash_exp": 0.60275
       },
-      "weightedInfluence": 0.28326,
+      "weightedInfluence": 0.28242,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
@@ -21137,7 +20949,7 @@ window.AppData20250918 = {
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0.28326
+          "value": 0.28242
         },
         {
           "date": "2025-09-15",
@@ -21147,7 +20959,7 @@ window.AppData20250918 = {
       "appearanceOrderTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 11.67
+          "value": 12
         },
         {
           "date": "2025-09-15",
@@ -21226,7 +21038,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 0.28462
+            "value": 0.27901
           },
           {
             "date": "2025-09-15",
@@ -21274,7 +21086,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 16
+            "value": 17
           },
           {
             "date": "2025-09-15",
@@ -21367,7 +21179,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -21561,7 +21373,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -21752,7 +21564,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -21946,7 +21758,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -22140,7 +21952,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -22334,7 +22146,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -22528,7 +22340,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -22722,7 +22534,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -22916,7 +22728,7 @@ window.AppData20250918 = {
       "bots": "or_google_gemini_2_0_flash_exp",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -23110,9 +22922,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -23372,9 +23184,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -23566,9 +23378,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -23828,9 +23640,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -24022,9 +23834,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -24224,9 +24036,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
-      "mentionsAsPercent": 0.04762,
+      "mentionsAsPercent": 0.04651,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0
@@ -24419,9 +24231,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -24613,9 +24425,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -24807,9 +24619,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -25180,9 +24992,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -25374,25 +25186,25 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 15
+        "or_meta_llama_3_3_70b": 16
       },
-      "appearanceOrder": 15,
-      "influence": 0.24999,
+      "appearanceOrder": 16,
+      "influence": 0.24465,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "weightedInfluence": 0.24999,
+      "weightedInfluence": 0.24465,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
@@ -25402,13 +25214,13 @@ window.AppData20250918 = {
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0.24999
+          "value": 0.24465
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 15
+          "value": 16
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -25495,7 +25307,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 15
+            "value": 16
           }
         ],
         "or_qwen_32b": [
@@ -25568,203 +25380,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 17
-      },
-      "appearanceOrder": 17,
-      "influence": 0.23982,
-      "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "weightedInfluence": 0.23982,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 1
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 0.23982
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 17
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 1
-        }
-      ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": 999,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": 1
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": 999,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": 1
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": 10,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": 17
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 1,
-      "changePercent": 100,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-18",
-          "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-09-18",
-      "firstSeen": "2025-09-18",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "digitalnomadsforum.com",
-      "link": "digitalnomadsforum.com",
-      "linkType": "rea",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "or_meta_llama_3_3_70b": 2996,
-        "or_qwen_32b": -1,
-        "or_deepseek_chat_v3": -1,
-        "or_google_gemini_2_0_flash_exp": -1
-      },
-      "excerptsByModel": {
-        "or_deepseek_chat_v3": [],
-        "or_google_gemini_2_0_flash_exp": [],
-        "or_meta_llama_3_3_70b": [
-          {
-            "appearanceOrder": 2996,
-            "excerpt": "motyear.com): A program that connects remote workers with destinations and communities worldwide.\n* [Digital Nomads Forum](https://www.digitalnomadsforum.com): A community-driven platform for sharing experiences, asking questions, and finding resources rela",
-            "line": 19,
-            "column": 3,
-            "captureDate": "2025-09-18"
-          }
-        ],
-        "or_qwen_32b": []
-      },
-      "mentions": 1,
-      "bots": "or_meta_llama_3_3_70b",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -25920,6 +25538,200 @@ window.AppData20250918 = {
     },
     {
       "type": "link",
+      "value": "digitalnomadsforum.com",
+      "link": "digitalnomadsforum.com",
+      "linkType": "rea",
+      "sources": {
+        "linkType": "AI"
+      },
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2996,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2996,
+            "excerpt": "motyear.com): A program that connects remote workers with destinations and communities worldwide.\n* [Digital Nomads Forum](https://www.digitalnomadsforum.com): A community-driven platform for sharing experiences, asking questions, and finding resources rela",
+            "line": 19,
+            "column": 3,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02326,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.05263,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 19
+      },
+      "appearanceOrder": 19,
+      "influence": 0.23139,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.23139,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.23139
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 19
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-18",
+      "volatility": 0
+    },
+    {
+      "type": "link",
       "value": "mdec.my",
       "link": "mdec.my",
       "linkType": "reg",
@@ -25956,7 +25768,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -26114,8 +25926,8 @@ window.AppData20250918 = {
     },
     {
       "type": "link",
-      "value": "remoteyear.com/)**",
-      "link": "remoteyear.com/)**",
+      "value": "remoteyear.com",
+      "link": "remoteyear.com",
       "linkType": "trl",
       "sources": {
         "linkType": "AI"
@@ -26150,7 +25962,7 @@ window.AppData20250918 = {
       "bots": "or_deepseek_chat_v3",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_qwen_32b": 0,
@@ -26173,32 +25985,48 @@ window.AppData20250918 = {
         {
           "date": "2025-09-18",
           "value": 1
+        },
+        {
+          "date": "2025-09-15",
+          "value": 3
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
           "value": 0.25596
+        },
+        {
+          "date": "2025-09-15",
+          "value": 0.74999
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-09-18",
           "value": 14
+        },
+        {
+          "date": "2025-09-15",
+          "value": 8
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-09-18",
           "value": 1
+        },
+        {
+          "date": "2025-09-15",
+          "value": 1
         }
       ],
-      "mentionsTrend": 999,
-      "influenceTrend": 999,
-      "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": 999,
+      "mentionsTrend": -1,
+      "influenceTrend": -1,
+      "appearanceOrderTrend": 10,
+      "uniqueModelCountTrend": 1,
       "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
+        "or_meta_llama_3_3_70b": -99,
         "or_qwen_32b": -9999,
         "or_deepseek_chat_v3": 999,
         "or_google_gemini_2_0_flash_exp": -9999
@@ -26208,11 +26036,19 @@ window.AppData20250918 = {
           {
             "date": "2025-09-18",
             "value": 0
+          },
+          {
+            "date": "2025-09-15",
+            "value": 3
           }
         ],
         "or_qwen_32b": [
           {
             "date": "2025-09-18",
+            "value": 0
+          },
+          {
+            "date": "2025-09-15",
             "value": 0
           }
         ],
@@ -26220,17 +26056,25 @@ window.AppData20250918 = {
           {
             "date": "2025-09-18",
             "value": 1
+          },
+          {
+            "date": "2025-09-15",
+            "value": 0
           }
         ],
         "or_google_gemini_2_0_flash_exp": [
           {
             "date": "2025-09-18",
             "value": 0
+          },
+          {
+            "date": "2025-09-15",
+            "value": 0
           }
         ]
       },
       "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
+        "or_meta_llama_3_3_70b": -99,
         "or_qwen_32b": -9999,
         "or_deepseek_chat_v3": 999,
         "or_google_gemini_2_0_flash_exp": -9999
@@ -26240,11 +26084,19 @@ window.AppData20250918 = {
           {
             "date": "2025-09-18",
             "value": 0
+          },
+          {
+            "date": "2025-09-15",
+            "value": 1
           }
         ],
         "or_qwen_32b": [
           {
             "date": "2025-09-18",
+            "value": 0
+          },
+          {
+            "date": "2025-09-15",
             "value": 0
           }
         ],
@@ -26252,11 +26104,19 @@ window.AppData20250918 = {
           {
             "date": "2025-09-18",
             "value": 1
+          },
+          {
+            "date": "2025-09-15",
+            "value": 0
           }
         ],
         "or_google_gemini_2_0_flash_exp": [
           {
             "date": "2025-09-18",
+            "value": 0
+          },
+          {
+            "date": "2025-09-15",
             "value": 0
           }
         ]
@@ -26272,6 +26132,217 @@ window.AppData20250918 = {
           {
             "date": "2025-09-18",
             "value": -1
+          },
+          {
+            "date": "2025-09-15",
+            "value": 8
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          },
+          {
+            "date": "2025-09-15",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 14
+          },
+          {
+            "date": "2025-09-15",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": -1
+          },
+          {
+            "date": "2025-09-15",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 3,
+      "mentions_change": -2,
+      "changePercent": -66.7,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-18",
+          "mentions": 1
+        },
+        {
+          "date": "2025-09-15",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-18",
+      "firstSeen": "2025-09-15",
+      "volatility": 1
+    },
+    {
+      "type": "link",
+      "value": "creativehq.co.nz",
+      "link": "creativehq.co.nz",
+      "linkType": "oth",
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2438,
+        "or_qwen_32b": -1,
+        "or_deepseek_chat_v3": -1,
+        "or_google_gemini_2_0_flash_exp": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2438,
+            "excerpt": "ctivities, and modern infrastructure. Auckland ([GridAKL](https://www.gridakl.com)) and Wellington ([Creative HQ](https://www.creativehq.co.nz)) have a range of coworking spaces. New Zealand's [Working Holiday Visa](https://www.immigration.go",
+            "line": 13,
+            "column": 183,
+            "captureDate": "2025-09-18"
+          }
+        ],
+        "or_qwen_32b": []
+      },
+      "mentions": 1,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercent": 0.02326,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.05263,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 15
+      },
+      "appearanceOrder": 15,
+      "influence": 0.24999,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.24999,
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 0.24999
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-18",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 1
+          }
+        ],
+        "or_qwen_32b": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-18",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_qwen_32b": -9999,
+        "or_deepseek_chat_v3": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-18",
+            "value": 15
           }
         ],
         "or_qwen_32b": [
@@ -26283,7 +26354,7 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": [
           {
             "date": "2025-09-18",
-            "value": 14
+            "value": -1
           }
         ],
         "or_google_gemini_2_0_flash_exp": [
@@ -26300,185 +26371,6 @@ window.AppData20250918 = {
         {
           "date": "2025-09-18",
           "mentions": 1
-        }
-      ],
-      "lastSeen": "2025-09-18",
-      "firstSeen": "2025-09-18",
-      "volatility": 0
-    },
-    {
-      "type": "link",
-      "value": "creativehq.co.nz))",
-      "link": "creativehq.co.nz))",
-      "linkType": "frm",
-      "sources": {
-        "linkType": "AI"
-      },
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "firstAppearanceOrderCharByModel": {
-        "or_meta_llama_3_3_70b": -1,
-        "or_qwen_32b": -1,
-        "or_deepseek_chat_v3": -1,
-        "or_google_gemini_2_0_flash_exp": -1
-      },
-      "excerptsByModel": {
-        "or_deepseek_chat_v3": [],
-        "or_google_gemini_2_0_flash_exp": [],
-        "or_meta_llama_3_3_70b": [],
-        "or_qwen_32b": []
-      },
-      "mentions": 0,
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercent": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "appearanceOrderByModel": {},
-      "appearanceOrder": -1,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
-      "mentionsTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 0
-        }
-      ],
-      "influenceTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 0
-        }
-      ],
-      "appearanceOrderTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": -1
-        }
-      ],
-      "uniqueModelCountTrendVals": [
-        {
-          "date": "2025-09-18",
-          "value": 0
-        }
-      ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
-      "appearanceOrderTrend": -9999,
-      "uniqueModelCountTrend": -9999,
-      "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "mentionsByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ]
-      },
-      "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "influenceByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": 0
-          }
-        ]
-      },
-      "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
-        "or_qwen_32b": -9999,
-        "or_deepseek_chat_v3": -9999,
-        "or_google_gemini_2_0_flash_exp": -9999
-      },
-      "appearanceOrderByModelTrendVals": {
-        "or_meta_llama_3_3_70b": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ],
-        "or_qwen_32b": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ],
-        "or_deepseek_chat_v3": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ],
-        "or_google_gemini_2_0_flash_exp": [
-          {
-            "date": "2025-09-18",
-            "value": -1
-          }
-        ]
-      },
-      "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
-      "mentionsHistory": [
-        {
-          "date": "2025-09-18",
-          "mentions": 0
         }
       ],
       "lastSeen": "2025-09-18",
@@ -26881,9 +26773,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -27075,9 +26967,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -27448,9 +27340,9 @@ window.AppData20250918 = {
       "bots": "or_meta_llama_3_3_70b",
       "botCount": 1,
       "uniqueModelCount": 1,
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -27621,12 +27513,12 @@ window.AppData20250918 = {
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.33333,
+        "or_meta_llama_3_3_70b": 0.31579,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.2,
         "or_google_gemini_2_0_flash_exp": 0.33333
       },
-      "mentionsAsPercent": 0.28571,
+      "mentionsAsPercent": 0.27907,
       "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 7,
@@ -27799,7 +27691,7 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": 0.46667,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.16667,
+      "mentionsAsPercent": 0.16279,
       "appearanceOrder": 7,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": -1,
@@ -27967,12 +27859,12 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.27778,
+        "or_meta_llama_3_3_70b": 0.26316,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.11905,
+      "mentionsAsPercent": 0.11628,
       "appearanceOrder": 8,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 8,
@@ -27980,14 +27872,14 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": -1,
         "or_google_gemini_2_0_flash_exp": -1
       },
-      "influence": 2.07599,
+      "influence": 2.07197,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 5,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "weightedInfluence": 2.07599,
+      "weightedInfluence": 2.07197,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
@@ -27997,7 +27889,7 @@ window.AppData20250918 = {
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 2.07599
+          "value": 2.07197
         }
       ],
       "appearanceOrderTrendVals": [
@@ -28140,12 +28032,12 @@ window.AppData20250918 = {
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.16667,
+        "or_meta_llama_3_3_70b": 0.15789,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.2,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.14286,
+      "mentionsAsPercent": 0.13953,
       "appearanceOrder": 10,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 10,
@@ -28318,7 +28210,7 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0.44444
       },
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.09302,
       "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": -1,
@@ -28491,7 +28383,7 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0.11111
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": -1,
@@ -28659,27 +28551,27 @@ window.AppData20250918 = {
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0.11111
       },
-      "mentionsAsPercent": 0.07143,
+      "mentionsAsPercent": 0.06977,
       "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 16,
+        "or_meta_llama_3_3_70b": 17,
         "or_qwen_32b": -1,
         "or_deepseek_chat_v3": 13,
         "or_google_gemini_2_0_flash_exp": 6
       },
-      "influence": 0.28326,
+      "influence": 0.28242,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.28462,
+        "or_meta_llama_3_3_70b": 0.27901,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 1,
         "or_google_gemini_2_0_flash_exp": 0.60275
       },
-      "weightedInfluence": 0.28326,
+      "weightedInfluence": 0.28242,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
@@ -28689,7 +28581,7 @@ window.AppData20250918 = {
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0.28326
+          "value": 0.28242
         }
       ],
       "appearanceOrderTrendVals": [
@@ -28750,7 +28642,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 0.28462
+            "value": 0.27901
           }
         ],
         "or_qwen_32b": [
@@ -28782,7 +28674,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 16
+            "value": 17
           }
         ],
         "or_qwen_32b": [
@@ -28832,12 +28724,12 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "appearanceOrder": 14,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 14,
@@ -29010,7 +28902,7 @@ window.AppData20250918 = {
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "appearanceOrder": 15,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": -1,
@@ -29165,8 +29057,8 @@ window.AppData20250918 = {
     },
     {
       "type": "linkType",
-      "code": "fin",
-      "value": "Financial Services",
+      "code": "oth",
+      "value": "Other",
       "mentions": 1,
       "mentionsByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -29178,12 +29070,12 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "appearanceOrder": 15,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 15,
@@ -29338,8 +29230,8 @@ window.AppData20250918 = {
     },
     {
       "type": "linkType",
-      "code": "blg",
-      "value": "Blogs",
+      "code": "fin",
+      "value": "Financial Services",
       "mentions": 1,
       "mentionsByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -29351,27 +29243,27 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0.02381,
-      "appearanceOrder": 17,
+      "mentionsAsPercent": 0.02326,
+      "appearanceOrder": 16,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 17,
+        "or_meta_llama_3_3_70b": 16,
         "or_qwen_32b": -1,
         "or_deepseek_chat_v3": -1,
         "or_google_gemini_2_0_flash_exp": -1
       },
-      "influence": 0.23982,
+      "influence": 0.24465,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "weightedInfluence": 0.23982,
+      "weightedInfluence": 0.24465,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
@@ -29381,13 +29273,13 @@ window.AppData20250918 = {
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0.23982
+          "value": 0.24465
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 17
+          "value": 16
         }
       ],
       "uniqueModelCountTrendVals": [
@@ -29474,7 +29366,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 17
+            "value": 16
           }
         ],
         "or_qwen_32b": [
@@ -29511,65 +29403,70 @@ window.AppData20250918 = {
     },
     {
       "type": "linkType",
-      "code": "frm",
-      "value": "Forums",
-      "mentions": 0,
+      "code": "blg",
+      "value": "Blogs",
+      "mentions": 1,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
+        "or_meta_llama_3_3_70b": 1,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
       },
-      "mentionsAsPercent": 0,
-      "appearanceOrder": 999,
+      "mentionsAsPercent": 0.02326,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": -1,
+        "or_meta_llama_3_3_70b": 18,
         "or_qwen_32b": -1,
         "or_deepseek_chat_v3": -1,
         "or_google_gemini_2_0_flash_exp": -1
       },
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0,
+      "influence": 0.23541,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.23541,
       "mentionsTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0
+          "value": 1
         }
       ],
       "influenceTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0
+          "value": 0.23541
         }
       ],
       "appearanceOrderTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 999
+          "value": 18
         }
       ],
       "uniqueModelCountTrendVals": [
         {
           "date": "2025-09-18",
-          "value": 0
+          "value": 1
         }
       ],
-      "mentionsTrend": -9999,
-      "influenceTrend": -9999,
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
       "appearanceOrderTrend": 999,
-      "uniqueModelCountTrend": -9999,
+      "uniqueModelCountTrend": 999,
       "mentionsByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
+        "or_meta_llama_3_3_70b": 999,
         "or_qwen_32b": -9999,
         "or_deepseek_chat_v3": -9999,
         "or_google_gemini_2_0_flash_exp": -9999
@@ -29578,7 +29475,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 0
+            "value": 1
           }
         ],
         "or_qwen_32b": [
@@ -29601,7 +29498,7 @@ window.AppData20250918 = {
         ]
       },
       "influenceByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
+        "or_meta_llama_3_3_70b": 999,
         "or_qwen_32b": -9999,
         "or_deepseek_chat_v3": -9999,
         "or_google_gemini_2_0_flash_exp": -9999
@@ -29610,7 +29507,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": 0
+            "value": 1
           }
         ],
         "or_qwen_32b": [
@@ -29633,7 +29530,7 @@ window.AppData20250918 = {
         ]
       },
       "appearanceOrderByModelTrend": {
-        "or_meta_llama_3_3_70b": -9999,
+        "or_meta_llama_3_3_70b": 10,
         "or_qwen_32b": -9999,
         "or_deepseek_chat_v3": -9999,
         "or_google_gemini_2_0_flash_exp": -9999
@@ -29642,7 +29539,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": [
           {
             "date": "2025-09-18",
-            "value": -1
+            "value": 18
           }
         ],
         "or_qwen_32b": [
@@ -29665,12 +29562,12 @@ window.AppData20250918 = {
         ]
       },
       "previous_mentions": 0,
-      "mentions_change": 0,
-      "changePercent": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
       "mentionsHistory": [
         {
           "date": "2025-09-18",
-          "mentions": 0
+          "mentions": 1
         }
       ],
       "lastSeen": "2025-09-18",
@@ -29745,7 +29642,7 @@ window.AppData20250918 = {
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.11111,
+        "or_meta_llama_3_3_70b": 0.10526,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.13333,
         "or_google_gemini_2_0_flash_exp": 0
@@ -29755,7 +29652,7 @@ window.AppData20250918 = {
         "or_meta_llama_3_3_70b": 6,
         "or_deepseek_chat_v3": 1
       },
-      "mentionsAsPercent": 0.09524,
+      "mentionsAsPercent": 0.09302,
       "influence": 1.41062,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0.27027999999999996,
@@ -29816,7 +29713,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 1
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 1,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -29868,7 +29765,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -29877,7 +29774,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 1
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 1,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -29938,7 +29835,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 2
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.63094,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -29990,7 +29887,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -29999,7 +29896,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 2
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.63094,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -30060,7 +29957,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 3
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.50002,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30121,7 +30018,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 3
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.50002,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30173,7 +30070,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -30182,7 +30079,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 3
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.50002,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -30243,7 +30140,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 4
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.43068,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30304,7 +30201,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 4
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.43068,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30356,7 +30253,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -30365,7 +30262,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 4
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.43068,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -30426,7 +30323,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 5
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.38685,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30487,7 +30384,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 5
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.38685,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30539,7 +30436,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -30548,7 +30445,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 5
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.38685,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -30609,7 +30506,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 6
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.35622,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30670,7 +30567,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 7
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.33333,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30731,7 +30628,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 7
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.33333,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30792,7 +30689,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 8
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.31545,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30853,7 +30750,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 8
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.31545,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -30905,7 +30802,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -30914,7 +30811,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 8
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.31545,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -30975,7 +30872,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 9
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.30102,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31036,7 +30933,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 9
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.30102,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31088,7 +30985,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31097,7 +30994,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 9
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.30102,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31158,7 +31055,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 10
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.28905,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31210,7 +31107,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31219,7 +31116,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 10
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.28905,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31247,9 +31144,9 @@ window.AppData20250918 = {
         {
           "link": "nomadlist.com",
           "mentions": 3,
-          "appearanceOrder": 11.67,
+          "appearanceOrder": 12,
           "appearanceOrderByModel": {
-            "or_meta_llama_3_3_70b": 16,
+            "or_meta_llama_3_3_70b": 17,
             "or_deepseek_chat_v3": 13,
             "or_google_gemini_2_0_flash_exp": 6
           },
@@ -31259,40 +31156,40 @@ window.AppData20250918 = {
             "or_deepseek_chat_v3": 1,
             "or_google_gemini_2_0_flash_exp": 1
           },
-          "influence": 0.28326,
+          "influence": 0.28242,
           "influenceByModel": {
-            "or_meta_llama_3_3_70b": 0.28462,
+            "or_meta_llama_3_3_70b": 0.27901,
             "or_qwen_32b": 0,
             "or_deepseek_chat_v3": 1,
             "or_google_gemini_2_0_flash_exp": 0.60275
           },
-          "weightedInfluence": 0.28326
+          "weightedInfluence": 0.28242
         }
       ],
       "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0.06667,
         "or_google_gemini_2_0_flash_exp": 0.11111
       },
-      "appearanceOrder": 11.67,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 16,
+        "or_meta_llama_3_3_70b": 17,
         "or_deepseek_chat_v3": 13,
         "or_google_gemini_2_0_flash_exp": 6
       },
-      "mentionsAsPercent": 0.07143,
-      "influence": 0.28326,
+      "mentionsAsPercent": 0.06977,
+      "influence": 0.28242,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.28462,
+        "or_meta_llama_3_3_70b": 0.27901,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 1,
         "or_google_gemini_2_0_flash_exp": 0.60275
       },
-      "weightedInfluence": 0.28326
+      "weightedInfluence": 0.28242
     },
     {
       "type": "linkDomain",
@@ -31345,7 +31242,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 11
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.27894,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31397,7 +31294,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31406,7 +31303,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 11
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.27894,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31467,7 +31364,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 12
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.27024,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31519,7 +31416,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31528,7 +31425,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 12
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.27024,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31580,7 +31477,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31589,7 +31486,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 13
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.26265,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31641,7 +31538,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31650,7 +31547,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 14
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.25596,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31676,7 +31573,7 @@ window.AppData20250918 = {
       },
       "sources": [
         {
-          "link": "remoteyear.com/)**",
+          "link": "remoteyear.com",
           "mentions": 1,
           "appearanceOrder": 14,
           "appearanceOrderByModel": {
@@ -31711,7 +31608,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 14
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.25596,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31772,7 +31669,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 15
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.24999,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
@@ -31784,11 +31681,11 @@ window.AppData20250918 = {
     },
     {
       "type": "linkDomain",
-      "code": "immigration.govt.nz",
-      "value": "immigration.govt.nz",
-      "link": "https://immigration.govt.nz",
-      "linkType": "fin",
-      "linkTypeName": "Financial Services",
+      "code": "creativehq.co.nz",
+      "value": "creativehq.co.nz",
+      "link": "https://creativehq.co.nz",
+      "linkType": "oth",
+      "linkTypeName": "Other",
       "mentions": 1,
       "mentionsByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31798,7 +31695,7 @@ window.AppData20250918 = {
       },
       "sources": [
         {
-          "link": "immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/working-holiday-visa",
+          "link": "creativehq.co.nz",
           "mentions": 1,
           "appearanceOrder": 15,
           "appearanceOrderByModel": {
@@ -31824,7 +31721,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31833,7 +31730,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 15
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.24999,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31842,6 +31739,67 @@ window.AppData20250918 = {
         "or_google_gemini_2_0_flash_exp": 0
       },
       "weightedInfluence": 0.24999
+    },
+    {
+      "type": "linkDomain",
+      "code": "immigration.govt.nz",
+      "value": "immigration.govt.nz",
+      "link": "https://immigration.govt.nz",
+      "linkType": "fin",
+      "linkTypeName": "Financial Services",
+      "mentions": 1,
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "sources": [
+        {
+          "link": "immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/working-holiday-visa",
+          "mentions": 1,
+          "appearanceOrder": 16,
+          "appearanceOrderByModel": {
+            "or_meta_llama_3_3_70b": 16
+          },
+          "mentionsByModel": {
+            "or_meta_llama_3_3_70b": 1,
+            "or_qwen_32b": 0,
+            "or_deepseek_chat_v3": 0,
+            "or_google_gemini_2_0_flash_exp": 0
+          },
+          "influence": 0.24465,
+          "influenceByModel": {
+            "or_meta_llama_3_3_70b": 1,
+            "or_qwen_32b": 0,
+            "or_deepseek_chat_v3": 0,
+            "or_google_gemini_2_0_flash_exp": 0
+          },
+          "weightedInfluence": 0.24465
+        }
+      ],
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.05263,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrder": 16,
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 16
+      },
+      "mentionsAsPercent": 0.02326,
+      "influence": 0.24465,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.24465
     },
     {
       "type": "linkDomain",
@@ -31860,67 +31818,6 @@ window.AppData20250918 = {
       "sources": [
         {
           "link": "remotyear.com",
-          "mentions": 1,
-          "appearanceOrder": 17,
-          "appearanceOrderByModel": {
-            "or_meta_llama_3_3_70b": 17
-          },
-          "mentionsByModel": {
-            "or_meta_llama_3_3_70b": 1,
-            "or_qwen_32b": 0,
-            "or_deepseek_chat_v3": 0,
-            "or_google_gemini_2_0_flash_exp": 0
-          },
-          "influence": 0.23982,
-          "influenceByModel": {
-            "or_meta_llama_3_3_70b": 1,
-            "or_qwen_32b": 0,
-            "or_deepseek_chat_v3": 0,
-            "or_google_gemini_2_0_flash_exp": 0
-          },
-          "weightedInfluence": 0.23982
-        }
-      ],
-      "bots": "or_meta_llama_3_3_70b",
-      "botCount": 1,
-      "uniqueModelCount": 1,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "appearanceOrder": 17,
-      "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 17
-      },
-      "mentionsAsPercent": 0.02381,
-      "influence": 0.23982,
-      "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "weightedInfluence": 0.23982
-    },
-    {
-      "type": "linkDomain",
-      "code": "digitalnomadsforum.com",
-      "value": "digitalnomadsforum.com",
-      "link": "https://digitalnomadsforum.com",
-      "linkType": "rea",
-      "linkTypeName": "Real Estate",
-      "mentions": 1,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "sources": [
-        {
-          "link": "digitalnomadsforum.com",
           "mentions": 1,
           "appearanceOrder": 18,
           "appearanceOrderByModel": {
@@ -31946,7 +31843,7 @@ window.AppData20250918 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05556,
+        "or_meta_llama_3_3_70b": 0.05263,
         "or_qwen_32b": 0,
         "or_deepseek_chat_v3": 0,
         "or_google_gemini_2_0_flash_exp": 0
@@ -31955,7 +31852,7 @@ window.AppData20250918 = {
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 18
       },
-      "mentionsAsPercent": 0.02381,
+      "mentionsAsPercent": 0.02326,
       "influence": 0.23541,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
@@ -31964,6 +31861,67 @@ window.AppData20250918 = {
         "or_google_gemini_2_0_flash_exp": 0
       },
       "weightedInfluence": 0.23541
+    },
+    {
+      "type": "linkDomain",
+      "code": "digitalnomadsforum.com",
+      "value": "digitalnomadsforum.com",
+      "link": "https://digitalnomadsforum.com",
+      "linkType": "rea",
+      "linkTypeName": "Real Estate",
+      "mentions": 1,
+      "mentionsByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "sources": [
+        {
+          "link": "digitalnomadsforum.com",
+          "mentions": 1,
+          "appearanceOrder": 19,
+          "appearanceOrderByModel": {
+            "or_meta_llama_3_3_70b": 19
+          },
+          "mentionsByModel": {
+            "or_meta_llama_3_3_70b": 1,
+            "or_qwen_32b": 0,
+            "or_deepseek_chat_v3": 0,
+            "or_google_gemini_2_0_flash_exp": 0
+          },
+          "influence": 0.23139,
+          "influenceByModel": {
+            "or_meta_llama_3_3_70b": 1,
+            "or_qwen_32b": 0,
+            "or_deepseek_chat_v3": 0,
+            "or_google_gemini_2_0_flash_exp": 0
+          },
+          "weightedInfluence": 0.23139
+        }
+      ],
+      "bots": "or_meta_llama_3_3_70b",
+      "botCount": 1,
+      "uniqueModelCount": 1,
+      "mentionsAsPercentByModel": {
+        "or_meta_llama_3_3_70b": 0.05263,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "appearanceOrder": 19,
+      "appearanceOrderByModel": {
+        "or_meta_llama_3_3_70b": 19
+      },
+      "mentionsAsPercent": 0.02326,
+      "influence": 0.23139,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 1,
+        "or_qwen_32b": 0,
+        "or_deepseek_chat_v3": 0,
+        "or_google_gemini_2_0_flash_exp": 0
+      },
+      "weightedInfluence": 0.23139
     },
     {
       "type": "linkDomain",
@@ -31982,53 +31940,6 @@ window.AppData20250918 = {
       "sources": [
         {
           "link": "ucae spanish.com",
-          "mentions": 0,
-          "appearanceOrder": -1,
-          "appearanceOrderByModel": {},
-          "mentionsByModel": {
-            "or_meta_llama_3_3_70b": 0,
-            "or_qwen_32b": 0,
-            "or_deepseek_chat_v3": 0,
-            "or_google_gemini_2_0_flash_exp": 0
-          },
-          "influence": 0,
-          "influenceByModel": {},
-          "weightedInfluence": 0
-        }
-      ],
-      "bots": "",
-      "botCount": 0,
-      "uniqueModelCount": 0,
-      "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "appearanceOrder": -1,
-      "appearanceOrderByModel": {},
-      "mentionsAsPercent": 0,
-      "influence": 0,
-      "influenceByModel": {},
-      "weightedInfluence": 0
-    },
-    {
-      "type": "linkDomain",
-      "code": "creativehq.co.nz))",
-      "value": "creativehq.co.nz))",
-      "link": "https://creativehq.co.nz))",
-      "linkType": "frm",
-      "linkTypeName": "Forums",
-      "mentions": 0,
-      "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 0,
-        "or_qwen_32b": 0,
-        "or_deepseek_chat_v3": 0,
-        "or_google_gemini_2_0_flash_exp": 0
-      },
-      "sources": [
-        {
-          "link": "creativehq.co.nz))",
           "mentions": 0,
           "appearanceOrder": -1,
           "appearanceOrderByModel": {},
@@ -32294,7 +32205,7 @@ window.AppData20250918 = {
     "links": [
       {
         "id": "or_meta_llama_3_3_70b",
-        "count": 18
+        "count": 19
       },
       {
         "id": "or_deepseek_chat_v3",
@@ -32349,6 +32260,18 @@ window.AppData20250918 = {
       {
         "id": "or_deepseek_chat_v3",
         "count": 1
+      },
+      {
+        "id": "or_meta_llama_3_3_70b",
+        "count": 1
+      },
+      {
+        "id": "or_qwen_32b",
+        "count": 1
+      },
+      {
+        "id": "or_google_gemini_2_0_flash_exp",
+        "count": 1
       }
     ]
   },
@@ -32383,15 +32306,15 @@ window.AppData20250918 = {
       },
       {
         "id": "-9999",
-        "count": 5
+        "count": 4
+      },
+      {
+        "id": "10",
+        "count": 2
       },
       {
         "id": "-1",
         "count": 2
-      },
-      {
-        "id": "10",
-        "count": 1
       }
     ],
     "keywords": [
@@ -32416,11 +32339,11 @@ window.AppData20250918 = {
     "linkTypes": [
       {
         "id": "-9999",
-        "count": 11
+        "count": 10
       },
       {
         "id": "-1",
-        "count": 1
+        "count": 2
       }
     ]
   }

@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "What are the top alternatives to Y Combinator?",
   "report_date": "2025-09-23",
   "report_question_id": "2-what-are-the-top-alterna-c2491069",
-  "report_created_at": "Oct 14, 2025, 5:55:55 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -925,11 +925,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://skydeck.berkeley.edu",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Alchemist Accelerator",
@@ -1954,11 +1950,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0.5,
-      "link": "https://dreamit.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "Seedcamp",
@@ -2607,11 +2599,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://pear.vc",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "HAX",
@@ -5044,11 +5032,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://betaworks.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "Founders Factory",
@@ -5211,11 +5195,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://foundersfactory.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "persons": [],
@@ -5483,11 +5463,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "advanced technology,emerging tech,innovative tech",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "program structure",
@@ -5657,11 +5633,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "environmental technology,sustainable tech,green technology",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "investment size",
@@ -5824,11 +5796,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "devices,technology products,electronics",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "focus areas",
@@ -6000,11 +5968,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "automation technology,AI robotics,robot technology",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "reputation",
@@ -6174,11 +6138,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "fast-growing firms,rapidly scaling businesses,high-potential startups",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "global network",
@@ -6341,11 +6301,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "digital marketplaces,online platforms,e-commerce sites",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "mentorship",
@@ -6631,11 +6587,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 5,
-      "similar": "cloud software,subscription software,web-based applications",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 5
     },
     {
       "value": "funding",
@@ -6872,11 +6824,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "financial technology,financial services innovation,digital finance",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "resources",
@@ -7104,11 +7052,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "medical technology,health innovation,healthcare technology",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "early-stage startups",
@@ -7308,11 +7252,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "sustainable technology,eco-friendly tech,environmental solutions",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "biotech",
@@ -7521,11 +7461,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "scientific study,academic research,investigative research",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "DIV",
@@ -7711,11 +7647,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "startup tools,entrepreneur resources,business support",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "non-profit",
@@ -7878,11 +7810,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "international groups,global networks,worldwide communities",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "zero-equity",
@@ -8045,11 +7973,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "industry sectors,market segments,sector-specific",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "B2B",
@@ -8284,11 +8208,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 1,
-      "similar": "review platforms,product comparison sites,ranking tools",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "startup ecosystem",
@@ -8493,11 +8413,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0.5,
-      "similar": "startup-friendly,entrepreneurial support,founder-oriented",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0.5
     },
     {
       "value": "equity",
@@ -8718,11 +8634,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "ownership stake,shareholding,capital interest",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "funding model",
@@ -8885,11 +8797,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "funding strategy,financial approach,investment model",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "tech industries",
@@ -9038,11 +8946,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "technology sectors,tech domains,digital industries",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "social impact",
@@ -9205,11 +9109,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "community impact,social change,positive influence",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "scaling startups",
@@ -9358,11 +9258,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "growth strategies,expansion tactics,scaling methods",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "network",
@@ -9585,11 +9481,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "connections,relationships,associations",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "entrepreneurship",
@@ -9738,11 +9630,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "startup culture,entrepreneurial spirit,business innovation",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "support",
@@ -9928,11 +9816,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "assistance,aid,help",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "global presence",
@@ -10104,11 +9988,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "international reach,global footprint,worldwide presence",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "seed funding",
@@ -10257,11 +10137,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "initial funding,seed capital,pre-seed investment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "mentorship-driven",
@@ -10424,11 +10300,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "mentorship-focused,advisory-led,guide-oriented",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "diverse startups",
@@ -10591,11 +10463,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "varied startups,mixed ventures,diverse businesses",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "sector specialization",
@@ -10744,11 +10612,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "industry focus,niche specialization,sector expertise",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "corporate partnerships",
@@ -10911,11 +10775,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "collaborative partnerships,corporate alliances,business collaborations",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "deep tech",

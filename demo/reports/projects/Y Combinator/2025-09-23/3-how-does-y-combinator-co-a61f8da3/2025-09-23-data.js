@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "How does Y Combinator compare to similar options?",
   "report_date": "2025-09-23",
   "report_question_id": "3-how-does-y-combinator-co-a61f8da3",
-  "report_created_at": "Oct 14, 2025, 5:55:55 PM",
+  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -3521,11 +3521,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.lsvp.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "First Round Capital",
@@ -3688,11 +3684,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://firstround.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "persons": [],
@@ -3883,11 +3875,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "regional emphasis,location-based strategy,area-specific focus",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "funding",
@@ -4208,11 +4196,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 6,
-      "similar": "developing economies,growth markets,up-and-coming markets",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 6
     },
     {
       "value": "mentorship",
@@ -4526,11 +4510,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 6,
-      "similar": "community-driven initiatives,local engagement programs,social impact projects",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 6
     },
     {
       "value": "investment",
@@ -4751,11 +4731,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "digital incubators,virtual startup programs,web-based accelerators",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "equity",
@@ -5039,11 +5015,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 2,
-      "similar": "small-scale accelerators,tiny incubators,mini accelerators",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 2
     },
     {
       "value": "program structure",
@@ -5243,11 +5215,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "investment opportunities,capital exposure,financial visibility",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "network",
@@ -5561,11 +5529,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 9,
-      "similar": "advisory support,coaching access,guidance resources",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 9
     },
     {
       "value": "acceptance rate",
@@ -5744,11 +5708,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "collaborative ventures,corporate alliances,business partnerships",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "alumni network",
@@ -5983,11 +5943,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 1,
-      "similar": "vibrant alumni network,strong graduate community,active alumni group",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 1
     },
     {
       "value": "selectivity",
@@ -6159,11 +6115,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "immediate funding,upfront capital,direct investment",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "post-accelerator support",
@@ -6326,11 +6278,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "post-program assistance,aftercare support,ongoing help",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "growth hacking",
@@ -6493,11 +6441,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "marketing strategies,rapid growth techniques,scaling tactics",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "customer acquisition",
@@ -6660,11 +6604,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "client acquisition,customer growth,client onboarding",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "fundraising",
@@ -6845,11 +6785,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "capital raising,fund sourcing,financial fundraising",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "sector-agnostic",
@@ -7012,11 +6948,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "sector-neutral,industry-agnostic,non-specific sector",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "global investor exposure",
@@ -7179,11 +7111,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "worldwide investor access,global funding opportunities,international investor network",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "location-specific support",
@@ -7346,11 +7274,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "regional support,local assistance,area-specific help",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "diverse founders",
@@ -7520,11 +7444,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "inclusive founders,underrepresented entrepreneurs,diverse entrepreneurs",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "international markets",
@@ -7687,11 +7607,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "global markets,international trade,foreign markets",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "alternative funding paths",
@@ -7854,11 +7770,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "non-traditional funding sources,alternative financing options,creative funding methods",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "intensive program",
@@ -8007,11 +7919,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "immersive program,intensive training,focused curriculum",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "successful alumni",
@@ -8160,11 +8068,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "notable alumni,successful graduates,renowned participants",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "selective",
@@ -8392,11 +8296,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-20",
-      "volatility": 0,
-      "similar": "exclusive,highly selective,discriminating",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "program duration",
@@ -8559,11 +8459,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "program timeline,course length,duration of program",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "industry focus",
@@ -8742,11 +8638,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "sector specialization,industry emphasis,focus area",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "success stories",
@@ -8916,11 +8808,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "case studies,success narratives,achievement stories",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "review platforms",
@@ -9083,11 +8971,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "testimonial sites,review websites,feedback platforms",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "network access",
@@ -9236,11 +9120,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "networking opportunities,connection access,community engagement",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "investment terms",
@@ -9424,11 +9304,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "investment conditions,financial terms,capital agreements",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "program length",
@@ -9591,11 +9467,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "similar": "course duration,length of program,program timeline",
-      "sources": {
-        "similar": "AI"
-      }
+      "volatility": 0
     },
     {
       "value": "geographic focus",
@@ -11416,11 +11288,7 @@ window.AppData20250923 = {
       ],
       "lastSeen": "2025-09-23",
       "firstSeen": "2025-09-23",
-      "volatility": 0,
-      "link": "https://www.demoday.com",
-      "sources": {
-        "link": "AI"
-      }
+      "volatility": 0
     }
   ],
   "links": [
