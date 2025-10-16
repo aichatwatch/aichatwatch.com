@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "How does Y Combinator compare to similar options?",
   "report_date": "2025-09-23",
   "report_question_id": "3-how-does-y-combinator-co-a61f8da3",
-  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:55 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",

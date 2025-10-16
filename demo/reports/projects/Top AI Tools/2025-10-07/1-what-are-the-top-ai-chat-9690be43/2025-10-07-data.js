@@ -2,7 +2,7 @@ window.AppData20251007 = {
   "report_question": "What are the top AI chat monitoring tools in 2025?",
   "report_date": "2025-10-07",
   "report_question_id": "1-what-are-the-top-ai-chat-9690be43",
-  "report_created_at": "Oct 15, 2025, 9:03:08 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:50 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

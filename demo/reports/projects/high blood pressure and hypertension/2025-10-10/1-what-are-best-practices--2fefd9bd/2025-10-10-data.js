@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What are best practices for high blood pressure and hypertension?",
   "report_date": "2025-10-10",
   "report_question_id": "1-what-are-best-practices--2fefd9bd",
-  "report_created_at": "Oct 15, 2025, 9:00:58 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:18 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

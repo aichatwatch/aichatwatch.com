@@ -2,7 +2,7 @@ window.AppData20251007 = {
   "report_question": "Which tools provide real-time AI monitoring and alerts?",
   "report_date": "2025-10-07",
   "report_question_id": "3-which-tools-provide-real-6e1edae0",
-  "report_created_at": "Oct 15, 2025, 9:03:08 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:50 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

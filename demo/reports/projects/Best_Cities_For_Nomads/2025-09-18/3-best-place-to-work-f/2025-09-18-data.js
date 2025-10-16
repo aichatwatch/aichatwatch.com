@@ -2,7 +2,7 @@ window.AppData20250918 = {
   "report_question": "Best place to work from on planet for nomads in 2025?",
   "report_date": "2025-09-18",
   "report_question_id": "3-best-place-to-work-f",
-  "report_created_at": "Oct 15, 2025, 9:03:51 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:53 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",

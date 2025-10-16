@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What should someone choose instead of a best lawyer for a startup?",
   "report_date": "2025-10-10",
   "report_question_id": "5-what-should-someone-choo-5ae7c9df",
-  "report_created_at": "Oct 15, 2025, 9:03:59 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:58 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

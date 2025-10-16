@@ -2,7 +2,7 @@ window.AppData20250923 = {
   "report_question": "What are the best Y Combinator available today?",
   "report_date": "2025-09-23",
   "report_question_id": "1-what-are-the-best-y-comb-907eddd4",
-  "report_created_at": "Oct 15, 2025, 9:03:56 PM",
+  "report_created_at": "Oct 16, 2025, 1:16:55 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",

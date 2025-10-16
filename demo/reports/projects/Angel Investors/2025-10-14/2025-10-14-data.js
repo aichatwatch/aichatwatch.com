@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-15T17:00:25.084Z
+// AUTO-GENERATED AGGREGATE: 2025-10-16T09:16:17.639Z
 // Aggregated from prompts: 1-who-are-the-best-angel-i-77ee5dff, 2-which-angel-investors-ar-962fdc29, 3-which-angel-investor-clu-b83248ad
 window.AppDataAggregate20251014 = {
   "report_question": "Angel Investors",
   "report_date": "2025-10-14",
   "report_question_id": "1-who-are-the-best-angel-i-77ee5dff",
-  "report_created_at": "Oct 15, 2025, 8:59:19 PM",
+  "report_created_at": "Oct 16, 2025, 1:15:55 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

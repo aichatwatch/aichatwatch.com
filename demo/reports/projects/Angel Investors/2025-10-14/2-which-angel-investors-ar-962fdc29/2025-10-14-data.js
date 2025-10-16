@@ -2,7 +2,7 @@ window.AppData20251014 = {
   "report_question": "Which angel investors are most active?",
   "report_date": "2025-10-14",
   "report_question_id": "2-which-angel-investors-ar-962fdc29",
-  "report_created_at": "Oct 15, 2025, 8:59:19 PM",
+  "report_created_at": "Oct 16, 2025, 1:15:55 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
