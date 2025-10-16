@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What are the top alternatives to best lawyer for a startup?",
   "report_date": "2025-10-10",
   "report_question_id": "2-what-are-the-top-alterna-203042fc",
-  "report_created_at": "Oct 16, 2025, 2:04:29 PM",
+  "report_created_at": "Oct 16, 2025, 2:14:07 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

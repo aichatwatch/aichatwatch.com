@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-16T10:05:12.181Z
+// AUTO-GENERATED AGGREGATE: 2025-10-16T10:14:49.415Z
 // Aggregated from prompts: 1-who-is-the-best-laywer-f-4c811e4f, 2-what-are-the-top-alterna-203042fc, 3-how-best-lawyers-for-a-s-f83309f8, 4-what-makes-best-lawyer-f-9866902d, 5-what-should-someone-choo-5ae7c9df
 window.AppDataAggregate20251010 = {
   "report_question": "best lawyer for a startup",
   "report_date": "2025-10-10",
   "report_question_id": "1-who-is-the-best-laywer-f-4c811e4f",
-  "report_created_at": "Oct 16, 2025, 2:04:29 PM",
+  "report_created_at": "Oct 16, 2025, 2:14:07 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

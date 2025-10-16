@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-16T10:04:24.473Z
+// AUTO-GENERATED AGGREGATE: 2025-10-16T10:14:01.863Z
 // Aggregated from prompts: 1-what-are-the-top-ai-chat-9690be43, 2-how-can-i-track-ai-chatb-32051f15, 3-which-tools-provide-real-6e1edae0
 window.AppDataAggregate20251007 = {
   "report_question": "Top AI Tools",
   "report_date": "2025-10-07",
   "report_question_id": "1-what-are-the-top-ai-chat-9690be43",
-  "report_created_at": "Oct 16, 2025, 2:04:22 PM",
+  "report_created_at": "Oct 16, 2025, 2:13:59 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "How best lawyers for a startup compare to others?",
   "report_date": "2025-10-10",
   "report_question_id": "3-how-best-lawyers-for-a-s-f83309f8",
-  "report_created_at": "Oct 16, 2025, 2:04:29 PM",
+  "report_created_at": "Oct 16, 2025, 2:14:07 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

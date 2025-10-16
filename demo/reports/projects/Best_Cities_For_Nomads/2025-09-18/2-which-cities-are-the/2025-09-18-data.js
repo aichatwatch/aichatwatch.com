@@ -2,7 +2,7 @@ window.AppData20250918 = {
   "report_question": "Which cities are the best for nomads?",
   "report_date": "2025-09-18",
   "report_question_id": "2-which-cities-are-the",
-  "report_created_at": "Oct 16, 2025, 2:04:24 PM",
+  "report_created_at": "Oct 16, 2025, 2:14:02 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",

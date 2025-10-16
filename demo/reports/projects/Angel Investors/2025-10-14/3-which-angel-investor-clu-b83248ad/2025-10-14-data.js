@@ -2,7 +2,7 @@ window.AppData20251014 = {
   "report_question": "Which angel investor clubs you recommend to contact for my startup?",
   "report_date": "2025-10-14",
   "report_question_id": "3-which-angel-investor-clu-b83248ad",
-  "report_created_at": "Oct 16, 2025, 2:03:27 PM",
+  "report_created_at": "Oct 16, 2025, 2:13:04 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

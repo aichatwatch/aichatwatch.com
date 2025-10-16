@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What do experts recommend for high blood pressure and hypertension?",
   "report_date": "2025-10-10",
   "report_question_id": "2-what-do-experts-recommen-63a1a226",
-  "report_created_at": "Oct 16, 2025, 2:03:49 PM",
+  "report_created_at": "Oct 16, 2025, 2:13:27 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
