@@ -2,7 +2,7 @@ window.AppData20251007 = {
   "report_question": "How can I track AI chatbot responses across platforms?",
   "report_date": "2025-10-07",
   "report_question_id": "2-how-can-i-track-ai-chatb-32051f15",
-  "report_created_at": "Oct 16, 2025, 1:16:50 PM",
+  "report_created_at": "Oct 16, 2025, 2:04:22 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",

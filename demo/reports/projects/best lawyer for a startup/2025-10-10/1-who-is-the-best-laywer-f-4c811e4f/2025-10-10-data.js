@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "Who is the best laywer for a startup available today?",
   "report_date": "2025-10-10",
   "report_question_id": "1-who-is-the-best-laywer-f-4c811e4f",
-  "report_created_at": "Oct 16, 2025, 1:16:58 PM",
+  "report_created_at": "Oct 16, 2025, 2:04:29 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
