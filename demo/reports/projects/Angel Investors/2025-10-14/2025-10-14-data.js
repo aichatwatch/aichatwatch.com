@@ -1,4 +1,4 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-17T11:50:12.297Z
+// AUTO-GENERATED AGGREGATE: 2025-10-17T14:59:52.457Z
 // Aggregated from prompts: 1-who-are-the-best-angel-i-77ee5dff, 2-which-angel-investors-ar-962fdc29, 3-which-angel-investor-clu-b83248ad
 window.AppDataAggregate20251014 = {
   "report_question": "Angel Investors",

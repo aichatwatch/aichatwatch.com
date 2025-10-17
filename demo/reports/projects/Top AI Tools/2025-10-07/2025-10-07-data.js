@@ -1,4 +1,4 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-17T11:50:14.979Z
+// AUTO-GENERATED AGGREGATE: 2025-10-17T14:59:55.034Z
 // Aggregated from prompts: 1-what-are-the-top-ai-chat-9690be43, 2-how-can-i-track-ai-chatb-32051f15, 3-which-tools-provide-real-6e1edae0
 window.AppDataAggregate20251007 = {
   "report_question": "Top AI Tools",
