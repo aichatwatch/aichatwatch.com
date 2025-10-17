@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-16T10:14:06.781Z
+// AUTO-GENERATED AGGREGATE: 2025-10-17T11:50:18.046Z
 // Aggregated from prompts: 1-what-are-the-best-y-comb-907eddd4, 2-what-are-the-top-alterna-c2491069, 3-how-does-y-combinator-co-a61f8da3, 4-what-makes-y-combinator--6e3ff816, 5-when-should-someone-choo-ba5daa5b
 window.AppDataAggregate20250923 = {
   "report_question": "Y Combinator",
   "report_date": "2025-09-23",
   "report_question_id": "1-what-are-the-best-y-comb-907eddd4",
-  "report_created_at": "Oct 16, 2025, 2:14:04 PM",
+  "report_created_at": "Oct 17, 2025, 1:34:01 PM",
   "bots": [
     {
       "id": "or_meta_llama_3_3_70b",
@@ -97003,35 +97003,199 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 1
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
-        "or_deepseek_chat_v3": 0.03571
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 4.5,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 9,
+        "or_meta_llama_3_3_70b": 5.5,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 1
       },
-      "mentionsAsPercent": 0.04412,
-      "influence": 0.019,
+      "mentionsAsPercent": 0.05455,
+      "influence": 0.15001,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.61404,
-        "or_google_gemini_2_0_flash_exp": 0.68713,
+        "or_meta_llama_3_3_70b": 0.50298,
+        "or_google_gemini_2_0_flash_exp": 0.68393,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.019,
+      "weightedInfluence": 0.15001,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 724,
+        "or_google_gemini_2_0_flash_exp": 562,
+        "or_deepseek_chat_v3": 301
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 301,
+            "excerpt": "ors:\n\n### **Top YC Companies (Active & Notable)**\n1. **Stripe** – Online payment processing  \n   🔗 [stripe.com](https://stripe.com)  \n\n2. **Airbnb** – Peer-to-peer lodging marketplace  \n   🔗 [airbnb.com](https://www.airbnb.com)",
+            "line": 5,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 562,
+            "excerpt": "anies (Examples):**\n\n*   **Stripe:** A payment processing platform for internet businesses.\n    *   [Stripe Website](https://stripe.com/)\n*   **Airbnb:** An online marketplace for lodging, primarily homestays for vacation rentals.\n    *",
+            "line": 8,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 724,
+            "excerpt": "ttps://www.reddit.com](https://www.reddit.com)): Social news and discussion platform\n4. **Stripe** ([https://stripe.com](https://stripe.com)): Online payment processing\n5. **Instacart** ([https://www.instacart.com](https://www.instacart.co",
+            "line": 8,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 2081,
+            "excerpt": "ch accelerator, such as [Airbnb](https://www.airbnb.com/), [Dropbox](https://www.dropbox.com/), and [Stripe](https://stripe.com/), which are all Y Combinator alumni.\n\nTo get a better understanding of the comparison, you can also",
+            "line": 14,
+            "column": 168,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.1123
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.04387
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.22221
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3,
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1,
-        "3-how-does-y-combinator-co-a61f8da3": 0.08624
+        "3-how-does-y-combinator-co-a61f8da3": 0.1123
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97047,9 +97211,52 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2,
-        "3-how-does-y-combinator-co-a61f8da3": 14
+        "3-how-does-y-combinator-co-a61f8da3": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 301,
+              "excerpt": "ors:\n\n### **Top YC Companies (Active & Notable)**\n1. **Stripe** – Online payment processing  \n   🔗 [stripe.com](https://stripe.com)  \n\n2. **Airbnb** – Peer-to-peer lodging marketplace  \n   🔗 [airbnb.com](https://www.airbnb.com)",
+              "line": 5,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 562,
+              "excerpt": "anies (Examples):**\n\n*   **Stripe:** A payment processing platform for internet businesses.\n    *   [Stripe Website](https://stripe.com/)\n*   **Airbnb:** An online marketplace for lodging, primarily homestays for vacation rentals.\n    *",
+              "line": 8,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 724,
+              "excerpt": "ttps://www.reddit.com](https://www.reddit.com)): Social news and discussion platform\n4. **Stripe** ([https://stripe.com](https://stripe.com)): Online payment processing\n5. **Instacart** ([https://www.instacart.com](https://www.instacart.co",
+              "line": 8,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2081,
+              "excerpt": "ch accelerator, such as [Airbnb](https://www.airbnb.com/), [Dropbox](https://www.dropbox.com/), and [Stripe](https://stripe.com/), which are all Y Combinator alumni.\n\nTo get a better understanding of the comparison, you can also",
+              "line": 14,
+              "column": 168,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 4,
@@ -97057,7 +97264,7 @@ window.AppDataAggregate20250923 = {
           "or_deepseek_chat_v3": 1
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 14
+          "or_meta_llama_3_3_70b": 7
         }
       }
     },
@@ -97068,11 +97275,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://ycombinator.com",
       "linkType": "frm",
       "linkTypeName": "Forums",
-      "mentions": 220,
+      "mentions": 20,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 50,
-        "or_google_gemini_2_0_flash_exp": 108,
-        "or_deepseek_chat_v3": 167
+        "or_meta_llama_3_3_70b": 9,
+        "or_google_gemini_2_0_flash_exp": 13,
+        "or_deepseek_chat_v3": 20
       },
       "sources": [
         {
@@ -97120,47 +97327,508 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.42412
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.26087,
-        "or_google_gemini_2_0_flash_exp": 0.23529,
-        "or_deepseek_chat_v3": 0.07143
+        "or_meta_llama_3_3_70b": 0.17647,
+        "or_google_gemini_2_0_flash_exp": 0.15385,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 4.33,
+      "appearanceOrder": 3.87,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 5.33,
-        "or_google_gemini_2_0_flash_exp": 3.75,
-        "or_deepseek_chat_v3": 6.2
+        "or_meta_llama_3_3_70b": 4.33,
+        "or_google_gemini_2_0_flash_exp": 3.25,
+        "or_deepseek_chat_v3": 5.8
       },
-      "mentionsAsPercent": 0.17647,
+      "mentionsAsPercent": 0.10909,
       "influence": 1,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.3269,
-        "or_google_gemini_2_0_flash_exp": 0.5631,
+        "or_meta_llama_3_3_70b": 0.35006,
+        "or_google_gemini_2_0_flash_exp": 0.58881,
         "or_deepseek_chat_v3": 1
       },
       "weightedInfluence": 1,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1590,
+        "or_google_gemini_2_0_flash_exp": 1915,
+        "or_deepseek_chat_v3": 2725
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2725,
+            "excerpt": "i)  \n\n### **How to Track Emerging YC Companies?**  \nYC updates its portfolio regularly. Check:  \n🔗 [Y Combinator Companies](https://www.ycombinator.com/companies)  \n\nWould you like recommendations based on a specific industry (e.g., fintech, AI, SaaS)? Let me k",
+            "line": 76,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 41,
+            "excerpt": "Here are some of the top alternatives to [Y Combinator](https://www.ycombinator.com/), along with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Websit",
+            "line": 1,
+            "column": 42,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 469,
+            "excerpt": "**Investment**: $500K for 7% equity ($125K standard deal + $375K uncapped SAFE).  \n  - **Source**: [YC Deal Terms](https://www.ycombinator.com/deal)  \n- **Techstars**:  \n  - **Investment**: $120K for 6% equity (20K in funding + $100K convertible n",
+            "line": 10,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 1479,
+            "excerpt": "ts top investors.  \n  - **Network**: Strong alumni community (YC Companies List).  \n  - **Source**: [YC Program Details](https://www.ycombinator.com/apply)  \n- **Techstars**:  \n  - **Duration**: ~3 months (varies by location).  \n  - **Mentorship**: Stron",
+            "line": 30,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2680,
+            "excerpt": "5% depending on the cohort.  \n- **Entrepreneur First**: Selective (~10% acceptance).  \n\n**Source**: [YC Stats](https://www.ycombinator.com/), [Techstars Insights](https://www.techstars.com/newsroom)  \n\n---\n\n### **4. Post-Accelerator Suppor",
+            "line": 54,
+            "column": 13,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 3049,
+            "excerpt": "ex).  \n  - **YC Job Board & Events**: Strong ecosystem for hiring and networking.  \n  - **Source**: [YC Alumni](https://www.ycombinator.com/companies)  \n- **Techstars**:  \n  - **Alumni Perks**: Mentorship access continues post-program.  \n  - **Corpo",
+            "line": 62,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 387,
+            "excerpt": ", and networking in a structured program. It’s considered the \"gold standard\" for accelerators.  \n→ [YC’s History](https://www.ycombinator.com/history)  \n\n### 2. **Unmatched Network & Community**  \n- **Alumni Network**: Over 4,000 startups, including",
+            "line": 5,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 617,
+            "excerpt": "startups, including Airbnb, Dropbox, Stripe, and Reddit. Access to this network is invaluable.  \n→ [YC Portfolio](https://www.ycombinator.com/companies)  \n- **Collaborative Culture**: Founders help each other (e.g., demo day prep, advice).  \n→ [YC’s C",
+            "line": 9,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 762,
+            "excerpt": "mpanies)  \n- **Collaborative Culture**: Founders help each other (e.g., demo day prep, advice).  \n→ [YC’s Community Ethos](https://www.ycombinator.com/library/8F-how-to-work-with-yc-founders)  \n\n### 3. **Focus on \"Building for Scale\"**  \nYC emphasizes ambitious, scalable startups (B2B, B2C",
+            "line": 11,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 1023,
+            "excerpt": ", scalable startups (B2B, B2C, or deep tech) from Day 1, unlike niche or regional accelerators.  \n→ [YC’s Startup School Guide](https://www.ycombinator.com/library/6G-startup-advice-for-building-the-future)  \n\n### 4. **Standardized Terms**  \n- **$500K for 7% equity** (post-money SAFE) via two funding tra",
+            "line": 15,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 1326,
+            "excerpt": "ranches:  \n  - Core program: $125K for 7%  \n  - Additional $375K uncapped SAFE (post-demo day).  \n→ [YC Deal Terms](https://www.ycombinator.com/deal)  \n\n### 5. **Demo Day Access**  \nYC’s Demo Day attracts top-tier investors (Sequoia, a16z, etc.), g",
+            "line": 21,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 326,
+            "excerpt": "accelerators, providing instant credibility. Alumni include Airbnb, Dropbox, Stripe, and more.  \n🔗 [Y Combinator Companies](https://www.ycombinator.com/companies)  \n\n### **2. For Access to Silicon Valley’s Top Investors**  \nYC Demo Day is a magnet for top VCs (",
+            "line": 5,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 564,
+            "excerpt": "s a magnet for top VCs (Sequoia, a16z, etc.), increasing your chances of raising more funding.  \n🔗 [YC Demo Day](https://www.ycombinator.com/demoday)  \n\n### **3. If You’re Early-Stage (Pre-Seed/Seed)**  \nYC is best for startups with a prototype or",
+            "line": 9,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 781,
+            "excerpt": "or startups with a prototype or early traction, offering $500K in funding (new standard deal).  \n🔗 [YC Deal Terms](https://www.ycombinator.com/deal)  \n\n### **4. When You Need Structured Startup Mentorship**  \nYC provides hands-on guidance from top",
+            "line": 13,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 1025,
+            "excerpt": "top founders and partners, including Paul Graham, Jessica Livingston, and current YC leaders.  \n🔗 [YC Partners](https://www.ycombinator.com/people)  \n\n### **5. For Fast-Tracked Growth & Validation**  \nThe 3-month program forces rapid iteration wi",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 1387,
+            "excerpt": "The YC alumni network is massive, offering connections for hiring, partnerships, and advice.  \n🔗 [YC Alumni Directory](https://www.ycombinator.com/alumni)  \n\n### **When to Consider Other Options?**  \n- **Corporate or Niche Accelerators** – If you're in",
+            "line": 24,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1915,
+            "excerpt": "have a directory that allows you to browse companies by batch, sector, and other criteria.\n    *   [Y Combinator Website](https://www.ycombinator.com/)\n*   **YC Company Directory:** A searchable database of all YC-backed companies.\n    *   [YC Compan",
+            "line": 29,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 2056,
+            "excerpt": "nator.com/)\n*   **YC Company Directory:** A searchable database of all YC-backed companies.\n    *   [YC Company Directory](https://www.ycombinator.com/companies/)\n*   **List of Y Combinator Companies (Wikipedia):** A comprehensive list of notable YC companies,",
+            "line": 31,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 117,
+            "excerpt": "is a well-known startup accelerator. Here's how it compares to similar options:\n\n**Y Combinator** ([https://www.ycombinator.com/](https://www.ycombinator.com/)):\n\n*   **Reputation and Network:** YC is considered one of the most prestigious and influential st",
+            "line": 3,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 534,
+            "excerpt": "4, YC typically invests $500,000: $125,000 for 7% equity and an additional $375,000 in a SAFE note ([https://www.ycombinator.com/deal/](https://www.ycombinator.com/deal/)).\n*   **Program Structure:** YC's program is highly structured and intensive, lasting for three mo",
+            "line": 6,
+            "column": 130,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 375,
+            "excerpt": "n” (MFN) terms. This standardization streamlines the process and makes it transparent for founders. [Y Combinator](https://www.ycombinator.com/terms/)\n\n*   **Intense, Short Program:** The core YC program is an intensive, three-month program focused",
+            "line": 3,
+            "column": 299,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 555,
+            "excerpt": ":** The core YC program is an intensive, three-month program focused on rapid iteration and growth. [Y Combinator](https://www.ycombinator.com/)\n\n*   **Demo Day:** YC culminates in Demo Day, where startups pitch to a curated audience of invest",
+            "line": 5,
+            "column": 129,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 769,
+            "excerpt": "a curated audience of investors. This provides significant exposure and fundraising opportunities. [Y Combinator](https://www.ycombinator.com/demoday)\n\n*   **Strong Alumni Network:** YC has a vast and influential alumni network. This network provide",
+            "line": 7,
+            "column": 169,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 1008,
+            "excerpt": "ork provides mentorship, advice, and potential investment opportunities for participating startups. [Y Combinator Alumni](https://www.ycombinator.com/companies)\n\n*   **Focus on Foundational Principles:** YC emphasizes core principles like building something p",
+            "line": 9,
+            "column": 187,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 1271,
+            "excerpt": "e want, launching quickly, and focusing on growth. This pragmatic approach is a key differentiator. [Y Combinator Library](https://www.ycombinator.com/library)\n\n*   **Reputation and Brand:** YC has a strong reputation and brand recognition within the startup",
+            "line": 11,
+            "column": 202,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 18,
+            "excerpt": "Y Combinator (YC) [https://www.ycombinator.com/](https://www.ycombinator.com/) is a renowned startup accelerator. Choosing YC over other options depends on a founder's specific",
+            "line": 1,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 1774,
+            "excerpt": "rea (or participate remotely):** Historically, YC required in-person participation in the Bay Area. [YC now offers remote options for some cohorts](https://www.ycombinator.com/blog/announcing-the-yc-remote-batch/), but being in the Bay Area can still offer advantages in terms of networking and access to resourc",
+            "line": 10,
+            "column": 139,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 4845,
+            "excerpt": "**Funding Needs:** Consider the amount of funding required and the terms offered by each option. [YC's current standard deal is $500,000 for 7% equity](https://www.ycombinator.com/deal/).\n*   **Mentorship and Guidance:** Evaluate the quality and relevance of mentorship provided.\n*   *",
+            "line": 35,
+            "column": 102,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1590,
+            "excerpt": "ieved considerable success.\n\nFor a more comprehensive list, you can visit the Y Combinator website ([https://www.ycombinator.com](https://www.ycombinator.com)) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.",
+            "line": 18,
+            "column": 72,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 1747,
+            "excerpt": ")) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.",
+            "line": 18,
+            "column": 229,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 1777,
+            "excerpt": "companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.\n\nAdditionally, you can resear",
+            "line": 18,
+            "column": 259,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 14,
+            "excerpt": "Y Combinator ([Y Combinator](https://www.ycombinator.com/)) is a well-known startup accelerator that provides seed funding, mentorship, and resources to earl",
+            "line": 1,
+            "column": 15,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 53,
+            "excerpt": "When deciding between startup accelerators, choosing [Y Combinator](https://www.ycombinator.com/) over other options depends on several factors. Here are some scenarios where Y Combinator might be",
+            "line": 1,
+            "column": 54,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 418,
+            "excerpt": "p founders and investors, Y Combinator's extensive alumni network ([YC Directory](https://directory.ycombinator.com/)) is unparalleled. This can be particularly beneficial for getting advice, partnerships, or fundin",
+            "line": 3,
+            "column": 199,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 610,
+            "excerpt": "partnerships, or funding.\n\n2. **Funding**: Y Combinator provides an initial investment of $500,000 ([YC Funding](https://www.ycombinator.com/funding/)). If you're looking for seed funding and believe your startup can leverage YC's network and resour",
+            "line": 5,
+            "column": 74,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 1104,
+            "excerpt": "guidance and feedback, YC's approach might be suitable.\n\n4. **Demo Day**: Y Combinator's Demo Day ([YC Demo Day](https://www.ycombinator.com/demoday/)) offers a unique opportunity to pitch your startup to a large audience of investors. If you believ",
+            "line": 9,
+            "column": 43,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          },
+          {
+            "appearanceOrder": 1462,
+            "excerpt": "could be the right choice.\n\n5. **Track Record**: With a proven track record of successful startups ([YC Portfolio](https://www.ycombinator.com/companies/)), including companies like [Airbnb](https://airbnb.com/), [Dropbox](https://dropbox.com/), and [St",
+            "line": 11,
+            "column": 73,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 13
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.40059
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.60385
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 25
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 12,
+        "1-what-are-the-best-y-comb-907eddd4": 6,
         "2-what-are-the-top-alterna-c2491069": 1,
-        "3-how-does-y-combinator-co-a61f8da3": 28,
-        "4-what-makes-y-combinator--6e3ff816": 180,
-        "5-when-should-someone-choo-ba5daa5b": 104
+        "3-how-does-y-combinator-co-a61f8da3": 7,
+        "4-what-makes-y-combinator--6e3ff816": 15,
+        "5-when-should-someone-choo-ba5daa5b": 13
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.85736,
+        "1-what-are-the-best-y-comb-907eddd4": 0.46023,
         "2-what-are-the-top-alterna-c2491069": 1,
-        "3-how-does-y-combinator-co-a61f8da3": 2.5616000000000003,
-        "4-what-makes-y-combinator--6e3ff816": 5.09274,
-        "5-when-should-someone-choo-ba5daa5b": 3.9535000000000005
+        "3-how-does-y-combinator-co-a61f8da3": 1,
+        "4-what-makes-y-combinator--6e3ff816": 1,
+        "5-when-should-someone-choo-ba5daa5b": 1
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 50,
-          "or_google_gemini_2_0_flash_exp": 108,
-          "or_deepseek_chat_v3": 167
+          "or_meta_llama_3_3_70b": 9,
+          "or_google_gemini_2_0_flash_exp": 13,
+          "or_deepseek_chat_v3": 20
         },
         "2-what-are-the-top-alterna-c2491069": {
           "or_meta_llama_3_3_70b": 0,
@@ -97168,34 +97836,331 @@ window.AppDataAggregate20250923 = {
           "or_deepseek_chat_v3": 1
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 4,
-          "or_google_gemini_2_0_flash_exp": 8,
-          "or_deepseek_chat_v3": 16
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 2,
+          "or_deepseek_chat_v3": 4
         },
         "4-what-makes-y-combinator--6e3ff816": {
           "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 72,
-          "or_deepseek_chat_v3": 108
+          "or_google_gemini_2_0_flash_exp": 6,
+          "or_deepseek_chat_v3": 9
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 40,
-          "or_google_gemini_2_0_flash_exp": 24,
-          "or_deepseek_chat_v3": 40
+          "or_meta_llama_3_3_70b": 5,
+          "or_google_gemini_2_0_flash_exp": 3,
+          "or_deepseek_chat_v3": 5
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 17.67,
+        "1-what-are-the-best-y-comb-907eddd4": 15.33,
         "2-what-are-the-top-alterna-c2491069": 1,
         "3-how-does-y-combinator-co-a61f8da3": 1,
         "4-what-makes-y-combinator--6e3ff816": 1,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2725,
+              "excerpt": "i)  \n\n### **How to Track Emerging YC Companies?**  \nYC updates its portfolio regularly. Check:  \n🔗 [Y Combinator Companies](https://www.ycombinator.com/companies)  \n\nWould you like recommendations based on a specific industry (e.g., fintech, AI, SaaS)? Let me k",
+              "line": 76,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1915,
+              "excerpt": "have a directory that allows you to browse companies by batch, sector, and other criteria.\n    *   [Y Combinator Website](https://www.ycombinator.com/)\n*   **YC Company Directory:** A searchable database of all YC-backed companies.\n    *   [YC Compan",
+              "line": 29,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 2056,
+              "excerpt": "nator.com/)\n*   **YC Company Directory:** A searchable database of all YC-backed companies.\n    *   [YC Company Directory](https://www.ycombinator.com/companies/)\n*   **List of Y Combinator Companies (Wikipedia):** A comprehensive list of notable YC companies,",
+              "line": 31,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1590,
+              "excerpt": "ieved considerable success.\n\nFor a more comprehensive list, you can visit the Y Combinator website ([https://www.ycombinator.com](https://www.ycombinator.com)) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.",
+              "line": 18,
+              "column": 72,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1747,
+              "excerpt": ")) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.",
+              "line": 18,
+              "column": 229,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1777,
+              "excerpt": "companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.\n\nAdditionally, you can resear",
+              "line": 18,
+              "column": 259,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 41,
+              "excerpt": "Here are some of the top alternatives to [Y Combinator](https://www.ycombinator.com/), along with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Websit",
+              "line": 1,
+              "column": 42,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 469,
+              "excerpt": "**Investment**: $500K for 7% equity ($125K standard deal + $375K uncapped SAFE).  \n  - **Source**: [YC Deal Terms](https://www.ycombinator.com/deal)  \n- **Techstars**:  \n  - **Investment**: $120K for 6% equity (20K in funding + $100K convertible n",
+              "line": 10,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1479,
+              "excerpt": "ts top investors.  \n  - **Network**: Strong alumni community (YC Companies List).  \n  - **Source**: [YC Program Details](https://www.ycombinator.com/apply)  \n- **Techstars**:  \n  - **Duration**: ~3 months (varies by location).  \n  - **Mentorship**: Stron",
+              "line": 30,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 2680,
+              "excerpt": "5% depending on the cohort.  \n- **Entrepreneur First**: Selective (~10% acceptance).  \n\n**Source**: [YC Stats](https://www.ycombinator.com/), [Techstars Insights](https://www.techstars.com/newsroom)  \n\n---\n\n### **4. Post-Accelerator Suppor",
+              "line": 54,
+              "column": 13,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 3049,
+              "excerpt": "ex).  \n  - **YC Job Board & Events**: Strong ecosystem for hiring and networking.  \n  - **Source**: [YC Alumni](https://www.ycombinator.com/companies)  \n- **Techstars**:  \n  - **Alumni Perks**: Mentorship access continues post-program.  \n  - **Corpo",
+              "line": 62,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 117,
+              "excerpt": "is a well-known startup accelerator. Here's how it compares to similar options:\n\n**Y Combinator** ([https://www.ycombinator.com/](https://www.ycombinator.com/)):\n\n*   **Reputation and Network:** YC is considered one of the most prestigious and influential st",
+              "line": 3,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 534,
+              "excerpt": "4, YC typically invests $500,000: $125,000 for 7% equity and an additional $375,000 in a SAFE note ([https://www.ycombinator.com/deal/](https://www.ycombinator.com/deal/)).\n*   **Program Structure:** YC's program is highly structured and intensive, lasting for three mo",
+              "line": 6,
+              "column": 130,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 14,
+              "excerpt": "Y Combinator ([Y Combinator](https://www.ycombinator.com/)) is a well-known startup accelerator that provides seed funding, mentorship, and resources to earl",
+              "line": 1,
+              "column": 15,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 387,
+              "excerpt": ", and networking in a structured program. It’s considered the \"gold standard\" for accelerators.  \n→ [YC’s History](https://www.ycombinator.com/history)  \n\n### 2. **Unmatched Network & Community**  \n- **Alumni Network**: Over 4,000 startups, including",
+              "line": 5,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 617,
+              "excerpt": "startups, including Airbnb, Dropbox, Stripe, and Reddit. Access to this network is invaluable.  \n→ [YC Portfolio](https://www.ycombinator.com/companies)  \n- **Collaborative Culture**: Founders help each other (e.g., demo day prep, advice).  \n→ [YC’s C",
+              "line": 9,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 762,
+              "excerpt": "mpanies)  \n- **Collaborative Culture**: Founders help each other (e.g., demo day prep, advice).  \n→ [YC’s Community Ethos](https://www.ycombinator.com/library/8F-how-to-work-with-yc-founders)  \n\n### 3. **Focus on \"Building for Scale\"**  \nYC emphasizes ambitious, scalable startups (B2B, B2C",
+              "line": 11,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1023,
+              "excerpt": ", scalable startups (B2B, B2C, or deep tech) from Day 1, unlike niche or regional accelerators.  \n→ [YC’s Startup School Guide](https://www.ycombinator.com/library/6G-startup-advice-for-building-the-future)  \n\n### 4. **Standardized Terms**  \n- **$500K for 7% equity** (post-money SAFE) via two funding tra",
+              "line": 15,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1326,
+              "excerpt": "ranches:  \n  - Core program: $125K for 7%  \n  - Additional $375K uncapped SAFE (post-demo day).  \n→ [YC Deal Terms](https://www.ycombinator.com/deal)  \n\n### 5. **Demo Day Access**  \nYC’s Demo Day attracts top-tier investors (Sequoia, a16z, etc.), g",
+              "line": 21,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 375,
+              "excerpt": "n” (MFN) terms. This standardization streamlines the process and makes it transparent for founders. [Y Combinator](https://www.ycombinator.com/terms/)\n\n*   **Intense, Short Program:** The core YC program is an intensive, three-month program focused",
+              "line": 3,
+              "column": 299,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 555,
+              "excerpt": ":** The core YC program is an intensive, three-month program focused on rapid iteration and growth. [Y Combinator](https://www.ycombinator.com/)\n\n*   **Demo Day:** YC culminates in Demo Day, where startups pitch to a curated audience of invest",
+              "line": 5,
+              "column": 129,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 769,
+              "excerpt": "a curated audience of investors. This provides significant exposure and fundraising opportunities. [Y Combinator](https://www.ycombinator.com/demoday)\n\n*   **Strong Alumni Network:** YC has a vast and influential alumni network. This network provide",
+              "line": 7,
+              "column": 169,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1008,
+              "excerpt": "ork provides mentorship, advice, and potential investment opportunities for participating startups. [Y Combinator Alumni](https://www.ycombinator.com/companies)\n\n*   **Focus on Foundational Principles:** YC emphasizes core principles like building something p",
+              "line": 9,
+              "column": 187,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1271,
+              "excerpt": "e want, launching quickly, and focusing on growth. This pragmatic approach is a key differentiator. [Y Combinator Library](https://www.ycombinator.com/library)\n\n*   **Reputation and Brand:** YC has a strong reputation and brand recognition within the startup",
+              "line": 11,
+              "column": 202,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 326,
+              "excerpt": "accelerators, providing instant credibility. Alumni include Airbnb, Dropbox, Stripe, and more.  \n🔗 [Y Combinator Companies](https://www.ycombinator.com/companies)  \n\n### **2. For Access to Silicon Valley’s Top Investors**  \nYC Demo Day is a magnet for top VCs (",
+              "line": 5,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 564,
+              "excerpt": "s a magnet for top VCs (Sequoia, a16z, etc.), increasing your chances of raising more funding.  \n🔗 [YC Demo Day](https://www.ycombinator.com/demoday)  \n\n### **3. If You’re Early-Stage (Pre-Seed/Seed)**  \nYC is best for startups with a prototype or",
+              "line": 9,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 781,
+              "excerpt": "or startups with a prototype or early traction, offering $500K in funding (new standard deal).  \n🔗 [YC Deal Terms](https://www.ycombinator.com/deal)  \n\n### **4. When You Need Structured Startup Mentorship**  \nYC provides hands-on guidance from top",
+              "line": 13,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1025,
+              "excerpt": "top founders and partners, including Paul Graham, Jessica Livingston, and current YC leaders.  \n🔗 [YC Partners](https://www.ycombinator.com/people)  \n\n### **5. For Fast-Tracked Growth & Validation**  \nThe 3-month program forces rapid iteration wi",
+              "line": 17,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1387,
+              "excerpt": "The YC alumni network is massive, offering connections for hiring, partnerships, and advice.  \n🔗 [YC Alumni Directory](https://www.ycombinator.com/alumni)  \n\n### **When to Consider Other Options?**  \n- **Corporate or Niche Accelerators** – If you're in",
+              "line": 24,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 18,
+              "excerpt": "Y Combinator (YC) [https://www.ycombinator.com/](https://www.ycombinator.com/) is a renowned startup accelerator. Choosing YC over other options depends on a founder's specific",
+              "line": 1,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1774,
+              "excerpt": "rea (or participate remotely):** Historically, YC required in-person participation in the Bay Area. [YC now offers remote options for some cohorts](https://www.ycombinator.com/blog/announcing-the-yc-remote-batch/), but being in the Bay Area can still offer advantages in terms of networking and access to resourc",
+              "line": 10,
+              "column": 139,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 4845,
+              "excerpt": "**Funding Needs:** Consider the amount of funding required and the terms offered by each option. [YC's current standard deal is $500,000 for 7% equity](https://www.ycombinator.com/deal/).\n*   **Mentorship and Guidance:** Evaluate the quality and relevance of mentorship provided.\n*   *",
+              "line": 35,
+              "column": 102,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 53,
+              "excerpt": "When deciding between startup accelerators, choosing [Y Combinator](https://www.ycombinator.com/) over other options depends on several factors. Here are some scenarios where Y Combinator might be",
+              "line": 1,
+              "column": 54,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 418,
+              "excerpt": "p founders and investors, Y Combinator's extensive alumni network ([YC Directory](https://directory.ycombinator.com/)) is unparalleled. This can be particularly beneficial for getting advice, partnerships, or fundin",
+              "line": 3,
+              "column": 199,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 610,
+              "excerpt": "partnerships, or funding.\n\n2. **Funding**: Y Combinator provides an initial investment of $500,000 ([YC Funding](https://www.ycombinator.com/funding/)). If you're looking for seed funding and believe your startup can leverage YC's network and resour",
+              "line": 5,
+              "column": 74,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1104,
+              "excerpt": "guidance and feedback, YC's approach might be suitable.\n\n4. **Demo Day**: Y Combinator's Demo Day ([YC Demo Day](https://www.ycombinator.com/demoday/)) offers a unique opportunity to pitch your startup to a large audience of investors. If you believ",
+              "line": 9,
+              "column": 43,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1462,
+              "excerpt": "could be the right choice.\n\n5. **Track Record**: With a proven track record of successful startups ([YC Portfolio](https://www.ycombinator.com/companies/)), including companies like [Airbnb](https://airbnb.com/), [Dropbox](https://dropbox.com/), and [St",
+              "line": 11,
+              "column": 73,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 14,
-          "or_google_gemini_2_0_flash_exp": 12,
-          "or_deepseek_chat_v3": 27
+          "or_meta_llama_3_3_70b": 11,
+          "or_google_gemini_2_0_flash_exp": 10,
+          "or_deepseek_chat_v3": 25
         },
         "2-what-are-the-top-alterna-c2491069": {
           "or_deepseek_chat_v3": 1
@@ -97223,11 +98188,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://rappi.com",
       "linkType": "foo",
       "linkTypeName": "Food & Dining",
-      "mentions": 6,
+      "mentions": 3,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 2,
-        "or_google_gemini_2_0_flash_exp": 2,
-        "or_deepseek_chat_v3": 2
+        "or_meta_llama_3_3_70b": 1,
+        "or_google_gemini_2_0_flash_exp": 1,
+        "or_deepseek_chat_v3": 1
       },
       "sources": [
         {
@@ -97275,49 +98240,234 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.38015
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.08696,
-        "or_google_gemini_2_0_flash_exp": 0.11765,
-        "or_deepseek_chat_v3": 0.07143
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 7.67,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 9,
-        "or_google_gemini_2_0_flash_exp": 10,
+        "or_meta_llama_3_3_70b": 8,
+        "or_google_gemini_2_0_flash_exp": 9,
         "or_deepseek_chat_v3": 4
       },
-      "mentionsAsPercent": 0.08824,
-      "influence": 0.01518,
+      "mentionsAsPercent": 0.05455,
+      "influence": 0.05932,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.71186,
-        "or_google_gemini_2_0_flash_exp": 0.46102,
+        "or_meta_llama_3_3_70b": 0.49716,
+        "or_google_gemini_2_0_flash_exp": 0.47766,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01518,
+      "weightedInfluence": 0.05932,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1112,
+        "or_google_gemini_2_0_flash_exp": 1591,
+        "or_deepseek_chat_v3": 603
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 603,
+            "excerpt": "(https://www.dropbox.com)  \n\n4. **Rappi** (Latin America) – On-demand delivery and services  \n   🔗 [rappi.com](https://www.rappi.com)  \n\n5. **Reddit** – Social news aggregation & discussion  \n   🔗 [reddit.com](https://www.reddit.co",
+            "line": 14,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1591,
+            "excerpt": "[Cruise Website](https://www.getcruise.com/)\n*   **Rappi:** A Latin American delivery app.\n    *   [Rappi Website](https://www.rappi.com/)\n\n**Resources for finding more YC companies and information:**\n\n*   **Y Combinator's Official Websi",
+            "line": 24,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1112,
+            "excerpt": "https://www.getcruise.com](https://www.getcruise.com)): Autonomous vehicle technology\n8. **Rappi** ([https://www.rappi.com](https://www.rappi.com)): On-demand delivery and logistics\n9. **Zenefits** ([https://www.zenefits.com](https://www.zenefit",
+            "line": 12,
+            "column": 15,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.41932
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.0746
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.15534
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 6
+        "1-what-are-the-best-y-comb-907eddd4": 3
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.7932699999999999
+        "1-what-are-the-best-y-comb-907eddd4": 0.41932
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 2,
-          "or_google_gemini_2_0_flash_exp": 2,
-          "or_deepseek_chat_v3": 2
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 1,
+          "or_deepseek_chat_v3": 1
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 7.67
+        "1-what-are-the-best-y-comb-907eddd4": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 603,
+              "excerpt": "(https://www.dropbox.com)  \n\n4. **Rappi** (Latin America) – On-demand delivery and services  \n   🔗 [rappi.com](https://www.rappi.com)  \n\n5. **Reddit** – Social news aggregation & discussion  \n   🔗 [reddit.com](https://www.reddit.co",
+              "line": 14,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1591,
+              "excerpt": "[Cruise Website](https://www.getcruise.com/)\n*   **Rappi:** A Latin American delivery app.\n    *   [Rappi Website](https://www.rappi.com/)\n\n**Resources for finding more YC companies and information:**\n\n*   **Y Combinator's Official Websi",
+              "line": 24,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1112,
+              "excerpt": "https://www.getcruise.com](https://www.getcruise.com)): Autonomous vehicle technology\n8. **Rappi** ([https://www.rappi.com](https://www.rappi.com)): On-demand delivery and logistics\n9. **Zenefits** ([https://www.zenefits.com](https://www.zenefit",
+              "line": 12,
+              "column": 15,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 9,
-          "or_google_gemini_2_0_flash_exp": 10,
+          "or_meta_llama_3_3_70b": 8,
+          "or_google_gemini_2_0_flash_exp": 9,
           "or_deepseek_chat_v3": 4
         }
       }
@@ -97359,35 +98509,199 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.77215
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
-        "or_deepseek_chat_v3": 0.03571
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 7.33,
+      "appearanceOrder": 3.83,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 7,
+        "or_meta_llama_3_3_70b": 3.5,
         "or_google_gemini_2_0_flash_exp": 2,
         "or_deepseek_chat_v3": 2
       },
-      "mentionsAsPercent": 0.04412,
-      "influence": 0.01302,
+      "mentionsAsPercent": 0.05455,
+      "influence": 0.10709,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.63519,
-        "or_deepseek_chat_v3": 0.92704
+        "or_meta_llama_3_3_70b": 0.99168,
+        "or_google_gemini_2_0_flash_exp": 0.68386,
+        "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01302,
+      "weightedInfluence": 0.10709,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 429,
+        "or_google_gemini_2_0_flash_exp": 701,
+        "or_deepseek_chat_v3": 394
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 394,
+            "excerpt": "🔗 [stripe.com](https://stripe.com)  \n\n2. **Airbnb** – Peer-to-peer lodging marketplace  \n   🔗 [airbnb.com](https://www.airbnb.com)  \n\n3. **Dropbox** – Cloud storage and file sharing  \n   🔗 [dropbox.com](https://www.dropbox.com)",
+            "line": 8,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 701,
+            "excerpt": "**Airbnb:** An online marketplace for lodging, primarily homestays for vacation rentals.\n    *   [Airbnb Website](https://www.airbnb.com/)\n*   **Dropbox:** A file hosting service that offers cloud storage, file synchronization, personal",
+            "line": 10,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 429,
+            "excerpt": "austive.\n\nHere are some successful Y Combinator startups across various industries:\n\n1. **Airbnb** ([https://www.airbnb.com](https://www.airbnb.com)): Short-term rental platform\n2. **Dropbox** ([https://www.dropbox.com](https://www.dropbox.com)):",
+            "line": 5,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 2005,
+            "excerpt": "an vary.\n* **Success stories**: Look at the success stories and alumni of each accelerator, such as [Airbnb](https://www.airbnb.com/), [Dropbox](https://www.dropbox.com/), and [Stripe](https://stripe.com/), which are all Y Combinato",
+            "line": 14,
+            "column": 92,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.12001
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.16143
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.22223
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3,
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0.77215,
-        "3-how-does-y-combinator-co-a61f8da3": 0.08848
+        "3-how-does-y-combinator-co-a61f8da3": 0.12001
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97403,9 +98717,52 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1.67,
-        "3-how-does-y-combinator-co-a61f8da3": 13
+        "3-how-does-y-combinator-co-a61f8da3": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 394,
+              "excerpt": "🔗 [stripe.com](https://stripe.com)  \n\n2. **Airbnb** – Peer-to-peer lodging marketplace  \n   🔗 [airbnb.com](https://www.airbnb.com)  \n\n3. **Dropbox** – Cloud storage and file sharing  \n   🔗 [dropbox.com](https://www.dropbox.com)",
+              "line": 8,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 701,
+              "excerpt": "**Airbnb:** An online marketplace for lodging, primarily homestays for vacation rentals.\n    *   [Airbnb Website](https://www.airbnb.com/)\n*   **Dropbox:** A file hosting service that offers cloud storage, file synchronization, personal",
+              "line": 10,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 429,
+              "excerpt": "austive.\n\nHere are some successful Y Combinator startups across various industries:\n\n1. **Airbnb** ([https://www.airbnb.com](https://www.airbnb.com)): Short-term rental platform\n2. **Dropbox** ([https://www.dropbox.com](https://www.dropbox.com)):",
+              "line": 5,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2005,
+              "excerpt": "an vary.\n* **Success stories**: Look at the success stories and alumni of each accelerator, such as [Airbnb](https://www.airbnb.com/), [Dropbox](https://www.dropbox.com/), and [Stripe](https://stripe.com/), which are all Y Combinato",
+              "line": 14,
+              "column": 92,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 1,
@@ -97413,7 +98770,7 @@ window.AppDataAggregate20250923 = {
           "or_deepseek_chat_v3": 2
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 13
+          "or_meta_llama_3_3_70b": 6
         }
       }
     },
@@ -97424,10 +98781,10 @@ window.AppDataAggregate20250923 = {
       "link": "https://doordash.com",
       "linkType": "foo",
       "linkTypeName": "Food & Dining",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 2,
-        "or_google_gemini_2_0_flash_exp": 2,
+        "or_meta_llama_3_3_70b": 1,
+        "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
       "sources": [
@@ -97474,12 +98831,12 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.37015
         }
       ],
-      "bots": "or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.08696,
-        "or_google_gemini_2_0_flash_exp": 0.11765,
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
         "or_deepseek_chat_v3": 0
       },
       "appearanceOrder": 6,
@@ -97487,31 +98844,198 @@ window.AppDataAggregate20250923 = {
         "or_meta_llama_3_3_70b": 6,
         "or_google_gemini_2_0_flash_exp": 6
       },
-      "mentionsAsPercent": 0.05882,
-      "influence": 0.01455,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.05596,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.6747,
+        "or_meta_llama_3_3_70b": 0.99282,
+        "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01455,
+      "weightedInfluence": 0.05596,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 913,
+        "or_google_gemini_2_0_flash_exp": 1217,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1217,
+            "excerpt": "ttps://www.instacart.com/)\n*   **DoorDash:** An online food ordering and delivery platform.\n    *   [DoorDash Website](https://www.doordash.com/)\n*   **Ginkgo Bioworks:** A synthetic biology company that programs cells to produce specialty ingr",
+            "line": 18,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 913,
+            "excerpt": "ttps://www.instacart.com](https://www.instacart.com)): Grocery delivery and pickup\n6. **DoorDash** ([https://www.doordash.com](https://www.doordash.com)): Food delivery and logistics\n7. **Cruise** ([https://www.getcruise.com](https://www.getcruise.com",
+            "line": 10,
+            "column": 18,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.39554
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.45832
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 4
+        "1-what-are-the-best-y-comb-907eddd4": 2
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.76569
+        "1-what-are-the-best-y-comb-907eddd4": 0.39554
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 2,
-          "or_google_gemini_2_0_flash_exp": 2,
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 1,
           "or_deepseek_chat_v3": 0
         }
       },
       "appearanceOrderByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1217,
+              "excerpt": "ttps://www.instacart.com/)\n*   **DoorDash:** An online food ordering and delivery platform.\n    *   [DoorDash Website](https://www.doordash.com/)\n*   **Ginkgo Bioworks:** A synthetic biology company that programs cells to produce specialty ingr",
+              "line": 18,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 913,
+              "excerpt": "ttps://www.instacart.com](https://www.instacart.com)): Grocery delivery and pickup\n6. **DoorDash** ([https://www.doordash.com](https://www.doordash.com)): Food delivery and logistics\n7. **Cruise** ([https://www.getcruise.com](https://www.getcruise.com",
+              "line": 10,
+              "column": 18,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 6,
@@ -97526,11 +99050,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://gusto.com",
       "linkType": "fin",
       "linkTypeName": "Financial Services",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 2,
+        "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 2
+        "or_deepseek_chat_v3": 1
       },
       "sources": [
         {
@@ -97576,48 +99100,215 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.29807
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.08696,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.07143
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 11.5,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 12,
-        "or_deepseek_chat_v3": 11
+        "or_meta_llama_3_3_70b": 10,
+        "or_deepseek_chat_v3": 10
       },
-      "mentionsAsPercent": 0.05882,
-      "influence": 0.01132,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.0454,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.98953,
+        "or_meta_llama_3_3_70b": 0.67918,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01132,
+      "weightedInfluence": 0.0454,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1308,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1201
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1201,
+            "excerpt": "com](https://www.instacart.com)  \n\n10. **Gusto** – Payroll, benefits, and HR for businesses  \n   🔗 [gusto.com](https://gusto.com)  \n\n11. **OpenSea** – NFT marketplace  \n   🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise**",
+            "line": 32,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1308,
+            "excerpt": "* ([https://www.zenefits.com](https://www.zenefits.com)): HR and benefits management\n10. **Gusto** ([https://www.gusto.com](https://www.gusto.com)): Payroll, benefits, and HR management\n\nThese companies have made significant contributions to the",
+            "line": 14,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.32099
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.10183
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 4
+        "1-what-are-the-best-y-comb-907eddd4": 2
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.60553
+        "1-what-are-the-best-y-comb-907eddd4": 0.32099
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 2,
+          "or_meta_llama_3_3_70b": 1,
           "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 2
+          "or_deepseek_chat_v3": 1
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 11.5
+        "1-what-are-the-best-y-comb-907eddd4": 10
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1201,
+              "excerpt": "com](https://www.instacart.com)  \n\n10. **Gusto** – Payroll, benefits, and HR for businesses  \n   🔗 [gusto.com](https://gusto.com)  \n\n11. **OpenSea** – NFT marketplace  \n   🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise**",
+              "line": 32,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1308,
+              "excerpt": "* ([https://www.zenefits.com](https://www.zenefits.com)): HR and benefits management\n10. **Gusto** ([https://www.gusto.com](https://www.gusto.com)): Payroll, benefits, and HR management\n\nThese companies have made significant contributions to the",
+              "line": 14,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 12,
-          "or_deepseek_chat_v3": 11
+          "or_meta_llama_3_3_70b": 10,
+          "or_deepseek_chat_v3": 10
         }
       }
     },
@@ -97658,35 +99349,199 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.58055
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
-        "or_deepseek_chat_v3": 0.03571
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 6.33,
+      "appearanceOrder": 2.83,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 6,
+        "or_meta_llama_3_3_70b": 2.5,
         "or_google_gemini_2_0_flash_exp": 3,
         "or_deepseek_chat_v3": 3
       },
-      "mentionsAsPercent": 0.04412,
-      "influence": 0.01096,
+      "mentionsAsPercent": 0.05455,
+      "influence": 0.09521,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.4739,
-        "or_deepseek_chat_v3": 0.68675
+        "or_google_gemini_2_0_flash_exp": 0.45505,
+        "or_deepseek_chat_v3": 0.66558
       },
-      "weightedInfluence": 0.01096,
+      "weightedInfluence": 0.09521,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 523,
+        "or_google_gemini_2_0_flash_exp": 877,
+        "or_deepseek_chat_v3": 490
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 490,
+            "excerpt": "🔗 [airbnb.com](https://www.airbnb.com)  \n\n3. **Dropbox** – Cloud storage and file sharing  \n   🔗 [dropbox.com](https://www.dropbox.com)  \n\n4. **Rappi** (Latin America) – On-demand delivery and services  \n   🔗 [rappi.com](https://www.",
+            "line": 11,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 877,
+            "excerpt": "rvice that offers cloud storage, file synchronization, personal cloud, and client software.\n    *   [Dropbox Website](https://www.dropbox.com/)\n*   **Coinbase:** A cryptocurrency exchange platform.\n    *   [Coinbase Website](https://www.coinb",
+            "line": 12,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 523,
+            "excerpt": "nb** ([https://www.airbnb.com](https://www.airbnb.com)): Short-term rental platform\n2. **Dropbox** ([https://www.dropbox.com](https://www.dropbox.com)): Cloud storage and file sharing\n3. **Reddit** ([https://www.reddit.com](https://www.reddit.com)):",
+            "line": 6,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 1575,
+            "excerpt": "](https://www.ycombinator.com/companies/)), including companies like [Airbnb](https://airbnb.com/), [Dropbox](https://dropbox.com/), and [Stripe](https://stripe.com/), if you aspire to follow in the footsteps of these successes, Y",
+            "line": 11,
+            "column": 186,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.1113
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.12852
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.22222
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 0.58055,
-        "5-when-should-someone-choo-ba5daa5b": 0.06436
+        "5-when-should-someone-choo-ba5daa5b": 0.1113
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97702,9 +99557,52 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2.67,
-        "5-when-should-someone-choo-ba5daa5b": 10
+        "5-when-should-someone-choo-ba5daa5b": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 490,
+              "excerpt": "🔗 [airbnb.com](https://www.airbnb.com)  \n\n3. **Dropbox** – Cloud storage and file sharing  \n   🔗 [dropbox.com](https://www.dropbox.com)  \n\n4. **Rappi** (Latin America) – On-demand delivery and services  \n   🔗 [rappi.com](https://www.",
+              "line": 11,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 877,
+              "excerpt": "rvice that offers cloud storage, file synchronization, personal cloud, and client software.\n    *   [Dropbox Website](https://www.dropbox.com/)\n*   **Coinbase:** A cryptocurrency exchange platform.\n    *   [Coinbase Website](https://www.coinb",
+              "line": 12,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 523,
+              "excerpt": "nb** ([https://www.airbnb.com](https://www.airbnb.com)): Short-term rental platform\n2. **Dropbox** ([https://www.dropbox.com](https://www.dropbox.com)): Cloud storage and file sharing\n3. **Reddit** ([https://www.reddit.com](https://www.reddit.com)):",
+              "line": 6,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1575,
+              "excerpt": "](https://www.ycombinator.com/companies/)), including companies like [Airbnb](https://airbnb.com/), [Dropbox](https://dropbox.com/), and [Stripe](https://stripe.com/), if you aspire to follow in the footsteps of these successes, Y",
+              "line": 11,
+              "column": 186,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 2,
@@ -97712,7 +99610,7 @@ window.AppDataAggregate20250923 = {
           "or_deepseek_chat_v3": 3
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 10
+          "or_meta_llama_3_3_70b": 3
         }
       }
     },
@@ -97752,32 +99650,177 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.43291
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 4.5,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 3,
-        "or_deepseek_chat_v3": 6
+        "or_deepseek_chat_v3": 5
       },
-      "mentionsAsPercent": 0.02941,
-      "influence": 0.00795,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.06495,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
+        "or_meta_llama_3_3_70b": 0.87783,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.69714
+        "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00795,
+      "weightedInfluence": 0.06495,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 622,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 702
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 702,
+            "excerpt": "[rappi.com](https://www.rappi.com)  \n\n5. **Reddit** – Social news aggregation & discussion  \n   🔗 [reddit.com](https://www.reddit.com)  \n\n6. **Brex** – Corporate credit cards & fintech for startups  \n   🔗 [brex.com](https://www.brex",
+            "line": 17,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 622,
+            "excerpt": "([https://www.dropbox.com](https://www.dropbox.com)): Cloud storage and file sharing\n3. **Reddit** ([https://www.reddit.com](https://www.reddit.com)): Social news and discussion platform\n4. **Stripe** ([https://stripe.com](https://stripe.com)): On",
+            "line": 7,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.45896
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.13164
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.43291
+        "1-what-are-the-best-y-comb-907eddd4": 0.45896
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97787,13 +99830,35 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 4.5
+        "1-what-are-the-best-y-comb-907eddd4": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 702,
+              "excerpt": "[rappi.com](https://www.rappi.com)  \n\n5. **Reddit** – Social news aggregation & discussion  \n   🔗 [reddit.com](https://www.reddit.com)  \n\n6. **Brex** – Corporate credit cards & fintech for startups  \n   🔗 [brex.com](https://www.brex",
+              "line": 17,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 622,
+              "excerpt": "([https://www.dropbox.com](https://www.dropbox.com)): Cloud storage and file sharing\n3. **Reddit** ([https://www.reddit.com](https://www.reddit.com)): Social news and discussion platform\n4. **Stripe** ([https://stripe.com](https://stripe.com)): On",
+              "line": 7,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 3,
-          "or_deepseek_chat_v3": 6
+          "or_deepseek_chat_v3": 5
         }
       }
     },
@@ -97833,32 +99898,177 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.37855
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
-        "or_deepseek_chat_v3": 0.03571
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 6.5,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 4,
-        "or_deepseek_chat_v3": 9
+        "or_deepseek_chat_v3": 8
       },
-      "mentionsAsPercent": 0.02941,
-      "influence": 0.00696,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.05515,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.98058,
+        "or_google_gemini_2_0_flash_exp": 0.93341,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00696,
+      "weightedInfluence": 0.05515,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 983,
+        "or_deepseek_chat_v3": 993
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 993,
+            "excerpt": "teams  \n   🔗 [deel.com](https://www.deel.com)  \n\n8. **Coinbase** – Cryptocurrency exchange  \n   🔗 [coinbase.com](https://www.coinbase.com)  \n\n9. **Instacart** – Grocery delivery & pickup  \n   🔗 [instacart.com](https://www.instacart.com)",
+            "line": 26,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 983,
+            "excerpt": "ox Website](https://www.dropbox.com/)\n*   **Coinbase:** A cryptocurrency exchange platform.\n    *   [Coinbase Website](https://www.coinbase.com/)\n*   **Instacart:** A grocery delivery and pick-up service.\n    *   [Instacart Website](https://www",
+            "line": 14,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.38967
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.30338
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.37855
+        "1-what-are-the-best-y-comb-907eddd4": 0.38967
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97868,13 +100078,35 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 6.5
+        "1-what-are-the-best-y-comb-907eddd4": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 993,
+              "excerpt": "teams  \n   🔗 [deel.com](https://www.deel.com)  \n\n8. **Coinbase** – Cryptocurrency exchange  \n   🔗 [coinbase.com](https://www.coinbase.com)  \n\n9. **Instacart** – Grocery delivery & pickup  \n   🔗 [instacart.com](https://www.instacart.com)",
+              "line": 26,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 983,
+              "excerpt": "ox Website](https://www.dropbox.com/)\n*   **Coinbase:** A cryptocurrency exchange platform.\n    *   [Coinbase Website](https://www.coinbase.com/)\n*   **Instacart:** A grocery delivery and pick-up service.\n    *   [Instacart Website](https://www",
+              "line": 14,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_google_gemini_2_0_flash_exp": 4,
-          "or_deepseek_chat_v3": 9
+          "or_deepseek_chat_v3": 8
         }
       }
     },
@@ -97919,25 +100151,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 7
+        "or_deepseek_chat_v3": 6
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00683,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.05596,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00683,
+      "weightedInfluence": 0.05596,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 810
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 810,
+            "excerpt": "com](https://www.reddit.com)  \n\n6. **Brex** – Corporate credit cards & fintech for startups  \n   🔗 [brex.com](https://www.brex.com)  \n\n7. **Deel** – Global payroll and HR for remote teams  \n   🔗 [deel.com](https://www.deel.com)",
+            "line": 20,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.39554
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.37015
+        "1-what-are-the-best-y-comb-907eddd4": 0.39554
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -97947,12 +100314,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 7
+        "1-what-are-the-best-y-comb-907eddd4": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 810,
+              "excerpt": "com](https://www.reddit.com)  \n\n6. **Brex** – Corporate credit cards & fintech for startups  \n   🔗 [brex.com](https://www.brex.com)  \n\n7. **Deel** – Global payroll and HR for remote teams  \n   🔗 [deel.com](https://www.deel.com)",
+              "line": 20,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 7
+          "or_deepseek_chat_v3": 6
         }
       }
     },
@@ -97993,33 +100374,188 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.36749
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
-        "or_deepseek_chat_v3": 0.03571
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 6.67,
+      "appearanceOrder": 6.33,
       "appearanceOrderByModel": {
         "or_meta_llama_3_3_70b": 5,
         "or_google_gemini_2_0_flash_exp": 5,
+        "or_deepseek_chat_v3": 9
+      },
+      "mentionsAsPercent": 0.05455,
+      "influence": 0.05307,
+      "influenceByModel": {
+        "or_meta_llama_3_3_70b": 0.87326,
+        "or_google_gemini_2_0_flash_exp": 0.87907,
+        "or_deepseek_chat_v3": 1
+      },
+      "weightedInfluence": 0.05307,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 811,
+        "or_google_gemini_2_0_flash_exp": 1096,
+        "or_deepseek_chat_v3": 1090
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1090,
+            "excerpt": "🔗 [coinbase.com](https://www.coinbase.com)  \n\n9. **Instacart** – Grocery delivery & pickup  \n   🔗 [instacart.com](https://www.instacart.com)  \n\n10. **Gusto** – Payroll, benefits, and HR for businesses  \n   🔗 [gusto.com](https://gusto.com)",
+            "line": 29,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1096,
+            "excerpt": "site](https://www.coinbase.com/)\n*   **Instacart:** A grocery delivery and pick-up service.\n    *   [Instacart Website](https://www.instacart.com/)\n*   **DoorDash:** An online food ordering and delivery platform.\n    *   [DoorDash Website](https:",
+            "line": 16,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 811,
+            "excerpt": "**Stripe** ([https://stripe.com](https://stripe.com)): Online payment processing\n5. **Instacart** ([https://www.instacart.com](https://www.instacart.com)): Grocery delivery and pickup\n6. **DoorDash** ([https://www.doordash.com](https://www.doordash.com",
+            "line": 9,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.37508
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6.33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.13092
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0.28555
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
         "or_deepseek_chat_v3": 10
       },
-      "mentionsAsPercent": 0.04412,
-      "influence": 0.00674,
-      "influenceByModel": {
-        "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.67407,
-        "or_deepseek_chat_v3": 0.73333
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ]
       },
-      "weightedInfluence": 0.00674,
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 3
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.36749
+        "1-what-are-the-best-y-comb-907eddd4": 0.37508
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98029,14 +100565,44 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 6.67
+        "1-what-are-the-best-y-comb-907eddd4": 6.33
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1090,
+              "excerpt": "🔗 [coinbase.com](https://www.coinbase.com)  \n\n9. **Instacart** – Grocery delivery & pickup  \n   🔗 [instacart.com](https://www.instacart.com)  \n\n10. **Gusto** – Payroll, benefits, and HR for businesses  \n   🔗 [gusto.com](https://gusto.com)",
+              "line": 29,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1096,
+              "excerpt": "site](https://www.coinbase.com/)\n*   **Instacart:** A grocery delivery and pick-up service.\n    *   [Instacart Website](https://www.instacart.com/)\n*   **DoorDash:** An online food ordering and delivery platform.\n    *   [DoorDash Website](https:",
+              "line": 16,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 811,
+              "excerpt": "**Stripe** ([https://stripe.com](https://stripe.com)): Online payment processing\n5. **Instacart** ([https://www.instacart.com](https://www.instacart.com)): Grocery delivery and pickup\n6. **DoorDash** ([https://www.doordash.com](https://www.doordash.com",
+              "line": 9,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 5,
           "or_google_gemini_2_0_flash_exp": 5,
-          "or_deepseek_chat_v3": 10
+          "or_deepseek_chat_v3": 9
         }
       }
     },
@@ -98081,25 +100647,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 8
+        "or_deepseek_chat_v3": 7
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00642,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.05238,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00642,
+      "weightedInfluence": 0.05238,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 907
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 907,
+            "excerpt": "🔗 [brex.com](https://www.brex.com)  \n\n7. **Deel** – Global payroll and HR for remote teams  \n   🔗 [deel.com](https://www.deel.com)  \n\n8. **Coinbase** – Cryptocurrency exchange  \n   🔗 [coinbase.com](https://www.coinbase.com)  \n\n9",
+            "line": 23,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.37015
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.3503
+        "1-what-are-the-best-y-comb-907eddd4": 0.37015
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98109,12 +100810,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 8
+        "1-what-are-the-best-y-comb-907eddd4": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 907,
+              "excerpt": "🔗 [brex.com](https://www.brex.com)  \n\n7. **Deel** – Global payroll and HR for remote teams  \n   🔗 [deel.com](https://www.deel.com)  \n\n8. **Coinbase** – Cryptocurrency exchange  \n   🔗 [coinbase.com](https://www.coinbase.com)  \n\n9",
+              "line": 23,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 8
+          "or_deepseek_chat_v3": 7
         }
       }
     },
@@ -98158,26 +100873,161 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 8
+        "or_google_gemini_2_0_flash_exp": 7
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00642,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.05238,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.00642,
+      "weightedInfluence": 0.05238,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1378,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1378,
+            "excerpt": "oworks:** A synthetic biology company that programs cells to produce specialty ingredients.\n    *   [Ginkgo Bioworks Website](https://www.ginkgobioworks.com/)\n*   **Cruise:** An autonomous vehicle company.\n    *   [Cruise Website](https://www.getcruise.com/",
+            "line": 20,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.37015
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.3503
+        "1-what-are-the-best-y-comb-907eddd4": 0.37015
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98187,12 +101037,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 8
+        "1-what-are-the-best-y-comb-907eddd4": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1378,
+              "excerpt": "oworks:** A synthetic biology company that programs cells to produce specialty ingredients.\n    *   [Ginkgo Bioworks Website](https://www.ginkgobioworks.com/)\n*   **Cruise:** An autonomous vehicle company.\n    *   [Cruise Website](https://www.getcruise.com/",
+              "line": 20,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_google_gemini_2_0_flash_exp": 8
+          "or_google_gemini_2_0_flash_exp": 7
         }
       }
     },
@@ -98232,32 +101096,177 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.34077
         }
       ],
-      "bots": "or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 8.5,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 8,
-        "or_google_gemini_2_0_flash_exp": 9
+        "or_meta_llama_3_3_70b": 7,
+        "or_google_gemini_2_0_flash_exp": 8
       },
-      "mentionsAsPercent": 0.02941,
-      "influence": 0.00629,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.05071,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.64545,
+        "or_google_gemini_2_0_flash_exp": 0.95209,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.00629,
+      "weightedInfluence": 0.05071,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1011,
+        "or_google_gemini_2_0_flash_exp": 1492,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1492,
+            "excerpt": "ks Website](https://www.ginkgobioworks.com/)\n*   **Cruise:** An autonomous vehicle company.\n    *   [Cruise Website](https://www.getcruise.com/)\n*   **Rappi:** A Latin American delivery app.\n    *   [Rappi Website](https://www.rappi.com/)\n\n**R",
+            "line": 22,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1011,
+            "excerpt": "([https://www.doordash.com](https://www.doordash.com)): Food delivery and logistics\n7. **Cruise** ([https://www.getcruise.com](https://www.getcruise.com)): Autonomous vehicle technology\n8. **Rappi** ([https://www.rappi.com](https://www.rappi.com)): On-",
+            "line": 11,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.35836
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.48427
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.34077
+        "1-what-are-the-best-y-comb-907eddd4": 0.35836
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98267,13 +101276,35 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 8.5
+        "1-what-are-the-best-y-comb-907eddd4": 7.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1492,
+              "excerpt": "ks Website](https://www.ginkgobioworks.com/)\n*   **Cruise:** An autonomous vehicle company.\n    *   [Cruise Website](https://www.getcruise.com/)\n*   **Rappi:** A Latin American delivery app.\n    *   [Rappi Website](https://www.rappi.com/)\n\n**R",
+              "line": 22,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1011,
+              "excerpt": "([https://www.doordash.com](https://www.doordash.com)): Food delivery and logistics\n7. **Cruise** ([https://www.getcruise.com](https://www.getcruise.com)): Autonomous vehicle technology\n8. **Rappi** ([https://www.rappi.com](https://www.rappi.com)): On-",
+              "line": 11,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 8,
-          "or_google_gemini_2_0_flash_exp": 9
+          "or_meta_llama_3_3_70b": 7,
+          "or_google_gemini_2_0_flash_exp": 8
         }
       }
     },
@@ -98316,27 +101347,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 11
+        "or_meta_llama_3_3_70b": 9
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.0057,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04729,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.0057,
+      "weightedInfluence": 0.04729,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1211,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1211,
+            "excerpt": "([https://www.rappi.com](https://www.rappi.com)): On-demand delivery and logistics\n9. **Zenefits** ([https://www.zenefits.com](https://www.zenefits.com)): HR and benefits management\n10. **Gusto** ([https://www.gusto.com](https://www.gusto.com)): Payro",
+            "line": 13,
+            "column": 18,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.33424
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.30973
+        "1-what-are-the-best-y-comb-907eddd4": 0.33424
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98346,12 +101512,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 11
+        "1-what-are-the-best-y-comb-907eddd4": 9
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1211,
+              "excerpt": "([https://www.rappi.com](https://www.rappi.com)): On-demand delivery and logistics\n9. **Zenefits** ([https://www.zenefits.com](https://www.zenefits.com)): HR and benefits management\n10. **Gusto** ([https://www.gusto.com](https://www.gusto.com)): Payro",
+              "line": 13,
+              "column": 18,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 11
+          "or_meta_llama_3_3_70b": 9
         }
       }
     },
@@ -98396,25 +101576,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 13
+        "or_deepseek_chat_v3": 11
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00534,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04383,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00534,
+      "weightedInfluence": 0.04383,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1277
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1277,
+            "excerpt": "for businesses  \n   🔗 [gusto.com](https://gusto.com)  \n\n11. **OpenSea** – NFT marketplace  \n   🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise** – Expense-sharing app for groups  \n   🔗 [splitwise.com](https://www.splitwis",
+            "line": 35,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30973
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.29161
+        "1-what-are-the-best-y-comb-907eddd4": 0.30973
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98424,12 +101739,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 13
+        "1-what-are-the-best-y-comb-907eddd4": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1277,
+              "excerpt": "for businesses  \n   🔗 [gusto.com](https://gusto.com)  \n\n11. **OpenSea** – NFT marketplace  \n   🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise** – Expense-sharing app for groups  \n   🔗 [splitwise.com](https://www.splitwis",
+              "line": 35,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 13
+          "or_deepseek_chat_v3": 11
         }
       }
     },
@@ -98474,25 +101803,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 14
+        "or_deepseek_chat_v3": 12
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00521,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04245,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00521,
+      "weightedInfluence": 0.04245,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1372
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1372,
+            "excerpt": "🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise** – Expense-sharing app for groups  \n   🔗 [splitwise.com](https://www.splitwise.com)  \n\n13. **Retool** – Low-code internal tool builder  \n   🔗 [retool.com](https://retool.com)  \n\n14.",
+            "line": 38,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30007
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.28421
+        "1-what-are-the-best-y-comb-907eddd4": 0.30007
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98502,12 +101966,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 14
+        "1-what-are-the-best-y-comb-907eddd4": 12
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1372,
+              "excerpt": "🔗 [opensea.io](https://opensea.io)  \n\n12. **Splitwise** – Expense-sharing app for groups  \n   🔗 [splitwise.com](https://www.splitwise.com)  \n\n13. **Retool** – Low-code internal tool builder  \n   🔗 [retool.com](https://retool.com)  \n\n14.",
+              "line": 38,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 14
+          "or_deepseek_chat_v3": 12
         }
       }
     },
@@ -98551,26 +102029,161 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 14
+        "or_google_gemini_2_0_flash_exp": 11
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00521,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04383,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.00521,
+      "weightedInfluence": 0.04383,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2266,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2266,
+            "excerpt": "):** A comprehensive list of notable YC companies, though it may not be entirely up-to-date.\n     * [Wikipedia List of Y Combinator Companies](https://en.wikipedia.org/wiki/List_of_Y_Combinator_companies)\n*   **Crunchbase:** Crunchbase tracks funding, valuations, and other information about startups, i",
+            "line": 33,
+            "column": 8,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30973
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.28421
+        "1-what-are-the-best-y-comb-907eddd4": 0.30973
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98580,12 +102193,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 14
+        "1-what-are-the-best-y-comb-907eddd4": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2266,
+              "excerpt": "):** A comprehensive list of notable YC companies, though it may not be entirely up-to-date.\n     * [Wikipedia List of Y Combinator Companies](https://en.wikipedia.org/wiki/List_of_Y_Combinator_companies)\n*   **Crunchbase:** Crunchbase tracks funding, valuations, and other information about startups, i",
+              "line": 33,
+              "column": 8,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_google_gemini_2_0_flash_exp": 14
+          "or_google_gemini_2_0_flash_exp": 11
         }
       }
     },
@@ -98630,25 +102257,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 15
+        "or_deepseek_chat_v3": 13
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00512,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04126,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00512,
+      "weightedInfluence": 0.04126,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1474
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1474,
+            "excerpt": "plitwise.com](https://www.splitwise.com)  \n\n13. **Retool** – Low-code internal tool builder  \n   🔗 [retool.com](https://retool.com)  \n\n14. **Scale AI** – AI training data & labeling platform  \n   🔗 [scale.com](https://scale.com)",
+            "line": 41,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.29161
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 13
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.27761
+        "1-what-are-the-best-y-comb-907eddd4": 0.29161
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98658,12 +102420,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 15
+        "1-what-are-the-best-y-comb-907eddd4": 13
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1474,
+              "excerpt": "plitwise.com](https://www.splitwise.com)  \n\n13. **Retool** – Low-code internal tool builder  \n   🔗 [retool.com](https://retool.com)  \n\n14. **Scale AI** – AI training data & labeling platform  \n   🔗 [scale.com](https://scale.com)",
+              "line": 41,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 15
+          "or_deepseek_chat_v3": 13
         }
       }
     },
@@ -98674,11 +102450,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://crunchbase.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
-      "mentions": 5,
+      "mentions": 3,
       "mentionsByModel": {
         "or_meta_llama_3_3_70b": 3,
-        "or_google_gemini_2_0_flash_exp": 4,
-        "or_deepseek_chat_v3": 2
+        "or_google_gemini_2_0_flash_exp": 3,
+        "or_deepseek_chat_v3": 1
       },
       "sources": [
         {
@@ -98703,50 +102479,241 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.27295
         }
       ],
-      "bots": "or_google_gemini_2_0_flash_exp,or_meta_llama_3_3_70b",
+      "bots": "or_meta_llama_3_3_70b,or_google_gemini_2_0_flash_exp",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
-        "or_google_gemini_2_0_flash_exp": 0.05882,
+        "or_meta_llama_3_3_70b": 0.05882,
+        "or_google_gemini_2_0_flash_exp": 0.07692,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 10.38,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 16,
-        "or_google_gemini_2_0_flash_exp": 14,
-        "or_deepseek_chat_v3": 16
+        "or_meta_llama_3_3_70b": 9.67,
+        "or_google_gemini_2_0_flash_exp": 10.67,
+        "or_deepseek_chat_v3": 15
       },
-      "mentionsAsPercent": 0.02941,
-      "influence": 0.01365,
+      "mentionsAsPercent": 0.03636,
+      "influence": 0.08031,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
-        "or_google_gemini_2_0_flash_exp": 0.94141,
-        "or_deepseek_chat_v3": 0.65234
+        "or_google_gemini_2_0_flash_exp": 0.97007,
+        "or_deepseek_chat_v3": 0.41901
       },
-      "weightedInfluence": 0.01365,
+      "weightedInfluence": 0.08031,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1955,
+        "or_google_gemini_2_0_flash_exp": 2500,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3453,
+            "excerpt": "Funding**: Amounts range from $50K (Alchemist) to $525K+ (IndieBio).  \n\nFor comparisons, check:  \n- [Crunchbase Accelerator List](https://www.crunchbase.com/lists/top-startup-accelerators/906ff07a-198c-46a8-a61f-179f6e0d4144)  \n- [AngelList Accelerators](https://angel.co/accelerators)  \n\nWould you like recommendations base",
+            "line": 64,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2500,
+            "excerpt": "e tracks funding, valuations, and other information about startups, including YC companies.\n    *   [Crunchbase Website](https://www.crunchbase.com/)\n\nKeep in mind that success is multifaceted, and many factors beyond valuation contribute to making",
+            "line": 35,
+            "column": 9,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 4113,
+            "excerpt": "he best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](http",
+            "line": 32,
+            "column": 168,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 5056,
+            "excerpt": "location of the program convenient for your team?\n\n**Comparison Resources:**\n\n*   **Crunchbase:** ([https://www.crunchbase.com/](https://www.crunchbase.com/)) Provides information on startups, investors, and funding rounds.\n*   **AngelList:** ([https://ang",
+            "line": 63,
+            "column": 22,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1955,
+            "excerpt": "advice.\n\nAdditionally, you can research Y Combinator startups on platforms like:\n\n* **Crunchbase** ([https://www.crunchbase.com](https://www.crunchbase.com)): Startup database and research platform\n* **AngelList** ([https://angel.co](https://angel.co)): S",
+            "line": 22,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          },
+          {
+            "appearanceOrder": 2317,
+            "excerpt": "ut review platforms like [G2 Reviews](https://www.g2.com/categories/accelerators-and-incubators) or [Crunchbase](https://www.crunchbase.com/hub/startup-accelerators), which provide insights and ratings from startups that have participated in these programs.\n\nUltim",
+            "line": 16,
+            "column": 170,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2566,
+            "excerpt": "bination thereof.\n\nFor more information on startup accelerators and their comparison, you can visit [Crunchbase](https://crunchbase.com/) or [Gust](https://gust.com/), platforms that provide insights and data on startups, funding, and a",
+            "line": 17,
+            "column": 82,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.0742
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0.44551
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 13
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 2,
-        "2-what-are-the-top-alterna-c2491069": 4,
+        "2-what-are-the-top-alterna-c2491069": 2,
         "3-how-does-y-combinator-co-a61f8da3": 2,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.27295,
-        "2-what-are-the-top-alterna-c2491069": 0.49496999999999997,
-        "3-how-does-y-combinator-co-a61f8da3": 0.08403,
-        "5-when-should-someone-choo-ba5daa5b": 0.05698
+        "1-what-are-the-best-y-comb-907eddd4": 0.2966,
+        "2-what-are-the-top-alterna-c2491069": 0.25389,
+        "3-how-does-y-combinator-co-a61f8da3": 0.10787,
+        "5-when-should-someone-choo-ba5daa5b": 0.0742
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
           "or_meta_llama_3_3_70b": 3,
-          "or_google_gemini_2_0_flash_exp": 4,
-          "or_deepseek_chat_v3": 2
+          "or_google_gemini_2_0_flash_exp": 3,
+          "or_deepseek_chat_v3": 1
         },
         "2-what-are-the-top-alterna-c2491069": {
           "or_meta_llama_3_3_70b": 0,
-          "or_google_gemini_2_0_flash_exp": 2,
-          "or_deepseek_chat_v3": 2
+          "or_google_gemini_2_0_flash_exp": 1,
+          "or_deepseek_chat_v3": 1
         },
         "3-how-does-y-combinator-co-a61f8da3": {
           "or_meta_llama_3_3_70b": 1,
@@ -98760,27 +102727,104 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 16,
-        "2-what-are-the-top-alterna-c2491069": 14.5,
-        "3-how-does-y-combinator-co-a61f8da3": 15.5,
-        "5-when-should-someone-choo-ba5daa5b": 14
+        "1-what-are-the-best-y-comb-907eddd4": 12.5,
+        "2-what-are-the-top-alterna-c2491069": 14,
+        "3-how-does-y-combinator-co-a61f8da3": 8,
+        "5-when-should-someone-choo-ba5daa5b": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2500,
+              "excerpt": "e tracks funding, valuations, and other information about startups, including YC companies.\n    *   [Crunchbase Website](https://www.crunchbase.com/)\n\nKeep in mind that success is multifaceted, and many factors beyond valuation contribute to making",
+              "line": 35,
+              "column": 9,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1955,
+              "excerpt": "advice.\n\nAdditionally, you can research Y Combinator startups on platforms like:\n\n* **Crunchbase** ([https://www.crunchbase.com](https://www.crunchbase.com)): Startup database and research platform\n* **AngelList** ([https://angel.co](https://angel.co)): S",
+              "line": 22,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3453,
+              "excerpt": "Funding**: Amounts range from $50K (Alchemist) to $525K+ (IndieBio).  \n\nFor comparisons, check:  \n- [Crunchbase Accelerator List](https://www.crunchbase.com/lists/top-startup-accelerators/906ff07a-198c-46a8-a61f-179f6e0d4144)  \n- [AngelList Accelerators](https://angel.co/accelerators)  \n\nWould you like recommendations base",
+              "line": 64,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 4113,
+              "excerpt": "he best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](http",
+              "line": 32,
+              "column": 168,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 5056,
+              "excerpt": "location of the program convenient for your team?\n\n**Comparison Resources:**\n\n*   **Crunchbase:** ([https://www.crunchbase.com/](https://www.crunchbase.com/)) Provides information on startups, investors, and funding rounds.\n*   **AngelList:** ([https://ang",
+              "line": 63,
+              "column": 22,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2317,
+              "excerpt": "ut review platforms like [G2 Reviews](https://www.g2.com/categories/accelerators-and-incubators) or [Crunchbase](https://www.crunchbase.com/hub/startup-accelerators), which provide insights and ratings from startups that have participated in these programs.\n\nUltim",
+              "line": 16,
+              "column": 170,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2566,
+              "excerpt": "bination thereof.\n\nFor more information on startup accelerators and their comparison, you can visit [Crunchbase](https://crunchbase.com/) or [Gust](https://gust.com/), platforms that provide insights and data on startups, funding, and a",
+              "line": 17,
+              "column": 82,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 17,
-          "or_google_gemini_2_0_flash_exp": 15
+          "or_meta_llama_3_3_70b": 13,
+          "or_google_gemini_2_0_flash_exp": 12
         },
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 13,
-          "or_deepseek_chat_v3": 16
+          "or_deepseek_chat_v3": 15
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 17,
-          "or_google_gemini_2_0_flash_exp": 14
+          "or_meta_llama_3_3_70b": 9,
+          "or_google_gemini_2_0_flash_exp": 7
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 14
+          "or_meta_llama_3_3_70b": 7
         }
       }
     },
@@ -98825,25 +102869,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 16,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 16
+        "or_deepseek_chat_v3": 14
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00498,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04022,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00498,
+      "weightedInfluence": 0.04022,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1574
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1574,
+            "excerpt": "[retool.com](https://retool.com)  \n\n14. **Scale AI** – AI training data & labeling platform  \n   🔗 [scale.com](https://scale.com)  \n\n15. **Replit** – Online coding platform & IDE  \n   🔗 [replit.com](https://replit.com)  \n\n16. *",
+            "line": 44,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.28421
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.27169
+        "1-what-are-the-best-y-comb-907eddd4": 0.28421
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98853,12 +103032,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 16
+        "1-what-are-the-best-y-comb-907eddd4": 14
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1574,
+              "excerpt": "[retool.com](https://retool.com)  \n\n14. **Scale AI** – AI training data & labeling platform  \n   🔗 [scale.com](https://scale.com)  \n\n15. **Replit** – Online coding platform & IDE  \n   🔗 [replit.com](https://replit.com)  \n\n16. *",
+              "line": 44,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 16
+          "or_deepseek_chat_v3": 14
         }
       }
     },
@@ -98901,27 +103094,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 16,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 16
+        "or_meta_llama_3_3_70b": 12
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00498,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.04245,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.00498,
+      "weightedInfluence": 0.04245,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 1733,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1733,
+            "excerpt": "combinator.com)) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.\n\nAdditionally, you can resear",
+            "line": 18,
+            "column": 215,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30007
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.27169
+        "1-what-are-the-best-y-comb-907eddd4": 0.30007
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -98931,12 +103259,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 16
+        "1-what-are-the-best-y-comb-907eddd4": 12
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1733,
+              "excerpt": "combinator.com)) and explore their portfolio companies. You can also check out Y Combinator's blog ([https://blog.ycombinator.com](https://blog.ycombinator.com)) for insights into the startup ecosystem and entrepreneurial advice.\n\nAdditionally, you can resear",
+              "line": 18,
+              "column": 215,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 16
+          "or_meta_llama_3_3_70b": 12
         }
       }
     },
@@ -98981,25 +103323,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 17,
+      "appearanceOrder": 15,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 17
+        "or_deepseek_chat_v3": 15
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.0049,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03928,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.0049,
+      "weightedInfluence": 0.03928,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1662
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1662,
+            "excerpt": "orm  \n   🔗 [scale.com](https://scale.com)  \n\n15. **Replit** – Online coding platform & IDE  \n   🔗 [replit.com](https://replit.com)  \n\n16. **Rippling** – Workforce management (HR, IT, Finance)  \n   🔗 [rippling.com](https://www.ri",
+            "line": 47,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27761
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 15
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.26629
+        "1-what-are-the-best-y-comb-907eddd4": 0.27761
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99009,12 +103486,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 17
+        "1-what-are-the-best-y-comb-907eddd4": 15
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1662,
+              "excerpt": "orm  \n   🔗 [scale.com](https://scale.com)  \n\n15. **Replit** – Online coding platform & IDE  \n   🔗 [replit.com](https://replit.com)  \n\n16. **Rippling** – Workforce management (HR, IT, Finance)  \n   🔗 [rippling.com](https://www.ri",
+              "line": 47,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 17
+          "or_deepseek_chat_v3": 15
         }
       }
     },
@@ -99059,25 +103550,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 18,
+      "appearanceOrder": 16,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 18
+        "or_deepseek_chat_v3": 16
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00481,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03843,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00481,
+      "weightedInfluence": 0.03843,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1764
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1764,
+            "excerpt": "eplit.com](https://replit.com)  \n\n16. **Rippling** – Workforce management (HR, IT, Finance)  \n   🔗 [rippling.com](https://www.rippling.com)  \n\n17. **Figma** – Collaborative design tool (Acquired by Adobe)  \n   🔗 [figma.com](https://www.f",
+            "line": 50,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27169
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 16
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 16
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.26136
+        "1-what-are-the-best-y-comb-907eddd4": 0.27169
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99087,12 +103713,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 18
+        "1-what-are-the-best-y-comb-907eddd4": 16
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1764,
+              "excerpt": "eplit.com](https://replit.com)  \n\n16. **Rippling** – Workforce management (HR, IT, Finance)  \n   🔗 [rippling.com](https://www.rippling.com)  \n\n17. **Figma** – Collaborative design tool (Acquired by Adobe)  \n   🔗 [figma.com](https://www.f",
+              "line": 50,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 18
+          "or_deepseek_chat_v3": 16
         }
       }
     },
@@ -99135,33 +103775,197 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 14.67,
+      "appearanceOrder": 8.67,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 18,
-        "or_google_gemini_2_0_flash_exp": 13.5,
-        "or_deepseek_chat_v3": 13
+        "or_meta_llama_3_3_70b": 14,
+        "or_google_gemini_2_0_flash_exp": 6.5,
+        "or_deepseek_chat_v3": 6
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.0066,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.06646,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.67213,
+        "or_meta_llama_3_3_70b": 0.36979,
         "or_google_gemini_2_0_flash_exp": 1,
-        "or_deepseek_chat_v3": 0.7377
+        "or_deepseek_chat_v3": 0.75744
       },
-      "weightedInfluence": 0.0066,
+      "weightedInfluence": 0.06646,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2070,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3618,
+            "excerpt": "- **AngelList (Syndicates & Rolling Funds)**  \n  - Non-equity funding options.  \n  - **Source**: [AngelList](https://angel.co/)  \n- **Indie.vc (Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.",
+            "line": 76,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 5201,
+            "excerpt": "nchbase.com/)) Provides information on startups, investors, and funding rounds.\n*   **AngelList:** ([https://angel.co/](https://angel.co/)) Connects startups with investors and talent.\n*   **G2:** ([https://www.g2.com/](https://www.g2.co",
+            "line": 64,
+            "column": 21,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 3089,
+            "excerpt": "Investors:** Angel investors can provide early-stage funding and mentorship.\n    *   **AngelList:** [https://angel.co/](https://angel.co/) A platform connecting startups with angel investors and venture capitalists.\n    *   **When to Cho",
+            "line": 20,
+            "column": 24,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2070,
+            "excerpt": "unchbase.com](https://www.crunchbase.com)): Startup database and research platform\n* **AngelList** ([https://angel.co](https://angel.co)): Startup funding and job platform\n* **PitchBook** ([https://pitchbook.com](https://pitchbook.com)",
+            "line": 23,
+            "column": 18,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.08613
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1,
         "3-how-does-y-combinator-co-a61f8da3": 2,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.26136,
-        "3-how-does-y-combinator-co-a61f8da3": 0.08719,
-        "5-when-should-someone-choo-ba5daa5b": 0.06017
+        "1-what-are-the-best-y-comb-907eddd4": 0.28421,
+        "3-how-does-y-combinator-co-a61f8da3": 0.11579,
+        "5-when-should-someone-choo-ba5daa5b": 0.08613
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99181,21 +103985,69 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 18,
-        "3-how-does-y-combinator-co-a61f8da3": 14,
-        "5-when-should-someone-choo-ba5daa5b": 12
+        "1-what-are-the-best-y-comb-907eddd4": 14,
+        "3-how-does-y-combinator-co-a61f8da3": 7,
+        "5-when-should-someone-choo-ba5daa5b": 5
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 18
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2070,
+              "excerpt": "unchbase.com](https://www.crunchbase.com)): Startup database and research platform\n* **AngelList** ([https://angel.co](https://angel.co)): Startup funding and job platform\n* **PitchBook** ([https://pitchbook.com](https://pitchbook.com)",
+              "line": 23,
+              "column": 18,
+              "captureDate": "2025-09-23"
+            }
+          ]
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_google_gemini_2_0_flash_exp": 15,
-          "or_deepseek_chat_v3": 13
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3618,
+              "excerpt": "- **AngelList (Syndicates & Rolling Funds)**  \n  - Non-equity funding options.  \n  - **Source**: [AngelList](https://angel.co/)  \n- **Indie.vc (Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.",
+              "line": 76,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 5201,
+              "excerpt": "nchbase.com/)) Provides information on startups, investors, and funding rounds.\n*   **AngelList:** ([https://angel.co/](https://angel.co/)) Connects startups with investors and talent.\n*   **G2:** ([https://www.g2.com/](https://www.g2.co",
+              "line": 64,
+              "column": 21,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_google_gemini_2_0_flash_exp": 12
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 3089,
+              "excerpt": "Investors:** Angel investors can provide early-stage funding and mentorship.\n    *   **AngelList:** [https://angel.co/](https://angel.co/) A platform connecting startups with angel investors and venture capitalists.\n    *   **When to Cho",
+              "line": 20,
+              "column": 24,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_meta_llama_3_3_70b": 14
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_google_gemini_2_0_flash_exp": 8,
+          "or_deepseek_chat_v3": 6
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_google_gemini_2_0_flash_exp": 5
         }
       }
     },
@@ -99240,25 +104092,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 19,
+      "appearanceOrder": 17,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 19
+        "or_deepseek_chat_v3": 17
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00472,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03767,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00472,
+      "weightedInfluence": 0.03767,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1878
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1878,
+            "excerpt": "(https://www.rippling.com)  \n\n17. **Figma** – Collaborative design tool (Acquired by Adobe)  \n   🔗 [figma.com](https://www.figma.com)  \n\n18. **Notion** – All-in-one workspace & productivity  \n   🔗 [notion.so](https://www.notion.so)",
+            "line": 53,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.26629
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 17
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.2569
+        "1-what-are-the-best-y-comb-907eddd4": 0.26629
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99268,12 +104255,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 19
+        "1-what-are-the-best-y-comb-907eddd4": 17
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1878,
+              "excerpt": "(https://www.rippling.com)  \n\n17. **Figma** – Collaborative design tool (Acquired by Adobe)  \n   🔗 [figma.com](https://www.figma.com)  \n\n18. **Notion** – All-in-one workspace & productivity  \n   🔗 [notion.so](https://www.notion.so)",
+              "line": 53,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 19
+          "or_deepseek_chat_v3": 17
         }
       }
     },
@@ -99316,27 +104317,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.04348,
+        "or_meta_llama_3_3_70b": 0.05882,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 19,
+      "appearanceOrder": 15,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 19
+        "or_meta_llama_3_3_70b": 15
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00472,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03928,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.00472,
+      "weightedInfluence": 0.03928,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2159,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2159,
+            "excerpt": "gelList** ([https://angel.co](https://angel.co)): Startup funding and job platform\n* **PitchBook** ([https://pitchbook.com](https://pitchbook.com)): Venture capital and startup data platform\n\nThese resources will provide you with a more extensiv",
+            "line": 24,
+            "column": 18,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27761
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 15
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.2569
+        "1-what-are-the-best-y-comb-907eddd4": 0.27761
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99346,12 +104482,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 19
+        "1-what-are-the-best-y-comb-907eddd4": 15
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2159,
+              "excerpt": "gelList** ([https://angel.co](https://angel.co)): Startup funding and job platform\n* **PitchBook** ([https://pitchbook.com](https://pitchbook.com)): Venture capital and startup data platform\n\nThese resources will provide you with a more extensiv",
+              "line": 24,
+              "column": 18,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_meta_llama_3_3_70b": 19
+          "or_meta_llama_3_3_70b": 15
         }
       }
     },
@@ -99396,25 +104546,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 20,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 20
+        "or_deepseek_chat_v3": 18
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00463,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03698,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00463,
+      "weightedInfluence": 0.03698,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1977
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1977,
+            "excerpt": "[figma.com](https://www.figma.com)  \n\n18. **Notion** – All-in-one workspace & productivity  \n   🔗 [notion.so](https://www.notion.so)  \n\n19. **Ramp** – Corporate spending & finance automation  \n   🔗 [ramp.com](https://ramp.com)",
+            "line": 56,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.26136
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 18
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.25283
+        "1-what-are-the-best-y-comb-907eddd4": 0.26136
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99424,12 +104709,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 20
+        "1-what-are-the-best-y-comb-907eddd4": 18
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1977,
+              "excerpt": "[figma.com](https://www.figma.com)  \n\n18. **Notion** – All-in-one workspace & productivity  \n   🔗 [notion.so](https://www.notion.so)  \n\n19. **Ramp** – Corporate spending & finance automation  \n   🔗 [ramp.com](https://ramp.com)",
+              "line": 56,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 20
+          "or_deepseek_chat_v3": 18
         }
       }
     },
@@ -99474,25 +104773,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 21,
+      "appearanceOrder": 19,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 21
+        "or_deepseek_chat_v3": 19
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00458,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03636,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00458,
+      "weightedInfluence": 0.03636,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2078
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2078,
+            "excerpt": "notion.so](https://www.notion.so)  \n\n19. **Ramp** – Corporate spending & finance automation  \n   🔗 [ramp.com](https://ramp.com)  \n\n20. **Motion** – AI-powered calendar & productivity assistant  \n   🔗 [usemotion.com](https://w",
+            "line": 59,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.2569
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 19
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.24897
+        "1-what-are-the-best-y-comb-907eddd4": 0.2569
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99502,12 +104936,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 21
+        "1-what-are-the-best-y-comb-907eddd4": 19
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2078,
+              "excerpt": "notion.so](https://www.notion.so)  \n\n19. **Ramp** – Corporate spending & finance automation  \n   🔗 [ramp.com](https://ramp.com)  \n\n20. **Motion** – AI-powered calendar & productivity assistant  \n   🔗 [usemotion.com](https://w",
+              "line": 59,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 21
+          "or_deepseek_chat_v3": 19
         }
       }
     },
@@ -99552,25 +105000,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 22,
+      "appearanceOrder": 20,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 22
+        "or_deepseek_chat_v3": 20
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00449,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03576,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00449,
+      "weightedInfluence": 0.03576,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2180
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2180,
+            "excerpt": "amp.com](https://ramp.com)  \n\n20. **Motion** – AI-powered calendar & productivity assistant  \n   🔗 [usemotion.com](https://www.usemotion.com)  \n\n### **Recent YC Standouts (Newer Startups to Watch)**\n- **Perplexity AI** – AI-powered search e",
+            "line": 62,
+            "column": 7,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25283
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 20
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 20
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.24544
+        "1-what-are-the-best-y-comb-907eddd4": 0.25283
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99580,12 +105163,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 22
+        "1-what-are-the-best-y-comb-907eddd4": 20
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2180,
+              "excerpt": "amp.com](https://ramp.com)  \n\n20. **Motion** – AI-powered calendar & productivity assistant  \n   🔗 [usemotion.com](https://www.usemotion.com)  \n\n### **Recent YC Standouts (Newer Startups to Watch)**\n- **Perplexity AI** – AI-powered search e",
+              "line": 62,
+              "column": 7,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 22
+          "or_deepseek_chat_v3": 20
         }
       }
     },
@@ -99630,25 +105227,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 23,
+      "appearanceOrder": 21,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 23
+        "or_deepseek_chat_v3": 21
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00445,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03522,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00445,
+      "weightedInfluence": 0.03522,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2334
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2334,
+            "excerpt": "cent YC Standouts (Newer Startups to Watch)**\n- **Perplexity AI** – AI-powered search engine  \n  🔗 [perplexity.ai](https://www.perplexity.ai)  \n- **Hume AI** – Emotionally intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-d",
+            "line": 66,
+            "column": 6,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.24897
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 21
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 21
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.24217
+        "1-what-are-the-best-y-comb-907eddd4": 0.24897
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99658,12 +105390,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 23
+        "1-what-are-the-best-y-comb-907eddd4": 21
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2334,
+              "excerpt": "cent YC Standouts (Newer Startups to Watch)**\n- **Perplexity AI** – AI-powered search engine  \n  🔗 [perplexity.ai](https://www.perplexity.ai)  \n- **Hume AI** – Emotionally intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-d",
+              "line": 66,
+              "column": 6,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 23
+          "or_deepseek_chat_v3": 21
         }
       }
     },
@@ -99708,25 +105454,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 24,
+      "appearanceOrder": 22,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 24
+        "or_deepseek_chat_v3": 22
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.0044,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03472,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.0044,
+      "weightedInfluence": 0.03472,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2429
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2429,
+            "excerpt": "🔗 [perplexity.ai](https://www.perplexity.ai)  \n- **Hume AI** – Emotionally intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-driven research assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions**",
+            "line": 68,
+            "column": 6,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.24544
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 22
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 22
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.23911
+        "1-what-are-the-best-y-comb-907eddd4": 0.24544
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99736,12 +105617,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 24
+        "1-what-are-the-best-y-comb-907eddd4": 22
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2429,
+              "excerpt": "🔗 [perplexity.ai](https://www.perplexity.ai)  \n- **Hume AI** – Emotionally intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-driven research assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions**",
+              "line": 68,
+              "column": 6,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 24
+          "or_deepseek_chat_v3": 22
         }
       }
     },
@@ -99786,25 +105681,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 25,
+      "appearanceOrder": 23,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 25
+        "or_deepseek_chat_v3": 23
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00436,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03428,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00436,
+      "weightedInfluence": 0.03428,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2507
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2507,
+            "excerpt": "intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-driven research assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions** – AI-powered video editing  \n  🔗 [captions.ai](https://www.captions.ai)  \n\n### *",
+            "line": 70,
+            "column": 6,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.24217
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 23
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 23
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.23624
+        "1-what-are-the-best-y-comb-907eddd4": 0.24217
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99814,12 +105844,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 25
+        "1-what-are-the-best-y-comb-907eddd4": 23
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2507,
+              "excerpt": "intelligent AI  \n  🔗 [hume.ai](https://hume.ai)  \n- **Lore** – AI-driven research assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions** – AI-powered video editing  \n  🔗 [captions.ai](https://www.captions.ai)  \n\n### *",
+              "line": 70,
+              "column": 6,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 25
+          "or_deepseek_chat_v3": 23
         }
       }
     },
@@ -99864,25 +105908,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.03571
+        "or_deepseek_chat_v3": 0.04
       },
-      "appearanceOrder": 26,
+      "appearanceOrder": 24,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 26
+        "or_deepseek_chat_v3": 24
       },
-      "mentionsAsPercent": 0.01471,
-      "influence": 0.00431,
+      "mentionsAsPercent": 0.01818,
+      "influence": 0.03384,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00431,
+      "weightedInfluence": 0.03384,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2589
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2589,
+            "excerpt": "assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions** – AI-powered video editing  \n  🔗 [captions.ai](https://www.captions.ai)  \n\n### **How to Track Emerging YC Companies?**  \nYC updates its portfolio regularly. Check:  \n🔗 [",
+            "line": 72,
+            "column": 6,
+            "captureDate": "2025-09-23",
+            "question": "What are the best Y Combinator available today?",
+            "promptId": "1-what-are-the-best-y-comb-907eddd4"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.23911
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 24
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 24
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": 1
       },
       "influenceByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 0.23351
+        "1-what-are-the-best-y-comb-907eddd4": 0.23911
       },
       "mentionsByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
@@ -99892,12 +106071,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-what-are-the-best-y-comb-907eddd4": 26
+        "1-what-are-the-best-y-comb-907eddd4": 24
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-what-are-the-best-y-comb-907eddd4": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2589,
+              "excerpt": "assistant  \n  🔗 [lore.so](https://www.lore.so)  \n- **Captions** – AI-powered video editing  \n  🔗 [captions.ai](https://www.captions.ai)  \n\n### **How to Track Emerging YC Companies?**  \nYC updates its portfolio regularly. Check:  \n🔗 [",
+              "line": 72,
+              "column": 6,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-what-are-the-best-y-comb-907eddd4": {
-          "or_deepseek_chat_v3": 26
+          "or_deepseek_chat_v3": 24
         }
       }
     },
@@ -99908,11 +106101,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://startupbootcamp.org",
       "linkType": "chr",
       "linkTypeName": "Charity & Non-profit",
-      "mentions": 6,
+      "mentions": 3,
       "mentionsByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 12
+        "or_deepseek_chat_v3": 6
       },
       "sources": [
         {
@@ -99962,37 +106155,218 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.28571
+        "or_deepseek_chat_v3": 0.17647
       },
       "appearanceOrder": 7,
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 7
       },
-      "mentionsAsPercent": 0.16667,
-      "influence": 0.08165,
+      "mentionsAsPercent": 0.09677,
+      "influence": 0.31422,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.08165,
+      "weightedInfluence": 0.31422,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1569
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1569,
+            "excerpt": "rprise software, SaaS, and supply chain startups.  \n\n### 6. **Startupbootcamp**  \n   - **Website**: [Startupbootcamp](https://www.startupbootcamp.org/)  \n   - **Key Features**: Industry-specific programs (fintech, energy, healthtech), global location",
+            "line": 29,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1776,
+            "excerpt": "ntech, energy, healthtech), global locations.  \n   - **Focus**: Sector-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **",
+            "line": 31,
+            "column": 53,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1843,
+            "excerpt": "tor-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)",
+            "line": 31,
+            "column": 120,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 6
+        "2-what-are-the-top-alterna-c2491069": 3
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 1.94639
+        "2-what-are-the-top-alterna-c2491069": 1
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_meta_llama_3_3_70b": 0,
           "or_google_gemini_2_0_flash_exp": 0,
-          "or_deepseek_chat_v3": 12
+          "or_deepseek_chat_v3": 6
         }
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1569,
+              "excerpt": "rprise software, SaaS, and supply chain startups.  \n\n### 6. **Startupbootcamp**  \n   - **Website**: [Startupbootcamp](https://www.startupbootcamp.org/)  \n   - **Key Features**: Industry-specific programs (fintech, energy, healthtech), global location",
+              "line": 29,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1776,
+              "excerpt": "ntech, energy, healthtech), global locations.  \n   - **Focus**: Sector-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **",
+              "line": 31,
+              "column": 53,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1843,
+              "excerpt": "tor-specific acceleration (e.g., [ScaleFin](https://www.startupbootcamp.org/accelerator/scalefin/), [Smart Cities](https://www.startupbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)",
+              "line": 31,
+              "column": 120,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_deepseek_chat_v3": 7
@@ -100006,11 +106380,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://techstars.com",
       "linkType": "fin",
       "linkTypeName": "Financial Services",
-      "mentions": 24,
+      "mentions": 6,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 5,
-        "or_google_gemini_2_0_flash_exp": 11,
-        "or_deepseek_chat_v3": 16
+        "or_meta_llama_3_3_70b": 2,
+        "or_google_gemini_2_0_flash_exp": 5,
+        "or_deepseek_chat_v3": 7
       },
       "sources": [
         {
@@ -100035,50 +106409,286 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.74449
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 8.38,
+      "appearanceOrder": 3.04,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 5,
-        "or_deepseek_chat_v3": 8.25,
-        "or_meta_llama_3_3_70b": 9.5
+        "or_google_gemini_2_0_flash_exp": 1.67,
+        "or_deepseek_chat_v3": 3,
+        "or_meta_llama_3_3_70b": 4
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.08546,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.47865,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.30188,
-        "or_google_gemini_2_0_flash_exp": 0.58675,
+        "or_meta_llama_3_3_70b": 0.1671,
+        "or_google_gemini_2_0_flash_exp": 0.6894,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.08546,
+      "weightedInfluence": 0.47865,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 317,
+        "or_deepseek_chat_v3": 189
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 189,
+            "excerpt": "ong with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Website**: [Techstars](https://www.techstars.com/)  \n   - **Key Features**: Global accelerator network, mentorship-driven, offers $120K for 6-10% equ",
+            "line": 4,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 685,
+            "excerpt": "in funding + $100K convertible note). Additional benefits like perks and credits.  \n  - **Source**: [Techstars Funding](https://www.techstars.com/accelerators)  \n- **500 Startups**:  \n  - **Investment**: $150K for 5% equity. Later renamed *\"500 Global\"* with",
+            "line": 13,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 1774,
+            "excerpt": "Network**: Large global presence with city-specific programs (e.g., NYC, London).  \n  - **Source**: [Techstars FAQ](https://www.techstars.com/faq)  \n- **500 Startups (500 Global)**:  \n  - **Duration**: ~4 months.  \n  - **Focus**: Diverse founder",
+            "line": 35,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2722,
+            "excerpt": "neur First**: Selective (~10% acceptance).  \n\n**Source**: [YC Stats](https://www.ycombinator.com/), [Techstars Insights](https://www.techstars.com/newsroom)  \n\n---\n\n### **4. Post-Accelerator Support & Alumni Network**  \n- **YC**:  \n  - **Alumni Benefits**",
+            "line": 54,
+            "column": 55,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2492,
+            "excerpt": "batches (200+ startups biannually) vs. smaller cohorts like Techstars (~12 startups per city).  \n→ [Techstars Comparison](https://www.techstars.com)  \n- **Focus on \"Moonshots\"**: More tolerance for unconventional ideas than corporate accelerators",
+            "line": 43,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          },
+          {
+            "appearanceOrder": 1653,
+            "excerpt": "zed industry (e.g., biotech, fintech).  \n  Example: [500 Startups](https://500.co/) (global focus), [Techstars](https://www.techstars.com/) (multiple verticals)  \n- **Later-Stage Funding** – If you're Series A+, consider direct VC funding",
+            "line": 28,
+            "column": 60,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 317,
+            "excerpt": "parison sites, and review platforms where available.\n\n**Accelerator Programs:**\n\n*   **Techstars:** [Techstars](https://www.techstars.com) is a well-known global accelerator program with a broad network and various specialized programs.",
+            "line": 5,
+            "column": 20,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1246,
+            "excerpt": "fferent types of startup support programs:\n\n**1. Other Top-Tier Accelerators:**\n\n*   **Techstars** ([https://www.techstars.com/](https://www.techstars.com/)): Another highly regarded accelerator with a global presence. Techstars invests $120,000 in exchan",
+            "line": 18,
+            "column": 20,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 1420,
+            "excerpt": "regarded accelerator with a global presence. Techstars invests $120,000 in exchange for 6% equity. ([https://www.techstars.com/terms](https://www.techstars.com/terms)). It offers a structured program, mentorship, and access to a network of investors and mentors. Te",
+            "line": 18,
+            "column": 194,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2331,
+            "excerpt": "e more specialized in specific industries or technologies. Examples include:\n    *   **Techstars:** [https://www.techstars.com/](https://www.techstars.com/) A global network of accelerators offering mentorship-driven programs.\n    *   **500 Global:** [htt",
+            "line": 15,
+            "column": 24,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 542,
+            "excerpt": "fundraising. Like Y Combinator, it provides seed funding, but the amount varies.\n2. **Techstars** ([Techstars](https://techstars.com/)): Techstars is a global accelerator with programs in various locations. It offers a three-month pr",
+            "line": 4,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2075,
+            "excerpt": "t might be the best fit.\n\nIn comparison to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Combinator stands out with its comprehen",
+            "line": 15,
+            "column": 75,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.11431
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3.33
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.47321
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2,
-        "3-how-does-y-combinator-co-a61f8da3": 24,
+        "3-how-does-y-combinator-co-a61f8da3": 6,
         "4-what-makes-y-combinator--6e3ff816": 1,
         "5-when-should-someone-choo-ba5daa5b": 3
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.74449,
-        "3-how-does-y-combinator-co-a61f8da3": 1.11489,
-        "4-what-makes-y-combinator--6e3ff816": 0.03029,
-        "5-when-should-someone-choo-ba5daa5b": 0.06431
+        "3-how-does-y-combinator-co-a61f8da3": 0.50177,
+        "4-what-makes-y-combinator--6e3ff816": 0.0479,
+        "5-when-should-someone-choo-ba5daa5b": 0.11431
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_meta_llama_3_3_70b": 5,
-          "or_google_gemini_2_0_flash_exp": 11,
-          "or_deepseek_chat_v3": 16
+          "or_meta_llama_3_3_70b": 2,
+          "or_google_gemini_2_0_flash_exp": 5,
+          "or_deepseek_chat_v3": 7
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 4,
-          "or_google_gemini_2_0_flash_exp": 8,
-          "or_deepseek_chat_v3": 12
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 2,
+          "or_deepseek_chat_v3": 3
         },
         "4-what-makes-y-combinator--6e3ff816": {
           "or_meta_llama_3_3_70b": 0,
@@ -100093,28 +106703,142 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1.5,
-        "3-how-does-y-combinator-co-a61f8da3": 5.67,
-        "4-what-makes-y-combinator--6e3ff816": 16,
-        "5-when-should-someone-choo-ba5daa5b": 10.33
+        "3-how-does-y-combinator-co-a61f8da3": 2.33,
+        "4-what-makes-y-combinator--6e3ff816": 5,
+        "5-when-should-someone-choo-ba5daa5b": 3.33
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 189,
+              "excerpt": "ong with their official websites and notable differences:\n\n### 1. **Techstars**  \n   - **Website**: [Techstars](https://www.techstars.com/)  \n   - **Key Features**: Global accelerator network, mentorship-driven, offers $120K for 6-10% equ",
+              "line": 4,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 317,
+              "excerpt": "parison sites, and review platforms where available.\n\n**Accelerator Programs:**\n\n*   **Techstars:** [Techstars](https://www.techstars.com) is a well-known global accelerator program with a broad network and various specialized programs.",
+              "line": 5,
+              "column": 20,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 685,
+              "excerpt": "in funding + $100K convertible note). Additional benefits like perks and credits.  \n  - **Source**: [Techstars Funding](https://www.techstars.com/accelerators)  \n- **500 Startups**:  \n  - **Investment**: $150K for 5% equity. Later renamed *\"500 Global\"* with",
+              "line": 13,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1774,
+              "excerpt": "Network**: Large global presence with city-specific programs (e.g., NYC, London).  \n  - **Source**: [Techstars FAQ](https://www.techstars.com/faq)  \n- **500 Startups (500 Global)**:  \n  - **Duration**: ~4 months.  \n  - **Focus**: Diverse founder",
+              "line": 35,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 2722,
+              "excerpt": "neur First**: Selective (~10% acceptance).  \n\n**Source**: [YC Stats](https://www.ycombinator.com/), [Techstars Insights](https://www.techstars.com/newsroom)  \n\n---\n\n### **4. Post-Accelerator Support & Alumni Network**  \n- **YC**:  \n  - **Alumni Benefits**",
+              "line": 54,
+              "column": 55,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1246,
+              "excerpt": "fferent types of startup support programs:\n\n**1. Other Top-Tier Accelerators:**\n\n*   **Techstars** ([https://www.techstars.com/](https://www.techstars.com/)): Another highly regarded accelerator with a global presence. Techstars invests $120,000 in exchan",
+              "line": 18,
+              "column": 20,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1420,
+              "excerpt": "regarded accelerator with a global presence. Techstars invests $120,000 in exchange for 6% equity. ([https://www.techstars.com/terms](https://www.techstars.com/terms)). It offers a structured program, mentorship, and access to a network of investors and mentors. Te",
+              "line": 18,
+              "column": 194,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 542,
+              "excerpt": "fundraising. Like Y Combinator, it provides seed funding, but the amount varies.\n2. **Techstars** ([Techstars](https://techstars.com/)): Techstars is a global accelerator with programs in various locations. It offers a three-month pr",
+              "line": 4,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2492,
+              "excerpt": "batches (200+ startups biannually) vs. smaller cohorts like Techstars (~12 startups per city).  \n→ [Techstars Comparison](https://www.techstars.com)  \n- **Focus on \"Moonshots\"**: More tolerance for unconventional ideas than corporate accelerators",
+              "line": 43,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1653,
+              "excerpt": "zed industry (e.g., biotech, fintech).  \n  Example: [500 Startups](https://500.co/) (global focus), [Techstars](https://www.techstars.com/) (multiple verticals)  \n- **Later-Stage Funding** – If you're Series A+, consider direct VC funding",
+              "line": 28,
+              "column": 60,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2331,
+              "excerpt": "e more specialized in specific industries or technologies. Examples include:\n    *   **Techstars:** [https://www.techstars.com/](https://www.techstars.com/) A global network of accelerators offering mentorship-driven programs.\n    *   **500 Global:** [htt",
+              "line": 15,
+              "column": 24,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2075,
+              "excerpt": "t might be the best fit.\n\nIn comparison to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Combinator stands out with its comprehen",
+              "line": 15,
+              "column": 75,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 1,
           "or_deepseek_chat_v3": 2
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 7,
-          "or_google_gemini_2_0_flash_exp": 5,
-          "or_deepseek_chat_v3": 5
+          "or_meta_llama_3_3_70b": 3,
+          "or_google_gemini_2_0_flash_exp": 2,
+          "or_deepseek_chat_v3": 2
         },
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 16
+          "or_deepseek_chat_v3": 5
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 12,
-          "or_google_gemini_2_0_flash_exp": 9,
-          "or_deepseek_chat_v3": 10
+          "or_meta_llama_3_3_70b": 5,
+          "or_google_gemini_2_0_flash_exp": 2,
+          "or_deepseek_chat_v3": 3
         }
       }
     },
@@ -100158,21 +106882,156 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
       "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 2
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.02578,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.19824,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.02578,
+      "weightedInfluence": 0.19824,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 676,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 676,
+            "excerpt": "stries or regions.\n    *   *Comparison:* You can find comparisons of Techstars and YC on sites like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international ven",
+            "line": 6,
+            "column": 82,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.63094
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -100189,7 +107048,21 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 676,
+              "excerpt": "stries or regions.\n    *   *Comparison:* You can find comparisons of Techstars and YC on sites like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international ven",
+              "line": 6,
+              "column": 82,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 2
@@ -100203,11 +107076,11 @@ window.AppDataAggregate20250923 = {
       "link": "https://500.co",
       "linkType": "fin",
       "linkTypeName": "Financial Services",
-      "mentions": 8,
+      "mentions": 4,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 3,
-        "or_google_gemini_2_0_flash_exp": 5,
-        "or_deepseek_chat_v3": 7
+        "or_meta_llama_3_3_70b": 2,
+        "or_google_gemini_2_0_flash_exp": 4,
+        "or_deepseek_chat_v3": 5
       },
       "sources": [
         {
@@ -100232,48 +107105,257 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.50002
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 6.89,
+      "appearanceOrder": 2.89,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 7.33,
-        "or_deepseek_chat_v3": 7,
-        "or_meta_llama_3_3_70b": 8
+        "or_google_gemini_2_0_flash_exp": 3,
+        "or_deepseek_chat_v3": 2.67,
+        "or_meta_llama_3_3_70b": 3
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.03907,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.34655,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.41353,
-        "or_google_gemini_2_0_flash_exp": 0.4812,
+        "or_meta_llama_3_3_70b": 0.25473,
+        "or_google_gemini_2_0_flash_exp": 0.513,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.03907,
+      "weightedInfluence": 0.34655,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 771,
+        "or_deepseek_chat_v3": 452
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 452,
+            "excerpt": "oad industries, but strong in SaaS, fintech, and AI.  \n\n### 2. **500 Startups**  \n   - **Website**: [500 Startups](https://500.co/)  \n   - **Key Features**: Invests $150K for 6% equity, strong global presence with micro-funds in m",
+            "line": 9,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 881,
+            "excerpt": "ment**: $150K for 5% equity. Later renamed *\"500 Global\"* with expanded programs.  \n  - **Source**: [500 Global Programs](https://500.co/)  \n- **Plug and Play Tech Center**:  \n  - **Investment**: Varies (often $50K–$250K, sometimes no di",
+            "line": 16,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 1964,
+            "excerpt": "Duration**: ~4 months.  \n  - **Focus**: Diverse founders, global expansion focus.  \n  - **Source**: [500 Global Accelerator](https://500.co/accelerator/)  \n- **Entrepreneur First (EF)**:  \n  - **Model**: Helps individuals form startups (rather than acc",
+            "line": 39,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 1605,
+            "excerpt": "r Niche Accelerators** – If you're in a specialized industry (e.g., biotech, fintech).  \n  Example: [500 Startups](https://500.co/) (global focus), [Techstars](https://www.techstars.com/) (multiple verticals)  \n- **Later-Stage Fun",
+            "line": 28,
+            "column": 12,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 771,
+            "excerpt": "like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international venture capital firm and accelerator. It focuses on early-stage startups and o",
+            "line": 7,
+            "column": 45,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1681,
+            "excerpt": ". Techstars often focuses on specific industries or themes within its programs.\n*   **500 Global** ([https://500.co/](https://500.co/)): An international venture capital firm and accelerator. They offer various programs, including an",
+            "line": 19,
+            "column": 21,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2482,
+            "excerpt": "com/) A global network of accelerators offering mentorship-driven programs.\n    *   **500 Global:** [https://500.co/](https://500.co/) An early-stage venture fund and seed accelerator with a global focus.\n    *   **Alchemist Accelera",
+            "line": 16,
+            "column": 25,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 306,
+            "excerpt": "ons, let's examine a few other prominent startup accelerators and incubators:\n\n1. **500 Startups** ([500 Startups](https://500.co/)): This accelerator offers a four-month program with a focus on growth hacking, customer acquisitio",
+            "line": 3,
+            "column": 22,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2042,
+            "excerpt": "can thrive in YC's environment, it might be the best fit.\n\nIn comparison to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Com",
+            "line": 15,
+            "column": 42,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.12528
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.75004
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2,
-        "3-how-does-y-combinator-co-a61f8da3": 8,
+        "3-how-does-y-combinator-co-a61f8da3": 4,
         "5-when-should-someone-choo-ba5daa5b": 3
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.50002,
-        "3-how-does-y-combinator-co-a61f8da3": 0.32141,
-        "5-when-should-someone-choo-ba5daa5b": 0.06549
+        "3-how-does-y-combinator-co-a61f8da3": 0.2724,
+        "5-when-should-someone-choo-ba5daa5b": 0.12528
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_meta_llama_3_3_70b": 3,
-          "or_google_gemini_2_0_flash_exp": 5,
-          "or_deepseek_chat_v3": 7
+          "or_meta_llama_3_3_70b": 2,
+          "or_google_gemini_2_0_flash_exp": 4,
+          "or_deepseek_chat_v3": 5
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 2,
-          "or_google_gemini_2_0_flash_exp": 2,
-          "or_deepseek_chat_v3": 4
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 1,
+          "or_deepseek_chat_v3": 2
         },
         "5-when-should-someone-choo-ba5daa5b": {
           "or_meta_llama_3_3_70b": 1,
@@ -100283,24 +107365,111 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 3,
-        "3-how-does-y-combinator-co-a61f8da3": 7.67,
-        "5-when-should-someone-choo-ba5daa5b": 10
+        "3-how-does-y-combinator-co-a61f8da3": 2.67,
+        "5-when-should-someone-choo-ba5daa5b": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 452,
+              "excerpt": "oad industries, but strong in SaaS, fintech, and AI.  \n\n### 2. **500 Startups**  \n   - **Website**: [500 Startups](https://500.co/)  \n   - **Key Features**: Invests $150K for 6% equity, strong global presence with micro-funds in m",
+              "line": 9,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 771,
+              "excerpt": "like [Gust](https://gust.com/s/accelerator-comparison).\n*   **500 Global (formerly 500 Startups):** [500 Global](https://500.co/) is an international venture capital firm and accelerator. It focuses on early-stage startups and o",
+              "line": 7,
+              "column": 45,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 881,
+              "excerpt": "ment**: $150K for 5% equity. Later renamed *\"500 Global\"* with expanded programs.  \n  - **Source**: [500 Global Programs](https://500.co/)  \n- **Plug and Play Tech Center**:  \n  - **Investment**: Varies (often $50K–$250K, sometimes no di",
+              "line": 16,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 1964,
+              "excerpt": "Duration**: ~4 months.  \n  - **Focus**: Diverse founders, global expansion focus.  \n  - **Source**: [500 Global Accelerator](https://500.co/accelerator/)  \n- **Entrepreneur First (EF)**:  \n  - **Model**: Helps individuals form startups (rather than acc",
+              "line": 39,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1681,
+              "excerpt": ". Techstars often focuses on specific industries or themes within its programs.\n*   **500 Global** ([https://500.co/](https://500.co/)): An international venture capital firm and accelerator. They offer various programs, including an",
+              "line": 19,
+              "column": 21,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 306,
+              "excerpt": "ons, let's examine a few other prominent startup accelerators and incubators:\n\n1. **500 Startups** ([500 Startups](https://500.co/)): This accelerator offers a four-month program with a focus on growth hacking, customer acquisitio",
+              "line": 3,
+              "column": 22,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1605,
+              "excerpt": "r Niche Accelerators** – If you're in a specialized industry (e.g., biotech, fintech).  \n  Example: [500 Startups](https://500.co/) (global focus), [Techstars](https://www.techstars.com/) (multiple verticals)  \n- **Later-Stage Fun",
+              "line": 28,
+              "column": 12,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2482,
+              "excerpt": "com/) A global network of accelerators offering mentorship-driven programs.\n    *   **500 Global:** [https://500.co/](https://500.co/) An early-stage venture fund and seed accelerator with a global focus.\n    *   **Alchemist Accelera",
+              "line": 16,
+              "column": 25,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2042,
+              "excerpt": "can thrive in YC's environment, it might be the best fit.\n\nIn comparison to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Com",
+              "line": 15,
+              "column": 42,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 3,
           "or_deepseek_chat_v3": 3
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 5,
-          "or_google_gemini_2_0_flash_exp": 9,
-          "or_deepseek_chat_v3": 9
+          "or_meta_llama_3_3_70b": 2,
+          "or_google_gemini_2_0_flash_exp": 3,
+          "or_deepseek_chat_v3": 3
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 11,
-          "or_google_gemini_2_0_flash_exp": 10,
-          "or_deepseek_chat_v3": 9
+          "or_meta_llama_3_3_70b": 4,
+          "or_google_gemini_2_0_flash_exp": 3,
+          "or_deepseek_chat_v3": 2
         }
       }
     },
@@ -100340,34 +107509,188 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.40776
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 4.5,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 6,
-        "or_deepseek_chat_v3": 7.5
+        "or_deepseek_chat_v3": 4
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.01819,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.17496,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.50602,
+        "or_google_gemini_2_0_flash_exp": 0.37703,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01819,
+      "weightedInfluence": 0.17496,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1533,
+        "or_deepseek_chat_v3": 734
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 734,
+            "excerpt": "s, including underrepresented founders.  \n\n### 3. **Plug and Play Tech Center**  \n   - **Website**: [Plug and Play](https://www.plugandplaytechcenter.com/)  \n   - **Key Features**: Corporate partnerships with Fortune 500 companies, sector-specific progra",
+            "line": 14,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1051,
+            "excerpt": "**:  \n  - **Investment**: Varies (often $50K–$250K, sometimes no direct funding).  \n  - **Source**: [Plug and Play Accelerator](https://www.plugandplaytechcenter.com/)  \n\n**Comparison**: YC offers significantly more funding upfront but takes more equity.  \n\n---\n\n###",
+            "line": 19,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1533,
+            "excerpt": "ng companies. They offer mentorship, resources, and connections.\n*   **Plug and Play Tech Center:** [Plug and Play Tech Center](https://www.plugandplaytechcenter.com/) is an early-stage investor, accelerator and corporate innovation platform. It connects startups wi",
+            "line": 10,
+            "column": 36,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.1451
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.90671
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2,
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.40776,
-        "3-how-does-y-combinator-co-a61f8da3": 0.09398
+        "3-how-does-y-combinator-co-a61f8da3": 0.1451
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100383,16 +107706,51 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 5,
-        "3-how-does-y-combinator-co-a61f8da3": 11
+        "3-how-does-y-combinator-co-a61f8da3": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 734,
+              "excerpt": "s, including underrepresented founders.  \n\n### 3. **Plug and Play Tech Center**  \n   - **Website**: [Plug and Play](https://www.plugandplaytechcenter.com/)  \n   - **Key Features**: Corporate partnerships with Fortune 500 companies, sector-specific progra",
+              "line": 14,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1533,
+              "excerpt": "ng companies. They offer mentorship, resources, and connections.\n*   **Plug and Play Tech Center:** [Plug and Play Tech Center](https://www.plugandplaytechcenter.com/) is an early-stage investor, accelerator and corporate innovation platform. It connects startups wi",
+              "line": 10,
+              "column": 36,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1051,
+              "excerpt": "**:  \n  - **Investment**: Varies (often $50K–$250K, sometimes no direct funding).  \n  - **Source**: [Plug and Play Accelerator](https://www.plugandplaytechcenter.com/)  \n\n**Comparison**: YC offers significantly more funding upfront but takes more equity.  \n\n---\n\n###",
+              "line": 19,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 6,
           "or_deepseek_chat_v3": 4
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_deepseek_chat_v3": 11
+          "or_deepseek_chat_v3": 4
         }
       }
     },
@@ -100437,20 +107795,155 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
       "appearanceOrder": 5,
       "appearanceOrderByModel": {
         "or_deepseek_chat_v3": 5
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01581,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.12157,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01581,
+      "weightedInfluence": 0.12157,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1044
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1044,
+            "excerpt": "ry-focused acceleration (IoT, mobility, retail).  \n\n### 4. **Berkeley SkyDeck**  \n   - **Website**: [SkyDeck](https://skydeck.berkeley.edu/)  \n   - **Key Features**: Affiliated with UC Berkeley, $200K-$1M+ funding, deep ties to research an",
+            "line": 19,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.38685
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
@@ -100467,7 +107960,21 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1044,
+              "excerpt": "ry-focused acceleration (IoT, mobility, retail).  \n\n### 4. **Berkeley SkyDeck**  \n   - **Website**: [SkyDeck](https://skydeck.berkeley.edu/)  \n   - **Key Features**: Affiliated with UC Berkeley, $200K-$1M+ funding, deep ties to research an",
+              "line": 19,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_deepseek_chat_v3": 5
@@ -100510,28 +108017,201 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.37911
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 9.17,
+      "appearanceOrder": 4.5,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 8.67,
+        "or_google_gemini_2_0_flash_exp": 4,
         "or_deepseek_chat_v3": 6,
-        "or_meta_llama_3_3_70b": 12
+        "or_meta_llama_3_3_70b": 5
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.01563,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.14332,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.32753,
+        "or_meta_llama_3_3_70b": 0.22318,
         "or_google_gemini_2_0_flash_exp": 1,
-        "or_deepseek_chat_v3": 0.85017
+        "or_deepseek_chat_v3": 0.60475
       },
-      "weightedInfluence": 0.01563,
+      "weightedInfluence": 0.14332,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1056,
+        "or_deepseek_chat_v3": 1306
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1306,
+            "excerpt": "cus**: Deep-tech, biotech, and AI startups.  \n\n### 5. **Alchemist Accelerator**  \n   - **Website**: [Alchemist](https://alchemistaccelerator.com/)  \n   - **Key Features**: B2B and enterprise-focused, $50K+ funding, strong corporate network.",
+            "line": 24,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1056,
+            "excerpt": "own for its global reach and investments in a wide array of sectors.\n*   **Alchemist Accelerator:** [Alchemist Accelerator](https://www.alchemistaccelerator.com/) is specifically geared towards startups focused on enterprise (B2B) ventures. If your startup is s",
+            "line": 8,
+            "column": 32,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 1951,
+            "excerpt": "arly-stage startups. Investment amounts and program structures vary.\n*   **Alchemist Accelerator** ([https://www.alchemistaccelerator.com/](https://www.alchemistaccelerator.com/)): Alchemist focuses on startups whose primary customers are enterprises.\n\n    *   **Key Difference",
+            "line": 20,
+            "column": 32,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 2622,
+            "excerpt": "rly-stage venture fund and seed accelerator with a global focus.\n    *   **Alchemist Accelerator:** [https://www.alchemistaccelerator.com/](https://www.alchemistaccelerator.com/) Focuses on enterprise startups.\n    *   **When to Choose:** If your startup is in a niche industry",
+            "line": 17,
+            "column": 36,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 1020,
+            "excerpt": "rtups, providing funding, mentorship, and access to industry experts.\n4. **Alchemist Accelerator** ([Alchemist Accelerator](https://www.alchemistaccelerator.com/)): This accelerator targets enterprise-oriented startups, offering a six-month program with funding",
+            "line": 6,
+            "column": 31,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.09588
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.62031
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2,
         "3-how-does-y-combinator-co-a61f8da3": 2,
@@ -100539,8 +108219,8 @@ window.AppDataAggregate20250923 = {
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.37911,
-        "3-how-does-y-combinator-co-a61f8da3": 0.09277,
-        "5-when-should-someone-choo-ba5daa5b": 0.06211
+        "3-how-does-y-combinator-co-a61f8da3": 0.13907,
+        "5-when-should-someone-choo-ba5daa5b": 0.09588
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100561,21 +108241,77 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 5,
-        "3-how-does-y-combinator-co-a61f8da3": 11.5,
-        "5-when-should-someone-choo-ba5daa5b": 11
+        "3-how-does-y-combinator-co-a61f8da3": 4.5,
+        "5-when-should-someone-choo-ba5daa5b": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1306,
+              "excerpt": "cus**: Deep-tech, biotech, and AI startups.  \n\n### 5. **Alchemist Accelerator**  \n   - **Website**: [Alchemist](https://alchemistaccelerator.com/)  \n   - **Key Features**: B2B and enterprise-focused, $50K+ funding, strong corporate network.",
+              "line": 24,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1056,
+              "excerpt": "own for its global reach and investments in a wide array of sectors.\n*   **Alchemist Accelerator:** [Alchemist Accelerator](https://www.alchemistaccelerator.com/) is specifically geared towards startups focused on enterprise (B2B) ventures. If your startup is s",
+              "line": 8,
+              "column": 32,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1951,
+              "excerpt": "arly-stage startups. Investment amounts and program structures vary.\n*   **Alchemist Accelerator** ([https://www.alchemistaccelerator.com/](https://www.alchemistaccelerator.com/)): Alchemist focuses on startups whose primary customers are enterprises.\n\n    *   **Key Difference",
+              "line": 20,
+              "column": 32,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 1020,
+              "excerpt": "rtups, providing funding, mentorship, and access to industry experts.\n4. **Alchemist Accelerator** ([Alchemist Accelerator](https://www.alchemistaccelerator.com/)): This accelerator targets enterprise-oriented startups, offering a six-month program with funding",
+              "line": 6,
+              "column": 31,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2622,
+              "excerpt": "rly-stage venture fund and seed accelerator with a global focus.\n    *   **Alchemist Accelerator:** [https://www.alchemistaccelerator.com/](https://www.alchemistaccelerator.com/) Focuses on enterprise startups.\n    *   **When to Choose:** If your startup is in a niche industry",
+              "line": 17,
+              "column": 36,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 4,
           "or_deepseek_chat_v3": 6
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 12,
-          "or_google_gemini_2_0_flash_exp": 11
+          "or_meta_llama_3_3_70b": 5,
+          "or_google_gemini_2_0_flash_exp": 4
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_google_gemini_2_0_flash_exp": 11
+          "or_google_gemini_2_0_flash_exp": 4
         }
       }
     },
@@ -100619,28 +108355,172 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 6.5,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 10
+        "or_google_gemini_2_0_flash_exp": 6.5
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01769,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.16214,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01769,
+      "weightedInfluence": 0.16214,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1850,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1850,
+            "excerpt": "ation programs.\n\n**Venture Capital Firms with Strong Seed Programs:**\n\n*   **First Round Capital:** [First Round Capital](https://firstround.com/) is a seed-stage venture capital firm that provides a strong network and resources to its portfolio",
+            "line": 14,
+            "column": 30,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 3081,
+            "excerpt": "p.com/scout-program/](https://lsvp.com/scout-program/)) \n    *   First Round Capital's Angel Track ([https://firstround.com/angel-track/](https://firstround.com/angel-track/))\n*   **Key Differences:**\n    *   **Primary Goal:** Accelerators primarily focus on accelerating g",
+            "line": 32,
+            "column": 44,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.12001
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.33333,
-        "3-how-does-y-combinator-co-a61f8da3": 0.08848
+        "3-how-does-y-combinator-co-a61f8da3": 0.12001
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100656,15 +108536,42 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 7,
-        "3-how-does-y-combinator-co-a61f8da3": 13
+        "3-how-does-y-combinator-co-a61f8da3": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1850,
+              "excerpt": "ation programs.\n\n**Venture Capital Firms with Strong Seed Programs:**\n\n*   **First Round Capital:** [First Round Capital](https://firstround.com/) is a seed-stage venture capital firm that provides a strong network and resources to its portfolio",
+              "line": 14,
+              "column": 30,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 3081,
+              "excerpt": "p.com/scout-program/](https://lsvp.com/scout-program/)) \n    *   First Round Capital's Angel Track ([https://firstround.com/angel-track/](https://firstround.com/angel-track/))\n*   **Key Differences:**\n    *   **Primary Goal:** Accelerators primarily focus on accelerating g",
+              "line": 32,
+              "column": 44,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 7
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_google_gemini_2_0_flash_exp": 13
+          "or_google_gemini_2_0_flash_exp": 6
         }
       }
     },
@@ -100704,32 +108611,177 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.32745
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 6.5,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 5,
-        "or_deepseek_chat_v3": 9
+        "or_deepseek_chat_v3": 8
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.01338,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.10602,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.8835,
+        "or_google_gemini_2_0_flash_exp": 0.8386,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01338,
+      "weightedInfluence": 0.10602,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 1295,
+        "or_deepseek_chat_v3": 1976
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1976,
+            "excerpt": "pbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)  \n   - **Key Features**: Non-profit, no equity taken, global cohorts in Boston, Houston, and Europ",
+            "line": 34,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 1295,
+            "excerpt": ". If your startup is selling to businesses, Alchemist is a strong contender.\n*   **MassChallenge:** [MassChallenge](https://masschallenge.org/) is a global network of zero-equity startup accelerators. They don't take equity in participating c",
+            "line": 9,
+            "column": 24,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.33744
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.6116
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.32745
+        "2-what-are-the-top-alterna-c2491069": 0.33744
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100739,13 +108791,35 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 7
+        "2-what-are-the-top-alterna-c2491069": 6.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1976,
+              "excerpt": "pbootcamp.org/accelerator/smart-mobility-energy/)).  \n\n### 7. **MassChallenge**  \n   - **Website**: [MassChallenge](https://masschallenge.org/)  \n   - **Key Features**: Non-profit, no equity taken, global cohorts in Boston, Houston, and Europ",
+              "line": 34,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 1295,
+              "excerpt": ". If your startup is selling to businesses, Alchemist is a strong contender.\n*   **MassChallenge:** [MassChallenge](https://masschallenge.org/) is a global network of zero-equity startup accelerators. They don't take equity in participating c",
+              "line": 9,
+              "column": 24,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 5,
-          "or_deepseek_chat_v3": 9
+          "or_deepseek_chat_v3": 8
         }
       }
     },
@@ -100789,28 +108863,172 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 11
+        "or_google_gemini_2_0_flash_exp": 7.5
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01707,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.15265,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01707,
+      "weightedInfluence": 0.15265,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2101,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2101,
+            "excerpt": "nies. They are known for their focus on the founder experience.\n*   **Andreessen Horowitz (a16z):** [Andreessen Horowitz](https://a16z.com/) is a venture capital firm that invests in seed to late-stage technology companies. While not stric",
+            "line": 15,
+            "column": 37,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 3651,
+            "excerpt": "[https://www.sequoiacap.com/](https://www.sequoiacap.com/)\n    *   **Andreessen Horowitz (a16z):** [https://a16z.com/](https://a16z.com/)\n    *   **When to Choose:** If your startup is further along in its development and has a proven t",
+            "line": 24,
+            "column": 41,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.0742
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.31545,
-        "5-when-should-someone-choo-ba5daa5b": 0.05698
+        "5-when-should-someone-choo-ba5daa5b": 0.0742
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100826,15 +109044,42 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 8,
-        "5-when-should-someone-choo-ba5daa5b": 14
+        "5-when-should-someone-choo-ba5daa5b": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2101,
+              "excerpt": "nies. They are known for their focus on the founder experience.\n*   **Andreessen Horowitz (a16z):** [Andreessen Horowitz](https://a16z.com/) is a venture capital firm that invests in seed to late-stage technology companies. While not stric",
+              "line": 15,
+              "column": 37,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 3651,
+              "excerpt": "[https://www.sequoiacap.com/](https://www.sequoiacap.com/)\n    *   **Andreessen Horowitz (a16z):** [https://a16z.com/](https://a16z.com/)\n    *   **When to Choose:** If your startup is further along in its development and has a proven t",
+              "line": 24,
+              "column": 41,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 8
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_google_gemini_2_0_flash_exp": 14
+          "or_google_gemini_2_0_flash_exp": 7
         }
       }
     },
@@ -100878,28 +109123,172 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 11
+        "or_google_gemini_2_0_flash_exp": 7.5
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01707,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.15265,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01707,
+      "weightedInfluence": 0.15265,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2379,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2379,
+            "excerpt": "program for supporting early-stage startups with mentorship and resources.\n*   **Sequoia Capital:** [Sequoia Capital](https://www.sequoiacap.com/) is a venture capital firm that invests in startups across various stages. They have a strong reput",
+            "line": 16,
+            "column": 26,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 3552,
+            "excerpt": "artups with high growth potential, typically at a later stage than YC.\n    *   **Sequoia Capital:** [https://www.sequoiacap.com/](https://www.sequoiacap.com/)\n    *   **Andreessen Horowitz (a16z):** [https://a16z.com/](https://a16z.com/)\n    *   **When to C",
+            "line": 23,
+            "column": 30,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.0793
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.30102,
-        "5-when-should-someone-choo-ba5daa5b": 0.05846
+        "5-when-should-someone-choo-ba5daa5b": 0.0793
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100915,15 +109304,42 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 9,
-        "5-when-should-someone-choo-ba5daa5b": 13
+        "5-when-should-someone-choo-ba5daa5b": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2379,
+              "excerpt": "program for supporting early-stage startups with mentorship and resources.\n*   **Sequoia Capital:** [Sequoia Capital](https://www.sequoiacap.com/) is a venture capital firm that invests in startups across various stages. They have a strong reput",
+              "line": 16,
+              "column": 26,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 3552,
+              "excerpt": "artups with high growth potential, typically at a later stage than YC.\n    *   **Sequoia Capital:** [https://www.sequoiacap.com/](https://www.sequoiacap.com/)\n    *   **Andreessen Horowitz (a16z):** [https://a16z.com/](https://a16z.com/)\n    *   **When to C",
+              "line": 23,
+              "column": 30,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 9
         },
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_google_gemini_2_0_flash_exp": 13
+          "or_google_gemini_2_0_flash_exp": 6
         }
       }
     },
@@ -100968,25 +109384,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 10
+        "or_deepseek_chat_v3": 9
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01181,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.09458,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01181,
+      "weightedInfluence": 0.09458,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2234
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2234,
+            "excerpt": "s**: Social impact, healthtech, and cleantech.  \n\n### 8. **IndieBio (by SOSV)**  \n   - **Website**: [IndieBio](https://indiebio.co/)  \n   - **Key Features**: $525K+ for biotech/synthetic biology startups, wet lab access.  \n   - **F",
+            "line": 39,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.30102
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.28905
+        "2-what-are-the-top-alterna-c2491069": 0.30102
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -100996,12 +109547,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 10
+        "2-what-are-the-top-alterna-c2491069": 9
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2234,
+              "excerpt": "s**: Social impact, healthtech, and cleantech.  \n\n### 8. **IndieBio (by SOSV)**  \n   - **Website**: [IndieBio](https://indiebio.co/)  \n   - **Key Features**: $525K+ for biotech/synthetic biology startups, wet lab access.  \n   - **F",
+              "line": 39,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_deepseek_chat_v3": 10
+          "or_deepseek_chat_v3": 9
         }
       }
     },
@@ -101046,25 +109611,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 11
+        "or_deepseek_chat_v3": 10
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01141,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.09084,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01141,
+      "weightedInfluence": 0.09084,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2465
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2465,
+            "excerpt": "ocus**: Biotech, food science, and climate tech.  \n\n### 9. **Dreamit Ventures**  \n   - **Website**: [Dreamit](https://dreamit.com/)  \n   - **Key Features**: Focus on scaling post-revenue startups, strong B2B and healthcare focus.",
+            "line": 44,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.28905
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.27894
+        "2-what-are-the-top-alterna-c2491069": 0.28905
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101074,12 +109774,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 11
+        "2-what-are-the-top-alterna-c2491069": 10
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2465,
+              "excerpt": "ocus**: Biotech, food science, and climate tech.  \n\n### 9. **Dreamit Ventures**  \n   - **Website**: [Dreamit](https://dreamit.com/)  \n   - **Key Features**: Focus on scaling post-revenue startups, strong B2B and healthcare focus.",
+              "line": 44,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_deepseek_chat_v3": 11
+          "or_deepseek_chat_v3": 10
         }
       }
     },
@@ -101123,29 +109837,174 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 11.5,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 11,
-        "or_deepseek_chat_v3": 12
+        "or_deepseek_chat_v3": 5
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.00732,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.06903,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 1,
-        "or_deepseek_chat_v3": 0.70229
+        "or_google_gemini_2_0_flash_exp": 0.98643,
+        "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00732,
+      "weightedInfluence": 0.06903,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2972,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2161,
+            "excerpt": "del**: Helps individuals form startups (rather than accepting existing startups).  \n  - **Source**: [Entrepreneur First](https://www.joinef.com/)  \n\n**Comparison**: YC emphasizes rapid scaling and a tight-knit investor network, while others (li",
+            "line": 42,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2972,
+            "excerpt": "ing them form teams and build businesses. They have a pre-seed program.\n*   **Entrepreneur First:** [Entrepreneur First](https://www.joinef.com/) is a talent investor that helps individuals build startups from scratch. They focus on deep tech a",
+            "line": 21,
+            "column": 29,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.13032
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.27894,
-        "3-how-does-y-combinator-co-a61f8da3": 0.09105
+        "3-how-does-y-combinator-co-a61f8da3": 0.13032
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101161,15 +110020,42 @@ window.AppDataAggregate20250923 = {
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 11,
-        "3-how-does-y-combinator-co-a61f8da3": 12
+        "3-how-does-y-combinator-co-a61f8da3": 5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2972,
+              "excerpt": "ing them form teams and build businesses. They have a pre-seed program.\n*   **Entrepreneur First:** [Entrepreneur First](https://www.joinef.com/) is a talent investor that helps individuals build startups from scratch. They focus on deep tech a",
+              "line": 21,
+              "column": 29,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2161,
+              "excerpt": "del**: Helps individuals form startups (rather than accepting existing startups).  \n  - **Source**: [Entrepreneur First](https://www.joinef.com/)  \n\n**Comparison**: YC emphasizes rapid scaling and a tight-knit investor network, while others (li",
+              "line": 42,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 11
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_deepseek_chat_v3": 12
+          "or_deepseek_chat_v3": 5
         }
       }
     },
@@ -101209,32 +110095,177 @@ window.AppDataAggregate20250923 = {
           "weightedInfluence": 0.27078
         }
       ],
-      "bots": "or_deepseek_chat_v3,or_google_gemini_2_0_flash_exp",
+      "bots": "or_google_gemini_2_0_flash_exp,or_deepseek_chat_v3",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
-        "or_deepseek_chat_v3": 0.04762
+        "or_google_gemini_2_0_flash_exp": 0.07143,
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 11.5,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
         "or_google_gemini_2_0_flash_exp": 10,
-        "or_deepseek_chat_v3": 13
+        "or_deepseek_chat_v3": 12
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.01105,
+      "mentionsAsPercent": 0.06452,
+      "influence": 0.08672,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.75556,
+        "or_google_gemini_2_0_flash_exp": 0.73122,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01105,
+      "weightedInfluence": 0.08672,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2721,
+        "or_deepseek_chat_v3": 2936
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2936,
+            "excerpt": ").  \n   - **Focus**: SaaS, fintech, and marketplaces.  \n\n### **Honorable Mentions**  \n- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, fou",
+            "line": 54,
+            "column": 15,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2721,
+            "excerpt": "ficant resources and connections.\n\n**Other Notable Startup Resources & Programs:**\n\n*   **Antler:** [Antler](https://www.antler.co/) is a global early-stage VC that builds and invests in startups. They focus on finding exceptional",
+            "line": 20,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27603
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0.70113
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 10
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 2
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.27078
+        "2-what-are-the-top-alterna-c2491069": 0.27603
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101244,13 +110275,35 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 11.5
+        "2-what-are-the-top-alterna-c2491069": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2936,
+              "excerpt": ").  \n   - **Focus**: SaaS, fintech, and marketplaces.  \n\n### **Honorable Mentions**  \n- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, fou",
+              "line": 54,
+              "column": 15,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2721,
+              "excerpt": "ficant resources and connections.\n\n**Other Notable Startup Resources & Programs:**\n\n*   **Antler:** [Antler](https://www.antler.co/) is a global early-stage VC that builds and invests in startups. They focus on finding exceptional",
+              "line": 20,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 10,
-          "or_deepseek_chat_v3": 13
+          "or_deepseek_chat_v3": 12
         }
       }
     },
@@ -101295,25 +110348,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 12
+        "or_deepseek_chat_v3": 11
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01105,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.08764,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01105,
+      "weightedInfluence": 0.08764,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2710
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2710,
+            "excerpt": "g Model**: $100K–$500K+ via convertible notes.  \n\n### 10. **Seedcamp** (Europe)  \n   - **Website**: [Seedcamp](https://seedcamp.com/)  \n   - **Key Features**: Focus on European startups, early-stage investment (€300K for 7-10%).",
+            "line": 49,
+            "column": 19,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.27894
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 11
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.27024
+        "2-what-are-the-top-alterna-c2491069": 0.27894
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101323,12 +110511,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 12
+        "2-what-are-the-top-alterna-c2491069": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2710,
+              "excerpt": "g Model**: $100K–$500K+ via convertible notes.  \n\n### 10. **Seedcamp** (Europe)  \n   - **Website**: [Seedcamp](https://seedcamp.com/)  \n   - **Key Features**: Focus on European startups, early-stage investment (€300K for 7-10%).",
+              "line": 49,
+              "column": 19,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_deepseek_chat_v3": 12
+          "or_deepseek_chat_v3": 11
         }
       }
     },
@@ -101339,10 +110541,10 @@ window.AppDataAggregate20250923 = {
       "link": "https://g2.com",
       "linkType": "rvw",
       "linkTypeName": "Reviews",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
-        "or_meta_llama_3_3_70b": 2,
-        "or_google_gemini_2_0_flash_exp": 4,
+        "or_meta_llama_3_3_70b": 1,
+        "or_google_gemini_2_0_flash_exp": 3,
         "or_deepseek_chat_v3": 0
       },
       "sources": [
@@ -101372,54 +110574,243 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 13.75,
+      "appearanceOrder": 10.25,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 14,
-        "or_meta_llama_3_3_70b": 15
+        "or_google_gemini_2_0_flash_exp": 10.5,
+        "or_meta_llama_3_3_70b": 8
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01653,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.09945,
       "influenceByModel": {
-        "or_meta_llama_3_3_70b": 0.72614,
+        "or_meta_llama_3_3_70b": 0.36801,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01653,
+      "weightedInfluence": 0.09945,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4083,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4083,
+            "excerpt": "e different programs to find the best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research ranki",
+            "line": 32,
+            "column": 138,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          },
+          {
+            "appearanceOrder": 5299,
+            "excerpt": "([https://angel.co/](https://angel.co/)) Connects startups with investors and talent.\n*   **G2:** ([https://www.g2.com/](https://www.g2.com/)) Provides reviews of software and services, including some accelerator programs.\n\nChoosing the rig",
+            "line": 65,
+            "column": 14,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2242,
+            "excerpt": "mni.\n\nTo get a better understanding of the comparison, you can also check out review platforms like [G2 Reviews](https://www.g2.com/categories/accelerators-and-incubators) or [Crunchbase](https://www.crunchbase.com/hub/startup-accelerators), which provide insights and r",
+            "line": 16,
+            "column": 95,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.10339
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 8.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 12
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1,
-        "3-how-does-y-combinator-co-a61f8da3": 4
+        "3-how-does-y-combinator-co-a61f8da3": 2
       },
       "influenceByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 0.27024,
-        "3-how-does-y-combinator-co-a61f8da3": 0.1646
+        "3-how-does-y-combinator-co-a61f8da3": 0.10339
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_meta_llama_3_3_70b": 2,
-          "or_google_gemini_2_0_flash_exp": 4,
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 3,
           "or_deepseek_chat_v3": 0
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 2,
-          "or_google_gemini_2_0_flash_exp": 2,
+          "or_meta_llama_3_3_70b": 1,
+          "or_google_gemini_2_0_flash_exp": 1,
           "or_deepseek_chat_v3": 0
         }
       },
       "appearanceOrderByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 12,
-        "3-how-does-y-combinator-co-a61f8da3": 15.5
+        "3-how-does-y-combinator-co-a61f8da3": 8.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 4083,
+              "excerpt": "e different programs to find the best fit for your startup's needs and goals. Review platforms like [G2](https://www.g2.com/) and [Crunchbase](https://www.crunchbase.com/) can also offer insights. You can also research ranki",
+              "line": 32,
+              "column": 138,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        },
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 5299,
+              "excerpt": "([https://angel.co/](https://angel.co/)) Connects startups with investors and talent.\n*   **G2:** ([https://www.g2.com/](https://www.g2.com/)) Provides reviews of software and services, including some accelerator programs.\n\nChoosing the rig",
+              "line": 65,
+              "column": 14,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2242,
+              "excerpt": "mni.\n\nTo get a better understanding of the comparison, you can also check out review platforms like [G2 Reviews](https://www.g2.com/categories/accelerators-and-incubators) or [Crunchbase](https://www.crunchbase.com/hub/startup-accelerators), which provide insights and r",
+              "line": 16,
+              "column": 95,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
           "or_google_gemini_2_0_flash_exp": 12
         },
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 15,
-          "or_google_gemini_2_0_flash_exp": 16
+          "or_meta_llama_3_3_70b": 8,
+          "or_google_gemini_2_0_flash_exp": 9
         }
       }
     },
@@ -101464,25 +110855,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 14
+        "or_deepseek_chat_v3": 13
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01046,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.08251,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01046,
+      "weightedInfluence": 0.08251,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3019
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3019,
+            "excerpt": "- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and",
+            "line": 55,
+            "column": 16,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.26265
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 13
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.25596
+        "2-what-are-the-top-alterna-c2491069": 0.26265
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101492,12 +111018,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 14
+        "2-what-are-the-top-alterna-c2491069": 13
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3019,
+              "excerpt": "- **Antler** ([antler.co](https://www.antler.co/)) – Pre-team formation program  \n- **Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and",
+              "line": 55,
+              "column": 16,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_deepseek_chat_v3": 14
+          "or_deepseek_chat_v3": 13
         }
       }
     },
@@ -101542,25 +111082,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.04762
+        "or_deepseek_chat_v3": 0.05882
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 15
+        "or_deepseek_chat_v3": 14
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01019,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.08044,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01019,
+      "weightedInfluence": 0.08044,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3107
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3107,
+            "excerpt": "*Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and robotics  \n\n### **Key Differences from Y Combinator**  \n- **Equity**: Some (like M",
+            "line": 56,
+            "column": 22,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25596
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.24999
+        "2-what-are-the-top-alterna-c2491069": 0.25596
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101570,12 +111245,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 15
+        "2-what-are-the-top-alterna-c2491069": 14
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3107,
+              "excerpt": "*Pear VC** ([pear.vc](https://www.pear.vc/)) – Early-stage, founder-friendly  \n- **HAX (by SOSV)** ([hax.co](https://hax.co/)) – Hardware and robotics  \n\n### **Key Differences from Y Combinator**  \n- **Equity**: Some (like M",
+              "line": 56,
+              "column": 22,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_deepseek_chat_v3": 15
+          "or_deepseek_chat_v3": 14
         }
       }
     },
@@ -101619,26 +111308,161 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.06667,
+        "or_google_gemini_2_0_flash_exp": 0.07143,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 15
+        "or_google_gemini_2_0_flash_exp": 14
       },
-      "mentionsAsPercent": 0.02778,
-      "influence": 0.01019,
+      "mentionsAsPercent": 0.03226,
+      "influence": 0.08044,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01019,
+      "weightedInfluence": 0.08044,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4237,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4237,
+            "excerpt": ".crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](https://www.seedtable.com/accelerators).",
+            "line": 32,
+            "column": 292,
+            "captureDate": "2025-09-23",
+            "question": "What are the top alternatives to Y Combinator?",
+            "promptId": "2-what-are-the-top-alterna-c2491069"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.25596
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 14
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-what-are-the-top-alterna-c2491069": 1
       },
       "influenceByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 0.24999
+        "2-what-are-the-top-alterna-c2491069": 0.25596
       },
       "mentionsByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
@@ -101648,12 +111472,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-what-are-the-top-alterna-c2491069": 15
+        "2-what-are-the-top-alterna-c2491069": 14
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-what-are-the-top-alterna-c2491069": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 4237,
+              "excerpt": ".crunchbase.com/) can also offer insights. You can also research rankings such as those provided by [Seedtable](https://www.seedtable.com/accelerators).",
+              "line": 32,
+              "column": 292,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-what-are-the-top-alterna-c2491069": {
-          "or_google_gemini_2_0_flash_exp": 15
+          "or_google_gemini_2_0_flash_exp": 14
         }
       }
     },
@@ -101698,25 +111536,178 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.07692
+        "or_deepseek_chat_v3": 0.1875
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 14
+        "or_deepseek_chat_v3": 7
       },
-      "mentionsAsPercent": 0.03704,
-      "influence": 0.03135,
+      "mentionsAsPercent": 0.08333,
+      "influence": 0.31422,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.03135,
+      "weightedInfluence": 0.31422,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3655
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3655,
+            "excerpt": "g Funds)**  \n  - Non-equity funding options.  \n  - **Source**: [AngelList](https://angel.co/)  \n- **Indie.vc (Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.  \n  - **Source**:",
+            "line": 77,
+            "column": 5,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 3763,
+            "excerpt": "(Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.  \n  - **Source**: [Indie.vc](https://www.indie.vc/)  \n- **Emerging Accelerators (e.g., OnDeck, South Park Commons)**  \n  - Community-focused rather th",
+            "line": 79,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          },
+          {
+            "appearanceOrder": 4299,
+            "excerpt": "**.  \n✅ **500 Global** – Strong for **diverse founders & international markets**.  \n✅ **AngelList / Indie.vc** – Good if you prefer **alternative funding paths**.  \n\nWould you like a deeper comparison on any",
+            "line": 90,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.3369
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 3
       },
       "influenceByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 0.2587
+        "3-how-does-y-combinator-co-a61f8da3": 0.3369
       },
       "mentionsByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
@@ -101726,12 +111717,40 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 14
+        "3-how-does-y-combinator-co-a61f8da3": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3655,
+              "excerpt": "g Funds)**  \n  - Non-equity funding options.  \n  - **Source**: [AngelList](https://angel.co/)  \n- **Indie.vc (Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.  \n  - **Source**:",
+              "line": 77,
+              "column": 5,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 3763,
+              "excerpt": "(Revenue-Based Financing)**  \n  - Alternative funding for bootstrapped startups.  \n  - **Source**: [Indie.vc](https://www.indie.vc/)  \n- **Emerging Accelerators (e.g., OnDeck, South Park Commons)**  \n  - Community-focused rather th",
+              "line": 79,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            },
+            {
+              "appearanceOrder": 4299,
+              "excerpt": "**.  \n✅ **500 Global** – Strong for **diverse founders & international markets**.  \n✅ **AngelList / Indie.vc** – Good if you prefer **alternative funding paths**.  \n\nWould you like a deeper comparison on any",
+              "line": 90,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_deepseek_chat_v3": 14
+          "or_deepseek_chat_v3": 7
         }
       }
     },
@@ -101774,27 +111793,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.05882,
+        "or_meta_llama_3_3_70b": 0.11111,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 11
+        "or_meta_llama_3_3_70b": 4
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.01141,
+      "mentionsAsPercent": 0.02778,
+      "influence": 0.13533,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01141,
+      "weightedInfluence": 0.13533,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 796,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 796,
+            "excerpt": "mentorship, and access to a network of entrepreneurs and investors.\n3. **Accelerator Corporation** ([Accelerator Corporation](https://www.acceleratorcorp.com/)): This accelerator focuses on life science and biotechnology startups, providing funding, mentorsh",
+            "line": 5,
+            "column": 33,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.1451
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 0.09398
+        "3-how-does-y-combinator-co-a61f8da3": 0.1451
       },
       "mentionsByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
@@ -101804,12 +111958,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 11
+        "3-how-does-y-combinator-co-a61f8da3": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 796,
+              "excerpt": "mentorship, and access to a network of entrepreneurs and investors.\n3. **Accelerator Corporation** ([Accelerator Corporation](https://www.acceleratorcorp.com/)): This accelerator focuses on life science and biotechnology startups, providing funding, mentorsh",
+              "line": 5,
+              "column": 33,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_meta_llama_3_3_70b": 11
+          "or_meta_llama_3_3_70b": 4
         }
       }
     },
@@ -101853,26 +112021,161 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.04,
+        "or_google_gemini_2_0_flash_exp": 0.09091,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 12
+        "or_google_gemini_2_0_flash_exp": 5
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.01105,
+      "mentionsAsPercent": 0.02778,
+      "influence": 0.12157,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01105,
+      "weightedInfluence": 0.12157,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 2969,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 2969,
+            "excerpt": "tly, since their primary business is investing. Examples include:\n    *   Lightspeed Scout Program ([https://lsvp.com/scout-program/](https://lsvp.com/scout-program/)) \n    *   First Round Capital's Angel Track ([https://firstround.com/angel-track/](https://firstro",
+            "line": 31,
+            "column": 35,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.13032
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 5
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 0.09105
+        "3-how-does-y-combinator-co-a61f8da3": 0.13032
       },
       "mentionsByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
@@ -101882,12 +112185,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 12
+        "3-how-does-y-combinator-co-a61f8da3": 5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 2969,
+              "excerpt": "tly, since their primary business is investing. Examples include:\n    *   Lightspeed Scout Program ([https://lsvp.com/scout-program/](https://lsvp.com/scout-program/)) \n    *   First Round Capital's Angel Track ([https://firstround.com/angel-track/](https://firstro",
+              "line": 31,
+              "column": 35,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_google_gemini_2_0_flash_exp": 12
+          "or_google_gemini_2_0_flash_exp": 5
         }
       }
     },
@@ -101932,25 +112249,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.02564
+        "or_deepseek_chat_v3": 0.0625
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 15
+        "or_deepseek_chat_v3": 8
       },
-      "mentionsAsPercent": 0.01235,
-      "influence": 0.01019,
+      "mentionsAsPercent": 0.02778,
+      "influence": 0.09914,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01019,
+      "weightedInfluence": 0.09914,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 3937
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 3937,
+            "excerpt": "k, South Park Commons)**  \n  - Community-focused rather than structured programs.  \n  - **Source**: [South Park Commons](https://www.southparkcommons.com/)  \n\n---\n\n### **Summary: Which One to Choose?**  \n✅ **YC** – Best for high-growth startups seeking *",
+            "line": 82,
+            "column": 17,
+            "captureDate": "2025-09-23",
+            "question": "How does Y Combinator compare to similar options?",
+            "promptId": "3-how-does-y-combinator-co-a61f8da3"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.10629
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 1
       },
       "influenceByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 0.08421
+        "3-how-does-y-combinator-co-a61f8da3": 0.10629
       },
       "mentionsByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
@@ -101960,12 +112412,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-how-does-y-combinator-co-a61f8da3": 15
+        "3-how-does-y-combinator-co-a61f8da3": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 3937,
+              "excerpt": "k, South Park Commons)**  \n  - Community-focused rather than structured programs.  \n  - **Source**: [South Park Commons](https://www.southparkcommons.com/)  \n\n---\n\n### **Summary: Which One to Choose?**  \n✅ **YC** – Best for high-growth startups seeking *",
+              "line": 82,
+              "column": 17,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {
-          "or_deepseek_chat_v3": 15
+          "or_deepseek_chat_v3": 8
         }
       }
     },
@@ -102012,6 +112478,131 @@ window.AppDataAggregate20250923 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -102028,7 +112619,13 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {}
       }
@@ -102076,6 +112673,131 @@ window.AppDataAggregate20250923 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -102092,7 +112814,13 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {}
       }
@@ -102140,6 +112868,131 @@ window.AppDataAggregate20250923 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": 0
       },
@@ -102156,7 +113009,13 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-how-does-y-combinator-co-a61f8da3": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-how-does-y-combinator-co-a61f8da3": {}
       }
@@ -102202,25 +113061,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.00877
+        "or_deepseek_chat_v3": 0.06667
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 2,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 13
+        "or_deepseek_chat_v3": 2
       },
-      "mentionsAsPercent": 0.00538,
-      "influence": 0.01073,
+      "mentionsAsPercent": 0.04762,
+      "influence": 0.19824,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01073,
+      "weightedInfluence": 0.19824,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1516
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1516,
+            "excerpt": "o Day attracts top-tier investors (Sequoia, a16z, etc.), giving startups unparalleled exposure.  \n→ [Demo Day Impact](https://techcrunch.com/2021/10/06/y-combinator-demo-day-s21/)  \n\n### 6. **Post-Program Support**  \n- **YC Continuity**: Follow-on funding and support via YC’s g",
+            "line": 25,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.07811
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
       "influenceByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 0.03252
+        "4-what-makes-y-combinator--6e3ff816": 0.07811
       },
       "mentionsByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
@@ -102230,12 +113224,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 13
+        "4-what-makes-y-combinator--6e3ff816": 2
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1516,
+              "excerpt": "o Day attracts top-tier investors (Sequoia, a16z, etc.), giving startups unparalleled exposure.  \n→ [Demo Day Impact](https://techcrunch.com/2021/10/06/y-combinator-demo-day-s21/)  \n\n### 6. **Post-Program Support**  \n- **YC Continuity**: Follow-on funding and support via YC’s g",
+              "line": 25,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 13
+          "or_deepseek_chat_v3": 2
         }
       }
     },
@@ -102280,25 +113288,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.00877
+        "or_deepseek_chat_v3": 0.06667
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 14
+        "or_deepseek_chat_v3": 3
       },
-      "mentionsAsPercent": 0.00538,
-      "influence": 0.01046,
+      "mentionsAsPercent": 0.04762,
+      "influence": 0.15711,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01046,
+      "weightedInfluence": 0.15711,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 1950
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 1950,
+            "excerpt": "ps://www.ycombinator.com/talent)  \n\n### 7. **Global Reach with Localized Programs**  \nPrograms like [YC Fellowship](https://fellowship.ycombinator.com/) (for early-stage teams) and international editions expand access beyond Silicon Valley.  \n\n### 8.",
+            "line": 34,
+            "column": 15,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.0619
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
       "influenceByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 0.03168
+        "4-what-makes-y-combinator--6e3ff816": 0.0619
       },
       "mentionsByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
@@ -102308,12 +113451,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 14
+        "4-what-makes-y-combinator--6e3ff816": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 1950,
+              "excerpt": "ps://www.ycombinator.com/talent)  \n\n### 7. **Global Reach with Localized Programs**  \nPrograms like [YC Fellowship](https://fellowship.ycombinator.com/) (for early-stage teams) and international editions expand access beyond Silicon Valley.  \n\n### 8.",
+              "line": 34,
+              "column": 15,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 14
+          "or_deepseek_chat_v3": 3
         }
       }
     },
@@ -102358,25 +113515,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.00877
+        "or_deepseek_chat_v3": 0.06667
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 15
+        "or_deepseek_chat_v3": 4
       },
-      "mentionsAsPercent": 0.00538,
-      "influence": 0.01019,
+      "mentionsAsPercent": 0.04762,
+      "influence": 0.13533,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01019,
+      "weightedInfluence": 0.13533,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2160
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2160,
+            "excerpt": "access beyond Silicon Valley.  \n\n### 8. **Open-Source Resources**  \nYC shares free tools like:  \n- [Startup School](https://www.startupschool.org/) (free online course)  \n- [YC Library](https://www.ycombinator.com/library) (guides on fundraising,",
+            "line": 38,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.05332
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
       "influenceByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 0.03096
+        "4-what-makes-y-combinator--6e3ff816": 0.05332
       },
       "mentionsByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
@@ -102386,12 +113678,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 15
+        "4-what-makes-y-combinator--6e3ff816": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2160,
+              "excerpt": "access beyond Silicon Valley.  \n\n### 8. **Open-Source Resources**  \nYC shares free tools like:  \n- [Startup School](https://www.startupschool.org/) (free online course)  \n- [YC Library](https://www.ycombinator.com/library) (guides on fundraising,",
+              "line": 38,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 15
+          "or_deepseek_chat_v3": 4
         }
       }
     },
@@ -102436,25 +113742,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.00877
+        "or_deepseek_chat_v3": 0.06667
       },
-      "appearanceOrder": 17,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 17
+        "or_deepseek_chat_v3": 6
       },
-      "mentionsAsPercent": 0.00538,
-      "influence": 0.00979,
+      "mentionsAsPercent": 0.04762,
+      "influence": 0.11192,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00979,
+      "weightedInfluence": 0.11192,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2673
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2673,
+            "excerpt": "ore tolerance for unconventional ideas than corporate accelerators (e.g., Google for Startups).  \n→ [Google for Startups](https://startup.google.com/)  \n- **Alumni Loyalty**: Many YC founders reinvest in new batches, creating a flywheel effect.  \n\nF",
+            "line": 45,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.04411
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
       "influenceByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 0.0297
+        "4-what-makes-y-combinator--6e3ff816": 0.04411
       },
       "mentionsByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
@@ -102464,12 +113905,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 17
+        "4-what-makes-y-combinator--6e3ff816": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2673,
+              "excerpt": "ore tolerance for unconventional ideas than corporate accelerators (e.g., Google for Startups).  \n→ [Google for Startups](https://startup.google.com/)  \n- **Alumni Loyalty**: Many YC founders reinvest in new batches, creating a flywheel effect.  \n\nF",
+              "line": 45,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 17
+          "or_deepseek_chat_v3": 6
         }
       }
     },
@@ -102514,25 +113969,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.00877
+        "or_deepseek_chat_v3": 0.06667
       },
-      "appearanceOrder": 18,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 18
+        "or_deepseek_chat_v3": 7
       },
-      "mentionsAsPercent": 0.00538,
-      "influence": 0.00961,
+      "mentionsAsPercent": 0.04762,
+      "influence": 0.10473,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.00961,
+      "weightedInfluence": 0.10473,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2898
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2898,
+            "excerpt": "a flywheel effect.  \n\nFor deeper insights, YC’s co-founder Paul Graham’s essays are legendary:  \n→ [Paul Graham’s Essays](http://paulgraham.com/articles.html)  \n\nWould you like comparisons to specific competitors (e.g., 500 Startups, AngelPad)?",
+            "line": 49,
+            "column": 3,
+            "captureDate": "2025-09-23",
+            "question": "What makes Y Combinator unique or different?",
+            "promptId": "4-what-makes-y-combinator--6e3ff816"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.04127
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": 1
       },
       "influenceByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 0.02914
+        "4-what-makes-y-combinator--6e3ff816": 0.04127
       },
       "mentionsByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
@@ -102542,12 +114132,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "4-what-makes-y-combinator--6e3ff816": 18
+        "4-what-makes-y-combinator--6e3ff816": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "4-what-makes-y-combinator--6e3ff816": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2898,
+              "excerpt": "a flywheel effect.  \n\nFor deeper insights, YC’s co-founder Paul Graham’s essays are legendary:  \n→ [Paul Graham’s Essays](http://paulgraham.com/articles.html)  \n\nWould you like comparisons to specific competitors (e.g., 500 Startups, AngelPad)?",
+              "line": 49,
+              "column": 3,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "4-what-makes-y-combinator--6e3ff816": {
-          "or_deepseek_chat_v3": 18
+          "or_deepseek_chat_v3": 7
         }
       }
     },
@@ -102590,27 +114194,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.02174,
+        "or_meta_llama_3_3_70b": 0.09091,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 2,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 9
+        "or_meta_llama_3_3_70b": 2
       },
-      "mentionsAsPercent": 0.00833,
-      "influence": 0.01231,
+      "mentionsAsPercent": 0.03448,
+      "influence": 0.19824,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01231,
+      "weightedInfluence": 0.19824,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 385,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 385,
+            "excerpt": "tive network of successful startup founders and investors, Y Combinator's extensive alumni network ([YC Directory](https://directory.ycombinator.com/)) is unparalleled. This can be particularly beneficial for getting advice, partnerships, or funding",
+            "line": 3,
+            "column": 166,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.14045
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 2
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 0.06703
+        "5-when-should-someone-choo-ba5daa5b": 0.14045
       },
       "mentionsByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
@@ -102620,12 +114359,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 9
+        "5-when-should-someone-choo-ba5daa5b": 2
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 385,
+              "excerpt": "tive network of successful startup founders and investors, Y Combinator's extensive alumni network ([YC Directory](https://directory.ycombinator.com/)) is unparalleled. This can be particularly beneficial for getting advice, partnerships, or funding",
+              "line": 3,
+              "column": 166,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 9
+          "or_meta_llama_3_3_70b": 2
         }
       }
     },
@@ -102670,25 +114423,160 @@ window.AppDataAggregate20250923 = {
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
-        "or_deepseek_chat_v3": 0.02326
+        "or_deepseek_chat_v3": 0.125
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "or_deepseek_chat_v3": 11
+        "or_deepseek_chat_v3": 4
       },
-      "mentionsAsPercent": 0.00833,
-      "influence": 0.01141,
+      "mentionsAsPercent": 0.03448,
+      "influence": 0.13533,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 1
       },
-      "weightedInfluence": 0.01141,
+      "weightedInfluence": 0.13533,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": 2076
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [
+          {
+            "appearanceOrder": 2076,
+            "excerpt": "can relocate (or participate remotely), it’s one of the best choices.  \n\nFor deep comparisons:  \n🔗 [YC vs. Techstars](https://www.foundersnetwork.com/blog/ycombinator-vs-techstars/)  \n🔗 [Best Startup Accelerators (PitchBook)](https://pitchbook.com/news/articles/top-startup-accel",
+            "line": 35,
+            "column": 4,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.09588
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 0.06211
+        "5-when-should-someone-choo-ba5daa5b": 0.09588
       },
       "mentionsByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
@@ -102698,12 +114586,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 11
+        "5-when-should-someone-choo-ba5daa5b": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [
+            {
+              "appearanceOrder": 2076,
+              "excerpt": "can relocate (or participate remotely), it’s one of the best choices.  \n\nFor deep comparisons:  \n🔗 [YC vs. Techstars](https://www.foundersnetwork.com/blog/ycombinator-vs-techstars/)  \n🔗 [Best Startup Accelerators (PitchBook)](https://pitchbook.com/news/articles/top-startup-accel",
+              "line": 35,
+              "column": 4,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_deepseek_chat_v3": 11
+          "or_deepseek_chat_v3": 4
         }
       }
     },
@@ -102746,27 +114648,162 @@ window.AppDataAggregate20250923 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "or_meta_llama_3_3_70b": 0.02174,
+        "or_meta_llama_3_3_70b": 0.09091,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "or_meta_llama_3_3_70b": 13
+        "or_meta_llama_3_3_70b": 6
       },
-      "mentionsAsPercent": 0.00833,
-      "influence": 0.01073,
+      "mentionsAsPercent": 0.03448,
+      "influence": 0.11192,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 1,
         "or_google_gemini_2_0_flash_exp": 0,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01073,
+      "weightedInfluence": 0.11192,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": 2115,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": [
+          {
+            "appearanceOrder": 2115,
+            "excerpt": "to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Combinator stands out with its comprehensive approach to startup development, extensive network",
+            "line": 15,
+            "column": 115,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.0793
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": 999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": 10,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 6
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 0.05846
+        "5-when-should-someone-choo-ba5daa5b": 0.0793
       },
       "mentionsByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
@@ -102776,12 +114813,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 13
+        "5-when-should-someone-choo-ba5daa5b": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": [
+            {
+              "appearanceOrder": 2115,
+              "excerpt": "to other accelerators like [500 Startups](https://500.co/), [Techstars](https://techstars.com/), or [Accelerator Corps](https://acceleratorcorps.com/), Y Combinator stands out with its comprehensive approach to startup development, extensive network",
+              "line": 15,
+              "column": 115,
+              "captureDate": "2025-09-23"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_meta_llama_3_3_70b": 13
+          "or_meta_llama_3_3_70b": 6
         }
       }
     },
@@ -102825,26 +114876,161 @@ window.AppDataAggregate20250923 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "or_meta_llama_3_3_70b": 0,
-        "or_google_gemini_2_0_flash_exp": 0.03226,
+        "or_google_gemini_2_0_flash_exp": 0.1,
         "or_deepseek_chat_v3": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "or_google_gemini_2_0_flash_exp": 15
+        "or_google_gemini_2_0_flash_exp": 8
       },
-      "mentionsAsPercent": 0.00833,
-      "influence": 0.01019,
+      "mentionsAsPercent": 0.03448,
+      "influence": 0.09914,
       "influenceByModel": {
         "or_meta_llama_3_3_70b": 0,
         "or_google_gemini_2_0_flash_exp": 1,
         "or_deepseek_chat_v3": 0
       },
-      "weightedInfluence": 0.01019,
+      "weightedInfluence": 0.09914,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": 4377,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "appearanceOrder": 4377,
+            "excerpt": "s, particularly in specific industries or regions.\n    *   **Small Business Administration (SBA):** [https://www.sba.gov/](https://www.sba.gov/) Provides resources and funding for small businesses.\n    *   **When to Choose:** If your startup a",
+            "line": 29,
+            "column": 50,
+            "captureDate": "2025-09-23",
+            "question": "When should someone choose Y Combinator over other options?",
+            "promptId": "5-when-should-someone-choo-ba5daa5b"
+          }
+        ],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0.07024
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": 10,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 8
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 1
       },
       "influenceByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 0.05565
+        "5-when-should-someone-choo-ba5daa5b": 0.07024
       },
       "mentionsByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
@@ -102854,12 +115040,26 @@ window.AppDataAggregate20250923 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "5-when-should-someone-choo-ba5daa5b": 15
+        "5-when-should-someone-choo-ba5daa5b": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [
+            {
+              "appearanceOrder": 4377,
+              "excerpt": "s, particularly in specific industries or regions.\n    *   **Small Business Administration (SBA):** [https://www.sba.gov/](https://www.sba.gov/) Provides resources and funding for small businesses.\n    *   **When to Choose:** If your startup a",
+              "line": 29,
+              "column": 50,
+              "captureDate": "2025-09-23"
+            }
+          ],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {
-          "or_google_gemini_2_0_flash_exp": 15
+          "or_google_gemini_2_0_flash_exp": 8
         }
       }
     },
@@ -102906,6 +115106,131 @@ window.AppDataAggregate20250923 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 0
       },
@@ -102922,7 +115247,13 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {}
       }
@@ -102970,6 +115301,131 @@ window.AppDataAggregate20250923 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "or_meta_llama_3_3_70b": -1,
+        "or_google_gemini_2_0_flash_exp": -1,
+        "or_deepseek_chat_v3": -1
+      },
+      "excerptsByModel": {
+        "or_deepseek_chat_v3": [],
+        "or_google_gemini_2_0_flash_exp": [],
+        "or_meta_llama_3_3_70b": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-09-23",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "influenceByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "or_meta_llama_3_3_70b": -9999,
+        "or_google_gemini_2_0_flash_exp": -9999,
+        "or_deepseek_chat_v3": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "or_meta_llama_3_3_70b": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_google_gemini_2_0_flash_exp": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ],
+        "or_deepseek_chat_v3": [
+          {
+            "date": "2025-09-23",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-09-23",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-09-23",
+      "firstSeen": "2025-09-23",
+      "volatility": 0,
       "mentionsByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": 0
       },
@@ -102986,7 +115442,13 @@ window.AppDataAggregate20250923 = {
       "appearanceOrderByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "5-when-should-someone-choo-ba5daa5b": {
+          "or_deepseek_chat_v3": [],
+          "or_google_gemini_2_0_flash_exp": [],
+          "or_meta_llama_3_3_70b": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "5-when-should-someone-choo-ba5daa5b": {}
       }
@@ -103241,8 +115703,12 @@ window.AppDataAggregate20250923 = {
     ],
     "linkDomains": [
       {
+        "id": "999",
+        "count": 67
+      },
+      {
         "id": "-9999",
-        "count": 72
+        "count": 5
       }
     ]
   },

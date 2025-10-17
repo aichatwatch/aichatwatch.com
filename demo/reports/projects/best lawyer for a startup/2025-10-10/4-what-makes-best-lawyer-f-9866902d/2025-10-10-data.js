@@ -2,7 +2,7 @@ window.AppData20251010 = {
   "report_question": "What makes best lawyer for a startup unique or different?",
   "report_date": "2025-10-10",
   "report_question_id": "4-what-makes-best-lawyer-f-9866902d",
-  "report_created_at": "Oct 16, 2025, 2:14:07 PM",
+  "report_created_at": "Oct 17, 2025, 1:34:04 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -15566,9 +15566,9 @@ window.AppData20251010 = {
       "link": "https://fridmanlawfirm.com",
       "linkType": "leg",
       "linkTypeName": "Legal Services",
-      "mentions": 18,
+      "mentions": 9,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 18,
+        "perplexity_with_search_latest": 9,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15618,7 +15618,7 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.35294,
+        "perplexity_with_search_latest": 0.31034,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -15626,14 +15626,175 @@ window.AppData20251010 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.19565,
-      "influence": 1.63093,
+      "mentionsAsPercent": 0.18,
+      "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 2,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 1.63093
+      "weightedInfluence": 1,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 548,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 548,
+            "excerpt": "that supports long-term success rather than merely addressing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+            "line": 1,
+            "column": 549,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1192,
+            "excerpt": "s and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Business Understanding:** Beyond legal paperwork, they grasp the startup’s busin",
+            "line": 5,
+            "column": 338,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2049,
+            "excerpt": "ent, employment, and tax laws—to provide well-rounded support throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](htt",
+            "line": 9,
+            "column": 322,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2197,
+            "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Collaborative:** Rather than waiting for issues to arise, the best startup l",
+            "line": 9,
+            "column": 470,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2626,
+            "excerpt": "ition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record",
+            "line": 11,
+            "column": 358,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -15642,11 +15803,11 @@ window.AppData20251010 = {
       "link": "https://fastercapital.com",
       "linkType": "nws",
       "linkTypeName": "News Media",
-      "mentions": 12,
+      "mentions": 4,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 12
+        "openai_chatgpt_with_search_latest": 4
       },
       "sources": [
         {
@@ -15716,20 +15877,174 @@ window.AppData20251010 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.4
+        "openai_chatgpt_with_search_latest": 0.28571
       },
       "appearanceOrder": 3,
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.13043,
-      "influence": 0.58556,
+      "mentionsAsPercent": 0.08,
+      "influence": 0.22222,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.58556
+      "weightedInfluence": 0.22222,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1724
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1724,
+            "excerpt": ". Legal advice should include considerations on choosing the right corporate structure, as noted by [FasterCapital](https://fastercapital.com/content/A-Startup-Attorney-s-Advice-for-Success.html), such as whether to form a sole proprietorship or a limited liability company (LLC).\n\n4. **Interes",
+            "line": 7,
+            "column": 333,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3905,
+            "excerpt": "at once. They need to consider legal in phases and determine what’s essential now versus later.\n\n2. [A Startup Attorney s Advice for Success - FasterCapital](https://fastercapital.com/content/A-Startup-Attorney-s-Advice-for-Success.html)\n\nEntrepreneurs must appreciate the nuances of contracts, the implications of corporate structure,",
+            "line": 21,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4355,
+            "excerpt": "spectives on legal matters are as varied as the businesses they support. . **Corporate Structure**: [choosing the right corporate structure](https://fastercapital.com/content/Choosing-the-Right-Corporate-Structure-for-Your-Startup.html) is the first significant legal decision for a new business. For example, a **sole proprietorship**",
+            "line": 23,
+            "column": 312,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4622,
+            "excerpt": "decision for a new business. For example, a **sole proprietorship** might be suitable for a small, [low-risk business](https://fastercapital.com/content/Online-business-models--Dropshipping-Retail--The-Dropshipping-Retail-Revolution--A-Low-Risk-Business-Model.html), while a **limited liability company (LLC)** could be better for those seeking flexibility and pro",
+            "line": 23,
+            "column": 579,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22222
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -15738,11 +16053,11 @@ window.AppData20251010 = {
       "link": "https://wework.com",
       "linkType": "rea",
       "linkTypeName": "Real Estate",
-      "mentions": 27,
+      "mentions": 9,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 15,
+        "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 12
+        "openai_chatgpt_with_search_latest": 4
       },
       "sources": [
         {
@@ -15809,27 +16124,217 @@ window.AppData20251010 = {
           "weightedInfluence": 0.14489
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.29412,
+        "perplexity_with_search_latest": 0.17241,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.4
+        "openai_chatgpt_with_search_latest": 0.28571
       },
-      "appearanceOrder": 6.5,
+      "appearanceOrder": 4.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 7,
-        "openai_chatgpt_with_search_latest": 6
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.29348,
-      "influence": 0.4607,
+      "mentionsAsPercent": 0.18,
+      "influence": 0.19548,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.33021,
+        "perplexity_with_search_latest": 0.10454,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 3
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.4607
+      "weightedInfluence": 0.19548,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1535,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2130
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2130,
+            "excerpt": "personal connection are important for fostering trust and effective communication. As emphasized by [WeWork](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer), finding an attorney who is genuinely interested in you and your business can make a significant d",
+            "line": 9,
+            "column": 225,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5710,
+            "excerpt": "and personal attributes that combine with your own in just the right balance to drive success.\n\n4. [What To Look For In A Startup Lawyer - WeWork](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)\n\n[Get up to three months free\\* on private offices (minimum commitment required). \\*Terms apply.\\",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5843,
+            "excerpt": "wyer - WeWork](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)\n\n[Get up to three months free\\* on private offices (minimum commitment required). \\*Terms apply.\\ [PROFESSIONAL DEVELOPMENT](https://www.wework.com/ideas/category/professional-development) November 16, 2014 # Five important things to look for in a startup lawyer [PROFESSIONAL DEVELOPMEN",
+            "line": 31,
+            "column": 1,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6105,
+            "excerpt": "professional-development) November 16, 2014 # Five important things to look for in a startup lawyer [PROFESSIONAL DEVELOPMENT](https://www.wework.com/ideas/category/professional-development) November 16, 2014 Early-stage startups have different needs than more mature companies. Finding an",
+            "line": 31,
+            "column": 263,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1535,
+            "excerpt": "and counsel in ways that align with the startup's goals, revenue recognition, and scalability[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 7,
+            "column": 272,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2537,
+            "excerpt": "d exposures, and prepare the company for key milestones like raising capital or an acquisition[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firs",
+            "line": 11,
+            "column": 269,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3012,
+            "excerpt": "in understandable terms, and show genuine interest in the startup’s vision and evolving needs[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer).\n\nIn summary, the distinctiveness of the best startup lawyers lies in their combination of broad g",
+            "line": 13,
+            "column": 209,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3488,
+            "excerpt": "sk mitigation from inception to exit[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](htt",
+            "line": 15,
+            "column": 391,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4165,
+            "excerpt": "idmanlawfirm.com/brooklyn/startup-lawyer/](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)\n\n2. [www.wework.com/ideas/professional-development/5-things-look-startup-lawyer](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)\n\n3. [www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/](https://www.cham",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 9
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.19548
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.10454
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 9,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 9
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -15838,10 +16343,10 @@ window.AppData20251010 = {
       "link": "https://ycombinator.com",
       "linkType": "frm",
       "linkTypeName": "Forums",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 2,
         "openai_chatgpt_with_search_latest": 0
       },
       "sources": [
@@ -15891,21 +16396,161 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.36364,
+        "anthropic_claude_with_search_latest": 0.28571,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 1,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.04348,
-      "influence": 0.36243000000000003,
+      "mentionsAsPercent": 0.04,
+      "influence": 0.22222,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.36243000000000003
+      "weightedInfluence": 0.22222,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 558,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 558,
+            "excerpt": "rtable with deferred fees, equity stakes, and understand startup cash flow constraints\n   - Source: [Y Combinator's Legal Guide](https://www.ycombinator.com/library/co-legal)\n\n2. **Specialized Knowledge Areas**:\n   - Cap table management and equity splits\n   - SAFE notes a",
+            "line": 8,
+            "column": 14,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 759,
+            "excerpt": "e Areas**:\n   - Cap table management and equity splits\n   - SAFE notes and convertible instruments ([Y Combinator SAFE](https://www.ycombinator.com/documents))\n   - Venture capital financing rounds\n   - Stock option plans (409A valuations)\n   - Intellectual",
+            "line": 12,
+            "column": 46,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22222
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -15948,20 +16593,160 @@ window.AppData20251010 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.06667
+        "openai_chatgpt_with_search_latest": 0.14286
       },
       "appearanceOrder": 1,
       "appearanceOrderByModel": {
         "openai_chatgpt_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.02174,
+      "mentionsAsPercent": 0.04,
       "influence": 0.22222,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.22222
+      "weightedInfluence": 0.22222,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 609
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 609,
+            "excerpt": "nderstanding tech-specific risks, scalable business models, and rapid growth concerns. According to [Uncommon Counsel](https://uncommoncounsel.com/startup-law-isnt-one-size-fits-all-how-to-pick-the-right-kind-of-legal-support/), the legal needs of tech startups aren't static, and selecting the wrong type of legal help can wa",
+            "line": 3,
+            "column": 382,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3013,
+            "excerpt": "business, ensuring that legal advice supports your growth initiatives effectively.\n\n# CITATIONS\n\n1. [Startup Law Isn’t One-Size-Fits-All: How to Pick the Right Kind of Legal Support - Uncommon Counsel](https://uncommoncounsel.com/startup-law-isnt-one-size-fits-all-how-to-pick-the-right-kind-of-legal-support/)\n\n Not all lawyers work the same way. And that’s especially true when launching or scaling a tech s",
+            "line": 17,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.22222
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16002,22 +16787,176 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07843,
+        "perplexity_with_search_latest": 0.13793,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 3,
+      "appearanceOrder": 2,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3
+        "perplexity_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.04348,
-      "influence": 0.22222,
+      "mentionsAsPercent": 0.08,
+      "influence": 0.28041,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.22222
+      "weightedInfluence": 0.28041,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 606,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 606,
+            "excerpt": "sing legal problems after they occur[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 1,
+            "column": 607,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 2107,
+            "excerpt": "ort throughout the startup lifecycle[[1]](https://fridmanlawfirm.com/brooklyn/startup-lawyer/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Proactive and Col",
+            "line": 9,
+            "column": 380,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3577,
+            "excerpt": "yer/)[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-shoul",
+            "line": 15,
+            "column": 480,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4330,
+            "excerpt": "tup-lawyer](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)\n\n3. [www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)\n\n4. [clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/]",
+            "line": 25,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.28041
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16026,10 +16965,10 @@ window.AppData20251010 = {
       "link": "https://cooleygo.com",
       "linkType": "leg",
       "linkTypeName": "Legal Services",
-      "mentions": 6,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "sources": [
@@ -16076,27 +17015,175 @@ window.AppData20251010 = {
           "weightedInfluence": 0.0712
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07843,
-        "anthropic_claude_with_search_latest": 0.18182,
+        "perplexity_with_search_latest": 0.06897,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 4,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5,
-        "anthropic_claude_with_search_latest": 3
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.06522,
-      "influence": 0.14944000000000002,
+      "mentionsAsPercent": 0.06,
+      "influence": 0.0892,
       "influenceByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 1.91888,
+        "perplexity_with_search_latest": 0.88971,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.14944000000000002
+      "weightedInfluence": 0.0892,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1125,
+        "anthropic_claude_with_search_latest": 1087,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1087,
+            "excerpt": "with VCs and angel investors\n   - Connections to other startups and service providers\n   - Source: [Cooley GO Startup Resources](https://www.cooleygo.com/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [",
+            "line": 20,
+            "column": 14,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1125,
+            "excerpt": "l and financial challenges startups face, including cost constraints and rapid growth dynamics[[6]](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/).\n  \n- **Strategic Busines",
+            "line": 5,
+            "column": 271,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4973,
+            "excerpt": "top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/)\n\n6. [www.cooleygo.com/choosing-a-lawyer-for-your-startup/](https://www.cooleygo.com/choosing-a-lawyer-for-your-startup/)\n\n7. [legal.thomsonreuters.com/en/insights/articles/advice-for-general-counsel-at-startup-law-firms",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.0892
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.88971
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16134,27 +17221,196 @@ window.AppData20251010 = {
           "weightedInfluence": 0.14908
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07843,
+        "perplexity_with_search_latest": 0.13793,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.06667
+        "openai_chatgpt_with_search_latest": 0.14286
       },
-      "appearanceOrder": 3,
+      "appearanceOrder": 2.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 4,
+        "perplexity_with_search_latest": 3,
         "openai_chatgpt_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.06522,
-      "influence": 0.14908,
+      "mentionsAsPercent": 0.12,
+      "influence": 0.15441,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.12714,
+        "perplexity_with_search_latest": 0.1476,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.14908
+      "weightedInfluence": 0.15441,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 696,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1093
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1093,
+            "excerpt": "egrate seamlessly with the team to provide guidance that drives both legal and business success. As [Harvard's Technology Law Clinic](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/) points out, the right lawyer should combine professional skills with personal attributes that alig",
+            "line": 5,
+            "column": 221,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4924,
+            "excerpt": "y (LLC)** could be better for those seeking flexibility and protection from personal liability.\n\n3. [Finding Your Startup Lawyer: What Every Entrepreneur Should Know](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)\n\nFrom whom you choose to seek advice, including from which startup lawyer, will significantly impa",
+            "line": 25,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 696,
+            "excerpt": "er/)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\nKey factors that make such a lawyer distinct include:\n\n- **Startup-Focused Experience:** They ha",
+            "line": 1,
+            "column": 697,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 1624,
+            "excerpt": "ility[[2]](https://www.wework.com/ideas/professional-development/5-things-look-startup-lawyer)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/).\n\n- **Comprehensive Legal Expertise:** They master specialized legal domains relevant to startups—",
+            "line": 7,
+            "column": 361,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 3667,
+            "excerpt": "yer)[[3]](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)[[4]](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/). \n\nFor more information,",
+            "line": 15,
+            "column": 570,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 4497,
+            "excerpt": "p-lawyer/](https://www.chambers-associate.com/career-moves/so-you-want-to-be-a-startup-lawyer/)\n\n4. [clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/](https://clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)\n\n5. [blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startups-an",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.15441
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.1476
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 6,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 6
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16197,20 +17453,160 @@ window.AppData20251010 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.06667
+        "openai_chatgpt_with_search_latest": 0.14286
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 9
+        "openai_chatgpt_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.02174,
-      "influence": 0.0669,
+      "mentionsAsPercent": 0.04,
+      "influence": 0.08597,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.0669
+      "weightedInfluence": 0.08597,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2635
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2635,
+            "excerpt": "rrangements, and ensuring smooth shareholder agreements to avoid future disputes, as highlighted by [Startup Lawyer VC](https://startuplawyer.vc/).\n\nOverall, a successful startup lawyer not only understands the legal landscape but also comprehen",
+            "line": 11,
+            "column": 303,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 6614,
+            "excerpt": "erest in you and your business? Don’t expect to find an attorney from your first Google search.\n\n5. [Experienced Lawyers for Disruptive Startups and Investors](https://startuplawyer.vc/)\n\nWe do know how important it is to negotiate and structure the shareholding, IP rights and all the",
+            "line": 33,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.08597
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16251,22 +17647,162 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03922,
+        "perplexity_with_search_latest": 0.06897,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10
+        "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.02174,
-      "influence": 0.06424,
+      "mentionsAsPercent": 0.04,
+      "influence": 0.07916,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06424
+      "weightedInfluence": 0.07916,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2700,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2700,
+            "excerpt": "look-startup-lawyer)[[8]](https://fridmanlawfirm.com/blog/2024/08/choosing-a-startup-lawyer/)[[10]](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/).\n\n- **Good Fit and Communication:** They build strong rapport with founders, communicate complex l",
+            "line": 11,
+            "column": 432,
+            "captureDate": "2025-10-10"
+          },
+          {
+            "appearanceOrder": 5612,
+            "excerpt": "/](https://techandmedialaw.com/essential-qualities-to-look-for-in-a-startup-contracts-lawyer/)\n\n10. [review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/](https://review.firstround.com/find-the-best-lawyer-for-your-startup-with-this-off-the-record-advice/)\n\n11. [www.heavybit.com/library/article/how-to-hire-a-startup-lawyer](https://www.heavybit.com/libr",
+            "line": 39,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.07916
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16275,10 +17811,10 @@ window.AppData20251010 = {
       "link": "https://gunder.com",
       "linkType": "leg",
       "linkTypeName": "Legal Services",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
       "sources": [
@@ -16325,27 +17861,168 @@ window.AppData20251010 = {
           "weightedInfluence": 0.02971
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03922,
-        "anthropic_claude_with_search_latest": 0.18182,
+        "perplexity_with_search_latest": 0.03448,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10.5,
+      "appearanceOrder": 7.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13,
-        "anthropic_claude_with_search_latest": 8
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.04348,
-      "influence": 0.06039,
+      "mentionsAsPercent": 0.04,
+      "influence": 0.03501,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1.0962800000000001,
-        "anthropic_claude_with_search_latest": 2,
+        "perplexity_with_search_latest": 0.55086,
+        "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06039
+      "weightedInfluence": 0.03501,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6150,
+        "anthropic_claude_with_search_latest": 1560,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1560,
+            "excerpt": "Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould you clarify if you were asking about a specifi",
+            "line": 30,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6150,
+            "excerpt": "s://www.fidelityprivateshares.com/blog/finding-the-right-startup-lawyer-tips-from-an-attorney)\n\n13. [www.gunder.com/en/news-insights/insights/10-things-to-know-about-startup-law-practice](https://www.gunder.com/en/news-insights/insights/10-things-to-know-about-startup-law-practice)\n\n14. [debruinlawfirm.com/10-benefits-of-hiring-a-startup-lawyer-for-your-new-business/](https://de",
+            "line": 45,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03501
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0.55086
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16387,21 +18064,154 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.09091,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.01087,
-      "influence": 0.04298,
+      "mentionsAsPercent": 0.02,
+      "influence": 0.05556,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04298
+      "weightedInfluence": 0.05556,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1241,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1241,
+            "excerpt": "/)\n\n4. **Startup Lifecycle Experience**: Understanding of pre-seed through exit stages\n   - Source: [Orrick Startup Forms Library](https://www.orrick.com/en/Total-Access/Tool-Kit/Start-Up-Forms)\n\n5. **Speed & Flexibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Star",
+            "line": 23,
+            "column": 14,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.05556
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16443,21 +18253,154 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.09091,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.01087,
-      "influence": 0.03958,
+      "mentionsAsPercent": 0.02,
+      "influence": 0.04785,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03958
+      "weightedInfluence": 0.04785,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1453,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1453,
+            "excerpt": "xibility**: Used to fast-paced environments and quick turnarounds\n\n**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www",
+            "line": 28,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16499,21 +18442,154 @@ window.AppData20251010 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.09091,
+        "anthropic_claude_with_search_latest": 0.14286,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.01087,
-      "influence": 0.03704,
+      "mentionsAsPercent": 0.02,
+      "influence": 0.04298,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03704
+      "weightedInfluence": 0.04298,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1520,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1520,
+            "excerpt": "**Leading Startup Law Firms**:\n- [Wilson Sonsini](https://www.wsgr.com/) - Silicon Valley pioneer\n- [Cooley LLP](https://www.cooley.com/)\n- [Gunderson Dettmer](https://www.gunder.com/)\n- [Fenwick & West](https://www.fenwick.com/)\n\nCould",
+            "line": 29,
+            "column": 3,
+            "captureDate": "2025-10-10"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.04298
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16554,22 +18630,155 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01961,
+        "perplexity_with_search_latest": 0.03448,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 11
+        "perplexity_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.01087,
-      "influence": 0.03099,
+      "mentionsAsPercent": 0.02,
+      "influence": 0.03704,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03099
+      "weightedInfluence": 0.03704,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4698,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4698,
+            "excerpt": "//clinics.law.harvard.edu/tlc/finding-your-startup-lawyer-what-every-entrepreneur-should-know/)\n\n5. [blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/](https://blog.promise.legal/startup-central/top-skills-for-a-startup-consultant-empowering-startups-and-how-a-lawyer-enhances-the-process/)\n\n6. [www.cooleygo.com/choosing-a-lawyer-for-your-startup/](https://www.cooleygo.com/choosing-a-law",
+            "line": 29,
+            "column": 4,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03704
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16610,22 +18819,155 @@ window.AppData20251010 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01961,
+        "perplexity_with_search_latest": 0.03448,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
+        "perplexity_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.01087,
-      "influence": 0.03003,
+      "mentionsAsPercent": 0.02,
+      "influence": 0.03505,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03003
+      "weightedInfluence": 0.03505,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5954,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5954,
+            "excerpt": "-hire-a-startup-lawyer](https://www.heavybit.com/library/article/how-to-hire-a-startup-lawyer)\n\n12. [www.fidelityprivateshares.com/blog/finding-the-right-startup-lawyer-tips-from-an-attorney](https://www.fidelityprivateshares.com/blog/finding-the-right-startup-lawyer-tips-from-an-attorney)\n\n13. [www.gunder.com/en/news-insights/insights/10-things-to-know-about-startup-law-practice](https",
+            "line": 43,
+            "column": 5,
+            "captureDate": "2025-10-10"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0.03505
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     },
     {
       "type": "linkDomain",
@@ -16669,7 +19011,132 @@ window.AppData20251010 = {
       "mentionsAsPercent": 0,
       "influence": 0,
       "influenceByModel": {},
-      "weightedInfluence": 0
+      "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-10",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-10",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-10",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-10",
+      "firstSeen": "2025-10-10",
+      "volatility": 0
     }
   ],
   "totalDates": [
@@ -16822,7 +19289,7 @@ window.AppData20251010 = {
     "events": [],
     "linkTypes": [
       {
-        "id": "-9999",
+        "id": "999",
         "count": 9
       }
     ]

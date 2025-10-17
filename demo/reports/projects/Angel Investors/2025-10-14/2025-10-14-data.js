@@ -1,10 +1,10 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-16T10:13:26.853Z
+// AUTO-GENERATED AGGREGATE: 2025-10-17T11:50:12.297Z
 // Aggregated from prompts: 1-who-are-the-best-angel-i-77ee5dff, 2-which-angel-investors-ar-962fdc29, 3-which-angel-investor-clu-b83248ad
 window.AppDataAggregate20251014 = {
   "report_question": "Angel Investors",
   "report_date": "2025-10-14",
   "report_question_id": "1-who-are-the-best-angel-i-77ee5dff",
-  "report_created_at": "Oct 16, 2025, 2:13:04 PM",
+  "report_created_at": "Oct 17, 2025, 1:33:01 PM",
   "bots": [
     {
       "id": "perplexity_with_search_latest",
@@ -63605,11 +63605,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://betaboom.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
-      "mentions": 10,
+      "mentions": 5,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 2,
+        "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 14
+        "openai_chatgpt_with_search_latest": 7
       },
       "sources": [
         {
@@ -63659,53 +63659,322 @@ window.AppDataAggregate20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.47059
+        "openai_chatgpt_with_search_latest": 0.33333
       },
-      "appearanceOrder": 3.75,
+      "appearanceOrder": 2.25,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 2,
-        "perplexity_with_search_latest": 10
+        "openai_chatgpt_with_search_latest": 1.5,
+        "perplexity_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.08889,
-      "influence": 0.30278,
+      "mentionsAsPercent": 0.05263,
+      "influence": 0.76778,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.03648,
+        "perplexity_with_search_latest": 0.02167,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.30278,
+      "weightedInfluence": 0.76778,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 333
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 333,
+            "excerpt": "ure top angel investors for 2025:\n\n1. **Beta Boom** - The site provides a comprehensive list of the [Top 50 Angel Investors Ranked by Exit Rates](https://www.betaboom.com/magazine/article/top-angel-investors), updated for 2025. This list includes well-known investors like Marc Andreessen and Chris Sacca, f",
+            "line": 3,
+            "column": 66,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1734,
+            "excerpt": "er financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nTop Angel Investors According to Data - Now Updated for 2024 Find the most effective angel invest",
+            "line": 15,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4399,
+            "excerpt": "ommerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4520,
+            "excerpt": "rs Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We've compiled a list of 50 of the top angel investors (now updated for 2024!) based on what matt",
+            "line": 33,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 516,
+            "excerpt": "but also experience and network opportunities in exchange for equity.\n\n2. **Beta Boom** has ranked [top 50 angel investors by exit rates](https://www.betaboom.com/magazine/article/top-angel-investors). Although not necessarily the most active in terms of the number of investments, many of these inv",
+            "line": 5,
+            "column": 29,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2603,
+            "excerpt": "wn as private investors, seed investors, angel funders, informal investors, or business angels.\n\n2. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nWhat jumps out at me the most about this list is how high the average exit rate is for those inve",
+            "line": 19,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 5511,
+            "excerpt": "biotec, software | 100% | Submit later [View profile](https://openvc.app/fund/Mohamad%20Saab) |\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n| Rank | Angel Investor | Number of Portfolio Companies | Number of Exits | Exit Rate | What jump",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2307,
+            "excerpt": "ed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n3. [www.betaboom.com/magazine/article/top-angel-investors](https://www.betaboom.com/magazine/article/top-angel-investors)\n\n4. [app.folk.app/shared/+350-most-active-Angel-Investors-in-USA-jOLUPZiPY4Ddv0WTJSXbtawkOk9smewT]",
+            "line": 35,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.29087
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 8,
-        "2-which-angel-investors-ar-962fdc29": 8
+        "1-who-are-the-best-angel-i-77ee5dff": 4,
+        "2-which-angel-investors-ar-962fdc29": 4
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 1.6309200000000001,
-        "2-which-angel-investors-ar-962fdc29": 0.49785999999999997
+        "1-who-are-the-best-angel-i-77ee5dff": 1,
+        "2-which-angel-investors-ar-962fdc29": 0.29087
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 2,
+          "perplexity_with_search_latest": 1,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 14
+          "openai_chatgpt_with_search_latest": 7
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 2,
+          "perplexity_with_search_latest": 1,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 6
+          "openai_chatgpt_with_search_latest": 3
         }
       },
       "appearanceOrderByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
-        "2-which-angel-investors-ar-962fdc29": 6.5
+        "2-which-angel-investors-ar-962fdc29": 3.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 333,
+              "excerpt": "ure top angel investors for 2025:\n\n1. **Beta Boom** - The site provides a comprehensive list of the [Top 50 Angel Investors Ranked by Exit Rates](https://www.betaboom.com/magazine/article/top-angel-investors), updated for 2025. This list includes well-known investors like Marc Andreessen and Chris Sacca, f",
+              "line": 3,
+              "column": 66,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1734,
+              "excerpt": "er financial support but also add value through mentorship and strategic guidance.\n\n# CITATIONS\n\n1. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nTop Angel Investors According to Data - Now Updated for 2024 Find the most effective angel invest",
+              "line": 15,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4399,
+              "excerpt": "ommerce and Shopping, Sales and Marketing and has invested in startups like 8Vdx, & Fieldproxy.\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4520,
+              "excerpt": "rs Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n[Looking for the best angel investors](https://betaboom.com/blog/find-angel-investors-guide/)? We've compiled a list of 50 of the top angel investors (now updated for 2024!) based on what matt",
+              "line": 33,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 516,
+              "excerpt": "but also experience and network opportunities in exchange for equity.\n\n2. **Beta Boom** has ranked [top 50 angel investors by exit rates](https://www.betaboom.com/magazine/article/top-angel-investors). Although not necessarily the most active in terms of the number of investments, many of these inv",
+              "line": 5,
+              "column": 29,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2603,
+              "excerpt": "wn as private investors, seed investors, angel funders, informal investors, or business angels.\n\n2. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025)](https://www.betaboom.com/magazine/article/top-angel-investors)\n\nWhat jumps out at me the most about this list is how high the average exit rate is for those inve",
+              "line": 19,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5511,
+              "excerpt": "biotec, software | 100% | Submit later [View profile](https://openvc.app/fund/Mohamad%20Saab) |\n\n5. [Top 50 Angel Investors Ranked by Exit Rates (Updated for 2025) | Beta Boom](https://betaboom.com/top-angel-investors/)\n\n| Rank | Angel Investor | Number of Portfolio Companies | Number of Exits | Exit Rate | What jump",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2307,
+              "excerpt": "ed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n3. [www.betaboom.com/magazine/article/top-angel-investors](https://www.betaboom.com/magazine/article/top-angel-investors)\n\n4. [app.folk.app/shared/+350-most-active-Angel-Investors-in-USA-jOLUPZiPY4Ddv0WTJSXbtawkOk9smewT]",
+              "line": 35,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "openai_chatgpt_with_search_latest": 1
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 10,
-          "openai_chatgpt_with_search_latest": 3
+          "perplexity_with_search_latest": 5,
+          "openai_chatgpt_with_search_latest": 2
         }
       }
     },
@@ -63716,9 +63985,9 @@ window.AppDataAggregate20251014 = {
       "link": "https://business.com",
       "linkType": "blg",
       "linkTypeName": "Blogs",
-      "mentions": 10,
+      "mentions": 5,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 10,
+        "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -63768,7 +64037,7 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.18868,
+        "perplexity_with_search_latest": 0.11111,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -63776,23 +64045,194 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.11111,
-      "influence": 0.20448,
+      "mentionsAsPercent": 0.06579,
+      "influence": 0.43182,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.20448,
+      "weightedInfluence": 0.43182,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 576,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 576,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles",
+            "line": 1,
+            "column": 577,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1541,
+            "excerpt": "com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Ins",
+            "line": 7,
+            "column": 394,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2195,
+            "excerpt": "ngel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buchheit**, creator of Gmail and co-founder of Y Combinator, is known for investing in",
+            "line": 11,
+            "column": 274,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4205,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links",
+            "line": 23,
+            "column": 350,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 5786,
+            "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessin",
+            "line": 52,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.625
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 10
+        "1-who-are-the-best-angel-i-77ee5dff": 5
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 1.1633499999999999
+        "1-who-are-the-best-angel-i-77ee5dff": 0.625
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 10,
+          "perplexity_with_search_latest": 5,
           "anthropic_claude_with_search_latest": 0,
           "openai_chatgpt_with_search_latest": 0
         }
@@ -63800,7 +64240,49 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 576,
+              "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles",
+              "line": 1,
+              "column": 577,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1541,
+              "excerpt": "com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sacca**, founder of Lowercase Capital, was an early investor in Twitter, Uber, and Ins",
+              "line": 7,
+              "column": 394,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2195,
+              "excerpt": "ngel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buchheit**, creator of Gmail and co-founder of Y Combinator, is known for investing in",
+              "line": 11,
+              "column": 274,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4205,
+              "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links",
+              "line": 23,
+              "column": 350,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5786,
+              "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessin",
+              "line": 52,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "perplexity_with_search_latest": 3
@@ -63814,11 +64296,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://eqvista.com",
       "linkType": "tch",
       "linkTypeName": "Tech Companies",
-      "mentions": 16,
+      "mentions": 11,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 16,
+        "perplexity_with_search_latest": 12,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 11
+        "openai_chatgpt_with_search_latest": 7
       },
       "sources": [
         {
@@ -63843,47 +64325,327 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.6132
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.13208,
+        "perplexity_with_search_latest": 0.15556,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.17647
+        "openai_chatgpt_with_search_latest": 0.25
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 5.83,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8.67,
-        "openai_chatgpt_with_search_latest": 2
+        "perplexity_with_search_latest": 5.67,
+        "openai_chatgpt_with_search_latest": 1.5
       },
-      "mentionsAsPercent": 0.11111,
-      "influence": 0.26929,
+      "mentionsAsPercent": 0.13158,
+      "influence": 0.88738,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.3919,
+        "perplexity_with_search_latest": 0.24571,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.26929,
+      "weightedInfluence": 0.88738,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 441,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 672
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 672,
+            "excerpt": "investment portfolios rather than just their fame or number of investments.\n\n2. **Eqvista** - Their [Top 100 Active Angel Investors List for Startups](https://eqvista.com/top-100-active-angel-investors-list-for-startups/) is another resource for identifying prominent angel investors. This list discusses why startups of",
+            "line": 5,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2506,
+            "excerpt": "s in the U.S. by Exit Rate What do you think of when you think about the \"top angel investors?\"\n\n2. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\nThe startup marketplace by design is mostly cash-strapped, especially in its early stages. Founde",
+            "line": 19,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2739,
+            "excerpt": "The startup marketplace by design is mostly cash-strapped, especially in its early stages. Founders [start a company](https://eqvista.com/start-your-start-up/) pooling in resources from personal savings and donations from family and friends. Beyond this, a s",
+            "line": 21,
+            "column": 101,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 213,
+            "excerpt": "ts into their activity levels. Here's a summary based on recent publications:\n\n1. **Eqvista** has a [list of top 100 active angel investors](https://eqvista.com/top-100-active-angel-investors-list-for-startups/). Angel investors typically invest in the early stages of a startup, offering not just funds but al",
+            "line": 3,
+            "column": 22,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1699,
+            "excerpt": "and together they provide a comprehensive view of active angel investors in 2025.\n\n# CITATIONS\n\n1. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n[Startup fundraising](https://eqvista.com/types-of-company-funding/introduction-to-company-fundin",
+            "line": 15,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1832,
+            "excerpt": "Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n[Startup fundraising](https://eqvista.com/types-of-company-funding/introduction-to-company-funding/) happens in stages. It begins at home with the founder’s contacts, moving towards angel investors a",
+            "line": 17,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2056,
+            "excerpt": "egins at home with the founder’s contacts, moving towards angel investors and finally scaling up to [venture capitalists](https://eqvista.com/best-100-active-venture-capitalist-firms-for-startup-funding/). These investment instruments are unique in design and entrepreneur-friendly. As we can see angel",
+            "line": 17,
+            "column": 225,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 441,
+            "excerpt": "and have become iconic figures in startup investing due to their keen judgment and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/",
+            "line": 1,
+            "column": 442,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1346,
+            "excerpt": "hought leadership on startup investing and entrepreneurship, investing actively across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-li",
+            "line": 7,
+            "column": 199,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2059,
+            "excerpt": "ner of the Dallas Mavericks, is an active angel investor known for backing disruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles",
+            "line": 11,
+            "column": 138,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2460,
+            "excerpt": "vesting in tech and enterprise software startups with over 150 investments and nearly 80 exits[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/).\n\n- **Sam Altman**, former president of Y Combinator and CEO of OpenAI, invests in groundbreaking",
+            "line": 13,
+            "column": 186,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 3091,
+            "excerpt": "ech investor in Europe recognized for early investments in companies like Atom Bank and Monese[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top",
+            "line": 17,
+            "column": 257,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 296,
+            "excerpt": "based on recent data:\n\n1. **Hesham Zreik**  \n   - **Number of Investments:** 691  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n2. **Edward Lando**  \n   - **Number of Investments:** 522  \n   - **Source:** [Eqvista](https://eq",
+            "line": 5,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 455,
+            "excerpt": "s-list-for-startups/)\n\n2. **Edward Lando**  \n   - **Number of Investments:** 522  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. **Bash",
+            "line": 9,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 703,
+            "excerpt": "investors-in-the-us)\n\n3. **Bashar Hamood**  \n   - **Number of Investments:** 367  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n4. **Sahin Boydas**  \n   - **Notable Investments:** He was the #1 most active angel investor in 2",
+            "line": 13,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2029,
+            "excerpt": "investors and **Top 20 Angel Investors for AI Startups** for AI-focused investors.\n\n# CITATIONS\n\n1. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n2. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-a",
+            "line": 31,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 3883,
+            "excerpt": "angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs/)\n\n7. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)",
+            "line": 66,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06267
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.44279
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 10,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 10
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 10,
-        "2-which-angel-investors-ar-962fdc29": 16,
+        "2-which-angel-investors-ar-962fdc29": 8,
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.6132,
-        "2-which-angel-investors-ar-962fdc29": 1.3495300000000001,
-        "3-which-angel-investor-clu-b83248ad": 0.0541
+        "1-who-are-the-best-angel-i-77ee5dff": 0.69437,
+        "2-which-angel-investors-ar-962fdc29": 0.71296,
+        "3-which-angel-investor-clu-b83248ad": 0.06267
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 16,
+          "perplexity_with_search_latest": 12,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 11
+          "openai_chatgpt_with_search_latest": 7
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 8,
+          "perplexity_with_search_latest": 4,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 8
+          "openai_chatgpt_with_search_latest": 4
         },
         "3-which-angel-investor-clu-b83248ad": {
           "perplexity_with_search_latest": 1,
@@ -63892,22 +64654,162 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 2,
+        "1-who-are-the-best-angel-i-77ee5dff": 1.5,
         "2-which-angel-investors-ar-962fdc29": 1,
-        "3-which-angel-investor-clu-b83248ad": 24
+        "3-which-angel-investor-clu-b83248ad": 15
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 672,
+              "excerpt": "investment portfolios rather than just their fame or number of investments.\n\n2. **Eqvista** - Their [Top 100 Active Angel Investors List for Startups](https://eqvista.com/top-100-active-angel-investors-list-for-startups/) is another resource for identifying prominent angel investors. This list discusses why startups of",
+              "line": 5,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2506,
+              "excerpt": "s in the U.S. by Exit Rate What do you think of when you think about the \"top angel investors?\"\n\n2. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\nThe startup marketplace by design is mostly cash-strapped, especially in its early stages. Founde",
+              "line": 19,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2739,
+              "excerpt": "The startup marketplace by design is mostly cash-strapped, especially in its early stages. Founders [start a company](https://eqvista.com/start-your-start-up/) pooling in resources from personal savings and donations from family and friends. Beyond this, a s",
+              "line": 21,
+              "column": 101,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 441,
+              "excerpt": "and have become iconic figures in startup investing due to their keen judgment and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/",
+              "line": 1,
+              "column": 442,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1346,
+              "excerpt": "hought leadership on startup investing and entrepreneurship, investing actively across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-li",
+              "line": 7,
+              "column": 199,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2059,
+              "excerpt": "ner of the Dallas Mavericks, is an active angel investor known for backing disruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles",
+              "line": 11,
+              "column": 138,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2460,
+              "excerpt": "vesting in tech and enterprise software startups with over 150 investments and nearly 80 exits[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/).\n\n- **Sam Altman**, former president of Y Combinator and CEO of OpenAI, invests in groundbreaking",
+              "line": 13,
+              "column": 186,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3091,
+              "excerpt": "ech investor in Europe recognized for early investments in companies like Atom Bank and Monese[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top",
+              "line": 17,
+              "column": 257,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 213,
+              "excerpt": "ts into their activity levels. Here's a summary based on recent publications:\n\n1. **Eqvista** has a [list of top 100 active angel investors](https://eqvista.com/top-100-active-angel-investors-list-for-startups/). Angel investors typically invest in the early stages of a startup, offering not just funds but al",
+              "line": 3,
+              "column": 22,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1699,
+              "excerpt": "and together they provide a comprehensive view of active angel investors in 2025.\n\n# CITATIONS\n\n1. [100 Top Angel Investors List for Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n[Startup fundraising](https://eqvista.com/types-of-company-funding/introduction-to-company-fundin",
+              "line": 15,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1832,
+              "excerpt": "Startups (2025) - Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n[Startup fundraising](https://eqvista.com/types-of-company-funding/introduction-to-company-funding/) happens in stages. It begins at home with the founder’s contacts, moving towards angel investors a",
+              "line": 17,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2056,
+              "excerpt": "egins at home with the founder’s contacts, moving towards angel investors and finally scaling up to [venture capitalists](https://eqvista.com/best-100-active-venture-capitalist-firms-for-startup-funding/). These investment instruments are unique in design and entrepreneur-friendly. As we can see angel",
+              "line": 17,
+              "column": 225,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 296,
+              "excerpt": "based on recent data:\n\n1. **Hesham Zreik**  \n   - **Number of Investments:** 691  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n2. **Edward Lando**  \n   - **Number of Investments:** 522  \n   - **Source:** [Eqvista](https://eq",
+              "line": 5,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 455,
+              "excerpt": "s-list-for-startups/)\n\n2. **Edward Lando**  \n   - **Number of Investments:** 522  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. **Bash",
+              "line": 9,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 703,
+              "excerpt": "investors-in-the-us)\n\n3. **Bashar Hamood**  \n   - **Number of Investments:** 367  \n   - **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n4. **Sahin Boydas**  \n   - **Notable Investments:** He was the #1 most active angel investor in 2",
+              "line": 13,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2029,
+              "excerpt": "investors and **Top 20 Angel Investors for AI Startups** for AI-focused investors.\n\n# CITATIONS\n\n1. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n2. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-a",
+              "line": 31,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3883,
+              "excerpt": "angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs/)\n\n7. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)",
+              "line": 66,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "perplexity_with_search_latest": 1,
-          "openai_chatgpt_with_search_latest": 3
+          "openai_chatgpt_with_search_latest": 2
         },
         "2-which-angel-investors-ar-962fdc29": {
           "perplexity_with_search_latest": 1,
           "openai_chatgpt_with_search_latest": 1
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 24
+          "perplexity_with_search_latest": 15
         }
       }
     },
@@ -63918,11 +64820,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://openvc.app",
       "linkType": "dev",
       "linkTypeName": "Developer Tools",
-      "mentions": 95,
+      "mentions": 20,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 16,
+        "perplexity_with_search_latest": 5,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 85
+        "openai_chatgpt_with_search_latest": 17
       },
       "sources": [
         {
@@ -63970,55 +64872,356 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11321,
+        "perplexity_with_search_latest": 0.06667,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6.25,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5.5,
-        "openai_chatgpt_with_search_latest": 7
+        "perplexity_with_search_latest": 4.5,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.06667,
+      "mentionsAsPercent": 0.03947,
       "influence": 1,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.1164,
+        "perplexity_with_search_latest": 0.09175,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
       "weightedInfluence": 1,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1481,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1108,
+            "excerpt": "-investors-in-the-us), providing valuable data on fundraising and investments.\n\n4. **OpenVC** lists [290 angel investors](https://www.openvc.app/investor-lists/angel-investors) who have varied investment theses and operating regions, emphasizing geographical and sector-speci",
+            "line": 9,
+            "column": 21,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 4207,
+            "excerpt": "my idea?” The good news is that I’ve included a link to their contact form when they have one.\n\n4. [List Angel Investors for Startups in 2025 - OpenVC](https://www.openvc.app/investor-lists/angel-investors)\n\n| 290 investors | Geography | Checks | Stages | Investment thesis | Open rate | | [Michael Broome",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 4398,
+            "excerpt": "angel-investors)\n\n| 290 investors | Geography | Checks | Stages | Investment thesis | Open rate | | [Michael Broome](https://openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country",
+            "line": 29,
+            "column": 83,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 4457,
+            "excerpt": "ages | Investment thesis | Open rate | | [Michael Broome](https://openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country/USA) | $25k to $500k | 1\\. Idea or Patent [2\\. Prototype](https",
+            "line": 29,
+            "column": 142,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 4523,
+            "excerpt": "openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country/USA) | $25k to $500k | 1\\. Idea or Patent [2\\. Prototype](https://openvc.app/investor-lists/pre-seed-in",
+            "line": 29,
+            "column": 208,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1481,
+            "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sac",
+            "line": 7,
+            "column": 334,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2135,
+            "excerpt": "isruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buch",
+            "line": 11,
+            "column": 214,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 5679,
+            "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.co",
+            "line": 50,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1196,
+            "excerpt": "his involvement in early-stage investments and a strong presence in the AI sector.\n   - **Source:** [OpenVC](https://www.openvc.app/investor-lists/angel-investors), [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/",
+            "line": 21,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2760,
+            "excerpt": "op-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n6. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.",
+            "line": 41,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 19
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 6,
-        "2-which-angel-investors-ar-962fdc29": 95
+        "1-who-are-the-best-angel-i-77ee5dff": 3,
+        "2-which-angel-investors-ar-962fdc29": 19
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.48660000000000003,
-        "2-which-angel-investors-ar-962fdc29": 4.54365
+        "1-who-are-the-best-angel-i-77ee5dff": 0.26715,
+        "2-which-angel-investors-ar-962fdc29": 1
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 16,
+          "perplexity_with_search_latest": 5,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 85
+          "openai_chatgpt_with_search_latest": 17
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 10,
+          "perplexity_with_search_latest": 2,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 85
+          "openai_chatgpt_with_search_latest": 17
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 7,
-        "2-which-angel-investors-ar-962fdc29": 5.5
+        "1-who-are-the-best-angel-i-77ee5dff": 6,
+        "2-which-angel-investors-ar-962fdc29": 4
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 7
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1481,
+              "excerpt": "angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Chris Sac",
+              "line": 7,
+              "column": 334,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2135,
+              "excerpt": "isruptive startups[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/).\n\n- **Paul Buch",
+              "line": 11,
+              "column": 214,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5679,
+              "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n8. [www.business.com/articles/silicon-valleys-most-well-known-investors/](https://www.business.co",
+              "line": 50,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 4,
-          "openai_chatgpt_with_search_latest": 7
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1108,
+              "excerpt": "-investors-in-the-us), providing valuable data on fundraising and investments.\n\n4. **OpenVC** lists [290 angel investors](https://www.openvc.app/investor-lists/angel-investors) who have varied investment theses and operating regions, emphasizing geographical and sector-speci",
+              "line": 9,
+              "column": 21,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4207,
+              "excerpt": "my idea?” The good news is that I’ve included a link to their contact form when they have one.\n\n4. [List Angel Investors for Startups in 2025 - OpenVC](https://www.openvc.app/investor-lists/angel-investors)\n\n| 290 investors | Geography | Checks | Stages | Investment thesis | Open rate | | [Michael Broome",
+              "line": 27,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4398,
+              "excerpt": "angel-investors)\n\n| 290 investors | Geography | Checks | Stages | Investment thesis | Open rate | | [Michael Broome](https://openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country",
+              "line": 29,
+              "column": 83,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4457,
+              "excerpt": "ages | Investment thesis | Open rate | | [Michael Broome](https://openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country/USA) | $25k to $500k | 1\\. Idea or Patent [2\\. Prototype](https",
+              "line": 29,
+              "column": 142,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4523,
+              "excerpt": "openvc.app/fund/Michael%20Broome) [Solo angel](https://openvc.app/investor-lists/angel-investors) | [USA](https://openvc.app/country/USA) | $25k to $500k | 1\\. Idea or Patent [2\\. Prototype](https://openvc.app/investor-lists/pre-seed-in",
+              "line": 29,
+              "column": 208,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1196,
+              "excerpt": "his involvement in early-stage investments and a strong presence in the AI sector.\n   - **Source:** [OpenVC](https://www.openvc.app/investor-lists/angel-investors), [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/",
+              "line": 21,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2760,
+              "excerpt": "op-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n6. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.",
+              "line": 41,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "perplexity_with_search_latest": 6
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "perplexity_with_search_latest": 3,
+          "openai_chatgpt_with_search_latest": 5
         }
       }
     },
@@ -64061,27 +65264,198 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.09434,
+        "perplexity_with_search_latest": 0.11111,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6
+        "perplexity_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.05556,
-      "influence": 0.07285,
+      "mentionsAsPercent": 0.06579,
+      "influence": 0.33409,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07285,
+      "weightedInfluence": 0.33409,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1069,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1069,
+            "excerpt": "eep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n  \n- **Naval Ravikant**, co-founder of AngelList, is famous for his diversified angel portfolio a",
+            "line": 5,
+            "column": 292,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1845,
+            "excerpt": "mpire with a strong media presence[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\n- **Mark Cuban**, entrepreneur and owner of the Dallas Mavericks, is an active angel investor kn",
+            "line": 9,
+            "column": 225,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 3168,
+            "excerpt": "m Bank and Monese[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top angel investors also operate venture capital firms or have crossed into VC invest",
+            "line": 17,
+            "column": 334,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4289,
+            "excerpt": "tors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links for some named investors and groups (where available) for further exploration:\n\n-",
+            "line": 23,
+            "column": 434,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 6095,
+            "excerpt": "vestors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-",
+            "line": 56,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.48357
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 5
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.44525
+        "1-who-are-the-best-angel-i-77ee5dff": 0.48357
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64091,12 +65465,54 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 6
+        "1-who-are-the-best-angel-i-77ee5dff": 5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1069,
+              "excerpt": "eep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n  \n- **Naval Ravikant**, co-founder of AngelList, is famous for his diversified angel portfolio a",
+              "line": 5,
+              "column": 292,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1845,
+              "excerpt": "mpire with a strong media presence[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\n- **Mark Cuban**, entrepreneur and owner of the Dallas Mavericks, is an active angel investor kn",
+              "line": 9,
+              "column": 225,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3168,
+              "excerpt": "m Bank and Monese[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nWhile many top angel investors also operate venture capital firms or have crossed into VC invest",
+              "line": 17,
+              "column": 334,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4289,
+              "excerpt": "tors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\nOfficial links for some named investors and groups (where available) for further exploration:\n\n-",
+              "line": 23,
+              "column": 434,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 6095,
+              "excerpt": "vestors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-",
+              "line": 56,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 6
+          "perplexity_with_search_latest": 5
         }
       }
     },
@@ -64139,27 +65555,189 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.07547,
+        "perplexity_with_search_latest": 0.08889,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5
+        "perplexity_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.04444,
-      "influence": 0.06329,
+      "mentionsAsPercent": 0.05263,
+      "influence": 0.29758,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.06329,
+      "weightedInfluence": 0.29758,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 659,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 659,
+            "excerpt": "stors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles of top angel investors:\n\n- **Ron Conway**, known as the \"Godfather of Silicon Valle",
+            "line": 1,
+            "column": 660,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2754,
+            "excerpt": "health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation",
+            "line": 15,
+            "column": 222,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 5939,
+            "excerpt": "known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/bl",
+            "line": 54,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 6383,
+            "excerpt": "d-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+            "line": 60,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.43067
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 4
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.38685
+        "1-who-are-the-best-angel-i-77ee5dff": 0.43067
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64169,12 +65747,47 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 5
+        "1-who-are-the-best-angel-i-77ee5dff": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 659,
+              "excerpt": "stors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nKey profiles of top angel investors:\n\n- **Ron Conway**, known as the \"Godfather of Silicon Valle",
+              "line": 1,
+              "column": 660,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2754,
+              "excerpt": "health, and energy sectors with a track record of support for startups like Reddit and Stripe[[9]](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5).\n\nAdditional renowned angel investors include **Esther Dyson**, known for her focus on innovation",
+              "line": 15,
+              "column": 222,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5939,
+              "excerpt": "known-investors/](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)\n\n9. [www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5](https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2025-5)\n\n10. [www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know](https://www.clarify.ai/bl",
+              "line": 54,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 6383,
+              "excerpt": "d-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+              "line": 60,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 5
+          "perplexity_with_search_latest": 4
         }
       }
     },
@@ -64214,34 +65827,233 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.34197
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.11321,
+        "perplexity_with_search_latest": 0.13333,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.11765
+        "openai_chatgpt_with_search_latest": 0.16667
       },
-      "appearanceOrder": 8.5,
+      "appearanceOrder": 5.25,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.08889,
-      "influence": 0.04476,
+      "mentionsAsPercent": 0.10526,
+      "influence": 0.22382,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0.80379,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.70062
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04476,
+      "weightedInfluence": 0.22382,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 517,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1116
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1116,
+            "excerpt": "vs** - They offer insights into the current market's most active and influential investors in their [Top 100+ Active Angel Investors List](https://rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors,",
+            "line": 7,
+            "column": 114,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 3279,
+            "excerpt": "also have a detailed list of the **top 100 active angel investors** that will get you started.\n\n3. [Top 100+ Active Angel Investors List (2025) Blog | RocketDevs](https://rocketdevs.com/blog/top-angel-investors-list)\n\nTo help you get started, we’ve curated a list of some of the most active and influential angel in",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 517,
+            "excerpt": "ent and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://ww",
+            "line": 1,
+            "column": 518,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1009,
+            "excerpt": "roach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n  \n- **Naval Rav",
+            "line": 5,
+            "column": 232,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1422,
+            "excerpt": "ely across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles",
+            "line": 7,
+            "column": 275,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1785,
+            "excerpt": "vestor in Twitter, Uber, and Instagram, building a venture empire with a strong media presence[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\n- **Mark Cuban*",
+            "line": 9,
+            "column": 165,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4146,
+            "excerpt": "tartup ecosystem**[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://w",
+            "line": 23,
+            "column": 291,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 3155,
+            "excerpt": "k-ny)\n\n9. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)\n\n10. [rocketdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n11. [www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-sta",
+            "line": 49,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05622
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.45325
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 8,
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.34197,
-        "2-which-angel-investors-ar-962fdc29": 0.05294
+        "1-who-are-the-best-angel-i-77ee5dff": 0.37062,
+        "2-which-angel-investors-ar-962fdc29": 0.05622
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64256,17 +66068,87 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 3,
-        "2-which-angel-investors-ar-962fdc29": 14
+        "1-who-are-the-best-angel-i-77ee5dff": 2.5,
+        "2-which-angel-investors-ar-962fdc29": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1116,
+              "excerpt": "vs** - They offer insights into the current market's most active and influential investors in their [Top 100+ Active Angel Investors List](https://rocketdevs.com/blog/top-angel-investors-list). This resource highlights the personal mentorship and guidance often provided by angel investors,",
+              "line": 7,
+              "column": 114,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3279,
+              "excerpt": "also have a detailed list of the **top 100 active angel investors** that will get you started.\n\n3. [Top 100+ Active Angel Investors List (2025) Blog | RocketDevs](https://rocketdevs.com/blog/top-angel-investors-list)\n\nTo help you get started, we’ve curated a list of some of the most active and influential angel in",
+              "line": 23,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 517,
+              "excerpt": "ent and mentorship[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[9]](https://ww",
+              "line": 1,
+              "column": 518,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1009,
+              "excerpt": "roach heavily emphasizes close mentorship and leveraging a deep network to help startups scale[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n  \n- **Naval Rav",
+              "line": 5,
+              "column": 232,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1422,
+              "excerpt": "ely across sectors[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[7]](https://www.openvc.app/investor-lists/angel-investors)[[8]](https://www.business.com/articles",
+              "line": 7,
+              "column": 275,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1785,
+              "excerpt": "vestor in Twitter, Uber, and Instagram, building a venture empire with a strong media presence[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[10]](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know).\n\n- **Mark Cuban*",
+              "line": 9,
+              "column": 165,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4146,
+              "excerpt": "tartup ecosystem**[[1]](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)[[4]](https://rocketdevs.com/blog/top-angel-investors-list)[[8]](https://www.business.com/articles/silicon-valleys-most-well-known-investors/)[[10]](https://w",
+              "line": 23,
+              "column": 291,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3155,
+              "excerpt": "k-ny)\n\n9. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)\n\n10. [rocketdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n11. [www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-sta",
+              "line": 49,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "perplexity_with_search_latest": 2,
-          "openai_chatgpt_with_search_latest": 4
+          "openai_chatgpt_with_search_latest": 3
         },
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 14
+          "perplexity_with_search_latest": 8
         }
       }
     },
@@ -64310,30 +66192,201 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.1,
+        "anthropic_claude_with_search_latest": 0.10526,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6.33,
+      "appearanceOrder": 5.33,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6.33
+        "anthropic_claude_with_search_latest": 5.33
       },
-      "mentionsAsPercent": 0.02222,
-      "influence": 0.07114,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.32442,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07114,
+      "weightedInfluence": 0.32442,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 361,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 361,
+            "excerpt": "acebook, Twitter, Airbnb, and many other successful startups.\n\n### 2. **Naval Ravikant**\nFounder of [AngelList](https://www.angellist.com/). Invested in over 200+ companies including Uber, Twitter, Yammer, and Postmates.\n\n### 3. **Ron Con",
+            "line": 11,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2345,
+            "excerpt": "w.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) -",
+            "line": 52,
+            "column": 3,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 367,
+            "excerpt": "gel investments in companies like Facebook, Twitter, and Airbnb\n\n2. **Naval Ravikant** - Founder of [AngelList](https://www.angellist.com/)\n   - One of the most prolific angel investors with investments in over 200+ startups including Ube",
+            "line": 10,
+            "column": 36,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1701,
+            "excerpt": "estments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private market data platform\n- **[AngelList](https://www.angellist.com/)** - Platform connecting startups with investors\n- **[Signal](https://signal.nfx.com/)** - NFX's fr",
+            "line": 40,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1783,
+            "excerpt": "logyangels.com/)** - Southeast's premier angel network.\n\n## National/International Platforms\n\n12. **[AngelList](https://www.angellist.com/)** - Online platform connecting startups with angel investors globally (now part of AngelList Ventu",
+            "line": 35,
+            "column": 7,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06776
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 2,
         "2-which-angel-investors-ar-962fdc29": 2,
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.25,
-        "2-which-angel-investors-ar-962fdc29": 0.26101,
-        "3-which-angel-investor-clu-b83248ad": 0.06432
+        "1-who-are-the-best-angel-i-77ee5dff": 0.31547,
+        "2-which-angel-investors-ar-962fdc29": 0.2249,
+        "3-which-angel-investor-clu-b83248ad": 0.06776
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64353,20 +66406,74 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 3,
+        "1-who-are-the-best-angel-i-77ee5dff": 2,
         "2-which-angel-investors-ar-962fdc29": 2,
-        "3-which-angel-investor-clu-b83248ad": 14
+        "3-which-angel-investor-clu-b83248ad": 12
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 361,
+              "excerpt": "acebook, Twitter, Airbnb, and many other successful startups.\n\n### 2. **Naval Ravikant**\nFounder of [AngelList](https://www.angellist.com/). Invested in over 200+ companies including Uber, Twitter, Yammer, and Postmates.\n\n### 3. **Ron Con",
+              "line": 11,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2345,
+              "excerpt": "w.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) -",
+              "line": 52,
+              "column": 3,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 367,
+              "excerpt": "gel investments in companies like Facebook, Twitter, and Airbnb\n\n2. **Naval Ravikant** - Founder of [AngelList](https://www.angellist.com/)\n   - One of the most prolific angel investors with investments in over 200+ startups including Ube",
+              "line": 10,
+              "column": 36,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1701,
+              "excerpt": "estments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private market data platform\n- **[AngelList](https://www.angellist.com/)** - Platform connecting startups with investors\n- **[Signal](https://signal.nfx.com/)** - NFX's fr",
+              "line": 40,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1783,
+              "excerpt": "logyangels.com/)** - Southeast's premier angel network.\n\n## National/International Platforms\n\n12. **[AngelList](https://www.angellist.com/)** - Online platform connecting startups with angel investors globally (now part of AngelList Ventu",
+              "line": 35,
+              "column": 7,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 3
+          "anthropic_claude_with_search_latest": 2
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 2
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 14
+          "anthropic_claude_with_search_latest": 12
         }
       }
     },
@@ -64411,25 +66518,169 @@ window.AppDataAggregate20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.11765
+        "openai_chatgpt_with_search_latest": 0.16667
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 5
+        "openai_chatgpt_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.02222,
-      "influence": 0.03163,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.14879,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03163,
+      "weightedInfluence": 0.14879,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 1369
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1369,
+            "excerpt": "ce often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [TOP active angel investors list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.",
+            "line": 9,
+            "column": 28,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 4035,
+            "excerpt": "hip and guidance. They’re also known as private investors, informal investors, or seed funders.\n\n4. [TOP active angel investors list in the world](https://www.areteindex.com/angels/)\n\nPaul is the Co-Founder and serves as a Partner for Y Combinator. Kevin Moore is an Angel Investor",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.21535
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.19342
+        "1-who-are-the-best-angel-i-77ee5dff": 0.21535
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64439,12 +66690,33 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 5
+        "1-who-are-the-best-angel-i-77ee5dff": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1369,
+              "excerpt": "ce often provided by angel investors, in addition to financial backing.\n\n4. **Arete Index** - Their [TOP active angel investors list](https://www.areteindex.com/angels/) includes notable names like Kevin Moore and investment sectors they are particularly focused on.",
+              "line": 9,
+              "column": 28,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4035,
+              "excerpt": "hip and guidance. They’re also known as private investors, informal investors, or seed funders.\n\n4. [TOP active angel investors list in the world](https://www.areteindex.com/angels/)\n\nPaul is the Co-Founder and serves as a Partner for Y Combinator. Kevin Moore is an Angel Investor",
+              "line": 27,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "openai_chatgpt_with_search_latest": 5
+          "openai_chatgpt_with_search_latest": 4
         }
       }
     },
@@ -64455,11 +66727,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://a16z.com",
       "linkType": "fin",
       "linkTypeName": "Financial Services",
-      "mentions": 4,
+      "mentions": 2,
       "mentionsByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 2
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 1
       },
       "sources": [
         {
@@ -64510,35 +66782,189 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.1,
-        "openai_chatgpt_with_search_latest": 0.11765
+        "anthropic_claude_with_search_latest": 0.05263,
+        "openai_chatgpt_with_search_latest": 0.08333
       },
-      "appearanceOrder": 2.25,
+      "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 6
+        "openai_chatgpt_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.04444,
-      "influence": 0.03536,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.0854,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
-        "openai_chatgpt_with_search_latest": 0.31277
+        "openai_chatgpt_with_search_latest": 0.79641
       },
-      "weightedInfluence": 0.03536,
+      "weightedInfluence": 0.0854,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 187,
+        "openai_chatgpt_with_search_latest": 4788
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 187,
+            "excerpt": "al angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**\nCo-founder of [Andreessen Horowitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n##",
+            "line": 8,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 191,
+            "excerpt": "active angel investors:\n\n## Top Individual Angel Investors\n\n1. **Marc Andreessen** - Co-founder of [Andreessen Horowitz (a16z)](https://a16z.com/)\n   - Has made hundreds of angel investments in companies like Facebook, Twitter, and Airbnb\n\n2. **",
+            "line": 7,
+            "column": 40,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4788,
+            "excerpt": "024!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-known, while others are sure to surprise you!",
+            "line": 33,
+            "column": 269,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.17823
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.36927
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 4,
+        "1-who-are-the-best-angel-i-77ee5dff": 2,
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.18808,
-        "2-which-angel-investors-ar-962fdc29": 0.20685
+        "1-who-are-the-best-angel-i-77ee5dff": 0.10693,
+        "2-which-angel-investors-ar-962fdc29": 0.17823
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "perplexity_with_search_latest": 0,
-          "anthropic_claude_with_search_latest": 3,
-          "openai_chatgpt_with_search_latest": 2
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 1
         },
         "2-which-angel-investors-ar-962fdc29": {
           "perplexity_with_search_latest": 0,
@@ -64547,14 +66973,49 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 3.5,
+        "1-who-are-the-best-angel-i-77ee5dff": 3,
         "2-which-angel-investors-ar-962fdc29": 1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 187,
+              "excerpt": "al angel investors globally:\n\n## Top Tier Angel Investors\n\n### 1. **Marc Andreessen**\nCo-founder of [Andreessen Horowitz](https://a16z.com/) and Netscape. Early investor in Facebook, Twitter, Airbnb, and many other successful startups.\n\n##",
+              "line": 8,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 4788,
+              "excerpt": "024!) based on what matters—the success of their portfolio. Some of the angels on this list such as [Marc Andreessen](https://a16z.com/author/marc-andreessen/) and [Chris Sacca](https://chrissacca.com/) are well-known, while others are sure to surprise you!",
+              "line": 33,
+              "column": 269,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 191,
+              "excerpt": "active angel investors:\n\n## Top Individual Angel Investors\n\n1. **Marc Andreessen** - Co-founder of [Andreessen Horowitz (a16z)](https://a16z.com/)\n   - Has made hundreds of angel investments in companies like Facebook, Twitter, and Airbnb\n\n2. **",
+              "line": 7,
+              "column": 40,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
           "anthropic_claude_with_search_latest": 1,
-          "openai_chatgpt_with_search_latest": 6
+          "openai_chatgpt_with_search_latest": 5
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 1
@@ -64600,27 +67061,171 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03774,
+        "perplexity_with_search_latest": 0.04444,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.02222,
-      "influence": 0.02463,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.11514,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02463,
+      "weightedInfluence": 0.11514,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3498,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3498,
+            "excerpt": "angel investments remain highly influential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech Coast",
+            "line": 19,
+            "column": 254,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 5257,
+            "excerpt": "op-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. [dealroom.net/blog/top-venture-capital-firms](https://dealroom.net/blog/top-venture-capital-firms)\n\n4. [rocketdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors",
+            "line": 42,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.16667
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.15052
+        "1-who-are-the-best-angel-i-77ee5dff": 0.16667
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64630,12 +67235,33 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 9
+        "1-who-are-the-best-angel-i-77ee5dff": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3498,
+              "excerpt": "angel investments remain highly influential, often leading the way for further funding rounds[[3]](https://dealroom.net/blog/top-venture-capital-firms).\n\nFor startup founders looking to connect with experienced angel investors, groups like Tech Coast",
+              "line": 19,
+              "column": 254,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5257,
+              "excerpt": "op-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. [dealroom.net/blog/top-venture-capital-firms](https://dealroom.net/blog/top-venture-capital-firms)\n\n4. [rocketdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors",
+              "line": 42,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 9
+          "perplexity_with_search_latest": 7
         }
       }
     },
@@ -64646,11 +67272,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://startupsavant.com",
       "linkType": "blg",
       "linkTypeName": "Blogs",
-      "mentions": 36,
+      "mentions": 12,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 20,
+        "perplexity_with_search_latest": 8,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 18
+        "openai_chatgpt_with_search_latest": 6
       },
       "sources": [
         {
@@ -64678,55 +67304,388 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03774,
+        "perplexity_with_search_latest": 0.04444,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6.5,
+      "appearanceOrder": 5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.02222,
-      "influence": 0.31261,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.63323,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.51152,
+        "perplexity_with_search_latest": 0.24264,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.31261,
+      "weightedInfluence": 0.63323,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 3800,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 445,
+            "excerpt": "You can find more about their investment focus and how to apply for funding on their website.\n\n2. **[Angel Investors Networks](https://startupsavant.com/best-angel-investor-groups/nyc)**: There are numerous networks in New York City and other locations identified by TRUiC's Startup",
+            "line": 5,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3494,
+            "excerpt": "com/company/business-angels-malta/) connects angel investors with startups looking for funding.\n\n3. [9 Top New York City Angel Investor Groups | TRUiC - Startup Savant](https://startupsavant.com/best-angel-investor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding S",
+            "line": 27,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3624,
+            "excerpt": "estor Groups | TRUiC - Startup Savant](https://startupsavant.com/best-angel-investor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup",
+            "line": 29,
+            "column": 3,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3704,
+            "excerpt": "stor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup Accelerators](https://startupsavant.com/best-startup-accelerators) - [How to Start a St",
+            "line": 29,
+            "column": 83,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3791,
+            "excerpt": "or-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup Accelerators](https://startupsavant.com/best-startup-accelerators) - [How to Start a Startup in 10 Steps (2025 Guide)](https://startupsavant.com/how-to-start-a-start",
+            "line": 29,
+            "column": 170,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 3800,
+            "excerpt": "access to organized networks of high-quality angel investors across industries and geographies[[6]](https://startupsavant.com/best-angel-investor-groups).\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen,",
+            "line": 21,
+            "column": 248,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 5574,
+            "excerpt": "om/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-in",
+            "line": 48,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 424,
+            "excerpt": "in California.\n   - **Link**: [Pasadena Angels](https://pasadenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n2. **Allian",
+            "line": 9,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 813,
+            "excerpt": "n IT.\n   - **Link**: [Alliance of Angels](https://www.allianceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n3. **New Yo",
+            "line": 15,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 1190,
+            "excerpt": "d startups.\n   - **Link**: [New York Angels](https://www.newyorkangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n4. **Band of Angels**\n   - **Location**: Menlo Park, California\n   - **Focus**: Early-stage start",
+            "line": 21,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 1479,
+            "excerpt": "ife sciences.\n   - **Link**: [Band of Angels](https://www.bandofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n5. **TCA Venture Group (Tech Coast Angels)**\n   - **Location**: Southern California\n   - **Focus*",
+            "line": 27,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3218,
+            "excerpt": "om/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n2. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n3. [orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/](https://orielipo.com",
+            "line": 56,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 12
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.94918
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 2,
-        "3-which-angel-investor-clu-b83248ad": 36
+        "3-which-angel-investor-clu-b83248ad": 12
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.14452,
-        "3-which-angel-investor-clu-b83248ad": 1.871
+        "1-who-are-the-best-angel-i-77ee5dff": 0.15772,
+        "3-which-angel-investor-clu-b83248ad": 0.94918
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 20,
+          "perplexity_with_search_latest": 8,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 18
+          "openai_chatgpt_with_search_latest": 6
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 18,
+          "perplexity_with_search_latest": 6,
           "anthropic_claude_with_search_latest": 0,
-          "openai_chatgpt_with_search_latest": 18
+          "openai_chatgpt_with_search_latest": 6
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 10,
-        "3-which-angel-investor-clu-b83248ad": 3
+        "1-who-are-the-best-angel-i-77ee5dff": 8,
+        "3-which-angel-investor-clu-b83248ad": 2
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3800,
+              "excerpt": "access to organized networks of high-quality angel investors across industries and geographies[[6]](https://startupsavant.com/best-angel-investor-groups).\n\n**In summary, the world’s best angel investors stand out for their early-stage investing acumen,",
+              "line": 21,
+              "column": 248,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5574,
+              "excerpt": "om/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n7. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-in",
+              "line": 48,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 445,
+              "excerpt": "You can find more about their investment focus and how to apply for funding on their website.\n\n2. **[Angel Investors Networks](https://startupsavant.com/best-angel-investor-groups/nyc)**: There are numerous networks in New York City and other locations identified by TRUiC's Startup",
+              "line": 5,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3494,
+              "excerpt": "com/company/business-angels-malta/) connects angel investors with startups looking for funding.\n\n3. [9 Top New York City Angel Investor Groups | TRUiC - Startup Savant](https://startupsavant.com/best-angel-investor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding S",
+              "line": 27,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3624,
+              "excerpt": "estor Groups | TRUiC - Startup Savant](https://startupsavant.com/best-angel-investor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup",
+              "line": 29,
+              "column": 3,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3704,
+              "excerpt": "stor-groups/nyc)\n\n- [Angel Investor Groups](https://startupsavant.com/best-angel-investor-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup Accelerators](https://startupsavant.com/best-startup-accelerators) - [How to Start a St",
+              "line": 29,
+              "column": 83,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3791,
+              "excerpt": "or-groups) - [Crowdfunding Sites](https://startupsavant.com/best-crowdfunding-sites-for-startups) - [Startup Accelerators](https://startupsavant.com/best-startup-accelerators) - [How to Start a Startup in 10 Steps (2025 Guide)](https://startupsavant.com/how-to-start-a-start",
+              "line": 29,
+              "column": 170,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 424,
+              "excerpt": "in California.\n   - **Link**: [Pasadena Angels](https://pasadenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n2. **Allian",
+              "line": 9,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 813,
+              "excerpt": "n IT.\n   - **Link**: [Alliance of Angels](https://www.allianceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n3. **New Yo",
+              "line": 15,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1190,
+              "excerpt": "d startups.\n   - **Link**: [New York Angels](https://www.newyorkangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n4. **Band of Angels**\n   - **Location**: Menlo Park, California\n   - **Focus**: Early-stage start",
+              "line": 21,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1479,
+              "excerpt": "ife sciences.\n   - **Link**: [Band of Angels](https://www.bandofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n5. **TCA Venture Group (Tech Coast Angels)**\n   - **Location**: Southern California\n   - **Focus*",
+              "line": 27,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3218,
+              "excerpt": "om/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n2. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n3. [orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/](https://orielipo.com",
+              "line": 56,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 10
+          "perplexity_with_search_latest": 8
         },
         "3-which-angel-investor-clu-b83248ad": {
           "perplexity_with_search_latest": 2,
-          "openai_chatgpt_with_search_latest": 4
+          "openai_chatgpt_with_search_latest": 2
         }
       }
     },
@@ -64770,26 +67729,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01581,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.07438,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01581,
+      "weightedInfluence": 0.07438,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 705,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 705,
+            "excerpt": "investments in Google, Facebook, PayPal, Twitter, and Airbnb.\n\n### 4. **Peter Thiel**\nCo-founder of [PayPal](https://www.paypal.com/) and [Palantir](https://www.palantir.com/). First outside investor in Facebook and invested in Spac",
+            "line": 17,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.10767
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.09673
+        "1-who-are-the-best-angel-i-77ee5dff": 0.10767
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64799,12 +67893,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 5
+        "1-who-are-the-best-angel-i-77ee5dff": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 705,
+              "excerpt": "investments in Google, Facebook, PayPal, Twitter, and Airbnb.\n\n### 4. **Peter Thiel**\nCo-founder of [PayPal](https://www.paypal.com/) and [Palantir](https://www.palantir.com/). First outside investor in Facebook and invested in Spac",
+              "line": 17,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 5
+          "anthropic_claude_with_search_latest": 4
         }
       }
     },
@@ -64848,29 +67956,183 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 4.5,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6,
-        "openai_chatgpt_with_search_latest": 8
+        "anthropic_claude_with_search_latest": 5,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02506,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.14333,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.42832,
+        "anthropic_claude_with_search_latest": 0.10898,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.02506,
+      "weightedInfluence": 0.14333,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 908,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 908,
+            "excerpt": "Facebook and invested in SpaceX, LinkedIn, Yelp, and Stripe.\n\n### 5. **Reid Hoffman**\nCo-founder of [LinkedIn](https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https",
+            "line": 20,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1028,
+            "excerpt": "etworks. It is a good go-to if you are operating in Europe or looking for European investors.\n\n4. **[Business Angels Malta (BAM)](https://www.linkedin.com/company/business-angels-malta/)**: They connect startups with potential angel investors, focusing on investment in Malta and other",
+            "line": 9,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3361,
+            "excerpt": "ngelEngine, Baltic Business Angels Schleswig-Holstein, and Business Angels Club Berlin-Brandenburg. [BAM Malta](https://www.linkedin.com/company/business-angels-malta/) connects angel investors with startups looking for funding.\n\n3. [9 Top New York City Angel Investo",
+            "line": 25,
+            "column": 504,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.21598
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.08905,
-        "3-which-angel-investor-clu-b83248ad": 0.15855
+        "1-who-are-the-best-angel-i-77ee5dff": 0.09673,
+        "3-which-angel-investor-clu-b83248ad": 0.21598
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64885,16 +68147,50 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 6,
-        "3-which-angel-investor-clu-b83248ad": 8
+        "1-who-are-the-best-angel-i-77ee5dff": 5,
+        "3-which-angel-investor-clu-b83248ad": 4
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 6
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 908,
+              "excerpt": "Facebook and invested in SpaceX, LinkedIn, Yelp, and Stripe.\n\n### 5. **Reid Hoffman**\nCo-founder of [LinkedIn](https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https",
+              "line": 20,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "openai_chatgpt_with_search_latest": 8
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1028,
+              "excerpt": "etworks. It is a good go-to if you are operating in Europe or looking for European investors.\n\n4. **[Business Angels Malta (BAM)](https://www.linkedin.com/company/business-angels-malta/)**: They connect startups with potential angel investors, focusing on investment in Malta and other",
+              "line": 9,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3361,
+              "excerpt": "ngelEngine, Baltic Business Angels Schleswig-Holstein, and Business Angels Club Berlin-Brandenburg. [BAM Malta](https://www.linkedin.com/company/business-angels-malta/) connects angel investors with startups looking for funding.\n\n3. [9 Top New York City Angel Investo",
+              "line": 25,
+              "column": 504,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": 5
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "openai_chatgpt_with_search_latest": 4
         }
       }
     },
@@ -64938,26 +68234,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 7
+        "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01364,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.06153,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01364,
+      "weightedInfluence": 0.06153,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1019,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1019,
+            "excerpt": "https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https://greylock.com/).\n\n## Other Notable Angel Investors\n\n### 6. **Elad Gil**\nVP at Twitter, invested in Airbnb, Coinbas",
+            "line": 20,
+            "column": 126,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.08905
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.08332
+        "1-who-are-the-best-angel-i-77ee5dff": 0.08905
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -64967,12 +68398,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 7
+        "1-who-are-the-best-angel-i-77ee5dff": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1019,
+              "excerpt": "https://www.linkedin.com/). Early investor in Facebook, Airbnb, and numerous other startups through [Greylock Partners](https://greylock.com/).\n\n## Other Notable Angel Investors\n\n### 6. **Elad Gil**\nVP at Twitter, invested in Airbnb, Coinbas",
+              "line": 20,
+              "column": 126,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 7
+          "anthropic_claude_with_search_latest": 6
         }
       }
     },
@@ -65012,32 +68457,177 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.07938
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
-        "anthropic_claude_with_search_latest": 0.05,
+        "perplexity_with_search_latest": 0.02222,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 7.5,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 11,
-        "anthropic_claude_with_search_latest": 4
+        "perplexity_with_search_latest": 9,
+        "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.02222,
-      "influence": 0.01298,
+      "mentionsAsPercent": 0.02632,
+      "influence": 0.06073,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.47667,
+        "perplexity_with_search_latest": 0.73477,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01298,
+      "weightedInfluence": 0.06073,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4475,
+        "anthropic_claude_with_search_latest": 516,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 516,
+            "excerpt": "er 200+ companies including Uber, Twitter, Yammer, and Postmates.\n\n### 3. **Ron Conway**\nFounder of [SV Angel](https://svangel.com/). Known as the \"Godfather of Silicon Valley,\" with early investments in Google, Facebook, PayPal, T",
+            "line": 14,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4475,
+            "excerpt": "links for some named investors and groups (where available) for further exploration:\n\n- Ron Conway: [SV Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](htt",
+            "line": 27,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0879
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.5043
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.07938
+        "1-who-are-the-best-angel-i-77ee5dff": 0.0879
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65047,13 +68637,35 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 7.5
+        "1-who-are-the-best-angel-i-77ee5dff": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 516,
+              "excerpt": "er 200+ companies including Uber, Twitter, Yammer, and Postmates.\n\n### 3. **Ron Conway**\nFounder of [SV Angel](https://svangel.com/). Known as the \"Godfather of Silicon Valley,\" with early investments in Google, Facebook, PayPal, T",
+              "line": 14,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4475,
+              "excerpt": "links for some named investors and groups (where available) for further exploration:\n\n- Ron Conway: [SV Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](htt",
+              "line": 27,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 11,
-          "anthropic_claude_with_search_latest": 4
+          "perplexity_with_search_latest": 9,
+          "anthropic_claude_with_search_latest": 3
         }
       }
     },
@@ -65097,28 +68709,172 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 6,
+      "appearanceOrder": 5.5,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 6
+        "anthropic_claude_with_search_latest": 5.5
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02914,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.12792,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02914,
+      "weightedInfluence": 0.12792,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1225,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1225,
+            "excerpt": "witter, invested in Airbnb, Coinbase, Instacart, Pinterest, Square, and Stripe. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early inves",
+            "line": 25,
+            "column": 108,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 848,
+            "excerpt": "arly investor in Airbnb, Coinbase, Instacart, Notion, Pinterest, Square, and Stripe\n   - More info: [Elad Gil's blog](http://blog.eladgil.com/)\n\n5. **Jason Calacanis** - Host of This Week in Startups\n   - [Launch](https://launch.co/) founder",
+            "line": 18,
+            "column": 17,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07677
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.07888,
-        "2-which-angel-investors-ar-962fdc29": 0.0891
+        "1-who-are-the-best-angel-i-77ee5dff": 0.08332,
+        "2-which-angel-investors-ar-962fdc29": 0.07677
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65133,13 +68889,40 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 8,
+        "1-who-are-the-best-angel-i-77ee5dff": 7,
         "2-which-angel-investors-ar-962fdc29": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1225,
+              "excerpt": "witter, invested in Airbnb, Coinbase, Instacart, Pinterest, Square, and Stripe. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early inves",
+              "line": 25,
+              "column": 108,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 848,
+              "excerpt": "arly investor in Airbnb, Coinbase, Instacart, Notion, Pinterest, Square, and Stripe\n   - More info: [Elad Gil's blog](http://blog.eladgil.com/)\n\n5. **Jason Calacanis** - Host of This Week in Startups\n   - [Launch](https://launch.co/) founder",
+              "line": 18,
+              "column": 17,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 8
+          "anthropic_claude_with_search_latest": 7
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 4
@@ -65186,26 +68969,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01232,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.05448,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01232,
+      "weightedInfluence": 0.05448,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1302,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1302,
+            "excerpt": "e. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive f",
+            "line": 28,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07888
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.07525
+        "1-who-are-the-best-angel-i-77ee5dff": 0.07888
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65215,12 +69133,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 9
+        "1-who-are-the-best-angel-i-77ee5dff": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1302,
+              "excerpt": "e. Author and advisor. [Personal site](http://blog.eladgil.com/)\n\n### 7. **Chris Sacca**\nFounder of [Lowercase Capital](https://lowercasecapital.com/). Early investor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive f",
+              "line": 28,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 9
+          "anthropic_claude_with_search_latest": 8
         }
       }
     },
@@ -65264,26 +69196,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 9,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01181,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.05199,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01181,
+      "weightedInfluence": 0.05199,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1461,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1461,
+            "excerpt": "nvestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of",
+            "line": 31,
+            "column": 22,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07525
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 9
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.07228
+        "1-who-are-the-best-angel-i-77ee5dff": 0.07525
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65293,12 +69360,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 10
+        "1-who-are-the-best-angel-i-77ee5dff": 9
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1461,
+              "excerpt": "nvestor in Twitter, Uber, Instagram, and Kickstarter.\n\n### 8. **Esther Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of",
+              "line": 31,
+              "column": 22,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 10
+          "anthropic_claude_with_search_latest": 9
         }
       }
     },
@@ -65342,26 +69423,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 11,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 11
+        "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01142,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04992,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01142,
+      "weightedInfluence": 0.04992,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1528,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1528,
+            "excerpt": "her Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invest",
+            "line": 31,
+            "column": 89,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07228
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06972
+        "1-who-are-the-best-angel-i-77ee5dff": 0.07228
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65371,12 +69587,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 11
+        "1-who-are-the-best-angel-i-77ee5dff": 10
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1528,
+              "excerpt": "her Dyson**\nExecutive founder of [Wellville](https://wellville.net/). Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invest",
+              "line": 31,
+              "column": 89,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 11
+          "anthropic_claude_with_search_latest": 10
         }
       }
     },
@@ -65420,26 +69650,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
+        "anthropic_claude_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01103,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04819,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01103,
+      "weightedInfluence": 0.04819,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1596,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1596,
+            "excerpt": ". Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invested in over 2,000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason C",
+            "line": 34,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06972
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06755
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06972
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65449,12 +69814,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 12
+        "1-who-are-the-best-angel-i-77ee5dff": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1596,
+              "excerpt": ". Early investor in Flickr, del.icio.us, Evernote, and 23andMe.\n\n### 9. **Dave McClure**\nFounder of [500 Startups](https://500.co/). Invested in over 2,000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason C",
+              "line": 34,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 12
+          "anthropic_claude_with_search_latest": 11
         }
       }
     },
@@ -65497,29 +69876,173 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13
+        "perplexity_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02149,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.09987,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02149,
+      "weightedInfluence": 0.09987,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4527,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4527,
+            "excerpt": "ilable) for further exploration:\n\n- Ron Conway: [SV Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combi",
+            "line": 28,
+            "column": 19,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2495,
+            "excerpt": "e platforms:\n\n- **AngelList**: A US-focused platform connecting startups with investors and talent. [AngelList](https://angel.co/)\n- **Gust**: Offers business planning tools, CRM capabilities, and investor communication support.",
+            "line": 45,
+            "column": 87,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07248
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06755,
-        "3-which-angel-investor-clu-b83248ad": 0.06432
+        "1-who-are-the-best-angel-i-77ee5dff": 0.07228,
+        "3-which-angel-investor-clu-b83248ad": 0.07248
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65534,16 +70057,43 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 12,
-        "3-which-angel-investor-clu-b83248ad": 14
+        "1-who-are-the-best-angel-i-77ee5dff": 10,
+        "3-which-angel-investor-clu-b83248ad": 10
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 12
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4527,
+              "excerpt": "ilable) for further exploration:\n\n- Ron Conway: [SV Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combi",
+              "line": 28,
+              "column": 19,
+              "captureDate": "2025-10-14"
+            }
+          ]
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 14
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2495,
+              "excerpt": "e platforms:\n\n- **AngelList**: A US-focused platform connecting startups with investors and talent. [AngelList](https://angel.co/)\n- **Gust**: Offers business planning tools, CRM capabilities, and investor communication support.",
+              "line": 45,
+              "column": 87,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "perplexity_with_search_latest": 10
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "perplexity_with_search_latest": 10
         }
       }
     },
@@ -65587,28 +70137,181 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 8.5,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 8.5
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.03695,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.15953,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03695,
+      "weightedInfluence": 0.15953,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1748,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1748,
+            "excerpt": "000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason Calacanis**\nFounder of [LAUNCH](https://launch.co/). Early investor in Uber, Robinhood, and Calm. Host of the podcast \"This Week in Startups.\"\n\n## Int",
+            "line": 37,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 953,
+            "excerpt": "Gil's blog](http://blog.eladgil.com/)\n\n5. **Jason Calacanis** - Host of This Week in Startups\n   - [Launch](https://launch.co/) founder\n   - Early investor in Uber, Robinhood, and Calm\n   - Known for [LAUNCH Accelerator](https",
+            "line": 21,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1054,
+            "excerpt": "Launch](https://launch.co/) founder\n   - Early investor in Uber, Robinhood, and Calm\n   - Known for [LAUNCH Accelerator](https://launch.co/)\n\n## Active Angel Groups & Platforms\n\n1. **Tech Coast Angels** - [techcoastangels.com](https://www.",
+            "line": 23,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.1379
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "2-which-angel-investors-ar-962fdc29": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06565,
-        "2-which-angel-investors-ar-962fdc29": 0.16004
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06755,
+        "2-which-angel-investors-ar-962fdc29": 0.1379
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65623,13 +70326,47 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 13,
+        "1-who-are-the-best-angel-i-77ee5dff": 12,
         "2-which-angel-investors-ar-962fdc29": 5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1748,
+              "excerpt": "000 companies including Credit Karma, Twilio, and Wildfire.\n\n### 10. **Jason Calacanis**\nFounder of [LAUNCH](https://launch.co/). Early investor in Uber, Robinhood, and Calm. Host of the podcast \"This Week in Startups.\"\n\n## Int",
+              "line": 37,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 953,
+              "excerpt": "Gil's blog](http://blog.eladgil.com/)\n\n5. **Jason Calacanis** - Host of This Week in Startups\n   - [Launch](https://launch.co/) founder\n   - Early investor in Uber, Robinhood, and Calm\n   - Known for [LAUNCH Accelerator](https",
+              "line": 21,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1054,
+              "excerpt": "Launch](https://launch.co/) founder\n   - Early investor in Uber, Robinhood, and Calm\n   - Known for [LAUNCH Accelerator](https://launch.co/)\n\n## Active Angel Groups & Platforms\n\n1. **Tech Coast Angels** - [techcoastangels.com](https://www.",
+              "line": 23,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 13
+          "anthropic_claude_with_search_latest": 12
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 5
@@ -65675,27 +70412,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13
+        "perplexity_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01072,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04819,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01072,
+      "weightedInfluence": 0.04819,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4579,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4579,
+            "excerpt": "Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [Ope",
+            "line": 29,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06972
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06565
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06972
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65705,12 +70577,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 13
+        "1-who-are-the-best-angel-i-77ee5dff": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4579,
+              "excerpt": "Angel](https://svangel.com)  \n- Naval Ravikant: [AngelList](https://angel.co/naval)  \n- Mark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [Ope",
+              "line": 29,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 13
+          "perplexity_with_search_latest": 11
         }
       }
     },
@@ -65754,26 +70640,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 14
+        "anthropic_claude_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01045,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04536,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01045,
+      "weightedInfluence": 0.04536,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1938,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1938,
+            "excerpt": "cast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Ho",
+            "line": 42,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06565
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.064
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06565
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65783,12 +70804,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 14
+        "1-who-are-the-best-angel-i-77ee5dff": 13
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1938,
+              "excerpt": "cast \"This Week in Startups.\"\n\n## International Angel Investors\n\n### 11. **Yuri Milner**\nFounder of [DST Global](https://dst-global.com/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Ho",
+              "line": 42,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 14
+          "anthropic_claude_with_search_latest": 13
         }
       }
     },
@@ -65831,27 +70866,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 14,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 14
+        "perplexity_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01045,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04667,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01045,
+      "weightedInfluence": 0.04667,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4668,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4668,
+            "excerpt": "ark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://",
+            "line": 30,
+            "column": 33,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06755
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.064
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06755
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65861,12 +71031,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 14
+        "1-who-are-the-best-angel-i-77ee5dff": 12
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4668,
+              "excerpt": "ark Cuban: [Mark Cuban Companies](https://markcubancompanies.com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://",
+              "line": 30,
+              "column": 33,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 14
+          "perplexity_with_search_latest": 12
         }
       }
     },
@@ -65910,26 +71094,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 14,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 15
+        "anthropic_claude_with_search_latest": 14
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01022,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04422,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01022,
+      "weightedInfluence": 0.04422,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2071,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2071,
+            "excerpt": "om/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Horizons Ventures](https://www.horizonsventures.com/), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of",
+            "line": 45,
+            "column": 9,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.064
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 14
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.0625
+        "1-who-are-the-best-angel-i-77ee5dff": 0.064
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -65939,12 +71258,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 15
+        "1-who-are-the-best-angel-i-77ee5dff": 14
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2071,
+              "excerpt": "om/). Major investments in Facebook, Twitter, Airbnb, and Spotify.\n\n### 12. **Li Ka-shing**\nThrough [Horizons Ventures](https://www.horizonsventures.com/), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of",
+              "line": 45,
+              "column": 9,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 15
+          "anthropic_claude_with_search_latest": 14
         }
       }
     },
@@ -65987,27 +71320,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 13,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15
+        "perplexity_with_search_latest": 13
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01022,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04536,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01022,
+      "weightedInfluence": 0.04536,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4728,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4728,
+            "excerpt": ".com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [g",
+            "line": 31,
+            "column": 15,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06565
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 13
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.0625
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06565
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66017,12 +71485,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 15
+        "1-who-are-the-best-angel-i-77ee5dff": 13
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4728,
+              "excerpt": ".com)  \n- Paul Buchheit / Y Combinator: [Y Combinator](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [g",
+              "line": 31,
+              "column": 15,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 15
+          "perplexity_with_search_latest": 13
         }
       }
     },
@@ -66066,26 +71548,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 16,
+      "appearanceOrder": 15,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 16
+        "anthropic_claude_with_search_latest": 15
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.01002,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04318,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01002,
+      "weightedInfluence": 0.04318,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2224,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2224,
+            "excerpt": "), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https",
+            "line": 48,
+            "column": 12,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0625
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 15
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06117
+        "1-who-are-the-best-angel-i-77ee5dff": 0.0625
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66095,12 +71712,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 16
+        "1-who-are-the-best-angel-i-77ee5dff": 15
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2224,
+              "excerpt": "), invested in Facebook, Spotify, Zoom, and Impossible Foods.\n\n### 13. **Masayoshi Son**\nFounder of [SoftBank](https://www.softbank.jp/en/). Early investor in Yahoo, Alibaba, and through Vision Fund.\n\n## Key Resources\n\n- [AngelList](https",
+              "line": 48,
+              "column": 12,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 16
+          "anthropic_claude_with_search_latest": 15
         }
       }
     },
@@ -66143,32 +71774,195 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9.33,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13.5,
+        "perplexity_with_search_latest": 10.5,
         "anthropic_claude_with_search_latest": 3.5
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02541,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.11359,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.41277,
+        "perplexity_with_search_latest": 0.75292,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02541,
+      "weightedInfluence": 0.11359,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4780,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1159,
+            "excerpt": "CH Accelerator](https://launch.co/)\n\n## Active Angel Groups & Platforms\n\n1. **Tech Coast Angels** - [techcoastangels.com](https://www.techcoastangels.com/)\n   - One of the largest angel investor groups in the US\n\n2. **Golden Seeds** - [goldenseeds.com](h",
+            "line": 27,
+            "column": 28,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 181,
+            "excerpt": "nvestor groups you should consider contacting for your startup:\n\n## Major U.S. Angel Networks\n\n1. **[Tech Coast Angels](https://www.techcoastangels.com/)** - One of the largest angel networks in the U.S., focusing on Southern California startups across",
+            "line": 7,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4780,
+            "excerpt": "r](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkange",
+            "line": 32,
+            "column": 22,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1719,
+            "excerpt": "- **Focus**: Seed-stage and early-stage startups in tech, life sciences, and more.\n   - **Link**: [Tech Coast Angels](https://www.techcoastangels.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-gro",
+            "line": 32,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.12607
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "2-which-angel-investors-ar-962fdc29": 1,
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.06117,
-        "2-which-angel-investors-ar-962fdc29": 0.07369,
-        "3-which-angel-investor-clu-b83248ad": 0.11616
+        "1-who-are-the-best-angel-i-77ee5dff": 0.064,
+        "2-which-angel-investors-ar-962fdc29": 0.0635,
+        "3-which-angel-investor-clu-b83248ad": 0.12607
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66188,20 +71982,68 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 16,
+        "1-who-are-the-best-angel-i-77ee5dff": 14,
         "2-which-angel-investors-ar-962fdc29": 6,
-        "3-which-angel-investor-clu-b83248ad": 6
+        "3-which-angel-investor-clu-b83248ad": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4780,
+              "excerpt": "r](https://www.ycombinator.com)  \n- Sam Altman: [OpenAI](https://openai.com)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkange",
+              "line": 32,
+              "column": 22,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1159,
+              "excerpt": "CH Accelerator](https://launch.co/)\n\n## Active Angel Groups & Platforms\n\n1. **Tech Coast Angels** - [techcoastangels.com](https://www.techcoastangels.com/)\n   - One of the largest angel investor groups in the US\n\n2. **Golden Seeds** - [goldenseeds.com](h",
+              "line": 27,
+              "column": 28,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 181,
+              "excerpt": "nvestor groups you should consider contacting for your startup:\n\n## Major U.S. Angel Networks\n\n1. **[Tech Coast Angels](https://www.techcoastangels.com/)** - One of the largest angel networks in the U.S., focusing on Southern California startups across",
+              "line": 7,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1719,
+              "excerpt": "- **Focus**: Seed-stage and early-stage startups in tech, life sciences, and more.\n   - **Link**: [Tech Coast Angels](https://www.techcoastangels.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-gro",
+              "line": 32,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 16
+          "perplexity_with_search_latest": 14
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 6
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 11,
+          "perplexity_with_search_latest": 7,
           "anthropic_claude_with_search_latest": 1
         }
       }
@@ -66246,31 +72088,203 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 12.33,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 15.67,
-        "openai_chatgpt_with_search_latest": 5
+        "anthropic_claude_with_search_latest": 13.33,
+        "openai_chatgpt_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.03155,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.17021,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.72433,
+        "anthropic_claude_with_search_latest": 0.18968,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.03155,
+      "weightedInfluence": 0.17021,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2439,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2439,
+            "excerpt": "es\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes",
+            "line": 53,
+            "column": 3,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1540,
+            "excerpt": "- Pre-seed and seed fund that invests like angels\n\n## How to Track Angel Investor Activity\n\n- **[Crunchbase](https://www.crunchbase.com/)** - Database of investments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private mark",
+            "line": 38,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2510,
+            "excerpt": "deck and executive summary\n- Consider warm introductions through your network when possible\n- Check [Crunchbase](https://www.crunchbase.com/) to research their past investments\n\n**Note:** The best group for you depends on your startup's sta",
+            "line": 47,
+            "column": 9,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 864,
+            "excerpt": ", highlighting a selective but impactful approach.\n\n3. **Lenny's Newsletter** has collaborated with [Crunchbase](https://www.crunchbase.com/) to identify [the most active angel investors in the U.S.](https://www.lennysnewsletter.com/p/top-a",
+            "line": 7,
+            "column": 49,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 3730,
+            "excerpt": "ly if you’re trying to bootstrap and take just a few small checks. So I teamed up with the folks at [Crunchbase](https://www.crunchbase.com/) to find out who the most active angel investors in the U.S. are. Crunchbase has the broadest datas",
+            "line": 25,
+            "column": 195,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06267
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 15
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 16
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "2-which-angel-investors-ar-962fdc29": 3,
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05995,
-        "2-which-angel-investors-ar-962fdc29": 0.15352,
-        "3-which-angel-investor-clu-b83248ad": 0.05636
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06117,
+        "2-which-angel-investors-ar-962fdc29": 0.16993,
+        "3-which-angel-investor-clu-b83248ad": 0.06267
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66290,21 +72304,76 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 17,
-        "2-which-angel-investors-ar-962fdc29": 7,
-        "3-which-angel-investor-clu-b83248ad": 21
+        "1-who-are-the-best-angel-i-77ee5dff": 16,
+        "2-which-angel-investors-ar-962fdc29": 6,
+        "3-which-angel-investor-clu-b83248ad": 15
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2439,
+              "excerpt": "es\n\n- [AngelList](https://www.angellist.com/) - Platform connecting startups with angel investors\n- [Crunchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes",
+              "line": 53,
+              "column": 3,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1540,
+              "excerpt": "- Pre-seed and seed fund that invests like angels\n\n## How to Track Angel Investor Activity\n\n- **[Crunchbase](https://www.crunchbase.com/)** - Database of investments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private mark",
+              "line": 38,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 864,
+              "excerpt": ", highlighting a selective but impactful approach.\n\n3. **Lenny's Newsletter** has collaborated with [Crunchbase](https://www.crunchbase.com/) to identify [the most active angel investors in the U.S.](https://www.lennysnewsletter.com/p/top-a",
+              "line": 7,
+              "column": 49,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3730,
+              "excerpt": "ly if you’re trying to bootstrap and take just a few small checks. So I teamed up with the folks at [Crunchbase](https://www.crunchbase.com/) to find out who the most active angel investors in the U.S. are. Crunchbase has the broadest datas",
+              "line": 25,
+              "column": 195,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2510,
+              "excerpt": "deck and executive summary\n- Consider warm introductions through your network when possible\n- Check [Crunchbase](https://www.crunchbase.com/) to research their past investments\n\n**Note:** The best group for you depends on your startup's sta",
+              "line": 47,
+              "column": 9,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 17
+          "anthropic_claude_with_search_latest": 16
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 9,
-          "openai_chatgpt_with_search_latest": 5
+          "openai_chatgpt_with_search_latest": 3
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 21
+          "anthropic_claude_with_search_latest": 15
         }
       }
     },
@@ -66347,32 +72416,195 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10.67,
+      "appearanceOrder": 9.33,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15,
+        "perplexity_with_search_latest": 12,
         "anthropic_claude_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02331,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.1036,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.47495,
+        "perplexity_with_search_latest": 0.854,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02331,
+      "weightedInfluence": 0.1036,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4853,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1294,
+            "excerpt": "echcoastangels.com/)\n   - One of the largest angel investor groups in the US\n\n2. **Golden Seeds** - [goldenseeds.com](https://goldenseeds.com/)\n   - Focuses on women-led businesses\n\n3. **Hustle Fund** - [hustlefund.vc](https://www.hustlefund.",
+            "line": 30,
+            "column": 23,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 521,
+            "excerpt": "-based group, one of the oldest angel organizations, investing in early-stage tech companies.\n\n3. **[Golden Seeds](https://goldenseeds.com/)** - Focuses on women-led businesses and has chapters across multiple states.\n\n4. **[Keiretsu Forum",
+            "line": 11,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4853,
+            "excerpt": "om)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.",
+            "line": 33,
+            "column": 17,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 2110,
+            "excerpt": "Women-founded and led startups, primarily in consumer products, tech, and software.\n   - **Link**: [Golden Seeds](https://www.goldenseeds.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-gro",
+            "line": 38,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.08816
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 15
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "2-which-angel-investors-ar-962fdc29": 1,
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05995,
-        "2-which-angel-investors-ar-962fdc29": 0.06894,
-        "3-which-angel-investor-clu-b83248ad": 0.08118
+        "1-who-are-the-best-angel-i-77ee5dff": 0.0625,
+        "2-which-angel-investors-ar-962fdc29": 0.0594,
+        "3-which-angel-investor-clu-b83248ad": 0.08816
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66392,20 +72624,68 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 17,
+        "1-who-are-the-best-angel-i-77ee5dff": 15,
         "2-which-angel-investors-ar-962fdc29": 7,
-        "3-which-angel-investor-clu-b83248ad": 8
+        "3-which-angel-investor-clu-b83248ad": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4853,
+              "excerpt": "om)  \n- Tech Coast Angels: [techcoastangels.com](https://www.techcoastangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.",
+              "line": 33,
+              "column": 17,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        },
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1294,
+              "excerpt": "echcoastangels.com/)\n   - One of the largest angel investor groups in the US\n\n2. **Golden Seeds** - [goldenseeds.com](https://goldenseeds.com/)\n   - Focuses on women-led businesses\n\n3. **Hustle Fund** - [hustlefund.vc](https://www.hustlefund.",
+              "line": 30,
+              "column": 23,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 521,
+              "excerpt": "-based group, one of the oldest angel organizations, investing in early-stage tech companies.\n\n3. **[Golden Seeds](https://goldenseeds.com/)** - Focuses on women-led businesses and has chapters across multiple states.\n\n4. **[Keiretsu Forum",
+              "line": 11,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2110,
+              "excerpt": "Women-founded and led startups, primarily in consumer products, tech, and software.\n   - **Link**: [Golden Seeds](https://www.goldenseeds.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-gro",
+              "line": 38,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 17
+          "perplexity_with_search_latest": 15
         },
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 7
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 13,
+          "perplexity_with_search_latest": 9,
           "anthropic_claude_with_search_latest": 3
         }
       }
@@ -66450,26 +72730,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 18,
+      "appearanceOrder": 17,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 18
+        "anthropic_claude_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.00964,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04142,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.00964,
+      "weightedInfluence": 0.04142,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2541,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2541,
+            "excerpt": "runchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on",
+            "line": 54,
+            "column": 3,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05995
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 17
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05885
+        "1-who-are-the-best-angel-i-77ee5dff": 0.05995
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66479,12 +72894,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 18
+        "1-who-are-the-best-angel-i-77ee5dff": 17
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2541,
+              "excerpt": "runchbase](https://www.crunchbase.com/) - Database for researching investors and their portfolios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on",
+              "line": 54,
+              "column": 3,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 18
+          "anthropic_claude_with_search_latest": 17
         }
       }
     },
@@ -66495,11 +72924,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://newyorkangels.com",
       "linkType": "aca",
       "linkTypeName": "Academic",
-      "mentions": 21,
+      "mentions": 7,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 15
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 1,
+        "openai_chatgpt_with_search_latest": 5
       },
       "sources": [
         {
@@ -66527,55 +72956,326 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 11.16,
+      "appearanceOrder": 9.84,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12.5,
+        "perplexity_with_search_latest": 10.5,
         "anthropic_claude_with_search_latest": 5,
         "openai_chatgpt_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.48869,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.69399,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.03956,
-        "anthropic_claude_with_search_latest": 0.05872,
+        "perplexity_with_search_latest": 0.03371,
+        "anthropic_claude_with_search_latest": 0.01877,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.48869,
+      "weightedInfluence": 0.69399,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4921,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 810,
+            "excerpt": "investment network with chapters in multiple countries, investing across diverse industries.\n\n5. **[New York Angels](https://www.newyorkangels.com/)** - One of the most active angel groups on the East Coast, with a focus on technology and healthca",
+            "line": 15,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 156,
+            "excerpt": "ur startup, there are several reputable networks and groups you can consider reaching out to:\n\n1. **[New York Angels](https://www.newyorkangels.com/)**: This is one of New York's premier angel investment groups. They focus on providing early-stage",
+            "line": 3,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3987,
+            "excerpt": "artup in 10 Steps (2025 Guide)](https://startupsavant.com/how-to-start-a-startup) August 22, 2025 - [What Is a Startup?\n\n4. [New York Angels Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5",
+            "line": 29,
+            "column": 366,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4080,
+            "excerpt": "2025 - [What Is a Startup?\n\n4. [New York Angels Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/73a35c2e-23fc-4464-",
+            "line": 33,
+            "column": 2,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4777,
+            "excerpt": "ea9c17607f70/Header+-+Newsletter+-+No+Logo.jpg?format=2500w)\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)\n\n\n[! [Tire Agent - Square.gif](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42",
+            "line": 55,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 5012,
+            "excerpt": "099a5ebe0cbd933ace42825/cb278324-0fb0-47af-97c8-602a901b4dca/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneurs - Angel Capital Association](https://angelcapitalassociati",
+            "line": 58,
+            "column": 177,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4921,
+            "excerpt": "stangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.c",
+            "line": 34,
+            "column": 20,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 1117,
+            "excerpt": "**: Early-stage startups, with a focus on Northeast-based and tech-related startups.\n   - **Link**: [New York Angels](https://www.newyorkangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n4. **Band of Angels*",
+            "line": 20,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
-        "3-which-angel-investor-clu-b83248ad": 21
+        "3-which-angel-investor-clu-b83248ad": 7
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05885,
-        "3-which-angel-investor-clu-b83248ad": 2.1442900000000003
+        "1-who-are-the-best-angel-i-77ee5dff": 0.06117,
+        "3-which-angel-investor-clu-b83248ad": 1
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 4,
-          "anthropic_claude_with_search_latest": 3,
-          "openai_chatgpt_with_search_latest": 15
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 5
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 3,
-          "anthropic_claude_with_search_latest": 3,
-          "openai_chatgpt_with_search_latest": 15
+          "perplexity_with_search_latest": 1,
+          "anthropic_claude_with_search_latest": 1,
+          "openai_chatgpt_with_search_latest": 5
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 18,
-        "3-which-angel-investor-clu-b83248ad": 4.33
+        "1-who-are-the-best-angel-i-77ee5dff": 16,
+        "3-which-angel-investor-clu-b83248ad": 3.67
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 18
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4921,
+              "excerpt": "stangels.com)  \n- Golden Seeds: [goldenseeds.com](https://www.goldenseeds.com)  \n- New York Angels: [newyorkangels.com](https://www.newyorkangels.com)\n\n# CITATIONS\n\n1. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.c",
+              "line": 34,
+              "column": 20,
+              "captureDate": "2025-10-14"
+            }
+          ]
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 7,
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 810,
+              "excerpt": "investment network with chapters in multiple countries, investing across diverse industries.\n\n5. **[New York Angels](https://www.newyorkangels.com/)** - One of the most active angel groups on the East Coast, with a focus on technology and healthca",
+              "line": 15,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 156,
+              "excerpt": "ur startup, there are several reputable networks and groups you can consider reaching out to:\n\n1. **[New York Angels](https://www.newyorkangels.com/)**: This is one of New York's premier angel investment groups. They focus on providing early-stage",
+              "line": 3,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3987,
+              "excerpt": "artup in 10 Steps (2025 Guide)](https://startupsavant.com/how-to-start-a-startup) August 22, 2025 - [What Is a Startup?\n\n4. [New York Angels Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5",
+              "line": 29,
+              "column": 366,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4080,
+              "excerpt": "2025 - [What Is a Startup?\n\n4. [New York Angels Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/73a35c2e-23fc-4464-",
+              "line": 33,
+              "column": 2,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4777,
+              "excerpt": "ea9c17607f70/Header+-+Newsletter+-+No+Logo.jpg?format=2500w)\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)\n\n\n[! [Tire Agent - Square.gif](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42",
+              "line": 55,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5012,
+              "excerpt": "099a5ebe0cbd933ace42825/cb278324-0fb0-47af-97c8-602a901b4dca/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneurs - Angel Capital Association](https://angelcapitalassociati",
+              "line": 58,
+              "column": 177,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1117,
+              "excerpt": "**: Early-stage startups, with a focus on Northeast-based and tech-related startups.\n   - **Link**: [New York Angels](https://www.newyorkangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n4. **Band of Angels*",
+              "line": 20,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "perplexity_with_search_latest": 16
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "perplexity_with_search_latest": 5,
           "anthropic_claude_with_search_latest": 5,
           "openai_chatgpt_with_search_latest": 1
         }
@@ -66620,30 +73320,193 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 18.5,
+      "appearanceOrder": 13.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 21,
-        "openai_chatgpt_with_search_latest": 13
+        "perplexity_with_search_latest": 15.5,
+        "openai_chatgpt_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.02094,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.11652,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.4751,
+        "perplexity_with_search_latest": 0.20599,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.02094,
+      "weightedInfluence": 0.11652,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 5465,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1499,
+            "excerpt": "roups and platforms you can contact depending on your location and the fit with your startup.\n\n6. **[Waveup's List of Top Platforms](https://waveup.com/blog/top-angel-investing-platforms/)**: This list includes various platforms that facilitate angel investments. It's useful for getting",
+            "line": 13,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 2088,
+            "excerpt": "on processes carefully.\n\n# CITATIONS\n\n1. [15 best angel investing platforms [2025 update] - Waveup](https://waveup.com/blog/top-angel-investing-platforms/)\n\n- **Syndicates & SPVs**—Pool capital with prominent angels or micro-VC leads - **Cap table sync**",
+            "line": 19,
+            "column": 63,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 5465,
+            "excerpt": "etdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n5. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-g",
+            "line": 46,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          },
+          {
+            "appearanceOrder": 3109,
+            "excerpt": "twork to find angel investors based on your startup's specific needs and location.\n\n# CITATIONS\n\n1. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n2. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-g",
+            "line": 54,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.15881
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 17
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1,
         "3-which-angel-investor-clu-b83248ad": 3
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05785,
-        "3-which-angel-investor-clu-b83248ad": 0.11863
+        "1-who-are-the-best-angel-i-77ee5dff": 0.05995,
+        "3-which-angel-investor-clu-b83248ad": 0.15881
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66658,17 +73521,59 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 19,
-        "3-which-angel-investor-clu-b83248ad": 18
+        "1-who-are-the-best-angel-i-77ee5dff": 17,
+        "3-which-angel-investor-clu-b83248ad": 10
       },
-      "excerptsByModelByPrompt": {},
-      "appearanceOrderByModelByPrompt": {
+      "excerptsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 19
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 5465,
+              "excerpt": "etdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n5. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n6. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-g",
+              "line": 46,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
         },
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 23,
-          "openai_chatgpt_with_search_latest": 13
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1499,
+              "excerpt": "roups and platforms you can contact depending on your location and the fit with your startup.\n\n6. **[Waveup's List of Top Platforms](https://waveup.com/blog/top-angel-investing-platforms/)**: This list includes various platforms that facilitate angel investments. It's useful for getting",
+              "line": 13,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2088,
+              "excerpt": "on processes carefully.\n\n# CITATIONS\n\n1. [15 best angel investing platforms [2025 update] - Waveup](https://waveup.com/blog/top-angel-investing-platforms/)\n\n- **Syndicates & SPVs**—Pool capital with prominent angels or micro-VC leads - **Cap table sync**",
+              "line": 19,
+              "column": 63,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 3109,
+              "excerpt": "twork to find angel investors based on your startup's specific needs and location.\n\n# CITATIONS\n\n1. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-platforms/)\n\n2. [startupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-g",
+              "line": 54,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
+      "appearanceOrderByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "perplexity_with_search_latest": 17
+        },
+        "3-which-angel-investor-clu-b83248ad": {
+          "perplexity_with_search_latest": 14,
+          "openai_chatgpt_with_search_latest": 6
         }
       }
     },
@@ -66712,26 +73617,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.05,
+        "anthropic_claude_with_search_latest": 0.05263,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 19,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 19
+        "anthropic_claude_with_search_latest": 18
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.00948,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04066,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.00948,
+      "weightedInfluence": 0.04066,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 2633,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2633,
+            "excerpt": "olios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their trac",
+            "line": 55,
+            "column": 3,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05885
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 18
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05785
+        "1-who-are-the-best-angel-i-77ee5dff": 0.05885
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66741,12 +73781,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 19
+        "1-who-are-the-best-angel-i-77ee5dff": 18
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2633,
+              "excerpt": "olios\n- [Forbes Midas List](https://www.forbes.com/midas/) - Annual ranking of top tech investors\n- [CB Insights](https://www.cbinsights.com/) - Research on venture capital and angel investing trends\n\nThese investors are known for their trac",
+              "line": 55,
+              "column": 3,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "anthropic_claude_with_search_latest": 19
+          "anthropic_claude_with_search_latest": 18
         }
       }
     },
@@ -66789,27 +73843,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 20,
+      "appearanceOrder": 18,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 20
+        "perplexity_with_search_latest": 18
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.00932,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.04066,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.00932,
+      "weightedInfluence": 0.04066,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6243,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6243,
+            "excerpt": "rs-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https:",
+            "line": 58,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05885
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 18
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 18
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05692
+        "1-who-are-the-best-angel-i-77ee5dff": 0.05885
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66819,12 +74008,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 20
+        "1-who-are-the-best-angel-i-77ee5dff": 18
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6243,
+              "excerpt": "rs-you-should-know](https://www.clarify.ai/blog/top-10-famous-angel-investors-you-should-know)\n\n11. [altar.io/most-active-angels-vcs-for-seed-startup-investments/](https://altar.io/most-active-angels-vcs-for-seed-startup-investments/)\n\n12. [www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6](https:",
+              "line": 58,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 20
+          "perplexity_with_search_latest": 18
         }
       }
     },
@@ -66867,27 +74070,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01887,
+        "perplexity_with_search_latest": 0.02222,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 21,
+      "appearanceOrder": 19,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 21
+        "perplexity_with_search_latest": 19
       },
-      "mentionsAsPercent": 0.01111,
-      "influence": 0.00917,
+      "mentionsAsPercent": 0.01316,
+      "influence": 0.03997,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.00917,
+      "weightedInfluence": 0.03997,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 6569,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 6569,
+            "excerpt": "(https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+            "line": 62,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Who are the best angel investors in the world?",
+            "promptId": "1-who-are-the-best-angel-i-77ee5dff"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05785
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 19
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 19
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 1
       },
       "influenceByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 0.05605
+        "1-who-are-the-best-angel-i-77ee5dff": 0.05785
       },
       "mentionsByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
@@ -66897,12 +74235,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "1-who-are-the-best-angel-i-77ee5dff": 21
+        "1-who-are-the-best-angel-i-77ee5dff": 19
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 6569,
+              "excerpt": "(https://www.businessinsider.com/these-are-the-60-top-angel-investors-for-b2b-startups-2024-6)\n\n13. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)",
+              "line": 62,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {
-          "perplexity_with_search_latest": 21
+          "perplexity_with_search_latest": 19
         }
       }
     },
@@ -66949,6 +74301,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": 0
       },
@@ -66965,7 +74442,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "1-who-are-the-best-angel-i-77ee5dff": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "1-who-are-the-best-angel-i-77ee5dff": {}
       }
@@ -67009,27 +74492,180 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1875,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 4,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 9
+        "perplexity_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.02069,
-      "influence": 0.07386,
+      "mentionsAsPercent": 0.05263,
+      "influence": 0.44633,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.07386,
+      "weightedInfluence": 0.44633,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1261,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1261,
+            "excerpt": "in the AI sector.\n   - **Source:** [OpenVC](https://www.openvc.app/investor-lists/angel-investors), [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\n6. **Elad Gil**  \n   - Focuses on AI, SaaS, and developer tools, known for being very active in t",
+            "line": 21,
+            "column": 83,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 1539,
+            "excerpt": "ses on AI, SaaS, and developer tools, known for being very active in the AI space.\n   - **Source:** [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\nThese investors are recognized for their frequent investments across various sectors, particularl",
+            "line": 25,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 3261,
+            "excerpt": "tdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n11. [www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\n12. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-",
+            "line": 51,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.23028
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 3
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.18681
+        "2-which-angel-investors-ar-962fdc29": 0.23028
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67039,12 +74675,40 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 9
+        "2-which-angel-investors-ar-962fdc29": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1261,
+              "excerpt": "in the AI sector.\n   - **Source:** [OpenVC](https://www.openvc.app/investor-lists/angel-investors), [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\n6. **Elad Gil**  \n   - Focuses on AI, SaaS, and developer tools, known for being very active in t",
+              "line": 21,
+              "column": 83,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1539,
+              "excerpt": "ses on AI, SaaS, and developer tools, known for being very active in the AI space.\n   - **Source:** [Top 20 Angel Investors for AI Startups](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\nThese investors are recognized for their frequent investments across various sectors, particularl",
+              "line": 25,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3261,
+              "excerpt": "tdevs.com/blog/top-angel-investors-list](https://rocketdevs.com/blog/top-angel-investors-list)\n\n11. [www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i](https://www.femaleswitch.com/little_sister_ai_app/tpost/h0giknisu1-top-20-angel-investors-for-ai-startups-i)\n\n12. [waveup.com/blog/top-angel-investing-platforms/](https://waveup.com/blog/top-angel-investing-",
+              "line": 51,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 9
+          "perplexity_with_search_latest": 4
         }
       }
     },
@@ -67084,32 +74748,204 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.17561
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.10345,
+        "perplexity_with_search_latest": 0.1875,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.01942
+        "openai_chatgpt_with_search_latest": 0.07143
       },
-      "appearanceOrder": 4.5,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 3,
-        "openai_chatgpt_with_search_latest": 6
+        "perplexity_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.03448,
-      "influence": 0.06943,
+      "mentionsAsPercent": 0.08772,
+      "influence": 0.35928,
       "influenceByModel": {
-        "perplexity_with_search_latest": 1,
+        "perplexity_with_search_latest": 0.65226,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.85388
+        "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.06943,
+      "weightedInfluence": 0.35928,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 537,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 918
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 918,
+            "excerpt": "**Lenny's Newsletter** has collaborated with [Crunchbase](https://www.crunchbase.com/) to identify [the most active angel investors in the U.S.](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us), providing valuable data on fundraising and investments.\n\n4. **OpenVC** lists [290 angel investors",
+            "line": 7,
+            "column": 103,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 3414,
+            "excerpt": "fact, many of the top fifty angels on this list have made between twenty and fifty investments.\n\n3. [Top angel investors in the U.S. - Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\nAnd that’s who generally makes up the majority of early-stage funding and cap tables. Especially",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 537,
+            "excerpt": "- **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. **Bashar Hamood**  \n   - **Number of Investments:** 367  \n   - **Source:** [Eqvista](https://e",
+            "line": 9,
+            "column": 100,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 969,
+            "excerpt": "investor in 2024, investing in companies like Anthropic, OpenAI, and Hugging Face.\n   - **Source:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n5. **Naval Ravikant**  \n   - Known for his involvement in early-stage investments and a strong pr",
+            "line": 17,
+            "column": 18,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          },
+          {
+            "appearanceOrder": 2631,
+            "excerpt": "//app.folk.app/shared/+350-most-active-Angel-Investors-in-USA-jOLUPZiPY4Ddv0WTJSXbtawkOk9smewT)\n\n5. [www.lennysnewsletter.com/p/top-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n6. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-in",
+            "line": 39,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.18538
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.51098
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 5
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.17561
+        "2-which-angel-investors-ar-962fdc29": 0.18538
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67119,13 +74955,56 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 4.5
+        "2-which-angel-investors-ar-962fdc29": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 918,
+              "excerpt": "**Lenny's Newsletter** has collaborated with [Crunchbase](https://www.crunchbase.com/) to identify [the most active angel investors in the U.S.](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us), providing valuable data on fundraising and investments.\n\n4. **OpenVC** lists [290 angel investors",
+              "line": 7,
+              "column": 103,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3414,
+              "excerpt": "fact, many of the top fifty angels on this list have made between twenty and fifty investments.\n\n3. [Top angel investors in the U.S. - Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\nAnd that’s who generally makes up the majority of early-stage funding and cap tables. Especially",
+              "line": 23,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 537,
+              "excerpt": "- **Source:** [Eqvista](https://eqvista.com/top-100-active-angel-investors-list-for-startups/), [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n3. **Bashar Hamood**  \n   - **Number of Investments:** 367  \n   - **Source:** [Eqvista](https://e",
+              "line": 9,
+              "column": 100,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 969,
+              "excerpt": "investor in 2024, investing in companies like Anthropic, OpenAI, and Hugging Face.\n   - **Source:** [Lenny's Newsletter](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n5. **Naval Ravikant**  \n   - Known for his involvement in early-stage investments and a strong pr",
+              "line": 17,
+              "column": 18,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2631,
+              "excerpt": "//app.folk.app/shared/+350-most-active-Angel-Investors-in-USA-jOLUPZiPY4Ddv0WTJSXbtawkOk9smewT)\n\n5. [www.lennysnewsletter.com/p/top-angel-investors-in-the-us](https://www.lennysnewsletter.com/p/top-angel-investors-in-the-us)\n\n6. [www.openvc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-in",
+              "line": 39,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 3,
-          "openai_chatgpt_with_search_latest": 6
+          "perplexity_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 4
         }
       }
     },
@@ -67176,19 +75055,154 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.04091,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.17273,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04091,
+      "weightedInfluence": 0.17273,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 567,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 567,
+            "excerpt": "ts in over 200+ startups including Uber, Twitter, and Notion\n\n3. **Fabrice Grinda** - Co-founder of [FJ Labs](https://fjlabs.com/)\n   - Made 1,000+ investments with 300+ exits, focusing on marketplaces and consumer internet\n\n4. *",
+            "line": 13,
+            "column": 39,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.08913
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.10345
+        "2-which-angel-investors-ar-962fdc29": 0.08913
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67200,7 +75214,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 567,
+              "excerpt": "ts in over 200+ startups including Uber, Twitter, and Notion\n\n3. **Fabrice Grinda** - Co-founder of [FJ Labs](https://fjlabs.com/)\n   - Made 1,000+ investments with 300+ exits, focusing on marketplaces and consumer internet\n\n4. *",
+              "line": 13,
+              "column": 39,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 3
@@ -67254,19 +75282,154 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.0258,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.10899,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0258,
+      "weightedInfluence": 0.10899,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1397,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1397,
+            "excerpt": "ldenseeds.com](https://goldenseeds.com/)\n   - Focuses on women-led businesses\n\n3. **Hustle Fund** - [hustlefund.vc](https://www.hustlefund.vc/)\n   - Pre-seed and seed fund that invests like angels\n\n## How to Track Angel Investor Activity\n\n- *",
+            "line": 33,
+            "column": 22,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05622
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.06524
+        "2-which-angel-investors-ar-962fdc29": 0.05622
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67278,7 +75441,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1397,
+              "excerpt": "ldenseeds.com](https://goldenseeds.com/)\n   - Focuses on women-led businesses\n\n3. **Hustle Fund** - [hustlefund.vc](https://www.hustlefund.vc/)\n   - Pre-seed and seed fund that invests like angels\n\n## How to Track Angel Investor Activity\n\n- *",
+              "line": 33,
+              "column": 22,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 8
@@ -67332,19 +75509,154 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.02366,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.09987,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02366,
+      "weightedInfluence": 0.09987,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1628,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1628,
+            "excerpt": "tivity\n\n- **[Crunchbase](https://www.crunchbase.com/)** - Database of investments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private market data platform\n- **[AngelList](https://www.angellist.com/)** - Platform connecti",
+            "line": 39,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.05151
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.05978
+        "2-which-angel-investors-ar-962fdc29": 0.05151
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67356,7 +75668,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 10
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1628,
+              "excerpt": "tivity\n\n- **[Crunchbase](https://www.crunchbase.com/)** - Database of investments and investors\n- **[PitchBook](https://pitchbook.com/)** - Private market data platform\n- **[AngelList](https://www.angellist.com/)** - Platform connecti",
+              "line": 39,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 10
@@ -67410,19 +75736,154 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.02281,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.09635,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02281,
+      "weightedInfluence": 0.09635,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1793,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1793,
+            "excerpt": "orm\n- **[AngelList](https://www.angellist.com/)** - Platform connecting startups with investors\n- **[Signal](https://signal.nfx.com/)** - NFX's free investor database\n\nThe most active angels typically invest in 20-50+ companies per",
+            "line": 41,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.04971
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.0577
+        "2-which-angel-investors-ar-962fdc29": 0.04971
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67434,7 +75895,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1793,
+              "excerpt": "orm\n- **[AngelList](https://www.angellist.com/)** - Platform connecting startups with investors\n- **[Signal](https://signal.nfx.com/)** - NFX's free investor database\n\nThe most active angels typically invest in 20-50+ companies per",
+              "line": 41,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
           "anthropic_claude_with_search_latest": 11
@@ -67480,27 +75955,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.0625,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
+        "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.02211,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.12305,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02211,
+      "weightedInfluence": 0.12305,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2867,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2867,
+            "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.rho.co/blog/angel-investors-in-new-york-ny](https://www.rho.co/blog/angel-investors-in-ne",
+            "line": 43,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0635
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.05589
+        "2-which-angel-investors-ar-962fdc29": 0.0635
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67510,12 +76120,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 12
+        "2-which-angel-investors-ar-962fdc29": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2867,
+              "excerpt": "envc.app/investor-lists/angel-investors](https://www.openvc.app/investor-lists/angel-investors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.rho.co/blog/angel-investors-in-new-york-ny](https://www.rho.co/blog/angel-investors-in-ne",
+              "line": 43,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 12
+          "perplexity_with_search_latest": 6
         }
       }
     },
@@ -67558,27 +76182,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03448,
+        "perplexity_with_search_latest": 0.0625,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 13
+        "perplexity_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.0069,
-      "influence": 0.02149,
+      "mentionsAsPercent": 0.01754,
+      "influence": 0.11514,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02149,
+      "weightedInfluence": 0.11514,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2956,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2956,
+            "excerpt": "stors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.rho.co/blog/angel-investors-in-new-york-ny](https://www.rho.co/blog/angel-investors-in-new-york-ny)\n\n9. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)\n\n10. [roc",
+            "line": 45,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investors are most active?",
+            "promptId": "2-which-angel-investors-ar-962fdc29"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0594
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 1
       },
       "influenceByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 0.05432
+        "2-which-angel-investors-ar-962fdc29": 0.0594
       },
       "mentionsByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
@@ -67588,12 +76347,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "2-which-angel-investors-ar-962fdc29": 13
+        "2-which-angel-investors-ar-962fdc29": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2956,
+              "excerpt": "stors)\n\n7. [www.seedtable.com/investors-pre-seed](https://www.seedtable.com/investors-pre-seed)\n\n8. [www.rho.co/blog/angel-investors-in-new-york-ny](https://www.rho.co/blog/angel-investors-in-new-york-ny)\n\n9. [shoutex.com/blog/angel-investor-list](https://shoutex.com/blog/angel-investor-list)\n\n10. [roc",
+              "line": 45,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {
-          "perplexity_with_search_latest": 13
+          "perplexity_with_search_latest": 7
         }
       }
     },
@@ -67640,6 +76413,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 0
       },
@@ -67656,7 +76554,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {}
       }
@@ -67704,6 +76608,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 0
       },
@@ -67720,7 +76749,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {}
       }
@@ -67768,6 +76803,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 0
       },
@@ -67784,7 +76944,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {}
       }
@@ -67832,6 +76998,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "2-which-angel-investors-ar-962fdc29": 0
       },
@@ -67848,7 +77139,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "2-which-angel-investors-ar-962fdc29": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "2-which-angel-investors-ar-962fdc29": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "2-which-angel-investors-ar-962fdc29": {}
       }
@@ -67860,11 +77157,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://angelcapitalassociation.org",
       "linkType": "aca",
       "linkTypeName": "Academic",
-      "mentions": 32,
+      "mentions": 8,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 32,
-        "anthropic_claude_with_search_latest": 8,
-        "openai_chatgpt_with_search_latest": 24
+        "perplexity_with_search_latest": 8,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 6
       },
       "sources": [
         {
@@ -67956,50 +77253,315 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.19857
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.25806,
-        "anthropic_claude_with_search_latest": 0.19048,
-        "openai_chatgpt_with_search_latest": 0.2069
+        "perplexity_with_search_latest": 0.125,
+        "anthropic_claude_with_search_latest": 0.06667,
+        "openai_chatgpt_with_search_latest": 0.11538
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 10.67,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 19,
-        "anthropic_claude_with_search_latest": 17,
-        "openai_chatgpt_with_search_latest": 9
+        "perplexity_with_search_latest": 13,
+        "anthropic_claude_with_search_latest": 14,
+        "openai_chatgpt_with_search_latest": 5
       },
-      "mentionsAsPercent": 0.22695,
-      "influence": 0.28456,
+      "mentionsAsPercent": 0.10959,
+      "influence": 0.37728,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.57046,
-        "anthropic_claude_with_search_latest": 0.20151,
+        "perplexity_with_search_latest": 0.26869,
+        "anthropic_claude_with_search_latest": 0.05357,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.28456,
+      "weightedInfluence": 0.37728,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2900,
+        "anthropic_claude_with_search_latest": 2047,
+        "openai_chatgpt_with_search_latest": 1229
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 2047,
+            "excerpt": "/gust.com/)** - Platform connecting entrepreneurs with angel groups and investors worldwide.\n\n14. **[Angel Capital Association](https://www.angelcapitalassociation.org/)** - Professional organization supporting angel investing, with a directory of member groups.\n\n## T",
+            "line": 39,
+            "column": 7,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 1229,
+            "excerpt": "t startups with potential angel investors, focusing on investment in Malta and other regions.\n\n5. **[Angel Capital Association (ACA)](https://angelcapitalassociation.org/entrepreneurs/)**: While the ACA itself does not provide financing, it offers a directory of angel groups and plat",
+            "line": 11,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 5072,
+            "excerpt": "/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneurs - Angel Capital Association](https://angelcapitalassociation.org/entrepreneurs/)\n\nOur member angel groups and individual accredited investors do make investments in companies that",
+            "line": 60,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 5393,
+            "excerpt": "t their investment criteria and are selected through their investment evaluation processes. You can [find an Angel through our angel groups and platforms directory](https://angelcapitalassociation.org/directory). We recommend that you link to the websites of the angel groups located nearest you to learn more",
+            "line": 64,
+            "column": 201,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2900,
+            "excerpt": ".us/)\n- **Angel Capital Association**: A trade association with over 15,000 vetted angel investors. [Angel Capital Association](https://angelcapitalassociation.org/)\n\nThese platforms provide a comprehensive network to find angel investors based on your startup's s",
+            "line": 48,
+            "column": 95,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3782,
+            "excerpt": "tnetwork.us/angel-investor-groups](https://www.angelinvestmentnetwork.us/angel-investor-groups)\n\n6. [angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs/)\n\n7. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-ac",
+            "line": 64,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4119,
+            "excerpt": "8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025](http",
+            "line": 70,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4382,
+            "excerpt": "ttps://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n11. [angelcapitalassociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfreq",
+            "line": 74,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.27384
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10.67
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.18967
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.0945
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 14
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 8,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 8
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 32
+        "3-which-angel-investor-clu-b83248ad": 8
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.83224
+        "3-which-angel-investor-clu-b83248ad": 0.27384
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 32,
-          "anthropic_claude_with_search_latest": 8,
-          "openai_chatgpt_with_search_latest": 24
+          "perplexity_with_search_latest": 8,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 6
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 15
+        "3-which-angel-investor-clu-b83248ad": 10.67
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 2047,
+              "excerpt": "/gust.com/)** - Platform connecting entrepreneurs with angel groups and investors worldwide.\n\n14. **[Angel Capital Association](https://www.angelcapitalassociation.org/)** - Professional organization supporting angel investing, with a directory of member groups.\n\n## T",
+              "line": 39,
+              "column": 7,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 1229,
+              "excerpt": "t startups with potential angel investors, focusing on investment in Malta and other regions.\n\n5. **[Angel Capital Association (ACA)](https://angelcapitalassociation.org/entrepreneurs/)**: While the ACA itself does not provide financing, it offers a directory of angel groups and plat",
+              "line": 11,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5072,
+              "excerpt": "/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneurs - Angel Capital Association](https://angelcapitalassociation.org/entrepreneurs/)\n\nOur member angel groups and individual accredited investors do make investments in companies that",
+              "line": 60,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 5393,
+              "excerpt": "t their investment criteria and are selected through their investment evaluation processes. You can [find an Angel through our angel groups and platforms directory](https://angelcapitalassociation.org/directory). We recommend that you link to the websites of the angel groups located nearest you to learn more",
+              "line": 64,
+              "column": 201,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2900,
+              "excerpt": ".us/)\n- **Angel Capital Association**: A trade association with over 15,000 vetted angel investors. [Angel Capital Association](https://angelcapitalassociation.org/)\n\nThese platforms provide a comprehensive network to find angel investors based on your startup's s",
+              "line": 48,
+              "column": 95,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3782,
+              "excerpt": "tnetwork.us/angel-investor-groups](https://www.angelinvestmentnetwork.us/angel-investor-groups)\n\n6. [angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs/)\n\n7. [eqvista.com/top-100-active-angel-investors-list-for-startups/](https://eqvista.com/top-100-ac",
+              "line": 64,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4119,
+              "excerpt": "8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025](http",
+              "line": 70,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4382,
+              "excerpt": "ttps://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n11. [angelcapitalassociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfreq",
+              "line": 74,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 19,
-          "anthropic_claude_with_search_latest": 17,
-          "openai_chatgpt_with_search_latest": 9
+          "perplexity_with_search_latest": 13,
+          "anthropic_claude_with_search_latest": 14,
+          "openai_chatgpt_with_search_latest": 5
         }
       }
     },
@@ -68042,27 +77604,198 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.08065,
+        "perplexity_with_search_latest": 0.15625,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 5,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 5
+        "perplexity_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.03546,
-      "influence": 0.15821,
+      "mentionsAsPercent": 0.06849,
+      "influence": 0.86365,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.15821,
+      "weightedInfluence": 0.86365,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 483,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 483,
+            "excerpt": "adenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n2. **Alliance of Angels**\n   - **Location**: Seattle, Washington\n   - **Focus**: Early-stage star",
+            "line": 9,
+            "column": 83,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 872,
+            "excerpt": "nceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n3. **New York Angels**\n   - **Location**: New York\n   - **Focus**: Early-stage startups, with a f",
+            "line": 15,
+            "column": 83,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 1796,
+            "excerpt": "d more.\n   - **Link**: [Tech Coast Angels](https://www.techcoastangels.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)[[8]](https://finmark.com/how-to-find-angel-investors/)\n\n6. **Golden Seeds**\n   - **Location**: Var",
+            "line": 33,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 2178,
+            "excerpt": "h, and software.\n   - **Link**: [Golden Seeds](https://www.goldenseeds.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n## Platforms for Finding Angel Investors\n\nIf you are looking for broader access to angel investor",
+            "line": 39,
+            "column": 24,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3323,
+            "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n3. [orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n4. [www.thestartupboard.com/blog/10-best-websites-to-find-angel-investors-for-startups](https://w",
+            "line": 58,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 5
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.62684
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 5
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 5,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 5
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 5
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.48607
+        "3-which-angel-investor-clu-b83248ad": 0.62684
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68072,12 +77805,54 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 5
+        "3-which-angel-investor-clu-b83248ad": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 483,
+              "excerpt": "adenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n2. **Alliance of Angels**\n   - **Location**: Seattle, Washington\n   - **Focus**: Early-stage star",
+              "line": 9,
+              "column": 83,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 872,
+              "excerpt": "nceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n3. **New York Angels**\n   - **Location**: New York\n   - **Focus**: Early-stage startups, with a f",
+              "line": 15,
+              "column": 83,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 1796,
+              "excerpt": "d more.\n   - **Link**: [Tech Coast Angels](https://www.techcoastangels.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)[[8]](https://finmark.com/how-to-find-angel-investors/)\n\n6. **Golden Seeds**\n   - **Location**: Var",
+              "line": 33,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2178,
+              "excerpt": "h, and software.\n   - **Link**: [Golden Seeds](https://www.goldenseeds.com/)\n   - **Source**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n## Platforms for Finding Angel Investors\n\nIf you are looking for broader access to angel investor",
+              "line": 39,
+              "column": 24,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3323,
+              "excerpt": "tupsavant.com/best-angel-investor-groups](https://startupsavant.com/best-angel-investor-groups)\n\n3. [orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)\n\n4. [www.thestartupboard.com/blog/10-best-websites-to-find-angel-investors-for-startups](https://w",
+              "line": 58,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 5
+          "perplexity_with_search_latest": 3
         }
       }
     },
@@ -68088,9 +77863,9 @@ window.AppDataAggregate20251014 = {
       "link": "https://angelinvestmentnetwork.us",
       "linkType": "aca",
       "linkTypeName": "Academic",
-      "mentions": 6,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 12,
+        "perplexity_with_search_latest": 6,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -68140,42 +77915,223 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.09677,
+        "perplexity_with_search_latest": 0.09375,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 17,
+      "appearanceOrder": 12,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 17
+        "perplexity_with_search_latest": 12
       },
-      "mentionsAsPercent": 0.04255,
-      "influence": 0.11769,
+      "mentionsAsPercent": 0.0411,
+      "influence": 0.28006,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.11769,
+      "weightedInfluence": 0.28006,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2739,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2739,
+            "excerpt": "gust.com/)\n- **Angel Investment Network**: Connects startups with over 300,000 investors worldwide. [Angel Investment Network](https://www.angelinvestmentnetwork.us/)\n- **Angel Capital Association**: A trade association with over 15,000 vetted angel investors. [Ang",
+            "line": 47,
+            "column": 90,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 3663,
+            "excerpt": "ps](https://www.thestartupboard.com/blog/10-best-websites-to-find-angel-investors-for-startups)\n\n5. [www.angelinvestmentnetwork.us/angel-investor-groups](https://www.angelinvestmentnetwork.us/angel-investor-groups)\n\n6. [angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs",
+            "line": 62,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4498,
+            "excerpt": "ociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfrequency.com/investors/](https://www.startupfrequency.com/investors/?type=Angel+",
+            "line": 76,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.20328
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 12
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 12
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 6
+        "3-which-angel-investor-clu-b83248ad": 3
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.35824
+        "3-which-angel-investor-clu-b83248ad": 0.20328
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 12,
+          "perplexity_with_search_latest": 6,
           "anthropic_claude_with_search_latest": 0,
           "openai_chatgpt_with_search_latest": 0
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 17
+        "3-which-angel-investor-clu-b83248ad": 12
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2739,
+              "excerpt": "gust.com/)\n- **Angel Investment Network**: Connects startups with over 300,000 investors worldwide. [Angel Investment Network](https://www.angelinvestmentnetwork.us/)\n- **Angel Capital Association**: A trade association with over 15,000 vetted angel investors. [Ang",
+              "line": 47,
+              "column": 90,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 3663,
+              "excerpt": "ps](https://www.thestartupboard.com/blog/10-best-websites-to-find-angel-investors-for-startups)\n\n5. [www.angelinvestmentnetwork.us/angel-investor-groups](https://www.angelinvestmentnetwork.us/angel-investor-groups)\n\n6. [angelcapitalassociation.org/entrepreneurs/](https://angelcapitalassociation.org/entrepreneurs",
+              "line": 62,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4498,
+              "excerpt": "ociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfrequency.com/investors/](https://www.startupfrequency.com/investors/?type=Angel+",
+              "line": 76,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 17
+          "perplexity_with_search_latest": 12
         }
       }
     },
@@ -68218,7 +78174,7 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01613,
+        "perplexity_with_search_latest": 0.03125,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
@@ -68226,19 +78182,154 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByModel": {
         "perplexity_with_search_latest": 1
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.08179,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.34546,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.08179,
+      "weightedInfluence": 0.34546,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 354,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 354,
+            "excerpt": "inancing for high-growth, scalable startups, particularly those based in California.\n   - **Link**: [Pasadena Angels](https://pasadenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo",
+            "line": 8,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.25073
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.25128
+        "3-which-angel-investor-clu-b83248ad": 0.25073
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68250,7 +78341,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 354,
+              "excerpt": "inancing for high-growth, scalable startups, particularly those based in California.\n   - **Link**: [Pasadena Angels](https://pasadenaangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo",
+              "line": 8,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
           "perplexity_with_search_latest": 1
@@ -68298,25 +78403,187 @@ window.AppDataAggregate20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.06897
+        "openai_chatgpt_with_search_latest": 0.15385
       },
-      "appearanceOrder": 15,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 15
+        "openai_chatgpt_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.02837,
-      "influence": 0.08179,
+      "mentionsAsPercent": 0.05479,
+      "influence": 0.43593,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.08179,
+      "weightedInfluence": 0.43593,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 4124
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4124,
+            "excerpt": "els Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/73a35c2e-23fc-4464-b9e5-8565ce3972a3/DSCF5323.jpg?format=2500w)\n\n\n\n## NEW YORK'S PREMIER ANGEL INVESTMENT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizati",
+            "line": 35,
+            "column": 8,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4398,
+            "excerpt": "NT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizations/new-york-angels/public_profile)\n\n- ! [New York Angels Investments](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/7ac79a03-65d5-4654-8d9a-a13b9559a2e9/Home+-+October+2024.png?format=2500w)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/bed3dad7-0a0b-481f-",
+            "line": 45,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4582,
+            "excerpt": "e0cbd933ace42825/7ac79a03-65d5-4654-8d9a-a13b9559a2e9/Home+-+October+2024.png?format=2500w)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/bed3dad7-0a0b-481f-bff8-ea9c17607f70/Header+-+Newsletter+-+No+Logo.jpg?format=2500w)\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)",
+            "line": 47,
+            "column": 8,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4836,
+            "excerpt": ")\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)\n\n\n[! [Tire Agent - Square.gif](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/cb278324-0fb0-47af-97c8-602a901b4dca/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneur",
+            "line": 58,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.31638
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 4,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 4
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 4
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.25128
+        "3-which-angel-investor-clu-b83248ad": 0.31638
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68326,12 +78593,47 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 15
+        "3-which-angel-investor-clu-b83248ad": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 4124,
+              "excerpt": "els Investment Group](https://www.newyorkangels.com/)\n\n(https://www.newyorkangels.com/cart)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/73a35c2e-23fc-4464-b9e5-8565ce3972a3/DSCF5323.jpg?format=2500w)\n\n\n\n## NEW YORK'S PREMIER ANGEL INVESTMENT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizati",
+              "line": 35,
+              "column": 8,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4398,
+              "excerpt": "NT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizations/new-york-angels/public_profile)\n\n- ! [New York Angels Investments](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/7ac79a03-65d5-4654-8d9a-a13b9559a2e9/Home+-+October+2024.png?format=2500w)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/bed3dad7-0a0b-481f-",
+              "line": 45,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4582,
+              "excerpt": "e0cbd933ace42825/7ac79a03-65d5-4654-8d9a-a13b9559a2e9/Home+-+October+2024.png?format=2500w)\n\n- ! [](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/bed3dad7-0a0b-481f-bff8-ea9c17607f70/Header+-+Newsletter+-+No+Logo.jpg?format=2500w)\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)",
+              "line": 47,
+              "column": 8,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4836,
+              "excerpt": ")\n\n\n\n## STAY UP TO DATE WITH NYA NEWS\n\n\n\n[Subscribe now](https://www.newyorkangels.com/subscribe)\n\n\n[! [Tire Agent - Square.gif](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933ace42825/cb278324-0fb0-47af-97c8-602a901b4dca/Tire+Agent+-+Square.gif?format=2500w)](https://www.newyorkangels.com/blog/jared-kugel-tire-agent)\n\n[!\n\n5. [The ACA Supports Entrepreneur",
+              "line": 58,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "openai_chatgpt_with_search_latest": 15
+          "openai_chatgpt_with_search_latest": 8
         }
       }
     },
@@ -68376,25 +78678,169 @@ window.AppDataAggregate20251014 = {
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "openai_chatgpt_with_search_latest": 0.07692
       },
-      "appearanceOrder": 7,
+      "appearanceOrder": 3,
       "appearanceOrderByModel": {
-        "openai_chatgpt_with_search_latest": 7
+        "openai_chatgpt_with_search_latest": 3
       },
-      "mentionsAsPercent": 0.01418,
-      "influence": 0.05455,
+      "mentionsAsPercent": 0.0274,
+      "influence": 0.34546,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.05455,
+      "weightedInfluence": 0.34546,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 726
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 726,
+            "excerpt": "p Savant. They list various angel investor groups and offer guidance on how to approach them.\n\n3. **[Business Angels Netzwerk Deutschland (BAND)](https://businessangelstag.de)**: This is Germany’s umbrella organization for angel investors, connecting individual angels, synd",
+            "line": 7,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 2858,
+            "excerpt": "e](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n[BAND](https://businessangelstag.de) is Germany’s umbrella organization for angel investors and investment networks. It strengthens ear",
+            "line": 25,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.25073
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 3
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.16754
+        "3-which-angel-investor-clu-b83248ad": 0.25073
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68404,12 +78850,33 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 7
+        "3-which-angel-investor-clu-b83248ad": 3
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 726,
+              "excerpt": "p Savant. They list various angel investor groups and offer guidance on how to approach them.\n\n3. **[Business Angels Netzwerk Deutschland (BAND)](https://businessangelstag.de)**: This is Germany’s umbrella organization for angel investors, connecting individual angels, synd",
+              "line": 7,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 2858,
+              "excerpt": "e](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n[BAND](https://businessangelstag.de) is Germany’s umbrella organization for angel investors and investment networks. It strengthens ear",
+              "line": 25,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "openai_chatgpt_with_search_latest": 7
+          "openai_chatgpt_with_search_latest": 3
         }
       }
     },
@@ -68453,26 +78920,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 2,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 2
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.0516,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.21795,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0516,
+      "weightedInfluence": 0.21795,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 357,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 357,
+            "excerpt": "angel networks in the U.S., focusing on Southern California startups across various sectors.\n\n2. **[Band of Angels](https://www.bandangels.com/)** - Silicon Valley-based group, one of the oldest angel organizations, investing in early-stage te",
+            "line": 9,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.15821
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.15855
+        "3-which-angel-investor-clu-b83248ad": 0.15821
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68484,7 +79086,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 2
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 357,
+              "excerpt": "angel networks in the U.S., focusing on Southern California startups across various sectors.\n\n2. **[Band of Angels](https://www.bandangels.com/)** - Silicon Valley-based group, one of the oldest angel organizations, investing in early-stage te",
+              "line": 9,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
           "anthropic_claude_with_search_latest": 2
@@ -68530,27 +79146,171 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
+        "perplexity_with_search_latest": 0.0625,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 12
+        "perplexity_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.01418,
-      "influence": 0.04421,
+      "mentionsAsPercent": 0.0274,
+      "influence": 0.21795,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.04421,
+      "weightedInfluence": 0.21795,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1882,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1882,
+            "excerpt": "urce**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)[[8]](https://finmark.com/how-to-find-angel-investors/)\n\n6. **Golden Seeds**\n   - **Location**: Various (global focus)\n   - **Focus**: Women-founded and l",
+            "line": 33,
+            "column": 110,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          },
+          {
+            "appearanceOrder": 4022,
+            "excerpt": "tors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/a",
+            "line": 68,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.15821
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 2
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.13582
+        "3-which-angel-investor-clu-b83248ad": 0.15821
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68560,12 +79320,33 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 12
+        "3-which-angel-investor-clu-b83248ad": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1882,
+              "excerpt": "urce**: [[3]](https://orielipo.com/top-13-angel-investor-groups-to-fuel-your-startups-growth/)[[8]](https://finmark.com/how-to-find-angel-investors/)\n\n6. **Golden Seeds**\n   - **Location**: Various (global focus)\n   - **Focus**: Women-founded and l",
+              "line": 33,
+              "column": 110,
+              "captureDate": "2025-10-14"
+            },
+            {
+              "appearanceOrder": 4022,
+              "excerpt": "tors-list-for-startups/](https://eqvista.com/top-100-active-angel-investors-list-for-startups/)\n\n8. [finmark.com/how-to-find-angel-investors/](https://finmark.com/how-to-find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/a",
+              "line": 68,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 12
+          "perplexity_with_search_latest": 8
         }
       }
     },
@@ -68576,11 +79357,11 @@ window.AppDataAggregate20251014 = {
       "link": "https://gust.com",
       "linkType": "dev",
       "linkTypeName": "Developer Tools",
-      "mentions": 6,
+      "mentions": 3,
       "mentionsByModel": {
-        "perplexity_with_search_latest": 4,
-        "anthropic_claude_with_search_latest": 4,
-        "openai_chatgpt_with_search_latest": 4
+        "perplexity_with_search_latest": 2,
+        "anthropic_claude_with_search_latest": 2,
+        "openai_chatgpt_with_search_latest": 2
       },
       "sources": [
         {
@@ -68628,50 +79409,235 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.06052
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 3,
       "uniqueModelCount": 3,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.03226,
-        "anthropic_claude_with_search_latest": 0.09524,
-        "openai_chatgpt_with_search_latest": 0.03448
+        "perplexity_with_search_latest": 0.03125,
+        "anthropic_claude_with_search_latest": 0.06667,
+        "openai_chatgpt_with_search_latest": 0.03846
       },
-      "appearanceOrder": 15.33,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 15,
-        "anthropic_claude_with_search_latest": 15,
-        "openai_chatgpt_with_search_latest": 16
+        "perplexity_with_search_latest": 11,
+        "anthropic_claude_with_search_latest": 13,
+        "openai_chatgpt_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.04255,
-      "influence": 0.04021,
+      "mentionsAsPercent": 0.0411,
+      "influence": 0.10201,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.56841,
-        "anthropic_claude_with_search_latest": 0.77531,
+        "perplexity_with_search_latest": 0.27486,
+        "anthropic_claude_with_search_latest": 0.21193,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.04021,
+      "weightedInfluence": 0.10201,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 2624,
+        "anthropic_claude_with_search_latest": 1933,
+        "openai_chatgpt_with_search_latest": 4310
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1933,
+            "excerpt": "platform connecting startups with angel investors globally (now part of AngelList Venture).\n\n13. **[Gust](https://gust.com/)** - Platform connecting entrepreneurs with angel groups and investors worldwide.\n\n14. **[Angel Cap",
+            "line": 37,
+            "column": 7,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 4310,
+            "excerpt": "464-b9e5-8565ce3972a3/DSCF5323.jpg?format=2500w)\n\n\n\n## NEW YORK'S PREMIER ANGEL INVESTMENT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizations/new-york-angels/public_profile)\n\n- ! [New York Angels Investments](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933a",
+            "line": 43,
+            "column": 1,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 2624,
+            "excerpt": ")\n- **Gust**: Offers business planning tools, CRM capabilities, and investor communication support. [Gust](https://gust.com/)\n- **Angel Investment Network**: Connects startups with over 300,000 investors worldwide. [Angel In",
+            "line": 46,
+            "column": 99,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07405
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 3
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.19403
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.37401
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 13
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 3,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 3
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 6
+        "3-which-angel-investor-clu-b83248ad": 3
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.12231
+        "3-which-angel-investor-clu-b83248ad": 0.07405
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 4,
-          "anthropic_claude_with_search_latest": 4,
-          "openai_chatgpt_with_search_latest": 4
+          "perplexity_with_search_latest": 2,
+          "anthropic_claude_with_search_latest": 2,
+          "openai_chatgpt_with_search_latest": 2
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 15.33
+        "3-which-angel-investor-clu-b83248ad": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1933,
+              "excerpt": "platform connecting startups with angel investors globally (now part of AngelList Venture).\n\n13. **[Gust](https://gust.com/)** - Platform connecting entrepreneurs with angel groups and investors worldwide.\n\n14. **[Angel Cap",
+              "line": 37,
+              "column": 7,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 4310,
+              "excerpt": "464-b9e5-8565ce3972a3/DSCF5323.jpg?format=2500w)\n\n\n\n## NEW YORK'S PREMIER ANGEL INVESTMENT GROUP\n\n\n\n[Apply FOR FUNDING](https://gust.com/organizations/new-york-angels/public_profile)\n\n- ! [New York Angels Investments](https://images.squarespace-cdn.com/content/v1/6099a5ebe0cbd933a",
+              "line": 43,
+              "column": 1,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 2624,
+              "excerpt": ")\n- **Gust**: Offers business planning tools, CRM capabilities, and investor communication support. [Gust](https://gust.com/)\n- **Angel Investment Network**: Connects startups with over 300,000 investors worldwide. [Angel In",
+              "line": 46,
+              "column": 99,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 15,
-          "anthropic_claude_with_search_latest": 15,
-          "openai_chatgpt_with_search_latest": 16
+          "perplexity_with_search_latest": 11,
+          "anthropic_claude_with_search_latest": 13,
+          "openai_chatgpt_with_search_latest": 9
         }
       }
     },
@@ -68715,26 +79681,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
       "appearanceOrder": 4,
       "appearanceOrderByModel": {
         "anthropic_claude_with_search_latest": 4
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.03524,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.14879,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.03524,
+      "weightedInfluence": 0.14879,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 645,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 645,
+            "excerpt": "oldenseeds.com/)** - Focuses on women-led businesses and has chapters across multiple states.\n\n4. **[Keiretsu Forum](https://www.keiretsuforum.com/)** - Global angel investment network with chapters in multiple countries, investing across diverse",
+            "line": 13,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.10799
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 4
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.10823
+        "3-which-angel-investor-clu-b83248ad": 0.10799
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68746,7 +79847,21 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 4
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 645,
+              "excerpt": "oldenseeds.com/)** - Focuses on women-led businesses and has chapters across multiple states.\n\n4. **[Keiretsu Forum](https://www.keiretsuforum.com/)** - Global angel investment network with chapters in multiple countries, investing across diverse",
+              "line": 13,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
           "anthropic_claude_with_search_latest": 4
@@ -68789,32 +79904,177 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.08458
         }
       ],
-      "bots": "anthropic_claude_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,anthropic_claude_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01613,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "perplexity_with_search_latest": 0.03125,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 8.5,
+      "appearanceOrder": 6.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 6,
-        "anthropic_claude_with_search_latest": 11
+        "perplexity_with_search_latest": 4,
+        "anthropic_claude_with_search_latest": 9
       },
-      "mentionsAsPercent": 0.01418,
-      "influence": 0.02755,
+      "mentionsAsPercent": 0.0274,
+      "influence": 0.13739,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.93573,
-        "anthropic_claude_with_search_latest": 1,
+        "perplexity_with_search_latest": 1,
+        "anthropic_claude_with_search_latest": 0.57155,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02755,
+      "weightedInfluence": 0.13739,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 734,
+        "anthropic_claude_with_search_latest": 1395,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1395,
+            "excerpt": "led investing network focusing on startups with diverse founding teams.\n\n## Regional Networks\n\n9. **[Alliance of Angels](https://www.allianceofangels.com/)** - Pacific Northwest's largest angel group based in Seattle.\n\n10. **[Hyde Park Angels](https://hy",
+            "line": 27,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 734,
+            "excerpt": "**Focus**: Early-stage startups, especially those based in the Northwest and in IT.\n   - **Link**: [Alliance of Angels](https://www.allianceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo",
+            "line": 14,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.09971
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.69923
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 4
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 9
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.08458
+        "3-which-angel-investor-clu-b83248ad": 0.09971
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68824,13 +80084,35 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 8.5
+        "3-which-angel-investor-clu-b83248ad": 6.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1395,
+              "excerpt": "led investing network focusing on startups with diverse founding teams.\n\n## Regional Networks\n\n9. **[Alliance of Angels](https://www.allianceofangels.com/)** - Pacific Northwest's largest angel group based in Seattle.\n\n10. **[Hyde Park Angels](https://hy",
+              "line": 27,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 734,
+              "excerpt": "**Focus**: Early-stage startups, especially those based in the Northwest and in IT.\n   - **Link**: [Alliance of Angels](https://www.allianceofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)[[3]](https://orielipo",
+              "line": 14,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 6,
-          "anthropic_claude_with_search_latest": 11
+          "perplexity_with_search_latest": 4,
+          "anthropic_claude_with_search_latest": 9
         }
       }
     },
@@ -68874,26 +80156,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 8,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 8
+        "anthropic_claude_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.0258,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.12305,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.0258,
+      "weightedInfluence": 0.12305,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 995,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 995,
+            "excerpt": "oups on the East Coast, with a focus on technology and healthcare.\n\n## Sector-Specific Groups\n\n6. **[Life Science Angels](https://www.lifescienceangels.com/)** - Boston-based, focusing on life sciences and healthcare startups.\n\n7. **[XFactor Ventures](http",
+            "line": 19,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0893
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.07928
+        "3-which-angel-investor-clu-b83248ad": 0.0893
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68903,12 +80320,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 8
+        "3-which-angel-investor-clu-b83248ad": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 995,
+              "excerpt": "oups on the East Coast, with a focus on technology and healthcare.\n\n## Sector-Specific Groups\n\n6. **[Life Science Angels](https://www.lifescienceangels.com/)** - Boston-based, focusing on life sciences and healthcare startups.\n\n7. **[XFactor Ventures](http",
+              "line": 19,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 8
+          "anthropic_claude_with_search_latest": 6
         }
       }
     },
@@ -68952,26 +80383,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 9,
+      "appearanceOrder": 7,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 9
+        "anthropic_claude_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.02463,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.11514,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02463,
+      "weightedInfluence": 0.11514,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1128,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1128,
+            "excerpt": ".lifescienceangels.com/)** - Boston-based, focusing on life sciences and healthcare startups.\n\n7. **[XFactor Ventures](https://www.xfactorventures.com/)** - Focuses on startups with at least one female founder.\n\n8. **[Portfolia](https://www.portfolia.",
+            "line": 21,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.08359
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 7
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.07566
+        "3-which-angel-investor-clu-b83248ad": 0.08359
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -68981,12 +80547,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 9
+        "3-which-angel-investor-clu-b83248ad": 7
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1128,
+              "excerpt": ".lifescienceangels.com/)** - Boston-based, focusing on life sciences and healthcare startups.\n\n7. **[XFactor Ventures](https://www.xfactorventures.com/)** - Focuses on startups with at least one female founder.\n\n8. **[Portfolia](https://www.portfolia.",
+              "line": 21,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 9
+          "anthropic_claude_with_search_latest": 7
         }
       }
     },
@@ -69030,26 +80610,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 8,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 10
+        "anthropic_claude_with_search_latest": 8
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.02366,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.10899,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02366,
+      "weightedInfluence": 0.10899,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1245,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1245,
+            "excerpt": "](https://www.xfactorventures.com/)** - Focuses on startups with at least one female founder.\n\n8. **[Portfolia](https://www.portfolia.com/)** - Women-led investing network focusing on startups with diverse founding teams.\n\n## Regional Net",
+            "line": 23,
+            "column": 6,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0791
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 8
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 8
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.07264
+        "3-which-angel-investor-clu-b83248ad": 0.0791
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69059,12 +80774,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 10
+        "3-which-angel-investor-clu-b83248ad": 8
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1245,
+              "excerpt": "](https://www.xfactorventures.com/)** - Focuses on startups with at least one female founder.\n\n8. **[Portfolia](https://www.portfolia.com/)** - Women-led investing network focusing on startups with diverse founding teams.\n\n## Regional Net",
+              "line": 23,
+              "column": 6,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 10
+          "anthropic_claude_with_search_latest": 8
         }
       }
     },
@@ -69107,27 +80836,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01613,
+        "perplexity_with_search_latest": 0.03125,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 10,
+      "appearanceOrder": 6,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 10
+        "perplexity_with_search_latest": 6
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.02366,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.12305,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02366,
+      "weightedInfluence": 0.12305,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 1408,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 1408,
+            "excerpt": "- **Focus**: Early-stage startups, particularly those in tech and life sciences.\n   - **Link**: [Band of Angels](https://www.bandofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n5. **TCA Venture Gro",
+            "line": 26,
+            "column": 16,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.0893
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 6
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 6
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.07264
+        "3-which-angel-investor-clu-b83248ad": 0.0893
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69137,12 +81001,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 10
+        "3-which-angel-investor-clu-b83248ad": 6
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 1408,
+              "excerpt": "- **Focus**: Early-stage startups, particularly those in tech and life sciences.\n   - **Link**: [Band of Angels](https://www.bandofangels.com/)\n   - **Source**: [[2]](https://startupsavant.com/best-angel-investor-groups)\n\n5. **TCA Venture Gro",
+              "line": 26,
+              "column": 16,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 10
+          "perplexity_with_search_latest": 6
         }
       }
     },
@@ -69186,26 +81064,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 12,
+      "appearanceOrder": 10,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 12
+        "anthropic_claude_with_search_latest": 10
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.02211,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.09987,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02211,
+      "weightedInfluence": 0.09987,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1520,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1520,
+            "excerpt": "s://www.allianceofangels.com/)** - Pacific Northwest's largest angel group based in Seattle.\n\n10. **[Hyde Park Angels](https://hydeparkangels.com/)** - Chicago-based group investing in Midwest startups.\n\n11. **[Atlanta Technology Angels](https://",
+            "line": 29,
+            "column": 7,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07248
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 10
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 10
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.06791
+        "3-which-angel-investor-clu-b83248ad": 0.07248
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69215,12 +81228,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 12
+        "3-which-angel-investor-clu-b83248ad": 10
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1520,
+              "excerpt": "s://www.allianceofangels.com/)** - Pacific Northwest's largest angel group based in Seattle.\n\n10. **[Hyde Park Angels](https://hydeparkangels.com/)** - Chicago-based group investing in Midwest startups.\n\n11. **[Atlanta Technology Angels](https://",
+              "line": 29,
+              "column": 7,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 12
+          "anthropic_claude_with_search_latest": 10
         }
       }
     },
@@ -69264,26 +81291,161 @@ window.AppDataAggregate20251014 = {
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
         "perplexity_with_search_latest": 0,
-        "anthropic_claude_with_search_latest": 0.04762,
+        "anthropic_claude_with_search_latest": 0.06667,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 13,
+      "appearanceOrder": 11,
       "appearanceOrderByModel": {
-        "anthropic_claude_with_search_latest": 13
+        "anthropic_claude_with_search_latest": 11
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.02149,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.09635,
       "influenceByModel": {
         "perplexity_with_search_latest": 0,
         "anthropic_claude_with_search_latest": 1,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.02149,
+      "weightedInfluence": 0.09635,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": 1630,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [
+          {
+            "appearanceOrder": 1630,
+            "excerpt": "Angels](https://hydeparkangels.com/)** - Chicago-based group investing in Midwest startups.\n\n11. **[Atlanta Technology Angels](https://www.atlantatechnologyangels.com/)** - Southeast's premier angel network.\n\n## National/International Platforms\n\n12. **[AngelList](htt",
+            "line": 31,
+            "column": 7,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06996
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": 10,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 11
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.06601
+        "3-which-angel-investor-clu-b83248ad": 0.06996
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69293,12 +81455,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 13
+        "3-which-angel-investor-clu-b83248ad": 11
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [
+            {
+              "appearanceOrder": 1630,
+              "excerpt": "Angels](https://hydeparkangels.com/)** - Chicago-based group investing in Midwest startups.\n\n11. **[Atlanta Technology Angels](https://www.atlantatechnologyangels.com/)** - Southeast's premier angel network.\n\n## National/International Platforms\n\n12. **[AngelList](htt",
+              "line": 31,
+              "column": 7,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "anthropic_claude_with_search_latest": 13
+          "anthropic_claude_with_search_latest": 11
         }
       }
     },
@@ -69338,32 +81514,177 @@ window.AppDataAggregate20251014 = {
           "weightedInfluence": 0.06245
         }
       ],
-      "bots": "openai_chatgpt_with_search_latest,perplexity_with_search_latest",
+      "bots": "perplexity_with_search_latest,openai_chatgpt_with_search_latest",
       "botCount": 2,
       "uniqueModelCount": 2,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01613,
+        "perplexity_with_search_latest": 0.03125,
         "anthropic_claude_with_search_latest": 0,
-        "openai_chatgpt_with_search_latest": 0.01724
+        "openai_chatgpt_with_search_latest": 0.03846
       },
-      "appearanceOrder": 19.5,
+      "appearanceOrder": 11.5,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 25,
-        "openai_chatgpt_with_search_latest": 14
+        "perplexity_with_search_latest": 16,
+        "openai_chatgpt_with_search_latest": 7
       },
-      "mentionsAsPercent": 0.01418,
-      "influence": 0.02032,
+      "mentionsAsPercent": 0.0274,
+      "influence": 0.10986,
       "influenceByModel": {
-        "perplexity_with_search_latest": 0.4617,
+        "perplexity_with_search_latest": 0.2179,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 1
       },
-      "weightedInfluence": 0.02032,
+      "weightedInfluence": 0.10986,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4192,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": 2689
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "appearanceOrder": 2689,
+            "excerpt": "rought in over 50 angel investors—everyone from DoorDash and Brex execs to their own customers.\n\n2. [Top Angel Investor Networks to Fund Your Startup in 2025 - Pitchdrive](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n[BAND](https://businessangelstag.de) is Germany’s umbrella organization for angel investors and i",
+            "line": 23,
+            "column": 4,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4192,
+            "excerpt": "find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n11. [angelcapitalassociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel",
+            "line": 72,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.07974
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 11.5
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 2
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0.15379
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": 10
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 16
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 7
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 2,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 2
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 2
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.06245
+        "3-which-angel-investor-clu-b83248ad": 0.07974
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69373,13 +81694,35 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 19.5
+        "3-which-angel-investor-clu-b83248ad": 11.5
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [
+            {
+              "appearanceOrder": 2689,
+              "excerpt": "rought in over 50 angel investors—everyone from DoorDash and Brex execs to their own customers.\n\n2. [Top Angel Investor Networks to Fund Your Startup in 2025 - Pitchdrive](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n[BAND](https://businessangelstag.de) is Germany’s umbrella organization for angel investors and i",
+              "line": 23,
+              "column": 4,
+              "captureDate": "2025-10-14"
+            }
+          ],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4192,
+              "excerpt": "find-angel-investors/)\n\n9. [angelcapitalassociation.org/](https://angelcapitalassociation.org)\n\n10. [www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025](https://www.pitchdrive.com/academy/top-angel-investor-networks-for-startup-investments-in-2025)\n\n11. [angelcapitalassociation.org/angel-funders-report/](https://angelcapitalassociation.org/angel",
+              "line": 72,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 25,
-          "openai_chatgpt_with_search_latest": 14
+          "perplexity_with_search_latest": 16,
+          "openai_chatgpt_with_search_latest": 7
         }
       }
     },
@@ -69422,27 +81765,162 @@ window.AppDataAggregate20251014 = {
       "botCount": 1,
       "uniqueModelCount": 1,
       "mentionsAsPercentByModel": {
-        "perplexity_with_search_latest": 0.01613,
+        "perplexity_with_search_latest": 0.03125,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "appearanceOrder": 26,
+      "appearanceOrder": 17,
       "appearanceOrderByModel": {
-        "perplexity_with_search_latest": 26
+        "perplexity_with_search_latest": 17
       },
-      "mentionsAsPercent": 0.00709,
-      "influence": 0.01721,
+      "mentionsAsPercent": 0.0137,
+      "influence": 0.08284,
       "influenceByModel": {
         "perplexity_with_search_latest": 1,
         "anthropic_claude_with_search_latest": 0,
         "openai_chatgpt_with_search_latest": 0
       },
-      "weightedInfluence": 0.01721,
+      "weightedInfluence": 0.08284,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": 4575,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": [
+          {
+            "appearanceOrder": 4575,
+            "excerpt": "-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfrequency.com/investors/](https://www.startupfrequency.com/investors/?type=Angel+Group)\n\n14. [startupsavant.com/startup-center/best-angel-investor-websites](https://startupsavant.com/sta",
+            "line": 78,
+            "column": 5,
+            "captureDate": "2025-10-14",
+            "question": "Which angel investor clubs you recommend to contact for my startup?",
+            "promptId": "3-which-angel-investor-clu-b83248ad"
+          }
+        ]
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0.06012
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 17
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 1
+        }
+      ],
+      "mentionsTrend": 999,
+      "influenceTrend": 999,
+      "appearanceOrderTrend": 999,
+      "uniqueModelCountTrend": 999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": 999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": 10,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 17
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 1,
+      "changePercent": 100,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 1
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 1
       },
       "influenceByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 0.05286
+        "3-which-angel-investor-clu-b83248ad": 0.06012
       },
       "mentionsByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
@@ -69452,12 +81930,26 @@ window.AppDataAggregate20251014 = {
         }
       },
       "appearanceOrderByPrompt": {
-        "3-which-angel-investor-clu-b83248ad": 26
+        "3-which-angel-investor-clu-b83248ad": 17
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": [
+            {
+              "appearanceOrder": 4575,
+              "excerpt": "-funders-report/)\n\n12. [www.angelinvestmentnetwork.us/](https://www.angelinvestmentnetwork.us)\n\n13. [www.startupfrequency.com/investors/](https://www.startupfrequency.com/investors/?type=Angel+Group)\n\n14. [startupsavant.com/startup-center/best-angel-investor-websites](https://startupsavant.com/sta",
+              "line": 78,
+              "column": 5,
+              "captureDate": "2025-10-14"
+            }
+          ]
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {
-          "perplexity_with_search_latest": 26
+          "perplexity_with_search_latest": 17
         }
       }
     },
@@ -69504,6 +81996,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69520,7 +82137,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -69568,6 +82191,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69584,7 +82332,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -69632,6 +82386,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69648,7 +82527,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -69696,6 +82581,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69712,7 +82722,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -69760,6 +82776,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69776,7 +82917,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -69824,6 +82971,131 @@ window.AppDataAggregate20251014 = {
       "influence": 0,
       "influenceByModel": {},
       "weightedInfluence": 0,
+      "firstAppearanceOrderCharByModel": {
+        "perplexity_with_search_latest": -1,
+        "anthropic_claude_with_search_latest": -1,
+        "openai_chatgpt_with_search_latest": -1
+      },
+      "excerptsByModel": {
+        "anthropic_claude_with_search_latest": [],
+        "openai_chatgpt_with_search_latest": [],
+        "perplexity_with_search_latest": []
+      },
+      "mentionsTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "influenceTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "appearanceOrderTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": -1
+        }
+      ],
+      "uniqueModelCountTrendVals": [
+        {
+          "date": "2025-10-14",
+          "value": 0
+        }
+      ],
+      "mentionsTrend": -9999,
+      "influenceTrend": -9999,
+      "appearanceOrderTrend": -9999,
+      "uniqueModelCountTrend": -9999,
+      "mentionsByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "mentionsByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "influenceByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "influenceByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": 0
+          }
+        ]
+      },
+      "appearanceOrderByModelTrend": {
+        "perplexity_with_search_latest": -9999,
+        "anthropic_claude_with_search_latest": -9999,
+        "openai_chatgpt_with_search_latest": -9999
+      },
+      "appearanceOrderByModelTrendVals": {
+        "perplexity_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "anthropic_claude_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ],
+        "openai_chatgpt_with_search_latest": [
+          {
+            "date": "2025-10-14",
+            "value": -1
+          }
+        ]
+      },
+      "previous_mentions": 0,
+      "mentions_change": 0,
+      "changePercent": 0,
+      "mentionsHistory": [
+        {
+          "date": "2025-10-14",
+          "mentions": 0
+        }
+      ],
+      "lastSeen": "2025-10-14",
+      "firstSeen": "2025-10-14",
+      "volatility": 0,
       "mentionsByPrompt": {
         "3-which-angel-investor-clu-b83248ad": 0
       },
@@ -69840,7 +83112,13 @@ window.AppDataAggregate20251014 = {
       "appearanceOrderByPrompt": {
         "3-which-angel-investor-clu-b83248ad": -1
       },
-      "excerptsByModelByPrompt": {},
+      "excerptsByModelByPrompt": {
+        "3-which-angel-investor-clu-b83248ad": {
+          "anthropic_claude_with_search_latest": [],
+          "openai_chatgpt_with_search_latest": [],
+          "perplexity_with_search_latest": []
+        }
+      },
       "appearanceOrderByModelByPrompt": {
         "3-which-angel-investor-clu-b83248ad": {}
       }
@@ -70032,8 +83310,12 @@ window.AppDataAggregate20251014 = {
     ],
     "linkDomains": [
       {
+        "id": "999",
+        "count": 65
+      },
+      {
         "id": "-9999",
-        "count": 76
+        "count": 11
       }
     ]
   },
