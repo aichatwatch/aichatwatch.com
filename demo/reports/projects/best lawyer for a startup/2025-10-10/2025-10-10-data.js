@@ -1,4 +1,4 @@
-// AUTO-GENERATED AGGREGATE: 2025-10-17T14:59:59.309Z
+// AUTO-GENERATED AGGREGATE: 2025-10-17T22:01:53.273Z
 // Aggregated from prompts: 1-who-is-the-best-laywer-f-4c811e4f, 2-what-are-the-top-alterna-203042fc, 3-how-best-lawyers-for-a-s-f83309f8, 4-what-makes-best-lawyer-f-9866902d, 5-what-should-someone-choo-5ae7c9df
 window.AppDataAggregate20251010 = {
   "report_question": "best lawyer for a startup",
